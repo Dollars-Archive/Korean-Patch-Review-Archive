@@ -777,6 +777,63 @@
       },
       "reviewedAt": "2026-10-25",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "phantasy-star-portable-psp",
+      "title": "판타시 스타 포터블",
+      "original": "ファンタシースターポータブル",
+      "platforms": [
+        "psp"
+      ],
+      "genres": [
+        "ACT",
+        "RPG"
+      ],
+      "score": 7.1,
+      "summary": "『판타시 스타 유니버스』의 세계를 PSP로 옮긴 2008년 일본판 액션 RPG. 4종족 캐릭터 생성과 자유로운 직업 변경, 폭넓은 무기·희귀 장비 파밍, 비비안을 중심으로 한 독립적인 스토리, 최대 4인 애드혹 협력 플레이가 강점이다. 그러나 비슷한 전투 임무의 반복, 단조로운 이야기 연출과 제한적인 탐험, 원거리 조준·동료 AI의 불편함 및 PSP 특유의 팝인 현상으로 7.1점. 장비 수집과 반복 육성을 좋아하는 사람에게 추천하며 깊은 스토리나 다양하고 정교한 액션을 기대한다면 아쉬울 수 있다. 공식 소개와 PSP판 당시 리뷰 자료에 기반한 편집 평가이며 직접 플레이한 점수는 아니다.",
+      "pros": [
+        "휴먼·뉴먼·캐스트·비스트 4종족의 아바타를 만들고 임무 사이 직업을 자유롭게 전환할 수 있어 근접전·사격·법술 중심의 육성을 다양하게 시도할 수 있다.",
+        "다양한 근접·원거리 무기와 포톤 아츠, 희귀 장비 획득·성장 루프가 짧은 미션을 반복하는 동기를 제공한다.",
+        "휴대용에 맞춘 독립 스토리 모드와 비비안 관련 이야기가 있고, 최대 4명이 애드혹 모드에서 협력해 장비를 모으고 임무를 공략할 수 있다."
+      ],
+      "cons": [
+        "적을 처치하고 보상을 받는 직선형 던전 임무가 계속 반복돼 맵 탐색의 폭과 전투 목적의 변화가 부족하다.",
+        "원거리 무기·법술 공격의 자동 표적 지정 부재와 동료 AI의 길 찾기·전투 반응 문제로 일부 상황에서 조작이 번거롭다.",
+        "주요 이야기는 서비스 가능한 수준이지만 인물·장면 연출이 단조롭고 기존 세계관에 익숙하지 않으면 설명이 밋밋하게 느껴진다.",
+        "PSP판은 자체 인터넷 기반 협력 플레이가 없고 애드혹에 한정되며, 일부 구간에서 화면 팝인과 프레임 저하가 보고된다."
+      ],
+      "sources": [
+        {
+          "label": "세가 공식 - 판타시 스타 포터블 PSP 게임 정보",
+          "url": "https://phantasystar.sega.jp/psp/"
+        },
+        {
+          "label": "RPGFan - Phantasy Star Portable PSP 리뷰 (2009-03-26)",
+          "url": "https://www.rpgfan.com/review/phantasy-star-portable/"
+        },
+        {
+          "label": "RPG Site - Phantasy Star Portable PSP 리뷰 (2009-04-20)",
+          "url": "https://www.rpgsite.net/review/2840-phantasy-star-portable-review"
+        },
+        {
+          "label": "PlayStation Universe - Phantasy Star Portable PSP 리뷰 (2009-04-24)",
+          "url": "https://www.psu.com/reviews/phantasy-star-portable-review/"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/6621",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 2008년 일본판 PSP 원작의 제품 정보는 별도 세가 공식 자료에서 확인했으나, 사용자 제공 링크가 지원하는 판본·리비전, 번역 범위, 미번역 부분, 적용 방법 및 호환성은 확인하지 않았다. 한글패치 설치·실기·에뮬레이터 검증 미실시."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/bf5af44c-5ccb-4f4a-a2c2-eecea11a72a6.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/13333-phantasy-star-portable",
+        "platform": "psp",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
