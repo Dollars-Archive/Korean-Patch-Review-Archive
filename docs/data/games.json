@@ -834,6 +834,69 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "breath-of-fire-iii-ps1",
+      "title": "브레스 오브 파이어 3",
+      "original": "ブレス オブ ファイアIII",
+      "platforms": [
+        "ps1"
+      ],
+      "genres": [
+        "RPG"
+      ],
+      "score": 8.2,
+      "summary": "1997년 캡콤이 일본 PlayStation(SLPS-00990)에 출시한 정통 턴제 JRPG. 드래곤 유전자 18종을 조합하는 변신, 스승에 따른 능력치 육성, 적 기술 관찰·습득, 낚시·요정 마을과 개성 있는 음악이 독창적인 모험을 만든다. 하지만 잦은 랜덤 전투, 느린 명령·화면 전환, 반복적인 중반 진행과 일부 불친절한 길 찾기를 감안해 8.2/10. 시스템 조합과 캐릭터 성장, 장편 판타지 서사를 즐기는 턴제 RPG 팬에게 추천. 일본 PS1 원본 작품을 대상으로 한 공개 자료 기반 편집 평가이며 직접 플레이하거나 패치를 설치하지 않았다.",
+      "pros": [
+        "전투에서 찾은 18종의 용 유전자 중 최대 세 종류를 조합해 변신 형태·속성·소모 AP를 조정하는 핵심 시스템이 실험과 전략을 유도한다.",
+        "스승(Master)별 레벨업 능력치 증감과 고유 기술 획득, 적 행동을 관찰해 기술을 배우는 시스템으로 캐릭터별 육성 방향에 선택지가 많다.",
+        "류와 다양한 종족의 동료들이 성장하며 드래곤 일족의 역사와 세계의 문제를 추적하는 서사는 소년기에서의 변화와 탐험 동기를 만든다.",
+        "직접 낚시해 아이템을 얻거나 요정 마을의 시설·직업을 관리하는 부가 시스템이 본편 이외의 장기 플레이 동기를 제공한다.",
+        "입체적인 배경에 2D 캐릭터 스프라이트를 결합한 시각 연출과 개성 강한 전투 애니메이션, 재즈·퓨전 풍의 배경 음악이 독특한 분위기를 완성한다."
+      ],
+      "cons": [
+        "던전에서 랜덤 전투 발생 빈도가 높아 길을 찾거나 탐색할 때 몰입이 끊기고 반복 전투가 길어진다.",
+        "원판 PS1의 전투 명령 처리·메뉴 전환·텍스트 표시·로딩이 느리고, 장시간 플레이에서 불필요한 대기 시간이 누적된다.",
+        "일부 구간은 다음 목적지를 충분히 안내하지 않으며, 시점 회전 제약과 길 찾기·미니게임 진행이 불편하다.",
+        "메인 서사가 중반부에 반복적인 심부름과 소규모 이벤트로 느슨해져 전체 이야기의 추진력이 일정하지 않다.",
+        "스승 변경 시 일부 기술 습득 조건이 초기화되는 방식과 자금·육성의 제한 때문에 전략적으로 키워도 재육성 부담이 생길 수 있다."
+      ],
+      "sources": [
+        {
+          "label": "GameFAQs - PS1 일본 발매·제작/유통·제품 코드 SLPS-00990",
+          "url": "https://gamefaqs.gamespot.com/ps/196817-breath-of-fire-iii/data"
+        },
+        {
+          "label": "Gavas - 일본 PlayStation 《ブレス・オブ・ファイア3》 발매·게임 시스템",
+          "url": "https://www.gavas.jp/products/detail.php?product_id=7670"
+        },
+        {
+          "label": "GameSpot - 1998년 PlayStation판 리뷰(Joe Fielder, 6.9/10)",
+          "url": "https://www.gamespot.com/reviews/breath-of-fire-iii-review/1900-2546868/"
+        },
+        {
+          "label": "RPGFan - PlayStation판 리뷰(Ken Chu, 2000년, 80/100)",
+          "url": "https://www.rpgfan.com/review/breath-of-fire-iii-4/"
+        },
+        {
+          "label": "RPGFan - PlayStation판 리뷰(Cameron Hamm, 1999년, 73/100)",
+          "url": "https://www.rpgfan.com/review/breath-of-fire-iii/"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/6769",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 이 평가 대상은 일본판 PS1 《ブレス オブ ファイアIII》(SLPS-00990)이며, 제공 주소가 해당 리비전과 일치하는지·번역 범위·미번역 요소·적용 방법·실기/에뮬레이터 동작 여부를 검사하지 않았다. PS1판과 PSP 이식판의 패치 호환성도 확인하지 않았다."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com/1b52d1cd-4c15-4d7f-bb35-be1f644f95ce.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/484-breath-of-fire-iii",
+        "platform": "ps1",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT"
     }
   ]
 }
