@@ -24,6 +24,7 @@
   "platforms": ["psp"],
   "genres": ["ADV"],
   "score": null,
+  "cover": {"url": "", "source": "", "platform": "psp", "type": "Box - Front", "region": "Japan"},
   "summary": "게임 소개와 점수 이유, 추천 취향. 자료 기반 평가임을 명시.",
   "pros": ["구체적인 장점"],
   "cons": ["구체적인 단점"],
@@ -39,3 +40,12 @@
 - `platforms`: `ps1`, `ps2`, `psp`, `psvita`, `ps3`, `ps4`, `ps5`, `dreamcast`, `ds`, `3ds`, `switch`, `pc`, `saturn`, `snes`, `gba`, `other` 중 선택합니다.
 - `genres`: `ADV`, `RPG`, `ACT`, `SLG`, `SIM`, `PUZ` 등 장르 이름을 배열로 적습니다.
 - `reviewedAt`: 실제 조사 날짜, 모르면 빈 문자열. 예시 날짜·URL은 그대로 제출하지 않습니다.
+
+## 박스 이미지 등록
+
+- 새 게임을 등록할 때 평가 대상과 **같은 기종·판본의 실제 패키지 앞표지**를 찾아 `cover`에 함께 등록한다. 제목이 비슷한 다른 작품·후속작·다른 기종 표지, 뒷표지, 스크린샷, 홍보 배너, AI 생성 이미지는 사용하지 않는다.
+- LaunchBox의 해당 기종 일본 앞표지를 우선 확인하고 없으면 공식 제작사·판매점 자료에서 확인한다. 다운로드 전용으로 실물 패키지가 없는 작품은 해당 기종 공식 스토어 타이틀 아트를 사용하고 `type`을 `Official store artwork`로 표시한다.
+- `cover`는 `{ "url": "직접 이미지 URL 또는 covers/파일명.webp", "source": "이미지가 확인된 출처 페이지 URL", "platform": "ps2", "type": "Box - Front", "region": "Japan" }` 형식이다. `platform`은 실제 평가 기종과 일치해야 한다. 이미지 검색 결과 페이지나 HTML 문서를 `url`에 넣지 않는다.
+- 자산 파일 저장 도구가 있으면 가로 최대 320px의 WebP를 `docs/covers/<게임id>-<내용해시>.webp`로 저장하고 `cover.url`에는 `covers/<파일명>.webp`를 쓴다. 자산 저장이 불가능해도 실제 확인한 공개 직접 이미지 URL과 출처를 기록할 수 있다. 비율을 유지하고 표지 일부를 잘라내지 않는다.
+- 화면 왼쪽은 **박스 이미지 → 그 아래 평점 박스** 순서다. 평가·점수·장단점·찜·삭제 기록은 표지 변경 때문에 바꾸지 않는다.
+- 표지를 끝내 확보하지 못하면 가짜 이미지를 넣지 말고 `cover.url`을 비워 “표지 확보 대기”로 보고한다. 기존에 확인한 올바른 표지가 있으면 보존한다.

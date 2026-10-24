@@ -10,7 +10,7 @@ test('screen wiring: scores, filters, persisted star, delete and restore', async
  assert.equal(new Set(ids).size,ids.length);
  const nodes=Object.fromEntries(ids.map(id=>[id,{innerHTML:'',textContent:'',value:id==='sort'?'score-desc':id==='genre'?'all':'',hidden:false,disabled:false,open:false,listeners:{},classList:{toggle(){}},setAttribute(k,v){this[k]=v;},scrollIntoView(){},addEventListener(k,f){this.listeners[k]=f;}}]));
  for(const [,id] of app.matchAll(/\$\('([^']+)'\)/g))assert.ok(nodes[id],`missing HTML id ${id}`);
- const games=[{id:'low',title:'낮은 게임',platforms:['psp'],genres:['ADV'],score:0},{id:'high',title:'높은 게임',platforms:['psp'],genres:['ADV'],score:9},{id:'unrated',title:'미평가 게임',platforms:['pc'],genres:['RPG'],score:null}];
+ const games=[{id:'low',title:'낮은 게임',platforms:['psp'],genres:['ADV'],score:0},{id:'high',title:'높은 게임',platforms:['psp'],genres:['ADV'],score:9,cover:{url:'covers/high-abc123.webp',source:'https://example.com/psp-box',platform:'psp',type:'Box - Front',region:'Japan'}},{id:'unrated',title:'미평가 게임',platforms:['pc'],genres:['RPG'],score:null}];
  let remote={version:1,favorites:{},deleted:{}},sha='1';
  const values=new Map([['discovery-watchlist-token-v1','fixture-token']]);
  const storage={getItem:k=>values.get(k)||null,setItem:(k,v)=>values.set(k,v),removeItem:k=>values.delete(k)};
@@ -27,6 +27,15 @@ test('screen wiring: scores, filters, persisted star, delete and restore', async
  vm.runInNewContext(app,context);
  for(let i=0;i<8;i++)await new Promise(setImmediate);
  const content=()=>nodes.results.innerHTML;
+ assert.ok(content().includes('class="game-visual"'));
+ assert.ok(content().indexOf('class="cover"')<content().indexOf('class="rating'));
+ assert.ok(content().includes('src="covers/high-abc123.webp"'));
+ assert.ok(content().includes('표지 준비 중'));
+ const placeholder={hidden:true};
+ const brokenImage={hidden:false,classList:{contains:name=>name==='cover-image'},parentElement:{querySelector:()=>placeholder}};
+ nodes.results.listeners.error({target:brokenImage});
+ assert.equal(brokenImage.hidden,true);
+ assert.equal(placeholder.hidden,false);
  assert.ok(content().indexOf('높은 게임')<content().indexOf('낮은 게임'));
  assert.ok(!content().includes('미평가 게임'));
  nodes.reset.listeners.click();

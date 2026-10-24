@@ -150,3 +150,7 @@ node --test tests/*.cjs
 
 저장소 Settings → Pages 에서 배포 소스를 **GitHub Actions** 로 설정해야 합니다.
 `watchlist-data` 브랜치의 상태 커밋은 배포를 유발하지 않습니다.
+
+## 게임 표지
+
+카드 왼쪽은 같은 기종의 실제 박스 이미지와 그 아래 평점 순서입니다. 새 항목에는 `cover`(url·source·platform·type·region)를 함께 등록합니다. 자세한 기준은 [표지 등록 안내](REGISTER-REVIEW.md#박스-이미지-등록)를 따릅니다.

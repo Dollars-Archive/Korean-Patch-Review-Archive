@@ -44,7 +44,14 @@
         "notes": "2026-10-25 확인: TAMTAMQ가 일본판 PS2용 XDelta 한국어 패치 v0.3.7(2026-10-19)을 실제 GitHub Releases에서 배포. 메인 시나리오·전투 대사·메뉴/UI 이미지·영상 자막을 포함하되 개발용 문자열 등 일본어 잔존 가능. 소유한 정품 일본판에서 추출한 릴리스 안내의 원본 해시 일치 파일에 적용해야 하며 다른 리비전·기존 수정본은 호환 미확인. 기존 세이브 제목 문자 코드가 깨질 수 있어 백업 권장. 프리징 전체 경로 해결은 제작자도 보증하지 않음. 이 평가에서는 설치·실기·에뮬레이터 검증하지 않음."
       },
       "reviewedAt": "2026-10-25",
-      "reviewer": "WebGPT"
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "covers/galaxy-angel-ps2-33ca3c106c54.webp",
+        "source": "https://gamesdb.launchbox-app.com/games/details/129565-galaxy-angel",
+        "platform": "ps2",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     },
     {
       "id": "galaxy-angel-moonlit-lovers-ps2",
@@ -89,7 +96,14 @@
         "notes": "2026-10-25 확인: TAMTAMQ 일본판 PS2용 XDelta 한국어 패치 v0.4.8(2026-10-19) 배포 중. 시나리오 대사·선택지·메뉴/UI·전투 표시·영상 한국어 자막을 포함하나 일부 미번역 요소가 남을 수 있음. 배포 페이지의 일본판 정본 ISO 해시를 맞춘 뒤 패치 적용해야 하며 게임 원본은 포함되지 않음. 기존 세이브/세이브스테이트의 제목 문자 코드는 자동 변환되지 않을 수 있어 메모리카드 백업 권장. 프리징 전 경로와 BGM 백색 소음 문제의 완전 해결은 미확인. 설치·실기·에뮬레이터 직접 확인하지 않음."
       },
       "reviewedAt": "2026-10-25",
-      "reviewer": "WebGPT"
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "covers/galaxy-angel-moonlit-lovers-ps2-8b04f61674c7.webp",
+        "source": "https://gamesdb.launchbox-app.com/games/details/129594-galaxy-angel-moonlit-lovers",
+        "platform": "ps2",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     },
     {
       "id": "galaxy-angel-eternal-lovers-ps2",
@@ -138,7 +152,14 @@
         "notes": "2026-10-25 확인: TAMTAMQ 일본판 PS2용 XDelta 한국어 패치 v0.4.11(2026-10-19) 실제 배포. 메인 시나리오·전투 관련 텍스트·UI 이미지·영상 자막을 번역·교정했지만 일부 일본어가 남을 수 있음. 원본 일본판 정본 이미지 해시를 릴리스의 README/SHA256SUMS와 대조해 적용해야 함. 이전 버전 세이브의 한글 제목이 깨질 수 있고 자동 변환 기능은 없음. BGM 백색 소음·작전정보 음 깨짐 및 일부 프리징 경로는 완전 해결을 확인하지 못한 상태. 이 평가에서 패치 설치·전체 엔딩·실기 검수는 수행하지 않음."
       },
       "reviewedAt": "2026-10-25",
-      "reviewer": "WebGPT"
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "covers/galaxy-angel-eternal-lovers-ps2-f277630d3c96.webp",
+        "source": "https://gamesdb.launchbox-app.com/games/details/129569-galaxy-angel-eternal-lovers",
+        "platform": "ps2",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     },
     {
       "id": "galaxy-angel-ii-zettai-ryouiki-no-tobira-ps2",
@@ -183,7 +204,14 @@
         "notes": "2026-10-25 기준 PS2 일본판 《ギャラクシーエンジェルII 絶対領域の扉》에 적용할 공개 한국어 패치 배포 페이지를 확인하지 못함. 1세대 3작품용 TAMTAMQ 패치는 별도 게임용이므로 본작에 호환된다고 보지 않음. 배포판·번역 범위·실기 적용 여부 미확인."
       },
       "reviewedAt": "2026-10-25",
-      "reviewer": "WebGPT"
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "covers/galaxy-angel-ii-zettai-ryouiki-no-tobira-ps2-da871086aa76.webp",
+        "source": "https://gamesdb.launchbox-app.com/games/details/129590-galaxy-angel-ii-zettai-ryouiki-no-tobira",
+        "platform": "ps2",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     },
     {
       "id": "galaxy-angel-ii-mugen-kairou-no-kagi-ps2",
@@ -228,7 +256,14 @@
         "notes": "2026-10-25 기준 PS2 일본판 《ギャラクシーエンジェルII 無限回廊の鍵》 대상 공개 한국어 패치 배포 페이지 미확인. 1세대 한국어 패치와 다른 게임이며 번역 범위·디스크 2장 대응·적용 가능 여부 미확인. 실제 패치 적용이나 실기 테스트 수행하지 않음."
       },
       "reviewedAt": "2026-10-25",
-      "reviewer": "WebGPT"
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "covers/galaxy-angel-ii-mugen-kairou-no-kagi-ps2-ce6d6801f7d4.webp",
+        "source": "https://gamesdb.launchbox-app.com/games/details/129568-galaxy-angel-ii-mugen-kairou-no-kagi",
+        "platform": "ps2",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     },
     {
       "id": "galaxy-angel-ii-eigou-kaiki-no-toki-ps2",
@@ -273,7 +308,14 @@
         "notes": "2026-10-25 기준 PS2 일본판 《ギャラクシーエンジェルII 永劫回帰の刻》 대상 공개 한국어 패치 배포 페이지를 확인하지 못함. 원본 DVD 2장 구성에 대한 번역/패치 적용 범위 및 실기 확인 모두 미확인. 1세대 게임들의 패치는 본작에 적용할 수 있다고 단정하지 않음."
       },
       "reviewedAt": "2026-10-25",
-      "reviewer": "WebGPT"
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "covers/galaxy-angel-ii-eigou-kaiki-no-toki-ps2-78198c141f5e.webp",
+        "source": "https://gamesdb.launchbox-app.com/games/details/129566-galaxy-angel-ii-eigou-kaiki-no-koku",
+        "platform": "ps2",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }

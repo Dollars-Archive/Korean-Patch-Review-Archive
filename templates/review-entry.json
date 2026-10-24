@@ -34,5 +34,12 @@
     "notes": "패치 버전과 확인 날짜를 기록합니다. 다운로드 가능 여부를 검증하지 못했다면 unconfirmed로 두고 url은 비웁니다."
   },
   "reviewedAt": "",
-  "reviewer": ""
+  "reviewer": "",
+  "cover": {
+    "url": "",
+    "source": "",
+    "platform": "psp",
+    "type": "Box - Front",
+    "region": "Japan"
+  }
 }

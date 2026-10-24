@@ -23,7 +23,7 @@
   var TIMESTAMP_RE = /^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(?:\.\d+)?(?:Z|[+-]\d{2}:\d{2})?$/;
   var GAME_KEYS = [
     'id', 'title', 'original', 'platforms', 'genres', 'score', 'summary',
-    'pros', 'cons', 'sources', 'patch', 'reviewedAt', 'reviewer'
+    'pros', 'cons', 'sources', 'cover', 'patch', 'reviewedAt', 'reviewer'
   ];
 
   // The single source of truth for platform ids. Metadata may extend this list
@@ -190,6 +190,20 @@
       });
     }
 
+    var cover = { url: '', source: '', platform: '', type: '', region: '' };
+    if (raw.cover !== undefined && raw.cover !== null) {
+      if (!isPlainObject(raw.cover)) fail(path + '.cover must be an object.');
+      Object.keys(cover).forEach(function (key) {
+        cover[key] = optionalString(raw.cover[key], path + '.cover.' + key, '');
+      });
+      if (cover.url !== '') {
+        var localCover = /^covers\/[a-z0-9][a-z0-9-]*\.webp$/.test(cover.url);
+        if (!localCover && safeUrl(cover.url) === '') fail(path + '.cover.url must be a local cover or safe http(s) image URL.');
+        if (safeUrl(cover.source) === '') fail(path + '.cover.source must identify the verified source page.');
+        if (platforms.indexOf(cover.platform) === -1) fail(path + '.cover.platform must match a reviewed platform.');
+      }
+    }
+
     var patch = { status: 'unconfirmed', url: '', notes: '' };
     if (raw.patch !== undefined && raw.patch !== null) {
       if (!isPlainObject(raw.patch)) fail(path + '.patch must be an object.');
@@ -229,6 +243,7 @@
       pros: pros,
       cons: cons,
       sources: sources,
+      cover: cover,
       patch: patch,
       reviewedAt: reviewedAt,
       reviewer: reviewer
