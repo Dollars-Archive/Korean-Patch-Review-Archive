@@ -1,4 +1,279 @@
 {
   "version": 1,
-  "games": []
+  "games": [
+    {
+      "id": "galaxy-angel-ps2",
+      "title": "갤럭시 엔젤",
+      "original": "ギャラクシーエンジェル",
+      "platforms": [
+        "ps2"
+      ],
+      "genres": [
+        "ADV",
+        "SLG"
+      ],
+      "score": 8,
+      "summary": "은하 제국의 위기 속에서 택트와 엔젤대가 협력하는 SF 연애 ADV·실시간 함대 지휘 게임. 생생한 인물 대화와 호감도가 전투에 이어지는 설계가 돋보이지만 전형적인 전개와 낮은 전투 난도가 한계여서 8.0점. 캐릭터 교류와 지휘형 전략을 함께 즐기는 플레이어에게 추천하는 1세대 입문작. 공개 자료 기반 편집 평가이며 직접 플레이한 점수는 아님.",
+      "pros": [
+        "엔젤대 5인의 성격과 관계가 선명하고 풀보이스·이벤트 연출이 캐릭터 감상을 뒷받침한다.",
+        "선택지와 함내 교류가 신뢰도·기체 성능으로 연결돼 ADV와 3D 실시간 함대 지휘를 유기적으로 묶는다.",
+        "첫 작품이라 세계관과 인물 관계를 처음부터 따라갈 수 있고, 여러 히로인별 전개를 살펴볼 수 있다."
+      ],
+      "cons": [
+        "쿠데타와 은하 전쟁의 큰 줄기는 왕도적이고 일부 장면의 드라마는 예측 가능한 편이다.",
+        "전투 목표와 지휘 패턴의 변화가 충분하지 않고 숙련 후에는 쉬워져 긴장감이 떨어진다.",
+        "초기작 특유의 느린 화면 전환과 제한된 전투 연출·편의성이 후속작보다 낡게 느껴진다."
+      ],
+      "sources": [
+        {
+          "label": "브로콜리 공식 - GALAXY ANGEL PS2 발매",
+          "url": "https://www.broccoli.co.jp/ga/game/ga/index.html"
+        },
+        {
+          "label": "Joko - PS2판 이용자 리뷰",
+          "url": "https://www.joko.jp/ps2/review/ti553.html"
+        },
+        {
+          "label": "제작자 GitHub - PS2 한국어 패치 v0.3.7",
+          "url": "https://github.com/TAMTAMQ/galaxy-angel-korean-translation-patch/releases/tag/v0.3.7"
+        }
+      ],
+      "patch": {
+        "status": "available",
+        "url": "https://github.com/TAMTAMQ/galaxy-angel-korean-translation-patch/releases/tag/v0.3.7",
+        "notes": "2026-10-25 확인: TAMTAMQ가 일본판 PS2용 XDelta 한국어 패치 v0.3.7(2026-10-19)을 실제 GitHub Releases에서 배포. 메인 시나리오·전투 대사·메뉴/UI 이미지·영상 자막을 포함하되 개발용 문자열 등 일본어 잔존 가능. 소유한 정품 일본판에서 추출한 릴리스 안내의 원본 해시 일치 파일에 적용해야 하며 다른 리비전·기존 수정본은 호환 미확인. 기존 세이브 제목 문자 코드가 깨질 수 있어 백업 권장. 프리징 전체 경로 해결은 제작자도 보증하지 않음. 이 평가에서는 설치·실기·에뮬레이터 검증하지 않음."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT"
+    },
+    {
+      "id": "galaxy-angel-moonlit-lovers-ps2",
+      "title": "갤럭시 엔젤: 문릿 러버즈",
+      "original": "ギャラクシーエンジェル Moonlit Lovers",
+      "platforms": [
+        "ps2"
+      ],
+      "genres": [
+        "ADV",
+        "SLG"
+      ],
+      "score": 7.8,
+      "summary": "전작에서 맺은 인물 관계를 발전시키고 PS2판의 치토세 신규 시나리오를 더한 1세대 중간편. 비주얼·전투 연출과 캐릭터 이벤트는 좋아졌으나 전체 스토리 분량과 독립적인 완결감이 약해 7.8점. 1편에서 좋아하는 히로인을 정한 시리즈 팬에게 추천. 공개 자료 기반 편집 평가이며 직접 플레이한 점수는 아님.",
+      "pros": [
+        "전작의 히로인 관계를 유지한 채 이후 갈등과 애정 표현을 심화해 연속 플레이의 보상이 있다.",
+        "PS2판에서 카라스마 치토세 관련 신규 시나리오를 제공해 PC 원판과 구별되는 이야기 가치가 있다.",
+        "전작보다 3D 전투 장면·영상 표현이 개선돼 캐릭터 대화와 함대 전투의 인상이 선명하다."
+      ],
+      "cons": [
+        "3부작의 중간 이야기라 본편의 길이와 자체 기승전결이 상대적으로 부족하다.",
+        "후반 전투는 반복 패턴과 쉬운 난도로 인하여 지휘의 도전성이 약해질 수 있다.",
+        "이전 작품의 관계·사건을 전제로 하는 대화가 많아 독립 입문작으로는 접근성이 낮다."
+      ],
+      "sources": [
+        {
+          "label": "브로콜리 공식 - Moonlit Lovers 제품 정보",
+          "url": "https://www.broccoli.co.jp/ga/game/moonlit/product/main.html"
+        },
+        {
+          "label": "Joko - PS2 Moonlit Lovers 이용자 리뷰",
+          "url": "https://www.joko.jp/ps2/review/ti934.html"
+        },
+        {
+          "label": "제작자 GitHub - PS2 한국어 패치 v0.4.8",
+          "url": "https://github.com/TAMTAMQ/galaxy-angel-moonlit-lovers-korean-translation-patch/releases/tag/v0.4.8"
+        }
+      ],
+      "patch": {
+        "status": "available",
+        "url": "https://github.com/TAMTAMQ/galaxy-angel-moonlit-lovers-korean-translation-patch/releases/tag/v0.4.8",
+        "notes": "2026-10-25 확인: TAMTAMQ 일본판 PS2용 XDelta 한국어 패치 v0.4.8(2026-10-19) 배포 중. 시나리오 대사·선택지·메뉴/UI·전투 표시·영상 한국어 자막을 포함하나 일부 미번역 요소가 남을 수 있음. 배포 페이지의 일본판 정본 ISO 해시를 맞춘 뒤 패치 적용해야 하며 게임 원본은 포함되지 않음. 기존 세이브/세이브스테이트의 제목 문자 코드는 자동 변환되지 않을 수 있어 메모리카드 백업 권장. 프리징 전 경로와 BGM 백색 소음 문제의 완전 해결은 미확인. 설치·실기·에뮬레이터 직접 확인하지 않음."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT"
+    },
+    {
+      "id": "galaxy-angel-eternal-lovers-ps2",
+      "title": "갤럭시 엔젤: 이터널 러버즈",
+      "original": "ギャラクシーエンジェル Eternal Lovers",
+      "platforms": [
+        "ps2"
+      ],
+      "genres": [
+        "ADV",
+        "SLG"
+      ],
+      "score": 8.3,
+      "summary": "1세대 삼부작의 인물 관계와 SF 갈등을 종합하는 완결편. 히로인별 감정적 보상, 전투 연출·PS2 추가 CG와 음악이 강하지만 선행작 의존, 일부 닮은꼴 분기와 화면 전환 지연이 있어 8.3점. 1·2편을 마친 스토리 중심 플레이어에게 가장 추천. 공개 자료 기반 편집 평가이며 직접 플레이한 점수는 아님.",
+      "pros": [
+        "전작들에서 쌓인 인물 관계를 마무리하고 규모가 커진 갈등을 회수해 1세대 중 완결감이 가장 높다.",
+        "PS2판은 PC판 대비 추가 이벤트 CG와 엔딩곡을 갖추고 애니메이션·전투 효과도 보강했다.",
+        "히로인별 장면과 주제가·성우 연기가 후반부 감정적 몰입을 강하게 뒷받침한다."
+      ],
+      "cons": [
+        "1편과 Moonlit Lovers를 모르면 세계관·인물 감정의 중요한 맥락이 부족해진다.",
+        "주요 히로인 전개의 일부 구조가 비슷해 전 루트 회수 시 반복감이 생긴다.",
+        "대사·CG 전환 시 기다림이 생기고 후반에는 신뢰도에 따라 실시간 전투 긴장감이 크게 줄 수 있다."
+      ],
+      "sources": [
+        {
+          "label": "브로콜리 공식 - PS2 추가 이벤트 CG",
+          "url": "https://www.broccoli.co.jp/ga/game/eternal/special/adv.html"
+        },
+        {
+          "label": "Joko - PS2 Eternal Lovers 이용자 리뷰",
+          "url": "https://www.joko.jp/ps2/review/ti1392.html"
+        },
+        {
+          "label": "4Gamer - 3부작과 PS2 추가 요소 평가",
+          "url": "https://www.4gamer.net/weekly/charagame/001/charagame_001.shtml"
+        },
+        {
+          "label": "제작자 GitHub - PS2 한국어 패치 v0.4.11",
+          "url": "https://github.com/TAMTAMQ/galaxy-angel-eternal-lovers-korean-translation-patch/releases/tag/v0.4.11"
+        }
+      ],
+      "patch": {
+        "status": "available",
+        "url": "https://github.com/TAMTAMQ/galaxy-angel-eternal-lovers-korean-translation-patch/releases/tag/v0.4.11",
+        "notes": "2026-10-25 확인: TAMTAMQ 일본판 PS2용 XDelta 한국어 패치 v0.4.11(2026-10-19) 실제 배포. 메인 시나리오·전투 관련 텍스트·UI 이미지·영상 자막을 번역·교정했지만 일부 일본어가 남을 수 있음. 원본 일본판 정본 이미지 해시를 릴리스의 README/SHA256SUMS와 대조해 적용해야 함. 이전 버전 세이브의 한글 제목이 깨질 수 있고 자동 변환 기능은 없음. BGM 백색 소음·작전정보 음 깨짐 및 일부 프리징 경로는 완전 해결을 확인하지 못한 상태. 이 평가에서 패치 설치·전체 엔딩·실기 검수는 수행하지 않음."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT"
+    },
+    {
+      "id": "galaxy-angel-ii-zettai-ryouiki-no-tobira-ps2",
+      "title": "갤럭시 엔젤 II: 절대영역의 문",
+      "original": "ギャラクシーエンジェルII 絶対領域の扉",
+      "platforms": [
+        "ps2"
+      ],
+      "genres": [
+        "ADV",
+        "SLG"
+      ],
+      "score": 7.1,
+      "summary": "신세계 NEUE와 카즈야·루네 엔젤대를 새로 소개하는 2세대 첫 작품. 스킵 속도와 전개·음악이 개선되고 신구 엔젤대의 교차가 매력적이지만 짧은 서사와 전투의 쉬운 난도·정보 표시 축소로 7.1점. 1세대 팬 또는 캐릭터 중심 SF ADV 취향에 조건부 추천. 공개 자료 기반 편집 평가이며 직접 플레이한 점수는 아님.",
+      "pros": [
+        "새로운 은하·주인공·루네 엔젤대의 개성을 제시하면서 이전 시리즈의 인물들과 연결해 세계를 확장한다.",
+        "1세대보다 메시지 스킵과 대화 전개가 빠르고, 주제가·피날레의 전투 연출이 인상적이라는 PS2 감상이 있다.",
+        "실시간 기체 지휘라는 핵심 콘셉트를 유지해 캐릭터의 사기와 함대 전투를 연결한다."
+      ],
+      "cons": [
+        "첫 작품치고 본편의 분량이 짧고 새 인물의 관계를 충분히 쌓기 전에 사건이 빠르게 진행된다.",
+        "적의 난도가 전반적으로 낮고 기체·조종사 능력과 전투 결과의 세부 표시가 축소돼 전략 점검이 불편하다.",
+        "새 주인공 카즈야와 일부 신규 캐릭터는 이전 타쿠토·문 엔젤대에 비해 초반 인상이 약할 수 있다."
+      ],
+      "sources": [
+        {
+          "label": "브로콜리 공식 - GAII 절대영역의 문 제품 정보",
+          "url": "https://www.broccoli.co.jp/ga/game/ga2/products/main.html"
+        },
+        {
+          "label": "Joko - PS2 절대영역의 문 이용자 리뷰",
+          "url": "https://www.joko.jp/ps2/review/ti1952.html"
+        },
+        {
+          "label": "NIGHT_SHIFT - PS2 절대영역의 문 독립 감상",
+          "url": "https://uei-nanigashi.hatenablog.com/entry/39512825"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "",
+        "notes": "2026-10-25 기준 PS2 일본판 《ギャラクシーエンジェルII 絶対領域の扉》에 적용할 공개 한국어 패치 배포 페이지를 확인하지 못함. 1세대 3작품용 TAMTAMQ 패치는 별도 게임용이므로 본작에 호환된다고 보지 않음. 배포판·번역 범위·실기 적용 여부 미확인."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT"
+    },
+    {
+      "id": "galaxy-angel-ii-mugen-kairou-no-kagi-ps2",
+      "title": "갤럭시 엔젤 II: 무한회랑의 열쇠",
+      "original": "ギャラクシーエンジェルII 無限回廊の鍵",
+      "platforms": [
+        "ps2"
+      ],
+      "genres": [
+        "ADV",
+        "SLG"
+      ],
+      "score": 6.9,
+      "summary": "2세대 중간편으로 신캐릭터와 세력 갈등을 늘리고 전투 조작성·난도 선택을 개선했다. 하지만 히로인 개별 장면 부족, 적은 전투 횟수와 후속작을 위한 미완의 서사로 몰입이 고르지 않아 6.9점. 시리즈를 순서대로 따라가는 팬에게 권장. 공개 자료 기반 편집 평가이며 직접 플레이한 점수는 아님.",
+      "pros": [
+        "실시간 전투의 조작·그래픽·필살기 연출이 전작보다 개선되고 난도 선택으로 도전성을 조절할 수 있다.",
+        "신규 인물과 기체·은하의 세력 관계를 확장해 다음 완결편의 갈등을 준비한다.",
+        "PS2 DVD 2장 분량으로 음성·이벤트와 세계관 서술을 이어가며 전작 데이터 보유 시 별도 추가 시나리오에 접근할 수 있다."
+      ],
+      "cons": [
+        "히로인별 이벤트 분량과 개별 관계의 진전이 적다는 PS2 이용자 평가가 반복된다.",
+        "전투의 품질은 좋아졌지만 실제 전투 빈도는 낮아 전략 게임을 기대하면 허전하다.",
+        "중간편의 공통 스토리 재사용·완결감 부족과 일부 캐릭터 스탠딩·영상 작화 편차가 눈에 띈다."
+      ],
+      "sources": [
+        {
+          "label": "브로콜리 공식 - GAII 무한회랑의 열쇠 제품·추가 요소",
+          "url": "https://broccoli.co.jp/ga/game/ga22/product.html"
+        },
+        {
+          "label": "Joko - PS2 무한회랑의 열쇠 이용자 리뷰",
+          "url": "https://www.joko.jp/ps2/review/ti2307.html?PageSpeed=noscript"
+        },
+        {
+          "label": "전격 온라인 - PS2판 발매·시스템 개선",
+          "url": "https://dengekionline.com/data/news/2007/10/18/4f5691d091d456b2ff677b2329a042d8.html"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "",
+        "notes": "2026-10-25 기준 PS2 일본판 《ギャラクシーエンジェルII 無限回廊の鍵》 대상 공개 한국어 패치 배포 페이지 미확인. 1세대 한국어 패치와 다른 게임이며 번역 범위·디스크 2장 대응·적용 가능 여부 미확인. 실제 패치 적용이나 실기 테스트 수행하지 않음."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT"
+    },
+    {
+      "id": "galaxy-angel-ii-eigou-kaiki-no-toki-ps2",
+      "title": "갤럭시 엔젤 II: 영겁회귀의 때",
+      "original": "ギャラクシーエンジェルII 永劫回帰の刻",
+      "platforms": [
+        "ps2"
+      ],
+      "genres": [
+        "ADV",
+        "SLG"
+      ],
+      "score": 7.2,
+      "summary": "2세대 3부작을 마무리하며 루네 엔젤대의 사연과 대규모 갈등을 회수하는 장편 완결작. 풍부한 음성·마지막 전개·전투 임무 확장이 장점이나 긴 공통 대화와 전작 전제, 전투 시인성의 한계로 7.2점. 전작 둘을 마친 시리즈 팬에게 추천. 공개 자료 기반 편집 평가이며 직접 플레이한 점수는 아님.",
+      "pros": [
+        "2세대 누적 갈등과 루네 엔젤대의 비밀을 집중적으로 다루어 삼부작의 결말을 제공한다.",
+        "대규모 풀보이스 장면과 음악·영상 연출이 시리즈 팬에게 충분한 감상 분량을 준다.",
+        "전작보다 다양한 미션·3단계 난도와 챕터 선택 등으로 전투 재도전·회상 접근이 보강된다."
+      ],
+      "cons": [
+        "패미통 리뷰에서도 지적하듯 대화 감상 비중이 매우 크고 전투 등장 빈도와 템포의 균형이 고르지 않다.",
+        "주요 분기가 공유하는 이야기가 길어 히로인별 엔딩을 반복 회수할 때 새로운 사건이 상대적으로 적다.",
+        "앞선 2세대 작품을 모르면 설명이 부족하고, 실시간 3D 전투에서 전황을 한눈에 파악하기 어렵다."
+      ],
+      "sources": [
+        {
+          "label": "브로콜리 공식 - GAII 영겁회귀의 때 제품 정보",
+          "url": "https://www.broccoli.co.jp/ga/game/ga23/products.html"
+        },
+        {
+          "label": "패미통 - PS2 영겁회귀의 때 4인 리뷰",
+          "url": "https://www.famitsu.com/game/title/2836/reviews"
+        },
+        {
+          "label": "개인 리뷰 - GAII 2세대 후반 감상",
+          "url": "https://comicafe.syuriken.jp/tvgame/ga2to.html"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "",
+        "notes": "2026-10-25 기준 PS2 일본판 《ギャラクシーエンジェルII 永劫回帰の刻》 대상 공개 한국어 패치 배포 페이지를 확인하지 못함. 원본 DVD 2장 구성에 대한 번역/패치 적용 범위 및 실기 확인 모두 미확인. 1세대 게임들의 패치는 본작에 적용할 수 있다고 단정하지 않음."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT"
+    }
+  ]
 }
