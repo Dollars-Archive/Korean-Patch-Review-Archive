@@ -31,6 +31,10 @@ tests/                        # review-core / review-sync 단위 테스트 (node
 .github/workflows/pages.yml   # 검증·테스트 후 Pages 배포
 ```
 
+## 웹GPT 프로젝트에서 평가·자동 등록
+
+[프로젝트 지침](templates/WEBGPT-PROJECT-INSTRUCTIONS.md)을 웹GPT 프로젝트 설정에 붙여 넣고 [등록 안내](REGISTER-REVIEW.md)를 참고합니다. GitHub 파일 쓰기 도구가 연결돼 있으면 평가 후 해당 게임을 자동 등록합니다. 쓰기 도구가 없으면 JSON을 제공하며 등록 완료로 표시하지 않습니다. 사이트의 찜 편집 열쇠는 웹GPT 쓰기 연결과 별개입니다.
+
 ## 리뷰 추가·가져오기
 
 1. `templates/WEBGPT-REVIEW-PROMPT.md` 를 WebGPT에 넣고, 게임명과 플랫폼을 실제 대상으로 바꿔 조사합니다.
