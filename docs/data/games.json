@@ -647,6 +647,69 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "muv-luv-alternative-psvita",
+      "title": "마브러브 얼터너티브",
+      "original": "マブラヴ オルタネイティヴ",
+      "platforms": [
+        "psvita"
+      ],
+      "genres": [
+        "ADV",
+        "비주얼 노벨",
+        "SF"
+      ],
+      "score": 9,
+      "summary": "BETA와의 전쟁으로 멸망 위기에 빠진 세계에서 시로가네 타케루가 운명과 다시 맞서는 SF 비주얼 노벨. 전쟁의 참상·정치적 갈등·인물의 성장과 관계를 강렬한 연출로 엮어 서사 완성도가 탁월하다. 다만 긴 도입부와 설정 설명, 적은 분기, 전작 Extra·Unlimited에 대한 높은 의존도가 단점이다. 장대한 어두운 SF·심리 드라마를 좋아하는 독자에게 강력 추천한다. 2016년 일본 PS Vita판 및 관련 리뷰 자료를 바탕으로 한 편집 평가이며 직접 플레이하지 않았다.",
+      "pros": [
+        "전쟁의 공포와 정치적 이해관계, 주인공의 실패·성장을 설득력 있게 연결해 후반부 몰입감과 감정적 울림이 강하다.",
+        "기존 등장인물과 새 인물의 관계를 단계적으로 쌓아 전작에서 이어지는 장대한 서사를 효과적으로 완결한다.",
+        "강렬한 음성 연기, 음악, 역동적인 전투 CG·장면 전환이 텍스트 중심 작품임에도 영상적 현장감을 준다.",
+        "PS Vita판은 PC판의 역동적인 ADV 연출을 재현하면서 터치·스와이프 및 메시지 속도 등 편의 옵션을 제공한다."
+      ],
+      "cons": [
+        "초반에는 앞선 작품과 겹치는 장면과 긴 군사·세계관 설명이 이어져 전개가 느리다.",
+        "사실상 하나의 핵심 서사를 따라가는 선형적 구성으로 선택지의 영향과 반복 플레이 가치는 제한적이다.",
+        "Extra와 Unlimited에서 쌓은 캐릭터 관계 및 사건을 전제로 하므로 이 작품부터 시작하면 이해·감정 이입이 크게 떨어진다.",
+        "일부 과격한 전쟁·고어 묘사가 부담스럽고, 오래된 CG 표현과 잦은 화면 전환은 현재 기준 호불호가 있다."
+      ],
+      "sources": [
+        {
+          "label": "MAGES 공식 일본 PS Vita판 소개·발매 정보",
+          "url": "https://game.mages.co.jp/muvluv/psv/"
+        },
+        {
+          "label": "Sofmap 일본 PS Vita판 이식·조작 기능 안내",
+          "url": "https://www.sofmap.com/product_detail.aspx?sku=12851308"
+        },
+        {
+          "label": "Press Play Media - PS Vita판 Muv-Luv 시리즈 리뷰",
+          "url": "https://pressplaynews.net/2018/06/29/muv-luv-muv-luv-alternative-review-vita/"
+        },
+        {
+          "label": "Honey's Anime - PS Vita판 Alternative 리뷰",
+          "url": "https://honeysanime.com/muv-luv-alternative-playstation-vita-review/"
+        },
+        {
+          "label": "RPGFan - PC판 Alternative 서사·연출 평가 참고",
+          "url": "https://www.rpgfan.com/review/muv-luv-alternative/"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/6659",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 2026-10-25 기준 링크를 GET·HEAD·미리보기·리다이렉트 확인 없이 문자열 그대로 등록. PS Vita 일본판 대상 여부, 번역 범위, 적용 방식 및 호환성도 미확인. 설치·실기 검증은 수행하지 않았다."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com/5a926c02-d4f5-48a4-a9de-e73ea66a7114.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/114677-muv-luv-alternative",
+        "platform": "psvita",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT"
     }
   ]
 }
