@@ -590,6 +590,63 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "shining-force-exa-ps2",
+      "title": "샤이닝 포스 이쿠사",
+      "original": "シャイニング・フォース イクサ",
+      "platforms": [
+        "ps2"
+      ],
+      "genres": [
+        "ACT",
+        "RPG"
+      ],
+      "score": 6.7,
+      "summary": "두 주인공 토마와 시릴을 바꿔가며 전투하고 거점 지오 포트리스를 강화·방어하는 2007년 일본판 PS2 액션 RPG. 다채로운 장비·성장 요소, 캐릭터 디자인, 근접전과 마법전의 차별화는 즐겁지만, 단순한 버튼 연타 중심 전투의 긴 반복, 대규모 전투의 심한 프레임 저하, 의무 거점 방어전의 진행 단절이 완성도를 깎는다. 6.7점. 반복 전투와 파밍·육성을 좋아하는 액션 RPG 팬에게 추천하며, 기존 샤이닝 포스의 전략 RPG나 깊은 액션 전투를 기대하면 맞지 않을 수 있다. 공식 발매 정보와 PS2판 당시 리뷰를 바탕으로 한 편집 평가이며 직접 플레이한 점수는 아니다.",
+      "pros": [
+        "토마의 근접 무기 전투와 시릴의 마법·원거리 공격을 번갈아 활용하여 두 가지 성장 방향과 전투 감각을 즐길 수 있다.",
+        "장비 획득·강화, 미스릴을 이용한 능력 성장, 지오 포트리스 시설·방어 강화로 액션 밖에도 꾸준한 성장 보상이 마련되어 있다.",
+        "화사한 셀셰이딩 분위기와 개성 있는 동료·몬스터 디자인, 손에 잡히는 직관적인 조작은 핵앤슬래시의 진입 장벽을 낮춘다."
+      ],
+      "cons": [
+        "공격 버튼 반복과 다수의 비슷한 적을 잡는 구성이 길게 이어져 전투 패턴의 깊이와 변화가 부족하다.",
+        "PS2판은 몬스터가 대량으로 등장할 때 프레임 저하가 두드러지고 혼잡한 화면 때문에 전황을 파악하기 어려운 때가 있다.",
+        "의무적인 지오 포트리스 방어전이 탐험을 끊고, 다른 주인공과 거점을 충분히 육성하지 않으면 진행이 막히거나 이전 저장을 불러와야 하는 상황이 생길 수 있다.",
+        "전형적인 이야기 전개와 반복되는 전투 음성·불안정한 동료 AI가 장시간 플레이의 피로를 더한다."
+      ],
+      "sources": [
+        {
+          "label": "패미통 - PS2 일본판 발매 기본 정보",
+          "url": "https://www.famitsu.com/game/title/397/page/1"
+        },
+        {
+          "label": "RPGFan - Shining Force EXA PS2 리뷰 (2007-04-14)",
+          "url": "https://www.rpgfan.com/review/shining-force-exa/"
+        },
+        {
+          "label": "GameSpot - Shining Force EXA PS2 리뷰 (2007-03-30)",
+          "url": "https://www.gamespot.com/reviews/shining-force-exa-review/1900-6168393/"
+        },
+        {
+          "label": "Mediaworld 일본판 PS2 패키지 및 SLPM-66646 확인",
+          "url": "https://mediaworld.co.jp/products/10402863001"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/6493",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 2007년 일본판 PS2 게임(SLPM-66646) 확인. 해당 패치의 지원 디스크 리비전, 번역 범위, 남은 미번역 부분, 적용 방법 및 다른 재판판 호환 여부는 확인하지 않음. 설치·실기·에뮬레이터 검증 미실시."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://mediaworld.co.jp/cdn/shop/products/cg10402863.jpg?v=1631291230&width=247",
+        "source": "https://mediaworld.co.jp/products/10402863001",
+        "platform": "ps2",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
