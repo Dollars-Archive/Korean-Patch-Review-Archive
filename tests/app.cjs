@@ -10,12 +10,14 @@ test('screen wiring: scores, filters, persisted star, delete and restore', async
  assert.equal(new Set(ids).size,ids.length);
  const nodes=Object.fromEntries(ids.map(id=>[id,{innerHTML:'',textContent:'',value:id==='sort'?'score-desc':id==='genre'?'all':'',hidden:false,disabled:false,open:false,listeners:{},classList:{toggle(){}},setAttribute(k,v){this[k]=v;},scrollIntoView(){},addEventListener(k,f){this.listeners[k]=f;}}]));
  for(const [,id] of app.matchAll(/\$\('([^']+)'\)/g))assert.ok(nodes[id],`missing HTML id ${id}`);
- const games=[{id:'low',title:'낮은 게임',platforms:['psp'],genres:['ADV'],score:0},{id:'high',title:'높은 게임',platforms:['psp'],genres:['ADV'],score:9,cover:{url:'covers/high-abc123.webp',source:'https://example.com/psp-box',platform:'psp',type:'Box - Front',region:'Japan'}},{id:'unrated',title:'미평가 게임',platforms:['pc'],genres:['RPG'],score:null}];
+ const games=[{id:'low',title:'낮은 게임',platforms:['psp'],genres:['ADV'],score:0},{id:'high',title:'높은 게임',platforms:['psp'],genres:['ADV'],score:9,patch:{status:'unconfirmed',url:'https://redb.me/kr/6493',notes:'사용자 제공 링크 · 미접속'},cover:{url:'covers/high-abc123.webp',source:'https://example.com/psp-box',platform:'psp',type:'Box - Front',region:'Japan'}},{id:'unrated',title:'미평가 게임',platforms:['pc'],genres:['RPG'],score:null}];
  let remote={version:1,favorites:{},deleted:{}},sha='1';
  const values=new Map([['discovery-watchlist-token-v1','fixture-token']]);
  const storage={getItem:k=>values.get(k)||null,setItem:(k,v)=>values.set(k,v),removeItem:k=>values.delete(k)};
  const reply=body=>({ok:true,status:200,json:async()=>body});
+ const requests=[];
  const fetcher=async(url,opts={})=>{
+  requests.push(url);
   if(url.startsWith('data/games.json'))return reply({version:1,games});
   if(url.includes('/contents/')){
    if(opts.method==='PUT'){const body=JSON.parse(opts.body);assert.equal(body.branch,'watchlist-data');assert.equal(body.sha,sha);remote=JSON.parse(Buffer.from(body.content,'base64').toString('utf8'));sha=String(Number(sha)+1);return reply({content:{sha}});}
@@ -31,6 +33,9 @@ test('screen wiring: scores, filters, persisted star, delete and restore', async
  assert.ok(content().indexOf('class="cover"')<content().indexOf('class="rating'));
  assert.ok(content().includes('src="covers/high-abc123.webp"'));
  assert.ok(content().includes('표지 준비 중'));
+ assert.ok(content().includes('class="patch-shortcut" href="https://redb.me/kr/6493"'));
+ assert.ok(content().indexOf('class="rating')<content().indexOf('class="patch-shortcut"'));
+ assert.ok(!requests.some(url=>url.includes('redb.me')), 'user patch URLs are never fetched or previewed');
  const placeholder={hidden:true};
  const brokenImage={hidden:false,classList:{contains:name=>name==='cover-image'},parentElement:{querySelector:()=>placeholder}};
  nodes.results.listeners.error({target:brokenImage});
