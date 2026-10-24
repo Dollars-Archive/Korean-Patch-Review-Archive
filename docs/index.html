@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="ko">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="color-scheme" content="light"><title>한글패치, 다운받을까? 말까?</title><link rel="stylesheet" href="assets/style.css"><script defer src="assets/review-core.js"></script><script defer src="assets/review-sync.js"></script><script defer src="assets/app.js"></script></head>
+<body>
+<header><div class="top"><a class="brand" href="./">DOLLARS ARCHIVE</a><nav aria-label="관련 코너"><a href="https://dollars-archive.github.io/Dollars-Archive/">게임 라이브러리</a><a href="https://dollars-archive.github.io/Game-Localization-Discovery-Archive/">발굴 아카이브</a><a href="https://github.com/Dollars-Archive/Korean-Patch-Review-Archive">GitHub ↗</a></nav></div></header>
+<main>
+<section class="hero"><p class="eyebrow">KOREAN PATCH REVIEW ARCHIVE</p><h1>한글패치,<br class="mobile-break"> 다운받을까? 말까?</h1><p>한글패치가 있는 게임, 내 취향에 맞을까?<br>10점 만점 평가와 장단점을 보고 골라보세요.</p><div class="stats" id="stats" aria-live="polite"></div></section>
+<section class="panel controls" aria-label="게임 찾기">
+<div class="control-head"><h2>게임 목록</h2><button id="settings-open" class="subtle">⚙ 찜·삭제 열쇠</button></div>
+<div id="platforms" class="platforms" aria-label="기종 선택"></div>
+<div class="filters"><label class="search">검색<input id="search" type="search" placeholder="게임명 · 원제 · 장르" autocomplete="off"></label><label>장르<select id="genre"><option value="all">전체 장르</option></select></label><label>정렬<select id="sort"><option value="score-desc">평점 높은 순</option><option value="score-asc">평점 낮은 순</option><option value="title">이름순</option></select></label></div>
+<div class="toggles"><button id="favorites" aria-pressed="false">☆ 찜만 보기</button><button id="deleted" aria-pressed="false">삭제한 게임 · 복구</button><button id="reset" class="subtle">필터 초기화</button><span>미평가는 평점순 목록의 맨 아래에 표시됩니다.</span></div>
+<details id="settings"><summary>GitHub 열쇠 · PC/모바일 연동</summary><p>발굴 아카이브와 같은 열쇠 방식입니다. 찜·삭제 목록은 이 코너의 공개 공유 목록에 저장되며 다른 기기에서도 읽을 수 있습니다.</p><p>기존 열쇠의 선택 저장소에 <strong>Korean-Patch-Review-Archive</strong>를 추가하고 <strong>Contents: Read and write</strong>를 허용하세요. 열쇠는 사용하는 브라우저마다 등록합니다.</p><div class="token-row"><label>GitHub 열쇠<input id="token" type="password" placeholder="github_pat_…" autocomplete="off" spellcheck="false"></label><button id="token-save">이 기기에 저장</button><button id="token-clear" class="subtle">이 코너에서 사용 중지</button><button id="refresh" class="subtle">찜·삭제 새로고침</button></div><p id="token-status" aria-live="polite"></p><a href="https://github.com/settings/personal-access-tokens" target="_blank" rel="noopener noreferrer">GitHub 열쇠 권한 설정 ↗</a></details>
+<p id="notice" class="notice" role="status" aria-live="polite">게임 목록을 불러오는 중…</p>
+</section>
+<div class="list-head"><h2 id="list-title">전체 게임</h2><span id="count"></span></div>
+<section id="results" class="results" aria-label="평가 목록"></section>
+<section id="empty" class="panel empty" hidden><span class="empty-icon" aria-hidden="true">◇</span><h2 id="empty-title">평가를 기다리고 있어요</h2><p id="empty-text">아직 등록된 평가가 없습니다. 웹GPT 평가 결과를 추가하면 평점순으로 자동 정렬됩니다.</p><div class="empty-links"><a href="https://github.com/Dollars-Archive/Korean-Patch-Review-Archive/blob/main/templates/WEBGPT-REVIEW-PROMPT.md" target="_blank" rel="noopener noreferrer">웹GPT 평가 요청 양식 ↗</a><a href="https://github.com/Dollars-Archive/Korean-Patch-Review-Archive/blob/main/templates/review-entry.json" target="_blank" rel="noopener noreferrer">평가 데이터 양식 ↗</a></div></section>
+<footer>평점은 등록된 자료를 바탕으로 한 평가입니다. 게임의 재미와 한국어 패치 정보는 구분해서 확인하세요.</footer>
+</main></body></html>
