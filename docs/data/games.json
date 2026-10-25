@@ -7286,6 +7286,62 @@
       },
       "reviewedAt": "2026-10-25",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "ranma-1-2-akanekodan-teki-hihou-snes",
+      "title": "란마 1/2 주묘단적비보",
+      "original": "らんま1/2 朱猫団的秘宝",
+      "platforms": [
+        "snes"
+      ],
+      "genres": [
+        "RPG",
+        "턴제 RPG"
+      ],
+      "score": 6.2,
+      "summary": "1993년 SFC로 나온 『란마 1/2』의 오리지널 스토리형 턴제 RPG. 찬물·뜨거운 물로 변신하는 퍼즐과 란마·아카네·료가·샴푸 등의 필살기를 활용한 가벼운 모험, 빠른 전투 템포는 매력적이다. 그러나 단순한 전투 밸런스와 반복 인카운트, 불친절한 장비·기술 메뉴, 얕고 직선적인 이야기 때문에 6.2점. 란마 원작의 캐릭터와 코믹한 분위기를 좋아하고 간단한 고전 RPG를 원하는 팬에게 추천. 공개 자료 기반 편집 평가이며 직접 플레이한 점수는 아님.",
+      "pros": [
+        "란마·아카네·료가·샴푸 등 원작의 주요 인물이 합류하며, 필살기와 캐릭터별 역할을 통해 팬이 알아볼 수 있는 개성을 구현한다.",
+        "원작 설정인 찬물과 뜨거운 물을 이용해 남녀·동물 모습으로 변신하고 특정 이벤트와 장애물을 해결하는 독특한 장치가 있다.",
+        "커맨드식 턴제 전투가 비교적 빠르고 적을 날려 버리는 코믹한 애니메이션이 특징이며, 전반적 난도도 높지 않아 접근이 쉽다."
+      ],
+      "cons": [
+        "잦은 랜덤 인카운트와 길 찾기 불편한 맵, 단순한 던전·심부름형 진행이 겹쳐 전개가 반복적으로 느껴진다.",
+        "상점과 장비 메뉴에서 기존 장착품과 능력치 비교가 불편하고 기술의 효과 설명도 부족하며, 파티에서 빠진 동료는 경험치를 얻지 못한다.",
+        "오리지널 이야기는 대체로 선형적이고 원작 캐릭터의 활용이 고르지 않으며, 쉬운 전투 밸런스와 짧은 분량 때문에 반복 플레이의 동기가 약하다."
+      ],
+      "sources": [
+        {
+          "label": "LaunchBox - SFC 일본판 발매 정보 및 Box - Front",
+          "url": "https://gamesdb.launchbox-app.com/games/images/28936-ranma-akanekodan-teki-hihou"
+        },
+        {
+          "label": "일본 레트로 RPG 리뷰 - 縮緬遊戯堂 (2005)",
+          "url": "https://chirimenzeyo.ari-jigoku.com/review/sfc/sfc_ranma_akaneko_dan.html"
+        },
+        {
+          "label": "RPGamer - Ranma 1/2: Akanekodan Teki Hihou Reader Retroview",
+          "url": "https://archive.rpgamer.com/games/other/snes/ranmaakanekodan/reviews/ranmaakanekodanrdrev1.html"
+        },
+        {
+          "label": "GameFAQs - Only for fans, SNES 리뷰",
+          "url": "https://gamefaqs.gamespot.com/snes/588599-ranma-1-2-akanekodan-teki-hihou/reviews/67894"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/5635",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 사용자 표기 제작자: 네코반점(독립 검증하지 않음). 평가 대상은 일본 SFC판 『らんま1/2 朱猫団的秘宝』(1993년 10월 22일 발매). 제공 주소만으로 지원 ROM 리비전·번역 범위·미번역 요소·적용 방법·배포 버전은 확인할 수 없으며, 실제 패치 설치·실기 및 에뮬레이터 시험은 수행하지 않음."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/9767ff2b-4fe1-4de8-a62a-426028434fcf.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/28936-ranma-akanekodan-teki-hihou",
+        "platform": "snes",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
