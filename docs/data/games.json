@@ -2272,6 +2272,69 @@
       },
       "reviewedAt": "2026-10-25",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "xenon-mugen-no-shitai-pc98",
+      "title": "제논: 몽환의 지체 (PC-98)",
+      "original": "XENON ～夢幻の肢体～",
+      "platforms": [
+        "other"
+      ],
+      "genres": [
+        "ADV",
+        "VN"
+      ],
+      "score": 7.3,
+      "summary": "1994년 12월 9일 C's Ware가 발매한 일본 NEC PC-9801판 18세 이상 대상 SF·심리 서스펜스 ADV. 주인공 코우지가 반복되는 기묘한 꿈과 현실의 관계를 추적하며, 초회 시나리오를 진행한 뒤 다른 성격과 설정의 DREAM 분기가 열리는 멀티스토리 구조를 갖는다. 꿈과 현실의 미스터리, 다양한 시나리오 실험, 원화와 우메모토 류의 음악이 강점이다. 반면 호평받는 첫 시나리오에 비해 다른 분기의 서사적 연결과 완성도에 편차가 크고, 플로피 기반 초기 텍스트 ADV의 편의성도 낡아 7.3/10. 칸노 히로유키의 실험적인 미스터리와 고전 PC-98 ADV를 좋아하는 사람에게 추천하며 여러 루트의 응집력 있는 장편 결말을 최우선시하면 조건부 추천. PC-98 원판 공개 게임 정보 및 독립 감상 자료에 기반한 편집 평가이며 직접 플레이한 점수가 아니다. 현재 아카이브에 PC-98 전용 기종 ID가 없어 platforms는 other로 저장한다.",
+      "pros": [
+        "현실의 고등학교와 반복되는 꿈속 우주 시설을 오가며 기억·정신분석·현실 인식을 의심하게 하는 SF 심리 미스터리의 분위기가 뛰어나다.",
+        "첫 진행 이후 성격과 배경이 다른 여러 DREAM 시나리오가 나타나며 동일한 등장인물을 상이한 역할로 배치하는 과감한 멀티스토리 구성이 특징이다.",
+        "초기 진지한 시나리오는 서스펜스와 몰입도가 특히 높다는 일본 PC-98 전문 리뷰 및 영어권 플레이어의 공통적인 평가가 있다.",
+        "우메모토 류의 FM 음원 음악과 1994년 PC-98 도트 아트·이벤트 일러스트가 차갑고 몽환적인 세계관을 효과적으로 뒷받침한다."
+      ],
+      "cons": [
+        "초반의 뛰어난 서스펜스에 비해 이어지는 DREAM 분기들은 분위기와 설정·등장인물 역할이 크게 달라져 한 이야기의 연속성이나 응집력이 약해진다는 평가가 있다.",
+        "진지한 주요 시나리오가 상대적으로 짧고 나머지 코미디·성인 요소 중심의 분기가 분량을 차지해 소재의 잠재력을 끝까지 탐구하지 못한다는 아쉬움이 있다.",
+        "새 이야기를 확인하려면 앞선 회차를 진행해야 하는 구조여서 관심 없는 분기까지 반복 감상해야 하는 부담이 있다.",
+        "PC-98 초기판은 별도 음성 연출이 없는 텍스트 중심 진행과 플로피 매체·당시식 선택지 및 장소 이동 인터페이스로 현대식 VN보다 편의성이 떨어진다.",
+        "18세 이상 대상 작품으로 성인 표현의 비중과 시대 특유의 묘사가 일부 서사의 긴장감을 깨거나 취향에 맞지 않을 수 있다."
+      ],
+      "sources": [
+        {
+          "label": "LaunchBox - PC-9801 일본판 발매일 및 Box - Front 실물 앞표지",
+          "url": "https://gamesdb.launchbox-app.com/games/images/106059-xenon-mugen-no-shitai"
+        },
+        {
+          "label": "C's Ware 제작진과 1994년 일본 PC-98판 기록(ERCR)",
+          "url": "https://w.atwiki.jp/ercr/pages/3784.html"
+        },
+        {
+          "label": "ADVGAMER - PC-98 원판 전문 리뷰(초반 서사 강점·분기 편차·음악)",
+          "url": "https://advgamer.com/xenon/"
+        },
+        {
+          "label": "Kaguya - PC-98 원판 첫 시나리오 및 후속 시나리오 비교 사용자 리뷰(2025년)",
+          "url": "https://kaguya.io/@dong_nonu_ri/reviews/xenon-mugen-no-shitai"
+        },
+        {
+          "label": "PC98 GAME - NEC PC-9801 플로피 5장 원판 정보",
+          "url": "https://pc-9801.com/xenon-%E3%82%BC%E3%83%8E%E3%83%B3-%E5%A4%A2%E5%B9%BB%E3%81%AE%E8%82%A2%E4%BD%93/"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/2525",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 대상 작품은 1994년 일본 NEC PC-9801판 《XENON ～夢幻の肢体～》(플로피 5장 원판)이다. 해당 주소의 PC-98 원판 적용 여부·지원 이미지 형식·리비전·시나리오별 번역 범위·미번역·설치 절차·실기/에뮬레이터 동작은 확인하지 않았다. FM Towns CD·Windows 음성판과의 패치 호환성도 추측하지 않는다."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/72dba6c1-12eb-48c9-ad4e-f274941b8336.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/106059-xenon-mugen-no-shitai",
+        "platform": "other",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
