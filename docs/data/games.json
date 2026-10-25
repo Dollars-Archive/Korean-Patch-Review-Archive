@@ -6535,6 +6535,76 @@
       },
       "reviewedAt": "2026-10-25",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "god-eater-resurrection-psvita",
+      "title": "갓 이터 레저렉션",
+      "original": "ゴッドイーター リザレクション",
+      "platforms": [
+        "psvita"
+      ],
+      "genres": [
+        "액션 RPG",
+        "헌팅 액션"
+      ],
+      "score": 8,
+      "summary": "2015년 10월 29일 발매된 일본 PS Vita 일반판 『GOD EATER RESURRECTION』(VLJS-05071) 기준. PSP 『GOD EATER BURST』의 이야기를 HD 리메이크하고 새로운 후일담과 포식(프레데터 스타일), 추가 무기·스킬 및 개선된 동료 전투를 담은 속도감 높은 헌팅 액션 RPG. 동료들의 서사와 빠른 근접·총기·포식 전환, 방대한 장비 제작·멀티플레이가 매력적이지만 임무·적·필드 반복, 복잡한 버튼 조합과 후반 대형 몬스터전에서의 PS Vita 성능 저하로 8.0점. 시리즈 입문자와 협력 토벌·장비 파밍 팬에게 추천. 공개된 공식 정보와 해당 판본 리뷰 기반의 편집 평가로 직접 플레이한 점수가 아니며 한글패치 유무는 점수에 반영하지 않음.",
+      "pros": [
+        "5가지 포식 유형을 조합하는 프레데터 스타일을 통해 점프·대시·콤보 중 버스트 상태를 획득할 수 있어 원작보다 근접·총기 전환과 연속 공세의 속도감이 좋다.",
+        "원작 및 『버스트』의 주요 서사와 동료 이야기를 수록하고 『갓 이터 2』로 연결되는 새로운 후일담을 더해 입문과 캐릭터 감상 양쪽에서 만족도가 높다.",
+        "해머·스피어·발리언트 사이즈 등 추가 무기, 신기 강화·소재 제작과 포식 스킬 등 풍부한 육성 조합이 반복 토벌에 명확한 성장 보상을 준다.",
+        "PS Vita에 맞춘 선명한 캐릭터 모델과 음악·전투 음성, 동료 NPC 및 최대 4인 협력 플레이로 휴대용 헌팅 액션의 매력을 살렸다."
+      ],
+      "cons": [
+        "많은 임무가 제한된 지형과 기존 아라가미의 조합을 되풀이하므로 소재 파밍과 전투 난도를 올리는 반복 의뢰가 쉽게 피로해진다.",
+        "근접 공격·사격·포식·대시·무기 전환·아이템을 한정된 PS Vita 버튼에 배치해 기능을 잘못 발동하기 쉽고, 복합 조작의 진입 장벽이 높다.",
+        "PS Vita판은 큰 보스 여러 마리가 한꺼번에 등장해 이펙트가 겹치는 전투에서 간헐적 프레임 저하가 보고됐고, PS4판보다 계단 현상 등 화질 제약이 크다.",
+        "기존 『버스트』를 이미 충분히 즐겼다면 새로운 후일담·무기와 개선된 포식에도 불구하고 기본 임무 구성과 등장 몬스터의 신선함은 제한적이다."
+      ],
+      "sources": [
+        {
+          "label": "SHIFT 공식 - GOD EATER RESURRECTION 발매일·제작사·PS Vita 제품 정보",
+          "url": "https://www.shift.gr.jp/product/consumer/ger/"
+        },
+        {
+          "label": "Bandai Namco 공식 - GOD EATER RESURRECTION 제품 및 시스템",
+          "url": "https://ger.godeater.jp/spec/"
+        },
+        {
+          "label": "주간 패미통 1403호 공식 리뷰 4건 (PS4/PS Vita 공통 평가: 9·8·8·9)",
+          "url": "https://www.famitsu.com/game/title/32459/reviews"
+        },
+        {
+          "label": "GLOM - 일본 PS Vita판 직접 플레이 리뷰: 포식 시스템·스토리·조작과 몬스터 변화",
+          "url": "https://gamelifeofme.com/godeaterresurrection/"
+        },
+        {
+          "label": "Reviews 2 Go - PS Vita 직접 플레이 리뷰: 조작·프레임·휴대 플레이",
+          "url": "https://reviews2go.home.blog/2016/07/11/god-eater-resurrection-review/comment-page-6/"
+        },
+        {
+          "label": "LaunchBox - Sony Playstation Vita 일본판 Box - Front (640x811) 확인",
+          "url": "https://gamesdb.launchbox-app.com/games/images/130056-god-eater-resurrection"
+        },
+        {
+          "label": "피코피코 대백과 - 일본 PS Vita 일반판 VLJS-05071",
+          "url": "https://www.gavas.jp/products/detail.php?product_id=15547"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/5494",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 사용자 제공 패치 제작자 표기: 쿠왁쿠왁왕자(별도 확인하지 않음). 평가 대상은 일본 PS Vita 일반판 『GOD EATER RESURRECTION』(2015-10-29, VLJS-05071). 제공된 링크의 패치 지원 지역·리비전·언어 범위·미번역 영역·적용 방법·배포 버전은 확인하지 않음. PS4판 및 타 지역 PS Vita 다운로드판 호환성도 미확인. 패치 적용·실기·에뮬레이터 테스트를 수행하지 않음."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com/147d6a30-d294-4c27-a414-9fc777d83036.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/130056-god-eater-resurrection",
+        "platform": "psvita",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT"
     }
   ]
 }
