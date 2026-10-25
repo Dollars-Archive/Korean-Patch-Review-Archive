@@ -10171,6 +10171,66 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "k-on-houkago-live-psp",
+      "title": "케이온! 방과후 라이브!!",
+      "original": "けいおん！放課後ライブ！！",
+      "platforms": [
+        "psp"
+      ],
+      "genres": [
+        "Rhythm",
+        "Action"
+      ],
+      "score": 8,
+      "summary": "애니메이션 『케이온!』 1기 음악을 바탕으로 19곡을 밴드 5인의 악기별 악보로 연주하는 PSP 리듬액션. 악기별 리듬 차이와 최대 5인 애드혹 합주, 귀여운 3D 라이브, 풀보이스 동아리 이벤트와 의상 수집의 완성도가 높아 8.0점. 다만 곡 수가 19곡으로 제한되고 2기 곡이 없으며 움직이는 판정선의 시인성과 반복 연주의 피로감은 아쉽다. 『케이온!』 팬과 캐릭터 교류·수집을 즐기는 리듬게임 이용자에게 추천. 공개 자료 기반 편집 평가이며 직접 플레이한 점수는 아님.",
+      "pros": [
+        "19곡마다 리드 기타·베이스·드럼·키보드·리듬 기타의 5가지 악기 파트별로 서로 다른 악보와 조작을 제공해 한 곡을 여러 시각에서 연주할 수 있다.",
+        "애니메이션 캐릭터를 재현한 3D 무대 연출과 동아리 방의 풀보이스 이벤트·의상·액세서리 수집이 원작 팬에게 충실한 팬서비스를 제공한다.",
+        "단순한 기본 입력에 악기별 길게 누르기·동시 입력·도전용 아이템 효과를 더해 입문과 숙련의 재미를 모두 제공하며 애드혹 통신으로 최대 5인 합주를 지원한다."
+      ],
+      "cons": [
+        "수록곡이 애니메이션 1기·당시 캐릭터송 중심의 19곡에 머물고 2기 곡을 포함하지 않아 리듬게임만 놓고 보면 곡의 폭이 좁다.",
+        "좌우로 순환하는 판정선이 익숙하지 않고 무대 연출이 복잡한 장면에서는 악보가 잘 보이지 않으며 판정 허용 폭이 넓어 박자 정확성에 대한 감각이 무뎌질 수 있다.",
+        "모든 파트·난도·의상·이벤트 보상을 수집하는 과정에서 같은 노래를 반복적으로 연주해야 하므로 원작 팬이 아니라면 반복감이 커진다."
+      ],
+      "sources": [
+        {
+          "label": "세가 공식 - 『けいおん！ 放課後ライブ！！』 PSP 제품 정보",
+          "url": "https://www.sega.jp/game/detail/k-on/"
+        },
+        {
+          "label": "패미통 - 2010년 PSP판 전문가 4인 리뷰",
+          "url": "https://www.famitsu.com/game/title/14057/reviews"
+        },
+        {
+          "label": "UK Anime Network - 2010년 PSP 게임 리뷰",
+          "url": "https://www.uk-anime.net/Games/K-ON!_Houkago_Live!!_(PSP).html"
+        },
+        {
+          "label": "4Gamer - PSP판 이용자 리뷰·악보·수집 요소 평가",
+          "url": "https://www.4gamer.net/games/111/G011159/index_userreview.html"
+        },
+        {
+          "label": "일본 PSP 패키지 앞표지 실물 확인 - CutiesClubShop",
+          "url": "https://cutiesclubshop.com/products/k-on-houkago-live-psp-game-3"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/5017",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2010년 일본 PSP 일반판 『けいおん！放課後ライブ！！』(ULJM-05709). 이후 PSP the Best(ULJM-08048) 및 PS3 HD Ver.와 구분. 제공 주소의 번역 범위·미번역 요소·적용 대상 UMD 리비전·필요 도구와 실기·PPSSPP 호환성은 확인하지 않았으며 직접 설치·구동 테스트도 하지 않음."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://cutiesclubshop.com/cdn/shop/files/IMG_20250319_194726.jpg?v=1742522262",
+        "source": "https://cutiesclubshop.com/products/k-on-houkago-live-psp-game-3",
+        "platform": "psp",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
