@@ -6335,6 +6335,73 @@
         "type": "Box - Front",
         "region": "North America"
       }
+    },
+    {
+      "id": "yuusha-no-kuse-ni-namaikida-3d-psp",
+      "title": "용사 주제에 건방지다 3D",
+      "original": "勇者のくせになまいきだ：3D",
+      "platforms": [
+        "psp"
+      ],
+      "genres": [
+        "SLG",
+        "던전 관리",
+        "실시간 전략"
+      ],
+      "score": 8,
+      "summary": "2010년 3월 11일 일본 PSP 초판 『勇者のくせになまいきだ：3D』(UCJS-10109) 기준. 땅을 파서 몬스터 먹이사슬을 형성하고 자원·번식·물의 흐름을 조절해 침입한 용사를 막는 독창적 생태계 전략 게임. 마수(魔水)·수생 몬스터와 특수 곡괭이로 전술의 폭이 커졌고, 매일 던전·애드혹 2인 협력, 재치 있는 패러디가 재미를 더한다. 반면 높은 학습 난도와 자원 순환 실패의 가혹함, 쉬운 난이도에서도 후속 성장 자원이 부족해질 수 있는 보상 설계는 단점이라 8.0점. 복잡한 생태계를 탐구하는 전략·퍼즐 팬에게 추천하며 손쉬운 진행을 원하는 플레이어에겐 비추천. 『3D』는 폴리곤 입체화가 아닌 3가지 던전 모드를 의미함. 공개 자료 기반 편집 평가이며 직접 플레이하지 않았고 한글패치 유무를 점수에 반영하지 않음.",
+      "pros": [
+        "던전 굴착·먹이사슬·몬스터의 번식 및 돌연변이·토양의 양분을 연결한 생태계 관리가 흔한 타워 디펜스와 다른 전략적 재미를 제공한다.",
+        "새로 도입된 마수(魔水)의 흐름과 수생 몬스터, 특수 곡괭이 능력으로 몬스터와 지형의 상호작용 및 전술 다양성이 확대됐다.",
+        "스토리 중심 메인 던전 외에 반복 도전하는 '매일 던전'과 애드혹 통신 기반 2인 '패밀리 던전'이 있어 혼자 또는 함께 다양한 상황에 대응할 수 있다.",
+        "개성적인 레트로 도트 그래픽과 역할을 뒤집은 마왕·용사 설정, JRPG 패러디 대사가 장르의 진입 동기를 높인다."
+      ],
+      "cons": [
+        "양분·먹이사슬·몬스터 종류·진화 조건을 동시에 파악해야 해서 튜토리얼과 설명서가 보강돼도 초보자가 실제로 안정적인 생태계를 만들기 어렵다.",
+        "용사 침입을 막으면서 생태계를 유지해야 해 실시간 압박이 크며, 몬스터 먹이 부족·자원 고갈 같은 연쇄 붕괴로 공들인 던전이 순식간에 무너질 수 있다.",
+        "쉬운 난이도에서는 용사 출현 시점이 늦어지지만 클리어 시간 보너스도 줄어, 보상 '굴착 파워'가 모자라 후속 몬스터 강화가 오히려 어려워질 수 있다.",
+        "전작과 기본 굴착·자원·생태계 구조가 이어져 장기적으로 유사한 시행착오와 패턴 반복이 생기며, 복잡한 규칙을 싫어하면 피로감이 크다."
+      ],
+      "sources": [
+        {
+          "label": "패미통 1109호 PSP 일본판 전문 리뷰 4건(8·8·9·8점) 및 발매일",
+          "url": "https://www.famitsu.com/game/title/6418/reviews"
+        },
+        {
+          "label": "GAME Watch 2010-04-06 PSP판 리뷰: 3종 던전·마수·곡괭이·난이도 보상 문제",
+          "url": "https://game.watch.impress.co.jp/docs/review/359333.html"
+        },
+        {
+          "label": "PlayStation Blog 2010-11-01: 감독 오하시 하루유키의 물·곡괭이·3단계 난이도·애드혹 설명",
+          "url": "https://blog.playstation.com/2010/11/01/no-heroes-allowed-hits-psn-tomorrow-for-psp-with-dungeon-a-day-multiplayer/"
+        },
+        {
+          "label": "GameFAQs PSP: No Heroes Allowed!과 일본판 Yuusha no Kuse ni Namaikida: 3D의 동일 작품 확인",
+          "url": "https://gamefaqs.gamespot.com/psp/975255-no-heroes-allowed"
+        },
+        {
+          "label": "스루가야 일본 PSP 초판 발매일·품번 UCJS-10109 확인",
+          "url": "https://www.suruga-ya.jp/product/detail/177001366"
+        },
+        {
+          "label": "LaunchBox 일본 PSP 실물 패키지 Box - Front 원본 확인",
+          "url": "https://gamesdb.launchbox-app.com/games/images/79089-no-heroes-allowed"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/5470",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 일본 PSP 초판 『勇者のくせになまいきだ：3D』(2010-03-11, UCJS-10109)이며 해외 다운로드판 『No Heroes Allowed!』와 같은 작품이지만 발매 지역·유통 형식은 다름. 제공한 링크의 패치 지원 품번·리비전 및 번역 범위, 미번역 영역, 적용 방법·호환성은 확인하지 않음. PSP the Best(UCJS-18056/UCJS-18062), 북미판, PS4/PS5 변환판 적용 가능 여부도 미확인. 직접 패치 설치·실기·에뮬레이터 검증하지 않음."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/718575d6-327e-41f9-a04a-c8cd4f483353.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/79089-no-heroes-allowed",
+        "platform": "psp",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
