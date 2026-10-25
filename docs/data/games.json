@@ -8351,6 +8351,66 @@
       },
       "reviewedAt": "2026-10-25",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "ore-no-imouto-portable-ga-tsuzuku-wake-ga-nai-disc-2-psp",
+      "title": "내 여동생이 이렇게 귀여울 리가 없어 포터블이 계속될 리가 없어 (Disc 2)",
+      "original": "俺の妹がこんなに可愛いわけがない ポータブルが続くわけがない（Disc 2）",
+      "platforms": [
+        "psp"
+      ],
+      "genres": [
+        "연애 ADV",
+        "비주얼 노벨"
+      ],
+      "score": 7.5,
+      "summary": "2012년 PSP 후속작 『俺の妹がこんなに可愛いわけがない ポータブルが続くわけがない』의 신규 시나리오가 들어 있는 Disc 2 중심 평가. 원작자 후시미 츠카사가 감수하고 일부 집필한 히로인별 후일담과 IF 전개, 카나코·세나의 비중 확대, 자연스러운 Live2D 및 풀보이스는 팬 만족도가 높지만 개별 루트가 짧고 신규 CG가 많지 않으며 대화 선택 반복·일부 음성/일러스트 불일치가 아쉬워 7.5점. 원작 캐릭터 관계에 익숙한 팬에게 추천. 2011년 발매된 별도 전작 『俺の妹がこんなに可愛いわけがない ポータブル』과 구분한다. 공개 자료 기반 편집 평가이며 직접 플레이한 점수는 아님.",
+      "pros": [
+        "원작자 후시미 츠카사의 총감수와 신규 집필 부분을 포함해 본편과 다른 선택의 후일담·연애 IF 전개를 즐길 수 있고, 캐릭터에 맞춘 대화와 결말 연출이 강점이다.",
+        "전작의 보조 인물이던 쿠루스 카나코가 주요 히로인으로 승격되고 아카기 세나, 쿠로네코의 동생들이 등장하는 등 새로운 시점과 관계를 확장했다.",
+        "O.I.U. Live2D 연출이 발전해 2D 인물의 표정과 동작이 자연스럽고, 풀보이스 대화와 다양한 이벤트 장면이 캐릭터 감상을 살린다."
+      ],
+      "cons": [
+        "Disc 2의 개별 신규 시나리오가 짧고 CG 추가량도 제한적이어서 전작을 이미 끝낸 사람은 신작 분량이 적다고 느낄 수 있다.",
+        "ORE 및 투샷 대화에서 선택지에 따라 분기하는 과정이 다소 반복되고, 일부 반응의 정답이나 호감도 조건이 직관적이지 않다.",
+        "일부 이벤트에서 음성이 유난히 작게 들리거나 이야기 속 복장과 실제 일러스트가 맞지 않는 사례가 보고되며, 원작 인물 관계를 모르면 감정선 이해가 어렵다."
+      ],
+      "sources": [
+        {
+          "label": "Neowing - 2012년 PSP판 정식 제품 구성·Disc 1/Disc 2 설명",
+          "url": "https://www.neowing.co.jp/product/ULJS-492"
+        },
+        {
+          "label": "4Gamer - 후속작 PSP판 사용자 리뷰(스토리·볼륨·연출 장단점)",
+          "url": "https://www.4gamer.net/games/147/G014708/index_userreview.html"
+        },
+        {
+          "label": "콘솔 게임 대사전 - PSP 후속작 플레이 특징·평가 정리",
+          "url": "https://consoledictionary.com/games/27887"
+        },
+        {
+          "label": "Inside Games - 출시 당시 Disc 1·Disc 2 UMD 라벨 반대 표기 공지",
+          "url": "https://www.inside-games.jp/article/2012/05/15/56612.html?pickup_list_click2=true"
+        },
+        {
+          "label": "LaunchBox - 2012년 PSP 후속작 일본판 앞표지",
+          "url": "https://gamesdb.launchbox-app.com/games/images/40452-ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai-portable-ga-tsuzuku-wake-ga-nai"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/5259",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 사용자 표기는 『Ore no Imouto ga Konna ni Kawaii wake ga Nai Portable』 Disc 2이나, 공식 제품 정보상 2011년 원작은 단일 PSP 작품이며 2012년 후속작 『俺の妹がこんなに可愛いわけがない ポータブルが続くわけがない』(2012-05-17, 일반판 ULJS-00492)은 Disc 1에 전작 개선판, Disc 2에 신규 후속편을 수록함. 따라서 본 항목은 2012년 후속작의 Disc 2를 대상으로 평가함. 출시 당시 일부 UMD는 디스크 1·2의 표기 라벨이 뒤바뀐 사례가 있어, 실제 내용 기준 확인이 필요함. 제공 한글패치가 그 Disc 2에 호환되는지는 링크에 접속하지 않아 검증하지 않았으며 지원 리비전·번역 범위·적용 방식·배포 버전·동작 상태 모두 미확인. AI가 해당 주소를 열거나 패치 설치·실기·에뮬레이터 테스트를 진행하지 않았음."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/caced673-2b91-4bce-8e8c-a5b8c88ccaea.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/40452-ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai-portable-ga-tsuzuku-wake-ga-nai",
+        "platform": "psp",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
