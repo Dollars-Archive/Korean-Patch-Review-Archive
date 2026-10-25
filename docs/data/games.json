@@ -9867,6 +9867,66 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "tales-of-rebirth-psp",
+      "title": "테일즈 오브 리버스",
+      "original": "テイルズ オブ リバース",
+      "platforms": [
+        "psp"
+      ],
+      "genres": [
+        "Action RPG",
+        "RPG"
+      ],
+      "score": 8.1,
+      "summary": "PS2 원작을 휴대용으로 이식하며 투기장·GOD 난도·추가 이벤트·전투 컷인·이동 속도 개선 등을 더한 액션 RPG. 3라인 전투와 RG(러시 게이지)·술기 연동 회복의 숙련 재미, 종족 갈등을 다루는 진지한 주제 의식이 인상적이지만, 높은 초기 학습 장벽, 반복적인 심부름성 진행, PSP판 일부 BGM 음질과 비행 중 로딩 문제로 8.1점. 전투 시스템 연구를 즐기는 테일즈 팬에게 추천하며 쉬운 액션 RPG 입문작을 찾는 사람에게는 다소 까다롭다. 공개 자료 기반 편집 평가이며 직접 플레이한 점수는 아님.",
+      "pros": [
+        "3라인 리니어 모션 전투에서 전열 이동, RG(러시 게이지), 아군의 공격·방어와 연동되는 회복을 조합하는 전략성이 깊어 숙련할수록 손맛이 강해진다.",
+        "휴마와 가쥬마의 차별·공존을 다루는 세계관과 베이그 일행의 관계, 2D 스프라이트와 음성 연기가 감정적인 모험을 뒷받침한다.",
+        "PSP판은 투기장과 새 보상, GOD 난도, 오의 컷인·추가 이벤트·그레이드 상점 항목을 넣고 필드 이동 속도와 중단 저장의 사용성도 개선했다."
+      ],
+      "cons": [
+        "직접적인 회복 주문 없이 술기와 RG 조절로 HP를 관리하는 방식은 설명만으로 이해하기 어렵고, 시리즈 초보자는 전투 시스템에 익숙해지는 데 시간이 걸린다.",
+        "종족 문제를 다루는 이야기는 의미가 있으나 전개 중 반복적인 왕복·심부름과 직설적 메시지로 서사 리듬이 늘어지는 구간이 존재한다.",
+        "PSP 이식판은 일부 배경음악에서 화음 누락·곡 길이 단축이 있고 비행 이동 중 로딩으로 순간 정지하는 등 사운드와 이동 연출이 PS2판보다 아쉬운 부분이 있다."
+      ],
+      "sources": [
+        {
+          "label": "반다이남코 공식 PSP 테일즈 오브 리버스 소개",
+          "url": "https://www.bandainamcoent.co.jp/cs/list/talesofrebirth_psp/"
+        },
+        {
+          "label": "게임 카탈로그 Wiki - PS2·PSP 평가와 이식판 변경점",
+          "url": "https://w.atwiki.jp/gcmatome/pages/477.html"
+        },
+        {
+          "label": "4Gamer - PSP판 2008년 이용자 리뷰",
+          "url": "https://www.4gamer.net/games/065/G006585/index_userreview.html"
+        },
+        {
+          "label": "한글패치 제작자 GitHub - PSP 릴리스 v1.01",
+          "url": "https://github.com/guy-man-21/tales-of-rebirth-kr/releases"
+        },
+        {
+          "label": "LaunchBox - 2008년 일본 PSP판 Box - Front",
+          "url": "https://gamesdb.launchbox-app.com/games/images/91217-tales-of-rebirth"
+        }
+      ],
+      "patch": {
+        "status": "available",
+        "url": "https://redb.me/kr/6818",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 이와 별도로 실제 확인한 공개 제작자 GitHub Releases(guy-man-21/tales-of-rebirth-kr)에서 PSP 일본판 ULJS00132용 한국어 패치 v1.01 배포 정보를 확인. v1.0의 스킷 제목·회상 목록·숨겨진 꿈 이벤트 등의 번역 정비를 포함하고 v1.01에서 대사·표기 교정을 추가했다고 안내. 제작자 안내의 대상 원본은 일본 PSP판 ULJS00132, 크기 1,644,199,936바이트, MD5 349B95B467841EB3C5FECEE044FB0094이며 이미 패치한 ISO가 아닌 원본에 적용해야 함. 기존 세이브는 호환되나 이전 버전 세이브스테이트의 잔존 표시 문제가 있어 완전 재실행 안내, CWCheat 사용 시 배경 이상 가능성 안내. 제공된 레트로DB 링크가 이 v1.01을 배포하는지는 미검증. 본 평가에서는 설치·실기·PPSSPP 구동 검증하지 않음."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/b058c02b-25cd-452c-9f91-4400d0217997.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/91217-tales-of-rebirth",
+        "platform": "psp",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
