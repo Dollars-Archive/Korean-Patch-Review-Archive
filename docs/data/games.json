@@ -3659,6 +3659,71 @@
       },
       "reviewedAt": "2026-10-25",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "moero-nekketsu-rhythm-damashii-ouendan-2-ds",
+      "title": "불타라! 열혈 리듬 혼: 아자! 싸워라! 응원단 2",
+      "original": "燃えろ！熱血リズム魂 押忍！闘え！応援団2",
+      "platforms": [
+        "ds"
+      ],
+      "genres": [
+        "RHY"
+      ],
+      "score": 8.8,
+      "summary": "2007년 5월 17일 일본 닌텐도 DS로 발매된 iNiS 제작·닌텐도 발매 리듬 액션 게임(일반 패키지 NTR-P-AO2J). 도움이 필요한 사람들을 두 응원단이 음악과 춤으로 격려하는 기발한 만화식 연출, 스타일러스의 터치·슬라이드·회전 패턴과 경쾌한 일본 팝/록 음악 19곡이 빚는 몰입감이 매우 뛰어나다. 4단계 난이도·숨겨진 고난도 설정, 인트로 스킵·리플레이 저장, 최대 4인 대전과 2인 협력 등 전작보다 편리하고 다양하다. 다만 전작과 게임의 기본 틀이 같아 새로움이 적으며 최상급 난도에서 시야·반응의 부담이 높고 수록곡 취향과 일부 노트 배치에 호불호가 있어 8.8점. 박자에 맞춘 반복 숙련과 유쾌한 짧은 에피소드를 즐기는 리듬게임 팬에게 강력 추천한다. 일본판의 닌텐도 공식 자료와 Nintendo Life·Pocket Gamer 리뷰를 바탕으로 한 편집 평가이며 직접 플레이한 점수는 아니다.",
+      "pros": [
+        "숫자 순으로 터치하고 슬라이드 패턴을 따라가거나 회전판을 돌리는 단순한 규칙이 음악의 박자와 맞물려, 반복 숙련할수록 정확한 타이밍을 맞히는 손맛이 탁월하다.",
+        "곤란한 사람을 구하러 달려드는 열혈 응원단과 라이벌 응원단의 경쟁, 과장된 만화식 도입·성공·실패 장면이 개별 음악 스테이지에 유머와 감정적 보상을 준다.",
+        "일본 팝과 록 19곡에 4단계 난이도, 높은 난도의 숨겨진 노트 표시 설정과 S랭크 도전 요소를 더해 수록곡 수 이상의 반복 플레이 가치를 제공한다.",
+        "전작의 불편했던 노래 인트로 건너뛰기와 회전판 조작을 개선하고, 리플레이 보존·고스트 대전, 최대 4인 무선 대전 및 2인 협력 모드로 편의성과 활용 폭을 확장했다."
+      ],
+      "cons": [
+        "시스템의 뼈대가 첫 작품과 거의 같아 새로운 응원단·곡·스토리에 비해 플레이 규칙 자체의 혁신은 크지 않다.",
+        "최상급 난도와 숨겨진 노트 설정에서는 음표가 빠르게 나타나고 연속 입력과 화면 혼잡이 겹쳐 반응과 암기를 요구하는 진입 장벽이 높다.",
+        "일부 일본 팝·록 선곡과 커버 보컬의 취향 차이가 크며, 몇몇 곡은 터치 마커의 리듬감이 음악과 충분히 자연스럽지 않다는 리뷰 지적이 있다.",
+        "각 곡이 짧은 단막 응원 에피소드라 게임 내 성장·육성 등 장기적인 시스템은 없고, 곡 해금 이후에는 기록 갱신과 반복 숙련이 주요 콘텐츠가 된다."
+      ],
+      "sources": [
+        {
+          "label": "닌텐도 공식 - 『燃えろ！熱血リズム魂 押忍！闘え！応援団2』 게임 특징·리듬 터치",
+          "url": "https://www.nintendo.co.jp/ds/ao2j/feature/index.html"
+        },
+        {
+          "label": "닌텐도 공식 - 무선 4인 대전·2인 협력·리플레이 대전 상세",
+          "url": "https://www.nintendo.co.jp/ds/ao2j/taisen/index.html"
+        },
+        {
+          "label": "Nintendo Life - 일본 DS판 Ouendan 2 리뷰 (2010-02-03)",
+          "url": "https://www.nintendolife.com/reviews/2010/02/moero_nekketsu_rhythm_damashii_osu_tatakae_ouendan_2_ds"
+        },
+        {
+          "label": "Pocket Gamer - 일본 DS판 Ouendan 2 리뷰 (2007-07-04)",
+          "url": "https://www.pocketgamer.com/ouendan-2/review/"
+        },
+        {
+          "label": "GameSpot - Ouendan 2 일본 DS판 플레이 리뷰 (2007-05-25)",
+          "url": "https://www.gamespot.com/articles/ouendan-2-import-hands-on/1100-6171605/"
+        },
+        {
+          "label": "LaunchBox - Nintendo DS 일본판 원본 Box - Front 이미지",
+          "url": "https://gamesdb.launchbox-app.com/games/images/65617-moero-nekketsu-rhythm-damashii-osu-tatakae-ouendan-2"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/6274",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 사용자 제공 제작자 표기: sizz1214-lang(별도 검증하지 않음). 평가 대상은 2007-05-17 발매 일본 닌텐도 DS용 『燃えろ！熱血リズム魂 押忍！闘え！応援団2』 일반판(NTR-P-AO2J)으로 전작 『押忍！闘え！応援団』 및 해외판 『Elite Beat Agents』와 구분한다. 사용자 제공 주소의 실제 지원 DS 게임/리비전, 메뉴·곡 가사·만화 대사의 번역 범위 및 미번역, 배포 버전·적용 방식·실기/에뮬레이터 호환성은 확인하지 않았으며 링크에 접속하거나 패치 설치·동작 시험을 하지 않았다."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/c7e63246-18a6-4b49-acf8-1f3944a1d54a.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/65617-moero-nekketsu-rhythm-damashii-osu-tatakae-ouendan-2",
+        "platform": "ds",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
