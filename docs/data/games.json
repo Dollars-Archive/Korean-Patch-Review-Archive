@@ -3386,6 +3386,67 @@
       },
       "reviewedAt": "2026-10-25",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "saga-2-hihou-densetsu-goddess-of-destiny-ds",
+      "title": "사가 2 비보전설: 운명의 여신",
+      "original": "サガ2秘宝伝説 GODDESS OF DESTINY",
+      "platforms": [
+        "ds"
+      ],
+      "genres": [
+        "RPG"
+      ],
+      "score": 8.2,
+      "summary": "2009년 9월 17일 스퀘어 에닉스가 일본 Nintendo DS로 발매한 1990년 게임보이 RPG 『사·가 2 비보전설』의 전면 3D 리메이크. 아버지의 행방과 비보를 좇아 여러 세계를 탐험하는 모험, 인간·에스퍼·메카·몬스터 4종족의 서로 다른 성장법과 자유로운 파티 조합이 독창적이다. 랜덤 전투를 심볼 인카운터로 개편하고 체인 인카운트·운명의 실을 통한 연계·뮤즈와 시나리오 싱크로·맵 어빌리티·하단 지도, 추가 강적·협력 콘텐츠를 도입해 탐험 편의성과 전술성이 향상되었다. 다만 무기 내구 사용 횟수 및 독특한 성장 시스템이 불친절하고, 화면 시점과 원작 중심의 단순한 이야기는 아쉬워 8.2점. 개성 있는 파티 육성과 턴제 전투, 복고풍 모험을 좋아하는 플레이어에게 강력 추천한다. Nintendo·Square Enix 공식 정보와 GAME Watch·패미통의 DS판 리뷰에 근거한 편집 평가이며 직접 플레이한 점수는 아니다.",
+      "pros": [
+        "인간은 행동에 따른 능력치 성장, 에스퍼는 능력 습득, 메카는 장착 장비, 몬스터는 적이 남긴 고기를 통한 변신으로 강해지는 등 4종족 육성법이 뚜렷하게 달라 조합과 재플레이가 즐겁다.",
+        "심볼 인카운터와 주변 적까지 이어지는 체인 인카운트, '운명의 실'을 이용한 동료 연계로 교전량과 위험을 선택하면서 강력한 공격을 설계할 수 있다.",
+        "3D 리메이크임에도 아홉 세계를 가로지르는 원작의 기발한 분위기와 빠른 진행을 살렸고, DS 하단 지도·보물 탐사·길 개척 맵 어빌리티로 탐험 동선이 편해졌다.",
+        "뮤즈와의 교류, 동료 관계에 따라 발생하는 시나리오 싱크로(SSS) 이벤트, 강적 도전 '혼의 암역' 및 최대 4인 무선 협력 '망자의 투기장'으로 파고들 요소가 늘었다."
+      ],
+      "cons": [
+        "각 무기의 제한된 사용 횟수와 종족마다 상이한 성장 조건은 초보자가 적응하기 어렵고, 경제·자원 관리에 실수하면 육성 계획이 꼬일 수 있다.",
+        "몬스터의 고기 변신 결과와 에스퍼의 능력 습득이 직관적이지 않아 원하는 육성 결과를 얻기까지 반복 시도나 외부 공략이 필요할 수 있다.",
+        "3D 카메라의 시점이 낮고 시야가 좁아 적의 위치와 주변 길을 빠르게 파악하기 어려운 구간이 있다.",
+        "게임보이 원작의 간결한 사건 전개와 대사를 대체로 보존했으므로 현대 대작 RPG 수준의 심층적인 인물 묘사와 서사를 기대하면 담백하게 느껴질 수 있다."
+      ],
+      "sources": [
+        {
+          "label": "닌텐도 일본 공식 - DS 사가2 비보전설 GODDESS OF DESTINY 발매일·기본 시스템",
+          "url": "https://www.nintendo.co.jp/ds/software/csgj/index.html"
+        },
+        {
+          "label": "Square Enix 공식 - 사가2 비보전설 DS판 제품 소개",
+          "url": "https://www.jp.square-enix.com/archive/saga2_ds/"
+        },
+        {
+          "label": "GAME Watch - DS 『사ガ2秘宝伝説 GODDESS OF DESTINY』 상세 리뷰 (2009-10-15)",
+          "url": "https://game.watch.impress.co.jp/docs/review/321652.html"
+        },
+        {
+          "label": "패미통 - DS 사가2 비보전설 리뷰(7·9·7·8점)",
+          "url": "https://www.famitsu.com/game/title/3960/reviews"
+        },
+        {
+          "label": "LaunchBox - DS 일본판 Box - Front 원본 이미지",
+          "url": "https://gamesdb.launchbox-app.com/games/images/42923-saga-2-hihou-densetsu-goddess-of-destiny"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/6432",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 사용자 제공 제작자 표기: ep7oy(별도 검증하지 않음). 평가 대상은 일본 Nintendo DS 일반판 『サガ2秘宝伝説 GODDESS OF DESTINY』(2009-09-17, NTR-CSGJ-JPN)으로 1990년 게임보이 원작과 구분한다. 이 링크가 지원하는 DS 카트리지 리비전·게임 버전, 대사와 추가 이벤트·메뉴의 번역 범위, 미번역 부분, 적용 절차 및 실기·에뮬레이터 호환성은 확인하지 않았다. 패치 설치·동작 시험 미수행."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/88c6af96-944c-4310-8cb6-742fa001a62c.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/42923-saga-2-hihou-densetsu-goddess-of-destiny",
+        "platform": "ds",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
