@@ -2144,6 +2144,67 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "words-worth-pc98",
+      "title": "워즈 워스 (PC-98판)",
+      "original": "ワーズ・ワース",
+      "platforms": [
+        "pc"
+      ],
+      "genres": [
+        "RPG"
+      ],
+      "score": 7.4,
+      "summary": "1993년 elf가 출시한 NEC PC-9801용 성인 판타지 1인칭 턴제 던전 RPG. 대립하는 빛과 그림자 두 종족을 둘러싼 이야기와 다수의 개성적인 캐릭터·대화 이벤트, 자동 지도 작성이 가능한 던전 탐험, 장비와 레벨 성장에서 오는 성취감이 매력이다. 그러나 전투 명령은 공격·도주·아이템 위주로 단조롭고 높은 랜덤 인카운터율·급격한 적 난도 상승에 따른 반복 레벨업, 불명확한 이벤트·비밀 통로가 부담이다. 7.4점. 스토리와 캐릭터가 있는 레트로 던전 RPG, 반복 육성을 좋아하는 성인 플레이어에게 추천한다. 1999년 Windows 리메이크의 3D 실시간 액션 시스템과 혼동하지 않았으며 1993년 PC-98 원작의 공개 자료에 기반한 편집 평가이고 직접 플레이한 결과가 아니다.",
+      "pros": [
+        "빛의 일족과 그림자의 일족 사이 오랜 갈등을 축으로 한 판타지 서사, 다양한 인물들의 교류·대화 이벤트가 던전 탐험 사이에 읽을거리를 제공한다.",
+        "1인칭 4방향 이동 던전에서 자동 지도를 완성하고 숨겨진 통로·이벤트를 찾는 탐색 과정이 고전 DRPG 특유의 발견하는 재미를 준다.",
+        "장비 구입과 레벨업으로 적의 강함을 극복하는 성장 감각이 분명하고, 이야기를 따라가며 탐험하는 구조가 단순한 전투에 동기를 부여한다.",
+        "당시 elf 특유의 표현력 있는 인물 그림과 FM 음원 BGM이 고전 PC-98 RPG의 분위기를 더한다."
+      ],
+      "cons": [
+        "전투가 공격·도주·아이템 등 제한된 선택지에 의존해 파티 전술이나 폭넓은 빌드 구성이 부족하고 교전이 쉽게 반복된다.",
+        "다음 층으로 진입하면 적이 급격히 강해져 같은 구간의 몬스터를 반복 처치하며 레벨을 높여야 하는 시간이 길어진다.",
+        "숨겨진 방·통로와 진행 플래그의 설명이 불친절하고 랜덤 전투가 잦아 초행 길 찾기와 진행에 피로감이 있다.",
+        "강압적인 성적 표현 등 성인용 장면이 이야기 사이에 등장하며 현대 기준에서 보기 불편할 수 있다."
+      ],
+      "sources": [
+        {
+          "label": "MobyGames - Words Worth 1993 PC-98 원판 기본 정보·전투 시스템",
+          "url": "https://www.mobygames.com/game/42895/words-worth/"
+        },
+        {
+          "label": "ADVGAMER - WORDS WORTH 1993 PC-98판 리뷰",
+          "url": "https://advgamer.com/words-worth/"
+        },
+        {
+          "label": "廃虚碑文 - 워즈 워스 DOS판 플레이 평가",
+          "url": "https://kiisu.egono.com/main.php?key=ww"
+        },
+        {
+          "label": "레트로 PC 미소녀 게임 공략 위키 - PC-98판 난도·맵·Windows판 차이",
+          "url": "https://w.atwiki.jp/retropcgame/pages/628.html"
+        },
+        {
+          "label": "駿河屋 - PC-9801 워즈 워스 3.5인치판 이미지 및 제품 정보",
+          "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/155004079"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/6373",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 1993-07-22 일본 PC-9801용 플로피 12장판(턴제 1인칭 던전 RPG). 1999년 Windows 리메이크판(실시간 액션 전투), 후속 XP·DL판과 내용·시스템이 다르다. 아카이브에 pc98 플랫폼 코드가 없어 platforms에는 pc를 사용하고 ID와 게임 제목에 pc98·PC-98판을 명시했다. 한글패치의 대상 파일·버전·번역 범위·실기 호환성·설치법 미검증, 설치 또는 실기·에뮬레이터 검증 미실시."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://www.suruga-ya.jp/database/pics_light/game/155004079.jpg",
+        "source": "https://www.suruga-ya.jp/kaitori/kaitori_detail/155004079",
+        "platform": "pc",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
