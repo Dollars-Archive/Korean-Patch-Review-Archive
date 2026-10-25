@@ -2461,6 +2461,66 @@
       },
       "reviewedAt": "2026-10-25",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "re-zero-death-or-kiss-psvita",
+      "title": "Re:제로부터 시작하는 이세계 생활 - DEATH OR KISS",
+      "original": "Re:ゼロから始める異世界生活 -DEATH OR KISS-",
+      "platforms": [
+        "psvita"
+      ],
+      "genres": [
+        "ADV"
+      ],
+      "score": 7,
+      "summary": "2017년 일본 PS Vita용 『Re:ゼロから始める異世界生活 -DEATH OR KISS-』(일반판 VLJM-35421). 아름다움과 인기 투표를 겨루는 '미녀왕 총선거'를 배경으로 저주에 걸린 스바루가 동료들과의 친밀도를 쌓는 평행세계 오리지널 비주얼 노벨이다. 에밀리아·렘·람 등 8명 히로인의 각각의 결말, 성우 연기와 많은 원작 캐릭터 대화, 친숙한 유머와 일상·개별 이벤트가 매력적이다. 반면 선택지 기반 친밀도 시스템은 평범하고 원작의 핵심인 사망귀환의 게임플레이적 활용이 적으며 긴 텍스트와 히로인별 CG·이벤트 분량 차이가 아쉽다. 7.0점. 본편과 다른 밝은 캐릭터 교류를 보고 싶은 리제로 팬에게 추천하며 깊은 분기형 연애 게임이나 독창적인 시스템을 기대한다면 다소 실망할 수 있다. MAGES. 공식 소개와 패미통 PS Vita판 리뷰, 비타 일반판 유저 리뷰에 바탕을 둔 편집 평가로 직접 플레이한 결과는 아니다.",
+      "pros": [
+        "에밀리아·렘·람·베아트리스·펠트·프리실라·아나스타시아·크루쉬 8명의 개별 엔딩을 제공해 여러 인물의 새로운 일상과 관계를 감상할 수 있다.",
+        "본편의 비극적인 전개와 달리 미녀왕 총선거·해주를 둘러싼 독립적인 평행세계 이야기는 유쾌한 캐릭터 대화와 가벼운 소동, 부분적인 진지함을 함께 보여준다.",
+        "풍부한 분량의 캐릭터별 대사, 익숙한 성우의 연기와 야간 대화·친밀도 이벤트가 원작 팬을 위한 감상 요소를 풍성하게 만든다."
+      ],
+      "cons": [
+        "선택지에 따라 친밀도를 높이는 기본적인 ADV 구조를 벗어나지 못해 육성·추리·전략 요소를 기대하면 시스템이 단조롭다.",
+        "원작의 상징인 사망귀환 능력을 반복되는 사건 해결 등 차별화된 게임 시스템으로 충분히 발전시키지 않아 소재의 잠재력을 다 쓰지 못한다.",
+        "글 분량이 많고 대화가 길어 템포가 늘어지기 쉬우며 여러 히로인 엔딩을 수집할 때 공통 전개의 반복감이 생길 수 있다.",
+        "히로인에 따른 CG·이벤트 분량 차이가 있고 일부 중요한 장면도 일러스트 대신 일반 연출로 넘어가 시각적 보상이 불균등하다."
+      ],
+      "sources": [
+        {
+          "label": "MAGES. 공식 - DEATH OR KISS 시스템 및 8명 엔딩",
+          "url": "https://game.mages.co.jp/re-zero/system/"
+        },
+        {
+          "label": "MAGES. 공식 - PS4/PS Vita 2017 발매 및 제품 정보",
+          "url": "https://game.mages.co.jp/re-zero/product/"
+        },
+        {
+          "label": "패미통 - Re:제로 DEATH OR KISS PS Vita판 크로스 리뷰(8·8·7·7)",
+          "url": "https://www.famitsu.com/game/title/34018/reviews"
+        },
+        {
+          "label": "가격.com - PS Vita 일반판 이용자 리뷰(2018-01-08)",
+          "url": "https://review.kakaku.com/review/K0000915221/"
+        },
+        {
+          "label": "駿河屋 - PS Vita 일본판 일반 패키지와 제품 번호(VLJM-35421)",
+          "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/105001618"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/6473",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2017-03-30 발매 일본 PS Vita 일반판(VLJM-35421, 5pb.)으로 PS4판 및 비타 한정판 패키지와 구분. 제공한 주소가 지원하는 게임 업데이트 버전, 번역 범위·미번역 내용, 설치 방법 및 실기·에뮬레이터 호환성은 확인하지 않음. 설치·실기 검증하지 않았음."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/105001618m.jpg.webp",
+        "source": "https://www.suruga-ya.jp/kaitori/kaitori_detail/105001618",
+        "platform": "psvita",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
