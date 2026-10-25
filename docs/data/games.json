@@ -11669,6 +11669,66 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "neon-genesis-evangelion-2-tsukurareshi-sekai-psp",
+      "title": "신세기 에반게리온 2: 만들어진 세계",
+      "original": "新世紀エヴァンゲリオン2 造られしセカイ -another cases-",
+      "platforms": [
+        "psp"
+      ],
+      "genres": [
+        "SLG",
+        "ADV"
+      ],
+      "score": 7.7,
+      "summary": "2006년 일본 PSP판 『新世紀エヴァンゲリオン2 造られしセカイ -another cases-』(ULJS-00064)를 대상으로 한 자료 기반 편집 평가로 직접 플레이한 결과는 아니다. 원작 인물의 한 명이 되어 도쿄 제3신도시를 자유롭게 이동하고 관계·감정·훈련을 관리하는 독특한 실시간 드라마 시뮬레이션이다. PS2판에 부족했던 인물별 개별 시나리오·가상 결말과 사도전, 이벤트·맵이 대폭 확장되어 에반게리온 팬서비스 가치가 높지만, 반복적인 생활 관리, 임펄스 게이지와 NPC AI의 번거로움, 단조로운 사도전과 일부 연출 삭제로 7.7점. 원작 속 인물 관계와 다양한 가상 전개를 직접 실험해보고 싶은 팬에게 추천하며 직선형 ADV나 액션게임을 기대하면 호불호가 크다.",
+      "pros": [
+        "신지·아스카·레이 등 여러 인물을 조작하며 학교·네르프·시가지 등을 자유롭게 오가고, 다른 사람과의 대화 및 행동으로 A.T.와 감정·관계를 변화시키는 월드 시뮬레이션이 독창적이다.",
+        "PS2판보다 개인별 시나리오와 전용 엔딩·if 전개가 대폭 늘었고, 일부 신규 사도전과 맵·대사 이벤트 추가로 기존 작품의 한계를 크게 보완했다.",
+        "TV 애니메이션의 사건 순서를 따르는 입문용 시나리오부터 자유로운 개별 캐릭터 이야기에 이르기까지 원작 세계관을 색다르게 체험할 수 있으며 음성과 등장인물 연출도 팬 만족도를 높인다."
+      ],
+      "cons": [
+        "사건과 개별 엔딩을 보기 위해 매일 대화·이동·훈련·생리 욕구 관리를 반복해야 하고, 루트 해금 조건과 NPC의 반응이 직관적이지 않아 진행에 시간이 오래 걸린다.",
+        "PSP판의 임펄스 소비 규칙과 CPU끼리 대화하느라 게이지를 소진하는 AI 탓에 원하는 인물과 교류하기 어렵고 인간관계의 자연스러움이 떨어지는 상황이 발생한다.",
+        "에바 출격 전투는 액션성이 높지 않고 강력한 무기 확보 뒤 단순화되기 쉬우며, PS2 원판의 오프닝 동영상·특정 표정 컷인 등 일부 연출은 PSP판에서 사라졌다."
+      ],
+      "sources": [
+        {
+          "label": "알파 시스템 공식 - PSP 일본 일반판 ULJS-00064·2006-04-27·개발사 장르",
+          "url": "https://www.alfasystem.net/goods/game.html"
+        },
+        {
+          "label": "전격 온라인 - 2006년 PSP판 확장 시나리오·추가 사도 전투·게임 공식 소개",
+          "url": "https://dengekionline.com/data/news/2006/2/20/ae3b4446827cd2836e3267c8401c7625.html"
+        },
+        {
+          "label": "게임 카탈로그@Wiki - PS2판 대비 평가점과 PSP판 반복·AI·연출 문제",
+          "url": "https://w.atwiki.jp/gcmatome/pages/364.html"
+        },
+        {
+          "label": "k-MT 일본 이용자 PSP 리뷰 - 다수 캐릭터별 루트·전투·반복 평가",
+          "url": "https://kroko.jp/mt/game/archives/004257.shtml"
+        },
+        {
+          "label": "LaunchBox - PSP 일본판 Box - Front 확인",
+          "url": "https://gamesdb.launchbox-app.com/games/images/124974-shinseiki-evangelion-2-tsukurareshi-sekai-another-cases"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/4674",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2006-04-27 일본 PSP 일반판 『新世紀エヴァンゲリオン2 造られしセカイ -another cases-』（ULJS-00064）이며, 2003년 PS2 원작 『新世紀エヴァンゲリオン2』(SLPS-25299), 동시 발매 PSP 10주년 기념 박스판(ULJS-00061), 2007년 PSP the Best 재발매판과 구분. 사용자 제공 주소만으로 지원하는 UMD 타이틀 ID·게임 리비전·한글화 범위(시나리오·생활 대화·선택지·전투·메뉴)·미번역 요소·설치 방법·실기 및 PPSSPP 호환성 여부를 확인하지 않았고 설치·구동 테스트도 수행하지 않았다."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/4ae9dc9c-a3d4-445e-a754-b0d08ca5292f.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/124974-shinseiki-evangelion-2-tsukurareshi-sekai-another-cases",
+        "platform": "psp",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
