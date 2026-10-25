@@ -12104,6 +12104,66 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "puyo-puyo-20th-anniversary-psp",
+      "title": "뿌요뿌요!! 20주년 기념판",
+      "original": "ぷよぷよ!! Puyopuyo 20th anniversary",
+      "platforms": [
+        "psp"
+      ],
+      "genres": [
+        "액션 퍼즐",
+        "대전 퍼즐"
+      ],
+      "score": 8.4,
+      "summary": "2011년 12월 15일 출시된 일본 PSP 일반판 『ぷよぷよ!! Puyopuyo 20th anniversary』(ULJM-05964) 평가. 『뿌요뿌요 통』·『SUN』·『피버』 등 역대 인기 규칙과 8종의 신규 규칙을 포함한 총 15종의 기본 대전 규칙, 24인 캐릭터 스토리, 2대2 협동 '페어 뿌요뿌요', 초보자용 '학교' 모드와 해금 보상이 매력적이어서 8.4점. 하지만 고정된 스토리 순차 해금으로 반복 플레이 부담이 있고 피버 규칙의 캐릭터 간 성능 불균형, PSP판 최대 4인 통신 대전과 애드혹 파티를 거쳐야 하는 원거리 대전의 번거로움은 단점. 연쇄 퍼즐과 캐릭터 수집을 좋아하는 입문자·시리즈 팬에게 추천한다. 공식 자료와 PSP판 리뷰에 기반한 편집 평가이며 직접 플레이하거나 한글패치를 구동하지 않았고 패치의 존재는 점수에 반영하지 않았다.",
+      "pros": [
+        "『뿌요뿌요』·『통』·『SUN』·『피버』·『나조뿌요』의 대표 규칙과 8종의 새 규칙 등 15종의 기본 대전 룰이 한데 있어 여러 세대의 연쇄·방해 뿌요 시스템을 골라 즐길 수 있다.",
+        "24명 캐릭터의 개별 스토리와 음성·코믹한 만담, 2대2로 목숨과 방해 뿌요를 공유하며 연쇄를 협력해 만드는 '페어 뿌요뿌요'가 혼자서도 여러 사람과도 즐길 콘텐츠를 늘린다.",
+        "연쇄 기초부터 익히는 '학교' 모드, 포인트로 해금하는 스킨·음성·의상, 넓은 PSP 화면과 휴대성이 퍼즐 입문·반복 도전에 적합하다."
+      ],
+      "cons": [
+        "스토리 루트 해금 순서가 고정돼 원하는 캐릭터가 후반에 있으면 여러 인물의 스토리를 먼저 끝내야 하며 비슷한 대전과 만담이 반복된다.",
+        "'피버' 규칙에 이전 작품에서 이어진 캐릭터별 연쇄 화력·드롭 구성의 균형 문제가 남아 경쟁 플레이에서 선택 폭을 제한한다.",
+        "PSP판의 최대 4인 대전은 DS·3DS판의 최대 8인보다 적고 PSP에서 원거리 대전을 하려면 애드혹 파티를 거쳐야 하므로 통신 편의성이 낮다."
+      ],
+      "sources": [
+        {
+          "label": "SEGA 뿌요뿌요 공식 - 20주년판 15종 규칙·24인 캐릭터·출시일",
+          "url": "https://puyo.sega.jp/portal/series/puyopuyo!!.html"
+        },
+        {
+          "label": "패미통 - PSP판 크로스리뷰 8·8·8·8, 대전 규칙·편의성·통신 비교",
+          "url": "https://www.famitsu.com/game/title/24747/reviews"
+        },
+        {
+          "label": "게임 카탈로그 Wiki - 20주년판 스토리 해금·캐릭터 밸런스·기종별 특징",
+          "url": "https://w.atwiki.jp/gcmatome/pages/3793.html"
+        },
+        {
+          "label": "Media World - 일본 PSP판 ULJM-05964, 2011-12-15 제품 정보",
+          "url": "https://mediaworld.co.jp/products/10211519001"
+        },
+        {
+          "label": "LaunchBox - PSP 일본판 Box - Front (592×1024)",
+          "url": "https://gamesdb.launchbox-app.com/games/images/114499-puyo-puyo-20th-anniversary"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/4746",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 일본 PSP 일반판 ULJM-05964를 평가 대상으로 삼았으며 2012년 스페셜 프라이스판 ULJM-06212와 DS·3DS·Wii판을 구분한다. 제공 링크의 대응 지역·게임 리비전, 스토리·메뉴·룰 설명·대전 화면의 번역 범위와 미번역 요소·적용 방법은 확인하지 않았으며 실기·에뮬레이터 구동 검증을 하지 않았다."
+      },
+      "reviewedAt": "2026-10-26",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/317c178c-a9ae-4573-9d29-6eb8e3aade52.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/114499-puyo-puyo-20th-anniversary",
+        "platform": "psp",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
