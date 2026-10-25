@@ -2990,6 +2990,67 @@
       },
       "reviewedAt": "2026-10-25",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "grisaia-no-kajitsu-side-episode-psvita",
+      "title": "그리자이아의 과실: 사이드 에피소드",
+      "original": "グリザイアの果実 -SIDE EPISODE-",
+      "platforms": [
+        "psvita"
+      ],
+      "genres": [
+        "ADV"
+      ],
+      "score": 7.2,
+      "summary": "2017년 7월 27일 일본 PS Vita 일반판(VLJM-38011)으로 발매한 『그리자이아』 시리즈의 옴니버스 외전집. 학원 히로인들의 코미디를 다룬 『유한』, 카자미 유지와 아사코의 과거를 비추는 『잔광』, 유지의 CIRS 요원 시절을 묘사한 『선율』의 세 가지 보충 이야기를 수록한다. 시리즈 팬에게 의미 있는 일상의 온기와 인물 해석, PC판 대비 세 외전의 주인공까지 포함한 풀보이스, Vita 터치·텍스트 이동·색감 보정·벽지/보이스 컬렉션 기능이 장점이다. 다만 각 시나리오가 짧고 시리즈 선행 지식에 크게 의존하며 구조적 선택지가 거의 없는 감상형 작품이라 독립작으로서의 콘텐츠 양이 적어 7.2점. 본편을 마치고 인물들의 뒷이야기를 즐기는 팬에게 추천. 제작사 소개, PlayStation 공식 기사와 PS Vita판 이용자 평가에 기반한 편집 평가이며 직접 플레이한 점수는 아니다.",
+      "pros": [
+        "『그리자이아의 유한』은 미하마 학원의 다섯 히로인이 벌이는 소동, 『잔광』은 어린 유지와 아사코의 관계, 『선율』은 유지의 CIRS 요원 시절을 다뤄 코미디와 묵직한 후일담을 다양하게 보완한다.",
+        "기존 PC판에서 주인공 음성이 없던 『선율』에도 카자미 유지(사쿠라이 타카히로)의 음성을 추가해 세 외전 모두 주인공을 포함한 풀보이스를 제공한다.",
+        "Vita 특유의 터치 조작, 빨리감기·되감기·이미 읽은 선택지/챕터 점프·퀵세이브 기능과 PC판에 가까운 색감을 고르는 화면 보정으로 읽기 편하다.",
+        "원하는 순서로 외전 3편을 선택할 수 있고, CG·BGM 감상, Vita용 벽지, 좋아하는 대사를 모아 재생하는 보이스 컬렉션이 있다."
+      ],
+      "cons": [
+        "TV 애니메이션 패키지 등 특전으로 제작된 단편·중편 3편을 합친 구성이라 전체 볼륨이 비교적 작고, 신작 장편이나 다수의 신작 루트를 기대하면 아쉽다.",
+        "유지의 과거와 미하마 학원의 관계를 본편 지식에 기대어 서술하므로 『과실』·『미궁』·『낙원』을 접하지 않은 입문자는 인물의 의미와 사건 맥락을 이해하기 어렵다.",
+        "선택지를 고르는 분기형 연애 ADV보다는 정해진 옴니버스 서사를 감상하는 성격이 강해 상호작용과 재플레이 동기가 적다.",
+        "서로 다른 시기의 이야기 세 편을 이어 모은 작품이라 한 편의 긴 독립적 서사로 이어지는 몰입감은 약하고, PC 원작을 이미 즐긴 독자에게 서사상 새로움은 제한적이다."
+      ],
+      "sources": [
+        {
+          "label": "PROTOTYPE 공식 - PS Vita 사이드 에피소드 제품·발매 정보",
+          "url": "https://www.prot.co.jp/psv/griside/spec.html"
+        },
+        {
+          "label": "PROTOTYPE 공식 - 세 편 구성과 풀보이스·조작 기능 소개",
+          "url": "https://www.prot.co.jp/psv/griside/introduction.html"
+        },
+        {
+          "label": "PlayStation Blog 일본 - 2017년 PS Vita판 외전 구성·캐릭터 및 편의성 소개",
+          "url": "https://blog.ja.playstation.com/2017/07/21/20170721-griside/"
+        },
+        {
+          "label": "가격.com - PS Vita판 이용자 후기(2024-10-31 수정)",
+          "url": "https://review.kakaku.com/review/K0000965045/"
+        },
+        {
+          "label": "JAPANZON - 일본 PS Vita 실물 패키지 앞표지, 2017년 상품",
+          "url": "https://www.japanzon.com/en/game/4780-grisaia-no-kajitsu-side-episode-ps-vita-sony-playstation-4580206270668.html"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/6461",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2017-07-27 일본 PS Vita 일반 패키지(VLJM-38011) 『グリザイアの果実 -SIDE EPISODE-』로, 『그리자이아의 과실』 본편·『미궁』·『낙원』 및 PC용 개별 외전과 구분함. 사용자 제공 URL의 배포 여부·지원 업데이트 버전·『유한/잔광/선율』 3편의 실제 번역 범위·미번역 부분·적용 절차·실기/에뮬레이터 호환성은 확인하지 않음. 설치·동작 검증 미수행."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://www.japanzon.com/12345-product_hd/grisaia-no-kajitsu-side-episode-ps-vita-sony-playstation.jpg",
+        "source": "https://www.japanzon.com/en/game/4780-grisaia-no-kajitsu-side-episode-ps-vita-sony-playstation-4580206270668.html",
+        "platform": "psvita",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
