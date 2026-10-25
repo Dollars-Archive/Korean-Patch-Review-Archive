@@ -6979,6 +6979,67 @@
       },
       "reviewedAt": "2026-10-25",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "kamaitachi-no-yoru-2-tokubetsuhen-psp",
+      "title": "카마이타치의 밤 2 특별편",
+      "original": "かまいたちの夜2 特別篇",
+      "platforms": [
+        "psp"
+      ],
+      "genres": [
+        "사운드 노벨",
+        "호러",
+        "미스터리 ADV"
+      ],
+      "score": 7.4,
+      "summary": "고립된 섬을 무대로 기묘한 사건을 풀어가는 호러 사운드 노벨의 PSP 이식판. 실사풍 배경·음향·실루엣 연출과 다채로운 분기 시나리오, 편리한 플로차트·음악 감상 모드가 매력적이지만 본격 추리의 논리성은 전작보다 약하고 초자연적·잔혹한 전개에 호불호가 커서 7.4점. 정통 범인 추리보다 괴담·심리 공포·다중 결말형 노벨을 좋아하는 사람에게 추천. 공개 자료 기반 편집 평가이며 직접 플레이한 점수는 아님.",
+      "pros": [
+        "고립된 섬과 오래된 동요를 바탕으로 한 음산한 분위기를 실사풍 배경, 실루엣 인물, 효과음과 음악으로 효과적으로 조성한다.",
+        "괴담·호러·코미디 등 성격이 다른 다수의 시나리오와 분기 결말을 제공해 한 작품 안에서 다양한 장르의 읽을거리를 즐길 수 있다.",
+        "촘촘한 플로차트로 이미 본 선택지에 돌아가기 쉽고, PSP판은 와이드 화면·사운드 플레이어와 새 음성 드라마 『ちょっとHなかまいたちの夜2』를 추가했다."
+      ],
+      "cons": [
+        "전작의 밀도 높은 범인 추리보다 초자연적 사건과 공포 연출의 비중이 커서 논리적인 수수께끼 해결을 기대하면 허전할 수 있다.",
+        "일부 시나리오의 잔혹·그로테스크한 이미지와 극단적인 전개, 분위기를 깨는 유머가 강한 호불호를 만든다.",
+        "PSP판에는 PS2판의 일부 콘텐츠(러브 테스터편 등)가 빠졌고 자동 저장 없이 세이브 슬롯이 3개뿐이며 읽기 속도·로딩도 불편하다는 지적이 있다."
+      ],
+      "sources": [
+        {
+          "label": "스파이크 춘소프트 공식 - 카마이타치의 밤 30주년 연혁 (PSP 특별편 2006년 발매)",
+          "url": "https://www.spike-chunsoft.co.jp/pages/kama30th/"
+        },
+        {
+          "label": "LaunchBox - PSP판 게임 및 일본판 앞표지 정보",
+          "url": "https://gamesdb.launchbox-app.com/games/images/121152-kamaitachi-no-yoru-2"
+        },
+        {
+          "label": "가격닷컴 - PSP판 사용자 리뷰 및 작품 평가",
+          "url": "https://review.kakaku.com/review/41371310199/"
+        },
+        {
+          "label": "게임의 추억 - PSP 특별편 리뷰·PS2판 차이",
+          "url": "https://ncode.syosetu.com/n9247dw/220/"
+        },
+        {
+          "label": "게임카탈로그 위키 - PSP 특별편의 추가 및 축소 요소",
+          "url": "https://w.atwiki.jp/gcmatome/pages/9699.html"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/5987",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2006년 일본 PSP판 『かまいたちの夜2 特別篇』(일반판 품번 ULJM-05110). 제공 링크의 지원 판본·디스크 리비전·번역 범위·미번역 영역·적용 방법 및 실기 호환성은 확인하지 않음. AI가 패치 설치·PSP 실기·에뮬레이터 실행 시험을 수행하지 않았음."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/c06fe294-34f3-45e0-aae4-b1e36eb4e96c.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/121152-kamaitachi-no-yoru-2",
+        "platform": "psp",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
