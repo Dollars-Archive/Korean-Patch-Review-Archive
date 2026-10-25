@@ -1332,6 +1332,69 @@
       },
       "reviewedAt": "2026-10-25",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "sakura-taisen-2-kimi-shinitamou-koto-nakare-saturn",
+      "title": "사쿠라 대전 2: 그대여 죽지 말지어다",
+      "original": "サクラ大戦2 ～君、死にたもうことなかれ～",
+      "platforms": [
+        "saturn"
+      ],
+      "genres": [
+        "ADV",
+        "SLG",
+        "RPG"
+      ],
+      "score": 8.7,
+      "summary": "1998년 일본 세가 새턴용 드라마틱 ADV·전략 RPG. 제국화격단 화조에 오리히메와 레니가 새로 합류하면서 여덟 히로인의 캐릭터 서사와 이벤트가 크게 확장된다. 대답의 시간과 침묵까지 선택으로 다루는 LIPS, 주인공 성격 변화, 풍림화산 작전 명령과 합체 공격이 연애 드라마와 전투를 잇고, 음악·성우 연기·애니메이션 연출이 매우 뛰어나다. 다만 전술 전투의 난도와 깊이가 제한적이고 길어진 전투·반복 플레이의 템포 및 구형 편의성은 아쉬워 8.7점. 인물 중심의 애니메이션 드라마와 가벼운 전략 전투를 함께 즐기는 사람에게 강력 추천하며 전작 선행 플레이를 권장한다. 세가 공식 회고와 세가 새턴판 관련 리뷰 기반의 편집 평가이며 직접 플레이한 점수는 아니다.",
+      "pros": [
+        "오리히메·레니 두 명이 새로 합류해 8명 히로인의 개성과 관계, 개별 엔딩 및 이벤트가 풍부해졌고 TV 애니메이션 같은 장 구성과 연출이 몰입을 돕는다.",
+        "타이밍 LIPS·더블 LIPS 및 오오가미의 성격 게이지가 대화 중 반응과 선택 시점까지 드라마에 반영하여 전작보다 상호작용이 다양하다.",
+        "부대 전체의 이동·공격·방어 균형을 바꾸는 풍림화산 명령, 새 필살기와 협력 공격이 전작의 전술 전투에 선택지를 더한다.",
+        "캐릭터 보이스·주제가·극반과 고품질 일러스트·애니메이션 컷신이 1998년 새턴판의 극장풍 분위기를 훌륭하게 완성한다."
+      ],
+      "cons": [
+        "전략 전투의 기본 난도가 낮고 구체적인 전술 선택보다는 정해진 절차로 이길 수 있는 전투가 많아 순수 SRPG로는 깊이가 부족하다.",
+        "전투와 필살기 연출이 길어 에피소드를 반복 감상하거나 다른 히로인 루트를 다시 진행할 때 템포가 느려진다.",
+        "전장 맵과 행동 표시, 제한적인 중간 저장·스킵 및 새턴 시절의 인터페이스가 현대 기준에서 불편하고 멀티 디스크 게임 특유의 번거로움이 있다.",
+        "전작 직후의 인물 관계를 전제로 하는 후속작이므로 1편을 모르면 감정적 몰입의 일부가 약해질 수 있다."
+      ],
+      "sources": [
+        {
+          "label": "SEGA 세가하드 공식 역사 - 세가새턴과 사쿠라대전 2 발매",
+          "url": "https://www.sega.jp/history/hard/column/column_05.html"
+        },
+        {
+          "label": "패미통 - 사쿠라대전 2 작품·시스템 회고 (2019-04-28)",
+          "url": "https://www.famitsu.com/news/201904/28174999.html"
+        },
+        {
+          "label": "Sega-Saturn.com - 사쿠라대전 2 새턴판 리뷰",
+          "url": "https://www.sega-saturn.com/saturn/software/reviews/sakura2-1.htm"
+        },
+        {
+          "label": "JIM'S ATTIC - Sega Saturn 짧은 플레이 리뷰",
+          "url": "https://jims-attic.com/video-game-review/sega-saturn-game-short-review-1/"
+        },
+        {
+          "label": "LaunchBox - 세가 새턴 사쿠라대전 2 일본판 Box - Front",
+          "url": "https://gamesdb.launchbox-app.com/games/images/96544-sakura-taisen-2-kimi-shinitamou-koto-nakare"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/6596",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 사용자 표기 '케도리'는 배포자 여부를 별도 확인하지 않은 정보임. 평가 대상은 1998-04-04 발매 일본 세가 새턴 일반판(GS-9198)이며 드림캐스트·PC·PSP 이식판과 구분. 제공된 패치의 지원 디스크 리비전, 번역 범위·미번역 부분, 적용 절차 및 호환성 미검증. 패치 설치·실기·에뮬레이터 검증 없음."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/40a18df4-a9d3-471f-af85-eac7fd71ebb0.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/96544-sakura-taisen-2-kimi-shinitamou-koto-nakare",
+        "platform": "saturn",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
