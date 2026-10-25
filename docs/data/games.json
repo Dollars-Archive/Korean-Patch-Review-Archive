@@ -1009,6 +1009,64 @@
       },
       "reviewedAt": "2026-10-25",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "memories-off-5-encore-psp",
+      "title": "메모리즈 오프 #5 앙코르",
+      "original": "メモリーズオフ#5 encore",
+      "platforms": [
+        "psp"
+      ],
+      "genres": [
+        "ADV",
+        "연애 비주얼 노벨"
+      ],
+      "score": 7.2,
+      "summary": "《메모리즈 오프 #5: 끊어진 필름》의 CUM연구회 엔딩에서 반년 뒤를 다루는 PS2 원작 후일담의 PSP 이식판(2009년 9월 17일, ULJM-05527). 아스카·마히로의 관계 변화와 새 인물 아키나를 세 시점의 이야기로 그려 캐릭터의 여운이 좋다. 다만 분량이 짧고 일부 본편 인물의 비중이 사라지며 전작을 알지 못하면 의미가 약하다. 전작을 완료한 팬에게 추천한다. 공식 PSP 제품 설명과 독립 이용자 리뷰에 기반한 편집 평가이며 직접 플레이하지 않았다.",
+      "pros": [
+        "아스카의 가족 문제와 성장을 다루는 후일담이 전작 인물의 감정선을 납득할 만하게 보강한다.",
+        "아스카·마히로·새 인물 이치조 아키나의 세 이야기와 여러 인물의 시점 전환이 하나의 연애 사건을 다양한 각도에서 바라보게 한다.",
+        "주인공을 제외한 인물은 풀보이스이고 주인공도 일부 음성이 있으며, 아보 다케시의 음악과 기존 캐릭터 연출이 멜로드라마 분위기를 살린다.",
+        "PSP판은 앨범의 이벤트 CG를 PSP 배경화면으로 등록하는 스크린샷 기능을 새로 추가했다."
+      ],
+      "cons": [
+        "팬디스크 성격에 맞게 전체 분량이 짧으며 독립적인 대작 수준의 새 갈등이나 큰 반전은 적다.",
+        "전작의 주요 인물이었던 미우미와 미즈호 등 일부 캐릭터가 빠져 후일담으로서 아쉬움이 남는다.",
+        "마히로의 전개는 상대적으로 평탄하고 신캐릭터 아키나의 심리와 사연은 더 깊게 다뤘으면 좋았다는 감상이 있다.",
+        "전작의 관계 및 CUM연구회 엔딩을 전제해 이번 작품부터 시작하면 등장인물 감정과 배경을 이해하기 어렵다."
+      ],
+      "sources": [
+        {
+          "label": "5pb. 공식 PSP판 제품 사양·추가 기능",
+          "url": "https://memoriesoff.jp/encore/spec.html"
+        },
+        {
+          "label": "PSP판 플레이 후기 및 시나리오별 감상 (水色の笹音)",
+          "url": "https://sapphy0611.doorblog.jp/archives/15848780.html"
+        },
+        {
+          "label": "Media World PSP 통상판 정보·줄거리",
+          "url": "https://mediaworld.co.jp/products/10210731003"
+        },
+        {
+          "label": "HMV PSP 통상판 ULJM05527 박스 이미지",
+          "url": "https://www.hmv.co.jp/en/artist_Game-Soft-Playstation-Portable_000000000252014/item_Memories-Off-5-Encore_3635782"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/6617",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. PSP 일본판 통상판 ULJM-05527을 평가했으며 제공 링크의 정확한 적용 대상, 번역 범위·미번역, 호환 리비전과 설치 절차는 검증하지 않았다. 실기·에뮬레이터 설치 및 진행 테스트도 하지 않았다."
+      },
+      "cover": {
+        "url": "https://img.hmv.co.jp/image/jacket/400/36/3/5/782.jpg",
+        "source": "https://www.hmv.co.jp/en/artist_Game-Soft-Playstation-Portable_000000000252014/item_Memories-Off-5-Encore_3635782",
+        "platform": "psp",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT"
     }
   ]
 }
