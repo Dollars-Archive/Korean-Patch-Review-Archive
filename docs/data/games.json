@@ -3315,6 +3315,77 @@
       },
       "reviewedAt": "2026-10-25",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "tales-of-the-world-narikiri-dungeon-2-gba",
+      "title": "테일즈 오브 더 월드 나리키리 던전 2",
+      "original": "テイルズ オブ ザ ワールド なりきりダンジョン2",
+      "platforms": [
+        "gba"
+      ],
+      "genres": [
+        "액션 RPG",
+        "코스튬 수집 RPG",
+        "판타지"
+      ],
+      "score": 7.6,
+      "summary": "2002년 10월 25일 남코가 일본 GBA로 발매하고 알파시스템이 개발한 액션 RPG(AGB-AN9J-JPN). 프리오와 캬로가 코스튬을 갈아입으며 직업·역대 테일즈 시리즈 인물의 능력을 익히는 '나리키리' 시스템과 실시간 리니어 모션 전투, 코스튬 육성·조합이 주된 매력이다. 150종 이상의 코스튬과 역대 인물들이 풍부한 팬서비스를 제공하지만, 의뢰를 받아 같은 던전을 방문하고 몬스터를 토벌·아이템을 회수하는 반복 구조와 비교적 단순한 세계수 구출 이야기는 약점이다. 캐릭터 수집·성장과 테일즈식 실시간 전투를 즐기는 시리즈 팬에게 추천한다. 공식 자료, GBA 이용자 평가 및 플레이 기록을 바탕으로 한 편집 평가이며 직접 플레이하지 않았고 한글패치 제공 여부는 점수에 반영하지 않았다.",
+      "pros": [
+        "150종 이상의 코스튬을 교체해 전사·마법사 등 직업별 기술을 쓰고 루츠 아이템 등으로 능력·종류를 바꾸는 육성·수집 시스템이 폭넓다.",
+        "게임보이 컬러 전작의 턴제와 달리 GBA에서는 테일즈 특유의 실시간 리니어 모션 전투와 기술 연계가 살아 있어 조작하는 재미가 크다.",
+        "판타지아·데스티니·이터니아 등 당시 역대 작품 인물의 등장과 해당 캐릭터로 변신하는 코스튬이 테일즈 팬의 향수를 자극한다.",
+        "마을 의뢰의 종류, 코스튬 레시피·몬스터·등장인물 도감, 파티원 AI 방침 설정이 성장과 탐험에 소소한 목표를 부여한다."
+      ],
+      "cons": [
+        "물건 찾기·특정 몬스터 처치·조사·전달 등 유사한 의뢰를 위해 같은 던전을 여러 차례 오가며 진행하는 과정이 단조로워질 수 있다.",
+        "세계수와 이세계 구출이라는 본편 서사는 비교적 얇아 코스튬 시스템과 캐릭터 팬서비스에 비해 이야기의 존재감이 약하다.",
+        "적응 후 본편 전투 난도가 비교적 낮고 일부 코스튬·조합이 강해서 플레이가 익숙해질수록 전투 전략의 긴장감이 줄어들 수 있다.",
+        "리더 이외 동료는 AI 방침에 의존하며 세세한 기술 배치와 의상 관리가 잦아 반복 의뢰 중 조작의 번거로움이 느껴진다."
+      ],
+      "sources": [
+        {
+          "label": "반다이남코 공식 GBA판 시스템·코스튬 변경 및 합성 소개",
+          "url": "https://www.bandainamcoent.co.jp/cs/list/narikiri2/system/index.html"
+        },
+        {
+          "label": "반다이남코 공식 GBA판 등장인물·게임 소개",
+          "url": "https://www.bandainamcoent.co.jp/cs/list/narikiri2/chrs/index.html"
+        },
+        {
+          "label": "패미통 일본 GBA판 출시일·장르·제작사 정보",
+          "url": "https://www.famitsu.com/game/title/1497/reviews"
+        },
+        {
+          "label": "한국 GBA 이용자 소개·전투 변화·코스튬 감상",
+          "url": "https://dnfldi2.tistory.com/1308"
+        },
+        {
+          "label": "GBA 이용자 리뷰: 난이도·서사·사운드·조작 감상",
+          "url": "https://review.daihouko.com/gba/totn2.htm"
+        },
+        {
+          "label": "GameFAQs GBA판 공략: 의뢰 유형·전투 AI·의상 관리",
+          "url": "https://gamefaqs.gamespot.com/gba/561826-tales-of-the-world-narikiri-dungeon-2/faqs/36014"
+        },
+        {
+          "label": "LaunchBox GBA 일본판 Box - Front 원본 분류",
+          "url": "https://gamesdb.launchbox-app.com/games/images/128807-tales-of-the-world-narikiri-dungeon-2"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/6431",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 대상 평가 판본은 일본 게임보이 어드밴스판(AGB-AN9J-JPN) 『なりきりダンジョン2』이며 GBC 전작이나 GBA 후속작 3편과 구분한다. 제공 링크가 실제 어느 버전·롬 리비전을 지원하는지, 번역 범위·미번역·설치 방법과 배포 상태는 확인하지 않았다. 한글패치를 설치하거나 실기·에뮬레이터에서 테스트하지 않았다."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com/f38807a8-9bad-4404-8095-1bd33965c6c3.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/128807-tales-of-the-world-narikiri-dungeon-2",
+        "platform": "gba",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT"
     }
   ]
 }
