@@ -1195,6 +1195,73 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "eldorado-gate-volume-3-dreamcast",
+      "title": "엘도라도 게이트 제3권",
+      "original": "エルドラドゲート 第3巻",
+      "platforms": [
+        "dreamcast"
+      ],
+      "genres": [
+        "RPG",
+        "턴제 RPG",
+        "판타지"
+      ],
+      "score": 6.7,
+      "summary": "2001년 2월 2일 발매된 캡콤의 DC 전용 연작 턴제 RPG 제3권(T-1225M). 카난과 파멜라 중심의 제7·8화에서 이어지는 어두운 판타지와 아마노 요시타카의 강렬한 인물 디자인, 속성 장비·마법 운용이 매력적이다. 그러나 전투 및 UI가 단순하고 음성 연출이 빈약하며 시리즈 앞뒤 권 의존도가 높아 독립적인 게임으로서의 완성도는 중간 정도다. 연속 서사형 고전 턴제 RPG와 아마노의 미술을 좋아하는 팬에게 추천한다. 공식 기초 자료와 DC판 리뷰·당시 플레이 기록을 종합한 편집 평가이며 직접 플레이하지 않았다.",
+      "pros": [
+        "카난의 저주받은 가면과 파멜라의 기억을 중심으로 제7·8화의 인물 사연을 전개하며 연작 판타지의 어두운 분위기를 살린다.",
+        "아마노 요시타카 특유의 섬세하고 환상적인 캐릭터 디자인과 표지 미술이 작품의 정체성을 확실하게 만든다.",
+        "무기·장비·마법의 속성 관계를 이용하는 턴제 전투와 여러 지역의 탐험·장비 강화가 고전 RPG의 기본 재미를 제공한다.",
+        "기존보다 풍부해진 일부 배경·고위 마법의 3D 효과, 몬스터 정보를 관리하는 도감 추가가 볼거리와 수집 재미를 보완한다."
+      ],
+      "cons": [
+        "전투와 성장 구조가 단순하고 조작·메뉴의 편의성이 부족해 반복 전투에서 피로가 쌓인다.",
+        "음성 연기가 극히 적고 음악의 호불호가 있어 강렬한 인물·표지 디자인에 비해 청각 연출의 존재감이 약하다.",
+        "제3권에는 제7화·제8화만 수록되어 분량이 짧고 전체 줄거리 이해를 위해 1·2권 및 이후 권을 이어서 플레이해야 한다.",
+        "기본 시스템에 큰 변화가 없어 전작의 탐색·전투 반복을 선호하지 않은 사람에게 새로운 매력이 부족하다."
+      ],
+      "sources": [
+        {
+          "label": "패미통 - 드림캐스트 제3권 발매일·기종·가격·장르",
+          "url": "https://www.famitsu.com/game/title/12544/reviews"
+        },
+        {
+          "label": "LaunchBox - 제3권 줄거리·일본판 DC 박스 앞표지",
+          "url": "https://gamesdb.launchbox-app.com/games/details/107272-eldorado-gate-volume-3"
+        },
+        {
+          "label": "RPGamer - 제3권 제7·8화 구성",
+          "url": "https://archive.rpgamer.com/news/Q4-2000/122900a.html"
+        },
+        {
+          "label": "RPGamer - 제3권 도감·추가 기능",
+          "url": "https://archive.rpgamer.com/news/Q1-2001/011801b.html"
+        },
+        {
+          "label": "DC 제3권 게임플레이 기록 및 짧은 평가 (ADK)",
+          "url": "https://www.cheatcodes.com/guide/walkthrough-el-dorado-gate-vol.-3-dreamcast-14046/"
+        },
+        {
+          "label": "일본 DC 작품별 평가 - 에ルドラド게이트 제3권",
+          "url": "https://uniquerui.com/tblog/dreamcast-all-software-tier/"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/6600",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 제공자 표기: GiKakNo(사용자 입력, 별도 검증하지 않음). 평가 대상은 드림캐스트 일본판 제3권(T-1225M)이며 이 링크가 해당 판본을 지원하는지, 번역 범위·미번역 요소·적용 방법·현재 배포 여부는 확인하지 않았다. 설치·실기 테스트도 수행하지 않았다."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com/6cd3a59d-1bee-4b46-aa04-fdaeb2726ccf.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/107272-eldorado-gate-volume-3",
+        "platform": "dreamcast",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT"
     }
   ]
 }
