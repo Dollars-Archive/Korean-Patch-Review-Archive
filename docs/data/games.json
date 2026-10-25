@@ -1585,6 +1585,73 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "erementar-gerad-matoe-suifu-no-ken-ps2",
+      "title": "엘르멘탈 제라드: 휘감아라, 취풍의 검",
+      "original": "エレメンタル ジェレイド -纏え、翠風の剣-",
+      "platforms": [
+        "ps2"
+      ],
+      "genres": [
+        "ACT",
+        "FTG"
+      ],
+      "score": 6.2,
+      "summary": "2005년 6월 30일 타이토가 일본 PS2로 출시한 3D 대전 격투 게임(SLPM-62623). 애니메이션·만화 《엘르멘탈 제라드》를 바탕으로 플레이저와 에딜레이드의 리액트, 영창 입력 필살기, 셀 셰이딩 연출과 풀보이스 스토리를 재현한다. 조작이 직관적이고 원작 캐릭터의 분위기가 잘 살아 있지만, 격투 캐릭터가 약 9명으로 적고 CPU 난도가 낮으며 모드·스토리 볼륨과 동작 속도에 한계가 있어 6.2/10. 원작 팬과 가벼운 2인 대전을 즐길 사람에게 조건부 추천하며, 깊은 격투 시스템이나 장편 이야기를 기대한다면 우선도가 낮다. 일본 PS2판의 공식 소개와 이용자 리뷰에 근거한 편집 평가로 직접 플레이하지 않았다.",
+      "pros": [
+        "원작 만화·애니메이션의 캐릭터와 세계관을 스토리 모드에 담고, 원작을 잘 몰라도 사건의 기본 흐름을 이해할 수 있도록 내레이션과 풀보이스를 제공한다.",
+        "원작 특유의 플레이저·에딜레이드 '리액트' 합체, 영창 타이밍을 맞추는 필살기와 캐릭터별 특수 연출을 격투 시스템에 반영했다.",
+        "툰 셰이딩 그래픽, 원작에 가까운 전투 효과, 오리지널 오프닝과 캐릭터 음성이 라이선스 게임으로서의 분위기를 살린다.",
+        "기본 입력과 콤보·회피·가드가 어렵지 않고 스토리·아케이드·대인 대전·연습 모드가 있어 원작 팬이나 격투 초심자가 접근하기 좋다."
+      ],
+      "cons": [
+        "플레이 가능한 격투 캐릭터가 약 9명으로 적고 캐릭터 변경의 폭이 좁아 반복 플레이의 깊이가 제한된다.",
+        "CPU 난도가 낮고 상급자에게도 도전성이 부족하다는 이용자 리뷰가 있으며, 일부 대전은 전술보다 단순한 반복 입력으로 해결된다.",
+        "캐릭터 이동과 연속기 연결이 다소 느리고 영창 필살기는 입력을 성공시켜도 막히거나 빗나가는 경우가 있어 큰 기술의 보상이 불안정하다.",
+        "스토리 모드의 사용 인물이 제한되고 별도 시나리오·서바이벌 등 다양한 게임 모드가 부족해 전체 콘텐츠 분량이 작다.",
+        "보너스 아이템·복장 수집을 위해 아케이드 모드를 반복해야 하며 해금 동선의 반복성이 크다."
+      ],
+      "sources": [
+        {
+          "label": "MAG Garden 공식 - PS2 작품 정보 및 오리지널/베스트판 동일 콘텐츠",
+          "url": "https://www.mag-garden.co.jp/erementar-gerad/ps2.html"
+        },
+        {
+          "label": "GAME Watch - 타이토 PS2판 스토리와 영창·필살기 시스템 소개",
+          "url": "https://game.watch.impress.co.jp/docs/20050311/eg.htm"
+        },
+        {
+          "label": "Joko - 일본 PS2판 이용자 리뷰·캐릭터 수·난이도 평가",
+          "url": "https://www.joko.jp/ps2/review/ti1548.html"
+        },
+        {
+          "label": "게임 야오요로즈 Retro - PS2판 독립 상세 플레이 리뷰",
+          "url": "https://mimora.mimoza.jp/yao_game/retro/contents/ctg_main/memorandum/PS2/detail/gmr_PS2-0038.php"
+        },
+        {
+          "label": "Gavas 게임 카탈로그 - 일본 PS2 초판 SLPM-62623",
+          "url": "https://www.gavas.jp/products/detail.php?product_id=13632"
+        },
+        {
+          "label": "LaunchBox - 일본 PS2판 Box - Front 패키지 이미지",
+          "url": "https://gamesdb.launchbox-app.com/games/images/57967-erementar-gerad-matoe-suifu-no-ken"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/6537",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 일본 PS2 초판(2005-06-30, SLPM-62623)을 평가했으며, 이 URL의 실제 패치 대상 판본·리비전·스토리/메뉴/음성 등의 한국어 번역 범위·미번역 항목·설치 과정·실기/에뮬레이터 구동 여부는 조회하거나 검증하지 않았다. 2006년 Taito Best(TCPS-10161)와 호환된다고도 단정하지 않는다."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com//a5490dce-ba0f-4a76-a8c5-8fe3e8d54bb4.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/57967-erementar-gerad-matoe-suifu-no-ken",
+        "platform": "ps2",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT"
     }
   ]
 }
