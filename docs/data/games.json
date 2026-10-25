@@ -2084,6 +2084,66 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "shizuku-pc98",
+      "title": "시즈쿠 (PC-98판)",
+      "original": "雫 ～しずく～",
+      "platforms": [
+        "pc"
+      ],
+      "genres": [
+        "ADV"
+      ],
+      "score": 7.6,
+      "summary": "1996년 Leaf가 NEC PC-9800용 MS-DOS로 출시한 성인용 심리 호러 비주얼 노벨이자 Leaf Visual Novel Series 1탄. 학교에서 일어나는 불가해한 사건과 인물들의 불안정한 심리를 짧고 밀도 있게 표현하며 수수께끼를 따라가는 전개, 인상적인 음악·일러스트가 강점이다. 다만 현대 기준 짧은 시나리오, 초기 작품 특유의 단순한 분기·편의성, 폭력과 강압적인 성적 소재 등의 자극적인 연출 때문에 7.6점. 불온한 분위기의 고전 서스펜스 VN과 초기 Leaf 작품에 관심 있는 성인 독자에게 추천한다. 1996년 PC-98 원작 기준 공개 자료를 읽고 작성한 편집 평가이며 직접 플레이한 점수는 아니다.",
+      "pros": [
+        "학교에서 벌어진 기이한 사건을 단서로 일상과 광기의 경계가 흔들리는 심리 미스터리를 전개하며 개성 강한 인물들의 시각이 긴장감을 형성한다.",
+        "주인공과 조사에 동행하는 인물에 따라 달라지는 관점·결말, 강렬하게 기억에 남는 장면들이 짧은 분량 안에 밀도를 준다.",
+        "수나즈키 토오루의 독특한 작화와 오리토 신지 등이 참여한 음악이 불길하고 음울한 분위기를 잘 살린다.",
+        "Leaf Visual Novel Series의 첫 작품으로 산문과 CG를 결합한 고전 비주얼 노벨의 실험적 매력을 느낄 수 있다."
+      ],
+      "cons": [
+        "전체 시나리오와 개별 분기 분량이 현재 비주얼 노벨 기준으로 짧고, 일부 인물·설정의 설명과 여운이 충분하지 않을 수 있다.",
+        "선택지·텍스트 진행을 중심으로 한 초기 PC-98 인터페이스는 현대 작품과 비교하면 읽기와 반복 감상 편의성이 떨어진다.",
+        "정신적 폭력과 잔혹·강압적인 성적 표현을 포함해 자극적인 소재에 민감한 독자에게는 권하기 어렵다."
+      ],
+      "sources": [
+        {
+          "label": "MobyGames - Shizuku (1996) NEC PC-98 원작 정보",
+          "url": "https://www.mobygames.com/game/52293/shizuku/"
+        },
+        {
+          "label": "게임 카탈로그@Wiki - 雫 비주얼 노벨 평가",
+          "url": "https://w.atwiki.jp/gcmatome/pages/5607.html"
+        },
+        {
+          "label": "ADVGAMER - 雫 PC-98 원작 회고·리뷰",
+          "url": "https://advgamer.com/shizuku/"
+        },
+        {
+          "label": "게임보존협회 - 雫 PC-9801UX 플로피 실물 정보",
+          "url": "https://www.gamepres.org/catalog/?id=8811007923009"
+        },
+        {
+          "label": "駿河屋 - 雫 PC-9801 3.5인치판 패키지·이미지",
+          "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/155004107"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/5750",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 1996-01-26 출시 일본 NEC PC-9800/MS-DOS판(플로피 5장)이며 1996년 Windows 이식판·2004년 리뉴얼판과 구분한다. 사이트에서 pc98 전용 기종 ID를 지원하지 않아 platforms는 pc, 게임 ID는 shizuku-pc98로 등록. 사용자 제공 패치의 정확한 지원 판본·번역 범위·설치 절차·호환성 검증하지 않음. 설치·실기·에뮬레이터 검증 없음."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/155004107m.jpg.webp",
+        "source": "https://www.suruga-ya.jp/kaitori/kaitori_detail/155004107",
+        "platform": "pc",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
