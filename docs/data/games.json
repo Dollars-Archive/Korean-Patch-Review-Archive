@@ -10943,6 +10943,71 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "tales-of-the-world-radiant-mythology-2-psp",
+      "title": "테일즈 오브 더 월드: 레디언트 미솔로지 2",
+      "original": "テイルズ オブ ザ ワールド レディアント マイソロジー2",
+      "platforms": [
+        "psp"
+      ],
+      "genres": [
+        "액션 RPG",
+        "캐릭터 육성",
+        "크로스오버"
+      ],
+      "score": 7.8,
+      "summary": "2009년 1월 29일 발매된 일본 PSP 일반판 《テイルズ オブ ザ ワールド レディアント マイソロジー2》(ULJS-00175). 직접 만든 디센더와 역대 《테일즈 오브》 캐릭터 50명이 함께 모험하며 다양한 직업의 프리런 액션 전투, 장비 파밍과 의뢰를 수행하는 외전 RPG다. 풍성한 출연진, 개선된 로딩·파티 구성, 스킷과 장기 육성이 장점이지만, 단순한 반복 의뢰와 직업·동료 전투 밸런스, 일부 강제 동료 육성 및 출연 비중 편차가 아쉽다. 7.8점. 캐릭터 육성·수집 및 역대 시리즈 팬서비스를 선호한다면 추천한다. 공식 자료와 전문 리뷰·이용자 평가에 근거한 편집 점수이며 직접 플레이한 결과는 아니다.",
+      "pros": [
+        "역대 테일즈 시리즈 캐릭터 50명이 등장하고, 스킷과 동료 대화를 통해 좋아하는 캐릭터로 자유롭게 파티를 꾸릴 수 있는 크로스오버의 매력이 크다.",
+        "여러 기본·상위 직업과 세밀한 캐릭터메이크, 장비에 따른 외형 변화와 장비 파밍이 육성 욕구를 자극하며 4인 프리런 액션 전투의 조작도 경쾌하다.",
+        "전작보다 짧아진 PSP 로딩, 배를 활용한 지역 이동, 간단해진 의뢰 수령과 파티 편성, 투기장·엔딩 후 추가 도전이 플레이 흐름과 볼륨을 개선했다."
+      ],
+      "cons": [
+        "특정 적 처치와 재료 수집 의뢰가 반복되고 한 번에 하나씩 수락하는 구조라 중반 이후 단순 반복 작업의 비중이 상당하다.",
+        "직업·무기·동료 간 성능 차이와 AI의 보스전 대응 문제, 일부 필수 합류 인물의 낮은 레벨 때문에 원하는 파티 운영이 번거로운 구간이 있다.",
+        "일부 시리즈 캐릭터에 이야기상 비중이 치우치고 성격과 기술 재현이 불균일하며, 오리지널 서사는 정통 테일즈 본편만큼 깊지 않다."
+      ],
+      "sources": [
+        {
+          "label": "반다이남코 테일즈 채널 - 공식 작품 정보·출시일",
+          "url": "https://tales-ch.jp/titles/toworldmythology2/"
+        },
+        {
+          "label": "GAME Watch - 2009년 PSP 전문 리뷰: 전투·직업·퀘스트·로딩",
+          "url": "https://game.watch.impress.co.jp/docs/20090228/tr2.htm"
+        },
+        {
+          "label": "게임카탈로그@Wiki - 일본 PSP판 전투 밸런스·서사 평가",
+          "url": "https://w.atwiki.jp/gcmatome/pages/495.html"
+        },
+        {
+          "label": "피코피코대백과 - PSP 사용자 리뷰·전작과 개선점",
+          "url": "https://www.gavas.jp/products/detail.php?product_id=15317"
+        },
+        {
+          "label": "스루가야 - 일본 PSP 일반판 ULJS-00175 제품 정보",
+          "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/177000905"
+        },
+        {
+          "label": "LaunchBox - PSP 일본판 앞표지",
+          "url": "https://gamesdb.launchbox-app.com/games/images/26222-tales-of-the-world-radiant-mythology-2"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/4837",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2009년 일본 PSP 일반판 《テイルズ オブ ザ ワールド レディアント マイソロジー2》(ULJS-00175)이며 PSP the Best(ULJS-19044), 타 지역판, 1·3편과 구분한다. 패치의 대상 리비전, 스토리·스킷·퀘스트·장비·UI 번역 범위와 미번역 여부, 적용 방법 및 PSP 실기·PPSSPP 작동 여부는 확인하지 않았다."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/a59016d9-4f7f-4e08-8e07-2f10536d571c.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/26222-tales-of-the-world-radiant-mythology-2",
+        "platform": "psp",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
