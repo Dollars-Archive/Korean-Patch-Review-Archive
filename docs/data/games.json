@@ -4414,6 +4414,75 @@
       },
       "reviewedAt": "2026-10-25",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "omoide-ni-kawaru-kimi-memories-off-psp",
+      "title": "추억으로 변하는 너: 메모리즈 오프 3",
+      "original": "想い出にかわる君 ～Memories Off～",
+      "platforms": [
+        "psp"
+      ],
+      "genres": [
+        "ADV"
+      ],
+      "score": 6.8,
+      "summary": "2008년 8월 14일 일본 PSP 일반판 『想い出にかわる君 ～Memories Off～』(ULJM-05349, 5pb./CYBERFRONT). 2002년 PS2·드림캐스트용 『메모리즈 오프』 시리즈 제3작의 이식판이다. 대학생 가가 쇼고가 이유도 모른 채 떠난 옛 연인 구로스 카나타와 재회하면서 시작되는 청춘 연애극으로, 카페 친구들의 활기찬 대화와 일곱 히로인에 걸친 관계, 기억과 이별·성장에 대한 소재가 특징이다. 풍부한 CG와 음악, 기본 텍스트 감상 기능이 강점이고 PSP판에서는 새 오프닝·주제가와 후일담 『AfterStory』를 추가한다. 다만 주인공 및 주변 인물의 납득하기 어려운 언행, 히로인별 서사 완성도 차이, 장황한 공통 대화와 급작스러운 갈등 해소 등이 비판을 받아 6.8점. 전통적인 학원 연애 VN과 다른 대학생들의 복잡한 관계·씁쓸한 청춘극을 선호하거나 시리즈 완주를 원하는 팬에게 조건부 추천한다. PSP판 실사용 후기와 공식 제품·이식 정보, PS2판과 공통된 시나리오의 다른 리뷰를 참고한 자료 기반 편집 평가이며 직접 플레이한 점수가 아니다.",
+      "pros": [
+        "대학생 쇼고의 옛 연인 카나타와의 재회에서 출발해, 대학·카페·아르바이트 등 청춘의 생활공간에서 만난 여러 인물의 우정과 질투, 기억과 이별을 다룬다는 점이 전작과 다르다.",
+        "구로스 카나타·가시마 네오·나유타 등 일곱 히로인을 둘러싼 각각의 인간관계와 거침없는 남성 조연들의 대화가 연애 외에 친구들과 어울리는 일상의 활기를 전한다.",
+        "KID 시절의 안정적인 대사창·세이브·텍스트 진행 시스템과 많은 이벤트 CG, 친숙한 음악 및 성우 연기가 읽는 재미와 분위기를 뒷받침한다.",
+        "PSP판에서 와이드 화면 대응과 새 오프닝 영상·주제가를 더하고 후일담 소설 형식의 추가 모드 『AfterStory』를 수록해 원작 팬에게 새로운 감상 요소를 제공한다."
+      ],
+      "cons": [
+        "주인공의 우유부단하고 가벼운 언동과 일부 조연의 갑작스러운 행동에 충분한 설명이 없어 감정이입을 방해한다는 평가가 반복적으로 나온다.",
+        "일곱 히로인 시나리오의 사건 구성과 마무리에 편차가 크고, 일부 중요한 갈등을 설득력 있게 발전시키지 못하거나 서둘러 정리한다.",
+        "카페에서 이어지는 잡담과 농담이 길고 일부 히로인 루트의 주요 전개가 겹쳐 긴장감과 반복 감상의 재미가 떨어지는 구간이 있다.",
+        "선택지 위주의 전통적인 VN 구성이라 조작 요소가 적으며, PSP판에서도 선택에 따른 호감도 증감 표시가 없어 공략 편의성이 제한적이다. 추가 『AfterStory』도 본편에 맞먹는 장편이라기보다는 보충 이야기다."
+      ],
+      "sources": [
+        {
+          "label": "5pb. 메모리즈 오프 PSP판 공식 - 게임명·발매일·판본 정보",
+          "url": "https://memoriesoff.jp/psp/omokimi/"
+        },
+        {
+          "label": "전격온라인 - PSP판 출시, 새 OP·주제가 및 AfterStory 수록 보도(2008-08-13)",
+          "url": "https://dengekionline.com/elem/000/000/099/99094/"
+        },
+        {
+          "label": "水色の笹音 - PSP판 직접 감상 후기·편의성·시나리오 평가(2018-02-06)",
+          "url": "https://sapphy0611.doorblog.jp/archives/6902460.html"
+        },
+        {
+          "label": "こしのり漫遊記 - PSP판 전체 플레이에 대한 긍정·부정 혼합 평가(2021-07-19)",
+          "url": "https://koshinori.hatenablog.com/entry/2021/07/19/203134"
+        },
+        {
+          "label": "Harvest의 블로그 - 공통 시나리오 전체 루트 평가와 시스템 분석(2015-11-15)",
+          "url": "https://harvestwa2.hatenablog.jp/entry/2015/11/15/%E6%83%B3%E3%81%84%E5%87%BA%E3%81%AB%E3%81%8B%E3%82%8F%E3%82%8B%E5%90%9B_%EF%BD%9EMemories_Off%EF%BD%9E%EF%BC%88Memories_Off_3%EF%BC%89_%E7%B7%8F%E8%A9%95"
+        },
+        {
+          "label": "LaunchBox - PSP판 일본 박스 앞표지 (Box - Front)",
+          "url": "https://gamesdb.launchbox-app.com/games/details/121362-memories-off-omoide-ni-kawaru-kimi"
+        },
+        {
+          "label": "駿河屋 - PSP 일본 통상판 ULJM-05349 확인",
+          "url": "https://www.suruga-ya.jp/product/detail/177000821"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "",
+        "notes": "이번 요청에 한글패치 주소가 제공되지 않아 링크를 등록하지 않았다. PSP 일본 통상판(ULJM-05349, 2008-08-14)과 PS2·드림캐스트 2002년 원판, PSP 한정판(FVGK-0009) 및 염가판(ULJM-05595)을 구분한다. 한국어 패치의 존재·배포 상태·지원 UMD/다운로드판·번역 범위·버전·적용 방법은 검증하지 않았다. 패치 설치 또는 PSP 실기·PPSSPP 동작 검증 없음."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com//b8505993-43e5-4f81-8f12-e1901bb6939f.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/details/121362-memories-off-omoide-ni-kawaru-kimi",
+        "platform": "psp",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
