@@ -11487,6 +11487,70 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "sotsugyou-s-saturn",
+      "title": "졸업 S",
+      "original": "卒業S",
+      "platforms": [
+        "saturn"
+      ],
+      "genres": [
+        "SLG",
+        "육성 시뮬레이션"
+      ],
+      "score": 7,
+      "summary": "1997년 9월 25일 일본 세가 새턴으로 발매된 『卒業S』（T-20103G）를 대상으로 한 자료 기반 편집 평가이며 직접 플레이하지 않았다. 청화학원 3학년 B반 다섯 학생의 수업·휴식·행사를 지도해 학력과 품행을 관리하고 졸업 후 진로를 바꾸는 재미, 짧은 플레이 시간과 여러 결말의 재도전성, 향상된 캐릭터 연출이 매력적이다. 그러나 주간 일정 입력과 능력치 관리의 반복, 불친절한 파라미터 변동, 새턴의 『졸업 II』보다 옛날 방식인 구조가 아쉬워 7.0점. 여러 결말을 수집하는 고전 육성 시뮬레이션 팬에게 조건부 추천한다.",
+      "pros": [
+        "담임교사가 개성이 다른 다섯 학생의 공부·휴식·활동을 지도하면서 성적·품행·인기 등이 변하고, 졸업·진학·사회 진출 등 여러 결과를 만들어내는 성장 설계가 흥미롭다.",
+        "한 회차가 비교적 짧아 진로와 학생별 능력을 다르게 조절하는 반복 공략에 적합하고, 학예회·체육대회·정기 시험에서 육성 결과를 확인하는 성취감이 있다.",
+        "원작의 인기 캐릭터 일러스트와 음성을 더 선명하게 감상할 수 있고, 새턴판의 추가 이벤트·노래 관련 콘텐츠로 시리즈 팬 서비스가 보강됐다."
+      ],
+      "cons": [
+        "학생별 주간 스케줄 편성과 수치 변화를 한 학년 동안 반복해야 하므로 운영 원리를 파악한 뒤에는 플레이가 기계적으로 느껴질 수 있다.",
+        "훈련·휴식과 기분·결석이 여러 능력치에 동시에 영향을 미치는데 변화의 설명과 표시가 직관적이지 않고, 새턴판은 전체 학생 수치를 한눈에 파악하기도 번거롭다.",
+        "초대 『졸업』의 구조를 유지한 이식작이어서 새턴에서 먼저 출시된 『졸업 II』와 비교하면 육성·학생 간 관계 시스템이 단순하고 진행 이벤트도 일부 고정돼 있다."
+      ],
+      "sources": [
+        {
+          "label": "패미통 - 1997년 새턴판 발매일·제작사·장르 기본 정보",
+          "url": "https://www.famitsu.com/game/title/15151/reviews"
+        },
+        {
+          "label": "세가 새턴 소프트 자료 SataKore - 일본판 표기·형번 T-20103G",
+          "url": "https://www.satakore.com/sega-saturn-game,,T-20103G,,Sotsugyou-S-JPN.html"
+        },
+        {
+          "label": "Uji의 방 - 세가 새턴판 직접 리뷰와 원판·2편 비교",
+          "url": "https://ujiroom.dokkoisho.com/Game/revSS1.html"
+        },
+        {
+          "label": "다쓰민의 찻집 - 새턴판 실기 플레이 기록과 수업·시험·행사",
+          "url": "https://tatsumin-cafe.jp/blog-entry-973.html"
+        },
+        {
+          "label": "게임 콘솔 대사전 - 새턴 이식판 추가점·시스템의 장단점",
+          "url": "https://consoledictionary.com/games/11271"
+        },
+        {
+          "label": "LaunchBox - 1997년 일본 SS판 Box - Front",
+          "url": "https://gamesdb.launchbox-app.com/games/images/125376-sotsugyou-graduation-s"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/5402",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 1997년 9월 25일 발매된 일본 세가 새턴판 『卒業S』（T-20103G, NEC 인터채널）이다. PC-98·PC엔진 원작 『卒業 ～Graduation～』, 세가 새턴 『卒業II Neo Generation』 및 『卒業 Crossworld』와는 다른 판본/작품이다. 제공한 URL의 패치 배포 여부, 번역 범위·미번역 항목·지원 CD판본 및 적용 방법, 새턴 실기·에뮬레이터 호환성은 검증하지 않았고 설치·구동 테스트도 수행하지 않음."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/7b976f71-a71e-4bb9-875b-a10ff8909e97.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/125376-sotsugyou-graduation-s",
+        "platform": "saturn",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
