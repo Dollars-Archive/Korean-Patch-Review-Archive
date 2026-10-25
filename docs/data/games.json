@@ -6473,6 +6473,68 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "fuurai-no-shiren-gaiden-onna-kenshi-asuka-kenzan-dreamcast",
+      "title": "풍래의 시렌 외전: 여검사 아스카 등장!",
+      "original": "不思議のダンジョン 風来のシレン外伝 女剣士アスカ見参！",
+      "platforms": [
+        "dreamcast"
+      ],
+      "genres": [
+        "로그라이크",
+        "던전 RPG"
+      ],
+      "score": 8.7,
+      "summary": "2002년 일본 드림캐스트판(세가, HDR-0187)의 정통 턴제 로그라이크 던전 RPG. 매번 달라지는 던전에서 아이템 식별·합성·전술적 위치 선정이 깊이를 만들고, 몬스터를 동료나 장비처럼 육성하는 에레키 상자, 비기와 다종다양한 특수 던전이 뛰어난 재도전 가치를 제공한다. 다만 큰 실패 부담과 일부 적·장비·에레키 상자 밸런스, 후속 Windows판보다 적은 추가 콘텐츠를 감안해 8.7점. 어려운 던전과 장기적인 숙련을 즐기는 로그라이크 팬에게 강력 추천. 공개 자료 기반 편집 평가이며 직접 플레이하지 않았고 한글패치 여부는 점수에 반영하지 않음.",
+      "pros": [
+        "턴 단위 전투와 절차 생성 던전, 물품 식별·합성·먹거리 관리가 매번 다른 상황을 만들어 장기적 전략과 즉흥적 판단을 모두 요구한다.",
+        "에레키 상자로 몬스터형 자동인형을 불러내거나 직접 장착하고 회로·레벨을 육성할 수 있어 다양한 돌파 전략과 수집 동기를 준다.",
+        "비기와 특수 규칙이 있는 각종 도전 던전, 아이템 반입 제한 등으로 핵심 규칙을 익힌 뒤에도 깊이 있는 파고들기가 가능하다.",
+        "말하는 주인공 아스카와 코ッ파·미나모 등 개성 있는 캐릭터들의 대화 및 이벤트 연출이 외전의 모험에 생동감을 더한다."
+      ],
+      "cons": [
+        "스토리 던전도 쉬운 편이 아니고 한 번의 치명적 실수가 큰 손실로 이어져 로그라이크 입문자는 반복 실패가 부담스럽다.",
+        "저층에 강한 몬스터가 등장하거나 특정 적의 가속·강화 능력이 겹치면 대비할 여지 없이 전멸하는 등 난도와 보상 설계가 불합리하게 느껴질 수 있다.",
+        "에레키 상자와 장비 기본값에 따른 강화 효율 격차가 커 일부 육성 선택지의 효용이 낮고 최적 조합으로 쏠리기 쉽다.",
+        "본작 이후 나온 Windows판의 추가 던전·아이템·편의 기능은 DC 원판에 없으며, 당시 네트워크 관련 기능은 현재 이용을 보장할 수 없다."
+      ],
+      "sources": [
+        {
+          "label": "스파이크 춘소프트 공식 - 일본 드림캐스트판 개요·발매일·에레키 상자",
+          "url": "https://www.spike-chunsoft.co.jp/pages/games/asukapc/asukadc.html"
+        },
+        {
+          "label": "게임 카탈로그@Wiki - 시스템 평가와 밸런스·DC/Windows판 비교",
+          "url": "https://w.atwiki.jp/gcmatome/pages/4738.html"
+        },
+        {
+          "label": "리뷰 대보코 - 2005년 드림캐스트판 이용자 평가",
+          "url": "https://review.daihouko.com/dc/husshirenon.htm"
+        },
+        {
+          "label": "GAME Watch - Windows판의 추가 요소와 DC 원판 시스템 비교 (2002)",
+          "url": "https://game.watch.impress.co.jp/docs/20021024/asuka.htm"
+        },
+        {
+          "label": "LaunchBox - Sega Dreamcast 일본판 Box - Front (2035×2048)",
+          "url": "https://gamesdb.launchbox-app.com/games/images/124558-fushigi-no-dungeon-fuurai-no-shiren-gaiden-onna-kenshi-asuka-kenzan"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/5622",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2002년 일본 Dreamcast판(HDR-0187)으로, 뒤에 발매된 Windows판의 추가 던전·요소와 구분함. 사용자 제공 링크의 배포 여부·번역 범위·미번역 요소·지원 디스크 리비전·적용 방법·실기 호환성은 검증하지 않았으며 패치 설치나 실행 시험을 하지 않음."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com/69709cb3-d2ec-42a4-991f-38847f4e2de5.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/124558-fushigi-no-dungeon-fuurai-no-shiren-gaiden-onna-kenshi-asuka-kenzan",
+        "platform": "dreamcast",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT"
     }
   ]
 }
