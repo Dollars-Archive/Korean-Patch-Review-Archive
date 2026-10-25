@@ -10404,6 +10404,63 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "marl-oukoku-no-ningyou-hime-plus1-bonus-disc-ps1",
+      "title": "마알왕국의 인형공주 보너스 디스크",
+      "original": "マール王国の人形姫＋1 おまけディスク",
+      "platforms": [
+        "ps1"
+      ],
+      "genres": [
+        "팬디스크",
+        "체험판",
+        "음악·일러스트 감상"
+      ],
+      "score": null,
+      "summary": "1999년 9월 22일 발매된 일본 PS1판 『마알왕국의 인형공주＋1』(SLPS-02286~02287)에 동봉된 별도 특전 CD-ROM이다. 이 디스크는 독립적인 RPG가 아니며 『리틀 프린세스 마알왕국의 인형공주 2』의 체험판과 음악 감상, 일러스트 갤러리가 핵심이다. 시리즈 팬이 후속작 분위기와 음악·비주얼을 즐기기에는 의미 있지만 장편 모험이나 본편 RPG 플레이를 제공하지 않는다. 따라서 게임 완성도 10점 척도의 직접 평가 대상이 아니므로 score는 null로 기록한다. 공개 자료 기반 편집 평가이며 직접 플레이하거나 실기 검증하지 않았다.",
+      "pros": [
+        "『리틀 프린세스 마알왕국의 인형공주 2』 체험판으로 후속작의 분위기와 변화를 맛볼 수 있다.",
+        "게임에서 사용한 음악을 따로 감상하는 기능과 일러스트 갤러리가 포함돼 캐릭터·음악 팬을 위한 보너스 가치가 있다.",
+        "시리즈 첫 작품의 재판본인 『＋1』에 동봉됐다는 수집 가치가 있고, 게임 본편과 특전을 별도로 즐길 수 있다."
+      ],
+      "cons": [
+        "정규 RPG 본편이 아닌 특전 디스크로 독립적인 스토리 전체나 장시간 전투·육성 경험을 제공하지 않는다.",
+        "체험판과 감상 모드 중심이라 수록 콘텐츠의 사용 목적이 제한되고 장기 반복 플레이 요소가 부족하다.",
+        "수록 콘텐츠가 후속작 체험·감상 중심이어서 본편을 먼저 모르는 사람에게는 게임 하나로서의 효용이 낮다."
+      ],
+      "sources": [
+        {
+          "label": "일본제일소프트웨어 공식 - 마알왕국의 인형공주＋1 제품 정보",
+          "url": "https://nippon1.jp/consumer/information/marl_kingdom1_plus1.html"
+        },
+        {
+          "label": "일본제일소프트웨어 작품 데이터 목록 - 발매일·품번·부속 디스크 확인",
+          "url": "https://w.atwiki.jp/nippon1list/pages/11.html"
+        },
+        {
+          "label": "마알왕국 시리즈 소개 - PS1 특전 디스크 수록 내용",
+          "url": "https://w.atwiki.jp/ggame/pages/90.html"
+        },
+        {
+          "label": "MobyGames - 일본판 『마알왕국의 인형공주＋1』 실제 앞표지",
+          "url": "https://www.mobygames.com/game/58296/marl-okoku-no-ningyo-hime-1/cover/group-162889/cover-453247/"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/4959",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 대상은 일본 PS1 『마알왕국의 인형공주＋1』의 동봉 특전 디스크(SLPS-02287)로 본편(SLPS-02286)과 구별된다. 제공 링크가 어느 디스크·리비전을 대상으로 하는지, 체험판·음악·이미지 등 번역 범위 및 실기 적용·동작 여부는 확인하지 않음."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://www.mobygames.com/images/covers/l/453247-rhapsody-a-musical-adventure-playstation-front-cover.jpg",
+        "source": "https://www.mobygames.com/game/58296/marl-okoku-no-ningyo-hime-1/cover/group-162889/cover-453247/",
+        "platform": "ps1",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
