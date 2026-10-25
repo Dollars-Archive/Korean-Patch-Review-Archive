@@ -7934,6 +7934,81 @@
       },
       "reviewedAt": "2026-10-25",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "genso-suikogaiden-volume-2-duel-at-crystal-valley-ps1",
+      "title": "환상수호외전 Vol.2: 크리스탈 밸리의 결투",
+      "original": "幻想水滸外伝Vol.2 クリスタルバレーの決闘",
+      "platforms": [
+        "ps1"
+      ],
+      "genres": [
+        "ADV",
+        "비주얼 노벨",
+        "판타지"
+      ],
+      "score": 7.1,
+      "summary": "2001년 3월 22일 일본 PS1 초판 『幻想水滸外伝Vol.2 クリスタルバレーの決闘』(SLPM-86663) 기준. 『환상수호전 II』의 듀난 통일전쟁 3개월 뒤 하르모니아 수도로 돌아가는 내쉬의 여정을 통해 시리즈 기존 인물들의 후일담을 전하고 『환상수호전 III』의 세계관·갈등을 예고하는 선택지형 텍스트 어드벤처. 시리즈 팬에게 반가운 인물과 세이브 연동 특전, 미려한 OP와 음악 편곡이 매력적이지만 분량이 짧고 장별 밀도의 편차가 크며 특히 마지막 장의 선택 자유도가 낮아 7.1점. 『환상수호전 I·II』 및 외전 Vol.1을 즐긴 팬에게 조건부 추천하며 독립적인 RPG 전투와 깊은 선택 분기를 기대한다면 비추천. 공개 공식 정보와 일본·해외 PS1판 플레이 후기에 근거한 편집 평가로 직접 플레이하지 않았으며 한글패치 유무는 점수에 반영하지 않음.",
+      "pros": [
+        "『환상수호전 II』 이후 내쉬의 귀향과 그래스랜드·하르모니아의 정세를 그려 본편에 등장한 인물들의 후일담을 전하고 차기작 『III』의 세계관을 자연스럽게 넓힌다.",
+        "마을과 여행 중 마주치는 익숙한 인물·조연들의 색다른 모습, 전작을 기억하는 팬을 위한 소소한 선택지·이벤트가 팬서비스 역할을 한다.",
+        "『환상수호전 I·II』 및 외전 Vol.1의 세이브 연동으로 특별 이벤트와 CG를 즐길 수 있으며, 선택지에 따른 장면·개그성 분기가 수집 동기를 제공한다.",
+        "전작보다 세련된 일러스트와 애니메이션 오프닝, 원작의 선율을 재해석한 편곡 음악이 텍스트 위주 전개의 분위기를 끌어올린다."
+      ],
+      "cons": [
+        "총 4장으로 이뤄진 본편의 순수한 플레이 분량이 짧고 장별 사건이 느슨하게 이어져 긴 서사나 충분한 분량을 기대하면 아쉽다.",
+        "일부 초중반 에피소드는 극적 긴장과 이야기의 비중이 낮고, 최종 장은 실질적인 분기가 적어 선택지형 게임보다는 감상용 디지털 소설에 가깝다.",
+        "RPG 전투·탐험·육성은 제공하지 않으며, CG를 모두 수집하려면 같은 대화와 분기를 반복해서 읽어야 하는 부담이 남는다.",
+        "『환상수호전 II』와 외전 Vol.1을 전제로 하는 인물·사건·정치 설정이 많아 첫 입문작으로는 설명과 독립적인 서사 완성도가 부족하다."
+      ],
+      "sources": [
+        {
+          "label": "KONAMI 공식 - 외전 Vol.2 프롤로그·전작 연계 작품 소개 (PS one Books판 페이지)",
+          "url": "https://www.konami.com/games/jp/ja/products/gan_cli_ps/"
+        },
+        {
+          "label": "스루가야 - 일본 PS1 초판 발매일·품번 SLPM-86663",
+          "url": "https://www.suruga-ya.jp/product/detail/140003124"
+        },
+        {
+          "label": "린메이 오지상 일본 PS1판 플레이 후기: 후일담·세이브 연동·OP·짧은 분량·최종 장",
+          "url": "https://ameblo.jp/shinrinmei/entry-12597475598.html"
+        },
+        {
+          "label": "Backloggd Lunacial의 PS1판 플레이 리뷰: 장별 밀도·선택지와 CG 수집 편의성",
+          "url": "https://backloggd.com/u/Lunacial/reviews/"
+        },
+        {
+          "label": "피코피코 대백과 일본 PS1판 이용자 후기: 본편·CG 수집·후속작 연결",
+          "url": "https://www.gavas.jp/products/detail.php?product_id=7447"
+        },
+        {
+          "label": "일본 시리즈 플레이 후기: 외전 Vol.2의 짧은 분량과 III 연관성",
+          "url": "https://tukimura.client.jp/playnikki/genso.htm"
+        },
+        {
+          "label": "Play-Asia - 일본 PS1 초판 일반 표지 직접 이미지",
+          "url": "https://www.play-asia.com/genso-suiko-gaiden-vol-2-crystal-valley-no-kettou/13/701pf5"
+        },
+        {
+          "label": "LaunchBox - PS1판 표지 이미지 목록 (리프린트판 포함, 초판 확인에는 타 자료 우선)",
+          "url": "https://gamesdb.launchbox-app.com/games/images/34642-genso-suiko-gaiden-vol-2-crystal-valley-no-kettou"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/5334",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 게임 평가 기준은 2001-03-22 일본 PS1 초판 『幻想水滸外伝Vol.2 クリスタルバレーの決闘』(SLPM-86663)이며 KONAMI the BEST(SLPM-86953), PS one Books(SLPM-87262) 재발매판과 구분함. 제공한 링크의 한국어 패치 지원 판본·디스크 리비전·번역 범위·잔여 미번역·설치 방법·배포 상태·버전은 확인하지 않았음. 패치 적용·PS1 실기·에뮬레이터 시험도 수행하지 않음."
+      },
+      "cover": {
+        "url": "https://s.pacn.ws/1/p/4f/genso-suiko-gaiden-vol-2-crystal-valley-no-kettou-79601.3.jpg?v=rtashx",
+        "source": "https://www.play-asia.com/genso-suiko-gaiden-vol-2-crystal-valley-no-kettou/13/701pf5",
+        "platform": "ps1",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT"
     }
   ]
 }
