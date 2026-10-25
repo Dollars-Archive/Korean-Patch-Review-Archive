@@ -12043,6 +12043,67 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "shiritsu-justice-gakuen-nekketsu-seishun-nikki-2-ps1",
+      "title": "사립 저스티스 학원: 열혈청춘일기 2",
+      "original": "私立ジャスティス学園 熱血青春日記2",
+      "platforms": [
+        "ps1"
+      ],
+      "genres": [
+        "대전 격투",
+        "학원 육성 시뮬레이션",
+        "연애"
+      ],
+      "score": 7.7,
+      "summary": "1999년 6월 24일 일본 카프콤이 발매한 PS1 일반판 《私立ジャスティス学園 熱血青春日記2》(SLPS-02120). 기존 《사립 저스티스 학원》의 대전격투에 학생 생활·우정·연애를 즐기는 육성 모드를 확장한 판본으로, 란과 나가레의 추가 참전과 이벤트·미니게임 증설이 특징이다. 직접 만든 학생을 성장시켜 팀 기반 격투 모드에서 활용하고, 학교와 인간관계에 따른 여러 엔딩을 탐색하는 구성이 독창적이다. 반면 육성에 영향을 주는 미니게임 및 시험 난도가 높고 외형 커스터마이징은 제한적이며 PS1 3D 그래픽이 투박해 7.7점. 학원 캐릭터와 반복 육성을 좋아하는 팬에게 추천한다. 공식 발표와 일본 PS1판 전문·이용자 리뷰를 토대로 작성한 편집 평가이며 직접 플레이한 점수는 아니다.",
+      "pros": [
+        "학생을 직접 만들고 능력과 기술을 키운 뒤, 육성한 캐릭터를 실제 격투 모드에서도 사용할 수 있어 학원생활 시뮬레이션과 팀 기반 대전격투가 연결된다.",
+        "학교에 따른 이벤트와 인물 관계, 캐릭터별 친밀도·고유 엔딩이 풍부하고 동성·이성 인물과의 교류도 가능해 여러 번 학원생활을 즐길 가치가 높다.",
+        "신규 캐릭터 란·나가레의 참전, 추가 이벤트와 다양한 미니게임·포켓스테이션 기능, 직관적인 4버튼 격투 조작이 캐릭터 팬서비스와 접근성을 높인다."
+      ],
+      "cons": [
+        "정기시험과 미니게임 난도가 높고 성적이 육성에 직접 반영되어, 원하는 성능의 학생이나 특정 이벤트를 얻기 위해 반복 도전해야 한다.",
+        "주인공 프로필 선택에 비해 얼굴과 외형 커스터마이징은 제한적이며 저해상도 PS1 3D 캐릭터는 정교한 2D 인물 일러스트와 품질 격차가 크다.",
+        "학교생활 이야기는 장편 연속극보다 캐릭터별 친목·연애 이벤트에 무게가 실리고, 반복 회차에는 유사한 일정과 이벤트·대전의 반복감이 남는다."
+      ],
+      "sources": [
+        {
+          "label": "패미통 - 카프콤 공식 발표 전재, PS1 학원 육성·추가 캐릭터·포켓스테이션 정보",
+          "url": "https://www.famitsu.com/news/201507/08082733.html"
+        },
+        {
+          "label": "GLOM - PS1판 실제 플레이 리뷰, 육성 시스템·게임성·조작·그래픽 장단점",
+          "url": "https://gamelifeofme.com/justiceacademy2/"
+        },
+        {
+          "label": "컨슈머 게임 대사전 - 학원 모드·학교별 분기·미니게임 난도·격투 시스템",
+          "url": "https://consoledictionary.com/games/21617"
+        },
+        {
+          "label": "스루가야 - PS1 일본판 발매일 및 제품번호 SLPS-02120",
+          "url": "https://www.suruga-ya.jp/product/detail/140001990"
+        },
+        {
+          "label": "LaunchBox - PS1 일본판 일반판 Box - Front",
+          "url": "https://gamesdb.launchbox-app.com/games/images/26981-shiritsu-justice-gakuen-nekketsu-seishun-nikki-2"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/4742",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 게임 평가는 일본 PS1 일반판 《私立ジャスティス学園 熱血青春日記2》(SLPS-02120)을 대상으로 한다. 초기작 《私立ジャスティス学園 LEGION OF HEROES》, 염가판 CAPKORE(SLPM-86750), 드림캐스트 후속작과 구별한다. 제공 주소가 지원하는 실제 원본 리비전, 학원 육성 대사·엔딩·격투 UI·미니게임·이미지 번역 범위와 미번역, 적용 방법, PS1 실기/에뮬레이터 구동 여부는 별도로 검증하지 않았다."
+      },
+      "reviewedAt": "2026-10-26",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/520a32f0-2ea0-43f1-a0e3-b2c5927ff1fa.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/26981-shiritsu-justice-gakuen-nekketsu-seishun-nikki-2",
+        "platform": "ps1",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
