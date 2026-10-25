@@ -50,7 +50,7 @@
 | `patch` | `{ "status": "available 또는 unconfirmed 또는 stopped", "url": "", "notes": "판본·주의사항" }` |
 | `reviewedAt`, `reviewer` | 실제 확인일 YYYY-MM-DD 또는 빈 문자열, 작성자 |
 
-허용 기종: `ps1`, `ps2`, `psp`, `psvita`, `ps3`, `ps4`, `ps5`, `dreamcast`, `ds`, `3ds`, `switch`, `pc`, `saturn`, `snes`, `gba`, `other`.
+허용 기종: `ps1`, `ps2`, `psp`, `psvita`, `ps3`, `ps4`, `ps5`, `dreamcast`, `ds`, `3ds`, `switch`, `pc`, `pc98`, `saturn`, `snes`, `gba`, `other`.
 
 사이트는 파일의 나열 순서와 관계없이 기본적으로 **점수 높은 순**으로 정렬합니다. 같은 점수는 이름·ID 순, 미평가는 맨 아래입니다. 찜 여부가 점수순 정렬을 바꾸지 않습니다.
 

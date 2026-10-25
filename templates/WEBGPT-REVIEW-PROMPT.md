@@ -37,7 +37,7 @@
 
 - `id`: 소문자 영문·숫자·하이픈, 최대 100자. 한 번 등록한 ID는 변경하지 않습니다.
 - `score`: `0`~`10` 숫자 또는 미평가 `null`. 문자열 `"8.5"`는 사용하지 않습니다.
-- `platforms`: `ps1`, `ps2`, `psp`, `psvita`, `ps3`, `ps4`, `ps5`, `dreamcast`, `ds`, `3ds`, `switch`, `pc`, `saturn`, `snes`, `gba`, `other` 중 선택합니다.
+- `platforms`: `ps1`, `ps2`, `psp`, `psvita`, `ps3`, `ps4`, `ps5`, `dreamcast`, `ds`, `3ds`, `switch`, `pc`, `pc98`, `saturn`, `snes`, `gba`, `other` 중 선택합니다.
 - `genres`: `ADV`, `RPG`, `ACT`, `SLG`, `SIM`, `PUZ` 등 장르 이름을 배열로 적습니다.
 - `reviewedAt`: 실제 조사 날짜, 모르면 빈 문자열. 예시 날짜·URL은 그대로 제출하지 않습니다.
 

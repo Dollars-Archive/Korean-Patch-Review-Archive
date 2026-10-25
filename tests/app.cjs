@@ -27,6 +27,8 @@ test('screen wiring: scores, filters, persisted star, delete and restore', async
  };
  const context={window:{ReviewCore:Core,ReviewSync:{createStore:opts=>Sync.createStore({...opts,fetcher,storage})}},document:{getElementById:id=>nodes[id]},fetch:fetcher,URL,URLSearchParams,location:{href:'https://example.com/?platform=psp',search:'?platform=psp'},history:{replaceState(){}},console};
  vm.runInNewContext(app,context);
+ assert.ok(nodes.platforms.innerHTML.includes('data-platform="pc98"'));
+ assert.ok(nodes.platforms.innerHTML.includes('PC-98'));
  for(let i=0;i<8;i++)await new Promise(setImmediate);
  const content=()=>nodes.results.innerHTML;
  assert.ok(content().includes('class="game-visual"'));

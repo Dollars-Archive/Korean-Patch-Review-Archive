@@ -38,7 +38,7 @@ function expectThrow(fn, pattern) {
 function testPlatforms() {
   var expected = [
     'ps1', 'ps2', 'psp', 'psvita', 'ps3', 'ps4', 'ps5', 'dreamcast',
-    'ds', '3ds', 'switch', 'pc', 'saturn', 'snes', 'gba', 'other'
+    'ds', '3ds', 'switch', 'pc', 'pc98', 'saturn', 'snes', 'gba', 'other'
   ];
   assert.deepEqual(core.PLATFORMS.map(function (platform) { return platform.id; }), expected);
   assert.deepEqual(core.PLATFORM_IDS, expected);
@@ -97,6 +97,17 @@ function testNormalization() {
     notes: '최신'
   });
   assert.equal(full.reviewedAt, '2026-02-28');
+
+  // Separate PC-98 entries and box art from Windows/modern PC.
+  var legacy = normalizeOne({
+    id: 'shizuku-pc98', title: '시즈쿠', platforms: ['pc98'],
+    cover: { url: 'https://example.com/box.jpg', source: 'https://example.com/listing', platform: 'pc98', type: 'Box - Front', region: 'Japan' }
+  });
+  assert.deepEqual(legacy.platforms, ['pc98']);
+  assert.equal(legacy.cover.platform, 'pc98');
+  assert.equal(core.PLATFORM_LABELS.pc98, 'PC-98');
+  assert.deepEqual(ids(core.selectGames([legacy], { platform: 'pc98' }, core.emptyState())), ['shizuku-pc98']);
+  assert.deepEqual(ids(core.selectGames([legacy], { platform: 'pc' }, core.emptyState())), []);
 
   // Required fields.
   expectThrow(function () {

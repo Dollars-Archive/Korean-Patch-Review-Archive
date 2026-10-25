@@ -41,6 +41,7 @@
     { id: '3ds', label: '닌텐도 3DS' },
     { id: 'switch', label: '닌텐도 스위치' },
     { id: 'pc', label: 'PC' },
+    { id: 'pc98', label: 'PC-98' },
     { id: 'saturn', label: '세가 새턴' },
     { id: 'snes', label: '슈퍼 닌텐도' },
     { id: 'gba', label: '게임보이 어드밴스' },

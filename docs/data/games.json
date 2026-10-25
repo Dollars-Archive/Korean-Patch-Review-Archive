@@ -1906,7 +1906,7 @@
       "title": "디자이어: 배덕의 나선 (PC-98)",
       "original": "DESIRE 背徳の螺旋",
       "platforms": [
-        "pc"
+        "pc98"
       ],
       "genres": [
         "ADV",
@@ -1957,7 +1957,7 @@
       "cover": {
         "url": "https://images.launchbox-app.com/85753535-5ea9-4da6-ab7f-5549fcfb2a6d.jpg",
         "source": "https://gamesdb.launchbox-app.com/games/images/106050-desire-haitoku-no-rasen",
-        "platform": "pc",
+        "platform": "pc98",
         "type": "Box - Front",
         "region": "Japan"
       },
@@ -1969,7 +1969,7 @@
       "title": "동급생 2 (PC-98)",
       "original": "同級生2",
       "platforms": [
-        "other"
+        "pc98"
       ],
       "genres": [
         "ADV",
@@ -2017,7 +2017,7 @@
       "cover": {
         "url": "https://images.launchbox-app.com/0dd8380e-8d17-4fbf-9a22-cad70019fa01.jpg",
         "source": "https://gamesdb.launchbox-app.com/games/images/137127-doukyuusei-2",
-        "platform": "other",
+        "platform": "pc98",
         "type": "Box - Front",
         "region": "Japan"
       }
@@ -2027,7 +2027,7 @@
       "title": "이브 버스트 에러 (PC-98)",
       "original": "EVE burst error (イヴ・バーストエラー)",
       "platforms": [
-        "other"
+        "pc98"
       ],
       "genres": [
         "ADV",
@@ -2080,7 +2080,7 @@
       "cover": {
         "url": "https://images.launchbox-app.com/8bc5bd5e-5644-4d98-a34b-72bc3bbd4163.jpg",
         "source": "https://gamesdb.launchbox-app.com/games/images/106054-eve-burst-error",
-        "platform": "other",
+        "platform": "pc98",
         "type": "Box - Front",
         "region": "Japan"
       }
@@ -2090,7 +2090,7 @@
       "title": "시즈쿠 (PC-98판)",
       "original": "雫 ～しずく～",
       "platforms": [
-        "pc"
+        "pc98"
       ],
       "genres": [
         "ADV"
@@ -2133,14 +2133,14 @@
       "patch": {
         "status": "unconfirmed",
         "url": "https://redb.me/kr/5750",
-        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 1996-01-26 출시 일본 NEC PC-9800/MS-DOS판(플로피 5장)이며 1996년 Windows 이식판·2004년 리뉴얼판과 구분한다. 사이트에서 pc98 전용 기종 ID를 지원하지 않아 platforms는 pc, 게임 ID는 shizuku-pc98로 등록. 사용자 제공 패치의 정확한 지원 판본·번역 범위·설치 절차·호환성 검증하지 않음. 설치·실기·에뮬레이터 검증 없음."
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 1996-01-26 출시 일본 NEC PC-9800/MS-DOS판(플로피 5장)이며 1996년 Windows 이식판·2004년 리뉴얼판과 구분한다. PC-98 전용 카테고리(pc98)에 등록하며 게임 ID shizuku-pc98는 유지. 사용자 제공 패치의 정확한 지원 판본·번역 범위·설치 절차·호환성 검증하지 않음. 설치·실기·에뮬레이터 검증 없음."
       },
       "reviewedAt": "2026-10-25",
       "reviewer": "WebGPT",
       "cover": {
         "url": "https://cdn.suruga-ya.jp/pics_webp/boxart_m/155004107m.jpg.webp",
         "source": "https://www.suruga-ya.jp/kaitori/kaitori_detail/155004107",
-        "platform": "pc",
+        "platform": "pc98",
         "type": "Box - Front",
         "region": "Japan"
       }
@@ -2150,7 +2150,7 @@
       "title": "워즈 워스 (PC-98판)",
       "original": "ワーズ・ワース",
       "platforms": [
-        "pc"
+        "pc98"
       ],
       "genres": [
         "RPG"
@@ -2194,14 +2194,14 @@
       "patch": {
         "status": "unconfirmed",
         "url": "https://redb.me/kr/6373",
-        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 1993-07-22 일본 PC-9801용 플로피 12장판(턴제 1인칭 던전 RPG). 1999년 Windows 리메이크판(실시간 액션 전투), 후속 XP·DL판과 내용·시스템이 다르다. 아카이브에 pc98 플랫폼 코드가 없어 platforms에는 pc를 사용하고 ID와 게임 제목에 pc98·PC-98판을 명시했다. 한글패치의 대상 파일·버전·번역 범위·실기 호환성·설치법 미검증, 설치 또는 실기·에뮬레이터 검증 미실시."
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 1993-07-22 일본 PC-9801용 플로피 12장판(턴제 1인칭 던전 RPG). 1999년 Windows 리메이크판(실시간 액션 전투), 후속 XP·DL판과 내용·시스템이 다르다. PC-98 전용 카테고리(pc98)에 등록하며 기존 ID words-worth-pc98를 유지한다. 한글패치의 대상 파일·버전·번역 범위·실기 호환성·설치법 미검증, 설치 또는 실기·에뮬레이터 검증 미실시."
       },
       "reviewedAt": "2026-10-25",
       "reviewer": "WebGPT",
       "cover": {
         "url": "https://www.suruga-ya.jp/database/pics_light/game/155004079.jpg",
         "source": "https://www.suruga-ya.jp/kaitori/kaitori_detail/155004079",
-        "platform": "pc",
+        "platform": "pc98",
         "type": "Box - Front",
         "region": "Japan"
       }
@@ -2211,7 +2211,7 @@
       "title": "열락의 학원 (PC-98)",
       "original": "悦楽の学園",
       "platforms": [
-        "pc"
+        "pc98"
       ],
       "genres": [
         "ADV",
@@ -2266,7 +2266,7 @@
       "cover": {
         "url": "https://images.launchbox-app.com/6cdda72b-c190-4e8a-bf2f-ecd6cfed6bc3.jpg",
         "source": "https://gamesdb.launchbox-app.com/games/images/140357-etsuraku-no-gakuen",
-        "platform": "pc",
+        "platform": "pc98",
         "type": "Box - Front",
         "region": "Japan"
       },
@@ -2278,7 +2278,7 @@
       "title": "제논: 몽환의 지체 (PC-98)",
       "original": "XENON ～夢幻の肢体～",
       "platforms": [
-        "other"
+        "pc98"
       ],
       "genres": [
         "ADV",
@@ -2331,7 +2331,7 @@
       "cover": {
         "url": "https://images.launchbox-app.com/72dba6c1-12eb-48c9-ad4e-f274941b8336.jpg",
         "source": "https://gamesdb.launchbox-app.com/games/images/106059-xenon-mugen-no-shitai",
-        "platform": "other",
+        "platform": "pc98",
         "type": "Box - Front",
         "region": "Japan"
       }
@@ -2341,7 +2341,7 @@
       "title": "키즈아토 (PC-98)",
       "original": "痕 ～きずあと～",
       "platforms": [
-        "other"
+        "pc98"
       ],
       "genres": [
         "ADV",
@@ -2392,7 +2392,7 @@
       "cover": {
         "url": "https://images.launchbox-app.com/11c01348-0aeb-4f64-b60c-77c5c6fecf0d.jpg",
         "source": "https://gamesdb.launchbox-app.com/games/images/137392-kizuato",
-        "platform": "other",
+        "platform": "pc98",
         "type": "Box - Front",
         "region": "Japan"
       },
@@ -2404,7 +2404,7 @@
       "title": "투신도시 2 (PC-98)",
       "original": "闘神都市II",
       "platforms": [
-        "pc"
+        "pc98"
       ],
       "genres": [
         "턴제 RPG",
@@ -2455,7 +2455,7 @@
       "cover": {
         "url": "https://images.launchbox-app.com/r2_080cfa7d-561d-4a5f-a626-8224c231a0e8.jpg",
         "source": "https://gamesdb.launchbox-app.com/games/images/133449-toushin-toshi-ii",
-        "platform": "pc",
+        "platform": "pc98",
         "type": "Box - Front",
         "region": "Japan"
       },

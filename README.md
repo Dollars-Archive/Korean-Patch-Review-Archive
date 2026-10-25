@@ -75,7 +75,7 @@ tests/                        # review-core / review-sync 단위 테스트 (node
 
 - `score`: **아직 평가하지 않았으면 `null`**, 평가했으면 **0~10 사이 숫자**입니다. `0` 도 유효한 점수입니다.
   문자열(`"8.5"`), `NaN`, 범위 밖 숫자는 거부됩니다. 점수는 게임 품질만 반영하며 패치 완성도·번역 품질로 점수를 조작하지 않습니다.
-- `platforms`: `ps1`, `ps2`, `psp`, `psvita`, `ps3`, `ps4`, `ps5`, `dreamcast`, `ds`, `3ds`, `switch`, `pc`, `saturn`, `snes`, `gba`, `other` 중 실제 확인 범위만 넣습니다.
+- `platforms`: `ps1`, `ps2`, `psp`, `psvita`, `ps3`, `ps4`, `ps5`, `dreamcast`, `ds`, `3ds`, `switch`, `pc`, `pc98`, `saturn`, `snes`, `gba`, `other` 중 실제 확인 범위만 넣습니다.
 - `genres`: `ADV`, `RPG`, `ACT` 같은 짧은 코드 1~3개.
 - `sources`: `{ "label": "...", "url": "https://..." }` 형태. `https://` 만 허용하며 `javascript:`, `data:`, `http://` 는 거부됩니다.
 - `patch.status`:
