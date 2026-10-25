@@ -2654,6 +2654,72 @@
       },
       "reviewedAt": "2026-10-25",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "chaos-child-love-chu-chu-psvita",
+      "title": "카오스 차일드 러브 츄 츄!!",
+      "original": "CHAOS;CHILD らぶchu☆chu!!",
+      "platforms": [
+        "psvita"
+      ],
+      "genres": [
+        "ADV",
+        "VN"
+      ],
+      "score": 7.4,
+      "summary": "2017년 3월 30일 출시된 일본 PS Vita 일반판(VLJM-30227)의 망상과학 연애 ADV. 본편 《CHAOS;CHILD》를 읽은 팬을 위한 연애·코미디 중심 팬디스크이며, 본편의 사건을 전제로 한 히로인별 분기와 후일담 요소가 공존한다. 기존 '망상 트리거'에 분기를 이해하기 쉬운 YES/NO 트리거를 더하고 추가 CG·성우들의 연기가 강점이다. 반면 본편 특유의 서스펜스가 약하고 왕도적인 연애 전개와 분위기·분량의 호불호, 본편 결말을 알아야 이해할 수 있는 높은 진입 장벽이 있다. 7.4/10. 본편의 진상과 트루 엔딩을 확인하고 캐릭터와 후일담을 더 보고 싶은 독자에게 추천하며, 본편을 먼저 읽지 않았다면 강하게 비추천한다. 결말 내용은 공개하지 않는다. 출시 자료와 독립 리뷰를 종합한 자료 기반 편집 평가로 직접 플레이하거나 패치를 적용하지 않았다.",
+      "pros": [
+        "본편에서 충분히 다루지 못했던 히로인들의 감정과 인물 관계를 코미디·연애 루트로 보충하고, 별도의 후일담 요소도 포함해 기존 팬에게 새로운 감상거리를 준다.",
+        "YES/NO 설문식 트리거가 주요 분기를 이해하기 쉽게 해주고, 기존 망상 트리거도 남아 있어 선택지 수집과 루트·엔딩 회수가 편하다.",
+        "캐릭터별 신규 이벤트 CG와 다양한 서비스 일러스트가 풍부해, 본편의 어두운 사건과 다른 표정의 인물들을 보여준다.",
+        "마츠오카 요시츠구를 비롯한 성우들의 과장된 개그·감정 연기와 인물 간 호흡이 뛰어나 대화 감상에 생동감을 준다."
+      ],
+      "cons": [
+        "본편의 트루 엔딩과 주요 사건을 전제로 진행하며 시작 부분부터 본편 핵심 내용의 스포일러가 많아, 본편을 끝내지 않은 독자의 진입장벽이 매우 높다.",
+        "본편의 치밀한 심리 스릴러 대신 달콤한 연애 코미디·팬서비스에 무게를 두므로 어두운 과학 미스터리의 긴장감을 기대하면 실망하기 쉽다.",
+        "히로인별 일부 루트가 전형적인 로맨틱 코미디 구조여서 이야기 전개의 신선함과 극적인 설득력이 본편보다 약하다는 독립 리뷰의 평가가 있다.",
+        "분기와 루트 회수가 쉬운 장점의 반대급부로 본편에 비해 플레이 분량이 짧게 느껴질 수 있고, 공통부 재독과 이벤트 반복의 보상이 제한적이다."
+      ],
+      "sources": [
+        {
+          "label": "패미통 - 일본 PS Vita판 발매일, 장르·제작사 및 공식 사이트 링크",
+          "url": "https://www.famitsu.com/game/title/34064/reviews"
+        },
+        {
+          "label": "GameFAQs - PS Vita 일본 일반판 VLJM-30227, 발매일·한정판 구분",
+          "url": "https://gamefaqs.gamespot.com/vita/201304-chaoschild-love-chuchu/data"
+        },
+        {
+          "label": "겜 뷰어(げーむびゅーわ) - 2017년 PS4/PS Vita판 독립 리뷰(시나리오·분기·분량)",
+          "url": "https://game.girldoll.org/chaoschild-lcc-review/"
+        },
+        {
+          "label": "Crystal AXIS - 2017년 팬디스크 장문 리뷰(음성 연기·본편 선행 및 인물 루트)",
+          "url": "https://caxis.blog.fc2.com/blog-entry-1013.html"
+        },
+        {
+          "label": "게임카탈로그 일본 위키 - 《CHAOS;CHILD らぶchu☆chu!!》 게임 구성과 후일담 평가",
+          "url": "https://w.atwiki.jp/gcmatome/pages/6329.html"
+        },
+        {
+          "label": "Nojima Online - PS Vita 일반판 실물 패키지 앞표지·JAN 4562412130035",
+          "url": "https://online.nojima.co.jp/commodity/1/4562412130035/"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/6466",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 사용자 표기: sizz1214-lang(제작·배포 관련 사실 미검증). 게임 평가 대상은 일본 PS Vita 일반판 《CHAOS;CHILD らぶchu☆chu!!》(VLJM-30227, 2017-03-30)이다. 제공된 주소의 실제 지원 판본·리비전, 번역 범위·미번역, 적용 방법, 실기/에뮬레이터 호환성과 원본 《CHAOS;CHILD》용 패치와의 구별 여부는 확인하지 않았다. 사용자 제공 페이지를 일절 조회하지 않았다."
+      },
+      "cover": {
+        "url": "https://online.nojima.co.jp/image/shop/1/commodity/4562412130035_l.jpg",
+        "source": "https://online.nojima.co.jp/commodity/1/4562412130035/",
+        "platform": "psvita",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT"
     }
   ]
 }
