@@ -9807,6 +9807,66 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "akagawa-jiro-mystery-tsuki-no-hikari-ds",
+      "title": "아카가와 지로 미스터리 달의 빛: 가라앉은 종의 살인",
+      "original": "赤川次郎ミステリー 月の光 ―沈める鐘の殺人―",
+      "platforms": [
+        "ds"
+      ],
+      "genres": [
+        "ADV",
+        "미스터리"
+      ],
+      "score": 7.2,
+      "summary": "붉은 학원을 무대로 과거 사건과 인물 관계를 파헤치는 텍스트 중심 추리 어드벤처. 분위기와 관계도 조사, 다중 결말은 매력적이지만 전개가 느리고 반복 탐색이 번거로워 7.2점. 소설형 미스터리 ADV를 좋아하는 사람에게 추천. 공개 자료를 종합한 편집 평가이며 직접 플레이한 점수는 아님.",
+      "pros": [
+        "학원의 비밀과 과거 사건을 연결하는 음울한 분위기와 미스터리 서사가 몰입을 돕는다.",
+        "터치 가능한 인물 관계 키워드와 상관도 정보 누적이 DS의 조사 감각을 살린다.",
+        "선택에 따른 분기와 멀티 엔딩이 재독과 다른 관점의 추리를 유도한다."
+      ],
+      "cons": [
+        "텍스트와 선택지 중심 진행이라 빠른 조작이나 사건 전개를 원하는 사람에게는 답답할 수 있다.",
+        "인물 관계도 완성과 분기 회수가 번거롭고 일부 등록 오류에 관한 이용자 보고가 있다.",
+        "그래픽의 세부 표현이 소박하다는 이용자 평가가 있다."
+      ],
+      "sources": [
+        {
+          "label": "닌텐도 공식 소프트웨어 소개",
+          "url": "https://www.nintendo.co.jp/ds/software/cj6j/index.html"
+        },
+        {
+          "label": "마벨러스 공식 작품 소개",
+          "url": "https://www.marv.jp/titles/cs/561/"
+        },
+        {
+          "label": "가격.com 이용자 리뷰",
+          "url": "https://review.kakaku.com/review/4138B311246/"
+        },
+        {
+          "label": "닌텐도 DS 컬렉션 - 작품 시스템 소개",
+          "url": "https://www.ds.soft-db.net/genre/adv/adv12.html"
+        },
+        {
+          "label": "Consumer Game Dictionary - 작품 평가",
+          "url": "https://consoledictionary.com/games/28119"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/5136",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 일본판 NDS 대상 패치의 번역 범위·적용 방법·실기 동작은 확인하지 않음."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://img.hmv.co.jp/image/jacket/400/27/8/8/303.jpg",
+        "source": "https://www.hmv.co.jp/artist_Game-Soft-Nintendo-DS_000000000250195/item_%E8%B5%A4%E5%B7%9D%E6%AC%A1%E9%83%8E%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC-%E6%9C%88%E3%81%AE%E5%85%89-%E6%B2%88%E3%82%81%E3%82%8B%E9%90%98%E3%81%AE%E6%AE%BA%E4%BA%BA_2788303",
+        "platform": "ds",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
