@@ -12497,6 +12497,71 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "yu-no-a-girl-who-chants-love-saturn",
+      "title": "YU-NO: 이 세상 끝에서 사랑을 노래하는 소녀",
+      "original": "この世の果てで恋を唄う少女YU-NO",
+      "platforms": [
+        "saturn"
+      ],
+      "genres": [
+        "SF 미스터리 ADV",
+        "비주얼 노벨",
+        "분기 탐색"
+      ],
+      "score": 9.2,
+      "summary": "1997년 12월 4일 일본 세가 새턴 일반판 『この世の果てで恋を唄う少女 YU-NO』(T-28004G, CD-ROM 3장)를 평가했다. 실종된 아버지가 남긴 장치를 통해 여러 평행세계로 이동하며 미스터리를 파헤치는 복잡하면서도 치밀한 인물 서사에, 분기 지도를 시각화하고 보옥을 이용해 지정한 분기점으로 되돌아가는 A.D.M.S. 시스템을 결합한 획기적인 SF 어드벤처다. 새턴판은 PC-98 원작보다 새로 그린 그래픽·캐릭터 음성·애니메이션을 제공하고 보옥을 8개에서 10개로 늘리는 등 편의성을 보강해 9.2점. 다만 화면 클릭 지점과 아이템·분기 조건을 추리해야 하는 구식 조작, CD 3장 교체와 전개 암시가 강한 오프닝, 일부 성인 묘사 수정은 아쉽다. 복잡한 분기·복선·서사 탐색을 좋아하는 미스터리 ADV 팬에게 강력 추천한다. 공식 소개·당대 리뷰·새턴판 회고를 바탕으로 한 편집 평가로 직접 플레이하지 않았으며 한국어 패치 존재를 점수에 반영하지 않았다.",
+      "pros": [
+        "평행세계라는 설정을 서로 다른 인물의 이야기, 사건의 단서, 후반부의 커다란 미스터리와 유기적으로 연결해 장편 SF ADV로서 독창성과 서사적 몰입도가 뛰어나다.",
+        "A.D.M.S. 자동 분기 지도와 리플렉터 장치의 보옥을 이용해 분기를 기록하고 과거 시점으로 되돌아가 다른 경로의 정보를 활용하는 방식이 게임 진행과 줄거리를 하나의 구조로 결합한다.",
+        "새턴 이식판에서 모든 주요 인물의 음성이 추가되고 그래픽이 전면 재작성됐으며, 애니메이션·일부 신규 시나리오와 보옥 2개 증설·패드 조작 조정으로 표현력과 탐색 접근성이 강화됐다."
+      ],
+      "cons": [
+        "어디를 조사해야 할지 표시하지 않는 포인트 앤드 클릭 탐색과 복잡한 아이템·분기 조건 때문에 작은 지점을 반복해서 클릭하거나 여러 경로를 돌아다니다 진행이 막힐 수 있다.",
+        "일반판은 CD-ROM 3장 구성으로 다른 시간축·루트를 오갈 때 디스크를 교체해야 하고, 일부 대사 로그와 영상 연출·기기 로딩은 현대 어드벤처 게임보다 불편하다.",
+        "세가 새턴판은 PC-98 원판의 일부 성인 장면·묘사를 수정하고, 새 오프닝이 후반부 전개를 강하게 암시하는 컷을 포함해 첫 플레이에서 감상의 신선함이 줄어들 수 있다."
+      ],
+      "sources": [
+        {
+          "label": "YU-NO 공식 리메이크 사이트 - 1996년 PC판·1997년 SS판의 A.D.M.S. 소개",
+          "url": "https://yu-no.jp/introduction/"
+        },
+        {
+          "label": "PC Watch 1997년 세가 새턴판 동시대 소개·리뷰 - 평행세계·분기·보옥·이식 표현",
+          "url": "https://pc.watch.impress.co.jp/docs/article/game9712/f_1.htm"
+        },
+        {
+          "label": "게임 카탈로그 Wiki - 세가 새턴판 세부 평가, 신규 음성·그래픽·보옥·CD 및 오프닝 차이",
+          "url": "https://w.atwiki.jp/gcmatome/pages/4071.html"
+        },
+        {
+          "label": "1997년 새턴판 플레이 회고 - PC-98판과 비교한 패드·CD·로그·속도",
+          "url": "https://usitora.sakura.ne.jp/yu-noss.htm"
+        },
+        {
+          "label": "Satakore - 일본 새턴 일반판 T-28004G, 발매일·3디스크·패키지 사양",
+          "url": "https://www.satakore.com/sega-saturn-game,,T-28004G,,Konoyo-no-Hate-de-Koi-wo-Utau-Shoujo-Yu-No-JPN.html"
+        },
+        {
+          "label": "LaunchBox - 1997 세가 새턴 일본 Box - Front (1740×1370)",
+          "url": "https://gamesdb.launchbox-app.com/games/details/126196-yu-no-konoyo-no-hate-de-koi-o-utau-shoujo"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/4702",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 게임 자체 평가는 1997년 일본 세가 새턴 일반판 T-28004G(CD-ROM Disc A/B/C) 기준이며 마우스 동봉 한정판 T-28005G, PC-98판 및 2017년 이후 리메이크판과 구분한다. 사용자 제공 링크의 실제 적용 대상 디스크·리비전, 스토리·시스템·메뉴·선택지·이미지의 번역 범위, 미번역 요소, 설치 방식 및 실기·에뮬레이터 호환성은 확인하지 않았으며 패치 설치·구동 검증을 수행하지 않았다."
+      },
+      "reviewedAt": "2026-10-26",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com//3d1ade63-c886-44f9-a66e-022159ed607d.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/details/126196-yu-no-konoyo-no-hate-de-koi-o-utau-shoujo",
+        "platform": "saturn",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
