@@ -11061,6 +11061,66 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "sengoku-basara-3-utage-ps3",
+      "title": "전국 바사라 3 연",
+      "original": "戦国BASARA3 宴",
+      "platforms": [
+        "ps3"
+      ],
+      "genres": [
+        "액션",
+        "무쌍형 액션"
+      ],
+      "score": 8.2,
+      "summary": "2011년 11월 10일 카프콤이 발매한 일본 PS3 일반판 《戦国BASARA3 宴》(BLJM-60389). 《전국 바사라 3》의 세계와 전투를 확장하여 총 30명의 무장을 조작하고, 마츠나가 히사히데 등 개성 강한 추가 무장, 일본 유희·천하통일·태그 모드와 2인 플레이를 즐길 수 있다. 전투 스타일의 개성과 호쾌한 타격감, 다양한 도전 과제가 강점이지만 8명에게만 제공되는 3장짜리 짧은 신규 스토리, 재사용 전장, 전작보다 줄어든 서사적 깊이가 아쉬워 8.2점. 캐릭터 수집·육성과 무쌍형 액션을 즐기는 팬에게 추천하며, 방대한 이야기 분기는 본편 《바사라 3》가 더 적합하다. 공식 발표와 PS3판 전문·이용자 리뷰를 종합한 편집 평가이며 직접 플레이한 결과는 아니다.",
+      "pros": [
+        "마츠나가 히사히데를 비롯해 조작 가능한 무장이 총 30명으로 늘고 기술과 공격 스타일이 각기 달라, 대량의 적을 연속 공격하는 특유의 화려한 손맛과 캐릭터 연구의 재미가 크다.",
+        "일본 유희 모드의 다채로운 과제, 부활한 천하통일과 신설 태그 시스템, 전극 드라이브 등 신규·복귀 요소가 전작보다 다양한 전투 목표와 육성을 지원한다.",
+        "거의 모든 모드에서 2인 협력·대전 플레이를 지원하고, 《바사라 3》 세이브 데이터 연동을 통해 성장·장비 등 일부 성과를 이어받는 편의가 좋다."
+      ],
+      "cons": [
+        "신규 스토리 모드는 일부 무장 8명에게만 제공되고 인물당 3장으로 짧아, 전작의 긴 분기형 전개를 기대하면 이야기 볼륨이 부족하다.",
+        "기존 전장과 적, 음악을 재활용한 콘텐츠가 적지 않아 여러 캐릭터를 연속 육성하다 보면 같은 전투를 반복한다는 느낌이 쌓인다.",
+        "무장별 밸런스 차이와 고난도·레벨업을 위한 반복 플레이가 있고, 독립적인 서사보다 팬서비스와 액션 모드에 치우쳐 시리즈 입문자에게는 다소 불친절하다."
+      ],
+      "sources": [
+        {
+          "label": "카프콤 공식 발표 전재 - GAME Watch, PS3 출시 정보·모드 소개",
+          "url": "https://game.watch.impress.co.jp/docs/news/471918.html"
+        },
+        {
+          "label": "패미통 - PS3판 전문 리뷰 8·8·8·8 (32/40), 장단점",
+          "url": "https://www.famitsu.com/game/title/23122/reviews"
+        },
+        {
+          "label": "가격.com - PS3 일본판 실제 이용자 리뷰, UI·전투·반복 평가",
+          "url": "https://review.kakaku.com/review/K0000280931/"
+        },
+        {
+          "label": "스루가야 - 일본 PS3 일반판 품번 BLJM-60389 및 2011년 출시 정보",
+          "url": "https://www.suruga-ya.jp/product/detail/103001320"
+        },
+        {
+          "label": "J&L Game - 일본 PS3판 BLJM-60389 실물 앞표지 사진",
+          "url": "https://www.jnlgame.com/products/sengoku-basara-3-utage-ps3-playstation-3-pre-owned-japanese-import"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/4823",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 게임 평가는 일본 PS3 일반판 《戦国BASARA3 宴》(BLJM-60389) 기준이며 원작 《戦国BASARA3》, Wii판, PS3 the Best판과 구별한다. 사용자가 제시한 주소만으로 대상 지역·디스크 리비전·번역 범위(이벤트·메뉴·무장 대사·이미지)·미번역 요소·설치 방식과 PS3 실기/RPCS3 호환성은 확인되지 않았다."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://www.jnlgame.com/cdn/shop/products/image_131dede8-18e3-45fc-93fd-c803a0bc5916.jpg?v=1680454951&width=5760",
+        "source": "https://www.jnlgame.com/products/sengoku-basara-3-utage-ps3-playstation-3-pre-owned-japanese-import",
+        "platform": "ps3",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
