@@ -5482,6 +5482,64 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "friends-seishun-no-kagayaki-ps2",
+      "title": "프렌즈: 청춘의 빛",
+      "original": "フレンズ ～青春の輝き～",
+      "platforms": [
+        "ps2"
+      ],
+      "genres": [
+        "ADV",
+        "연애 어드벤처",
+        "비주얼 노벨"
+      ],
+      "score": 7.5,
+      "summary": "중학교 테니스부 동창회로 모인 옛 친구들과 일주일간 재회하며 사랑·우정·과거의 감정을 마주하는 정통 청춘 연애 ADV. 현실감 있는 인간관계, 여름 고원 배경과 뛰어난 음성·음악, 빠른 스킵과 L1 되감기가 강점이다. 반면 이동하는 등장인물을 찾아다니는 과정이 번거롭고 PS2판 추가 인물의 비중은 작으며 정적이고 반복적인 전개가 남아 7.5점. 성숙한 재회 로맨스와 1990년대식 탐색형 연애 ADV를 좋아한다면 추천. 자료 기반 편집 평가이며 직접 플레이한 점수는 아님. 일본 PS2 최초 발매판(2004-09-30, SLPS-25385) 기준.",
+      "pros": [
+        "중학교 테니스부 동창들과 재회하는 설정을 중심으로 첫사랑·우정·질투 등 인물 관계를 세밀하게 그려, 일반적인 학원 연애물과 다른 청춘의 여운이 있다.",
+        "고원 펜션과 주변 지역을 낮·밤에 돌아다니며 인물과 만나고 선택하는 방식이라 주어진 대사만 읽기보다 직접 인연을 만들어가는 감각이 있다.",
+        "L1 되감기로 잘못 고른 선택이나 예상 밖의 만남을 되돌릴 수 있고 빠른 텍스트 스킵으로 여러 인물의 분기·엔딩을 보기 편리하다.",
+        "PS2판은 음성 연기와 음악·CG의 분위기를 살리면서 신규 오프닝 애니메이션, 쿼터뷰 3D 지역 지도, 추가 캐릭터 2명을 제공한다."
+      ],
+      "cons": [
+        "인물들이 시간대에 따라 지도 위 장소를 바꾸기 때문에 특정 루트·이벤트에 필요한 상대를 찾으러 이동하는 과정이 피로해질 수 있다.",
+        "이야기의 큰 틀은 이전 PC·새턴판과 거의 같고 PS2판 추가 캐릭터는 비중이 크지 않아 기존 팬에게 리메이크의 신선함이 제한된다.",
+        "시간대별 인물 탐색과 선택지 중심의 고전적인 진행, 정적인 대화 화면은 현대 비주얼 노벨에 익숙한 사람에게 반복적이고 느리게 느껴질 수 있다."
+      ],
+      "sources": [
+        {
+          "label": "GameFAQs - PS2 일본 최초 발매판 SLPS-25385 및 베스트판 SLPM-66201 구별",
+          "url": "https://gamefaqs.gamespot.com/ps2/577757-friends-seishun-no-kagayaki/data"
+        },
+        {
+          "label": "LaunchBox - 2004년 PS2판 개요 및 일본판 Box - Front 실물 패키지",
+          "url": "https://gamesdb.launchbox-app.com/games/details/391388-friends-seishun-no-kagayaki"
+        },
+        {
+          "label": "Joko - 2006년 PS2/새턴판 비교 플레이 이용자 후기",
+          "url": "https://www.joko.jp/ps2/review/ti1202.html"
+        },
+        {
+          "label": "ピコピコ大百科 - 2004년 PS2판 정보 및 이용자 후기 5건: 시스템·서사·단점",
+          "url": "https://www.gavas.jp/products/detail.php?product_id=14125"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/5630",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 사용자 표기 제작자: 신선짱(사용자 제공 정보로서 별도 확인하지 않음). 평가 대상은 일본 PS2 최초 발매판(2004-09-30, SLPS-25385)이며 2005년 베스트판(SLPM-66201)과 구분함. 제공된 주소의 패치가 어느 판본에 호환되는지, 번역 범위·미번역·설치 방법은 확인하지 않음. 패치 적용·실기·에뮬레이터 검증도 수행하지 않음."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com//303befa6-cc16-4bf0-8a00-34d36408bb49.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/details/391388-friends-seishun-no-kagayaki",
+        "platform": "ps2",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
