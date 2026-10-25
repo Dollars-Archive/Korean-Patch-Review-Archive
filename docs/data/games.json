@@ -4344,6 +4344,76 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "dirge-of-cerberus-final-fantasy-vii-international-ps2",
+      "title": "더지 오브 케르베로스: 파이널 판타지 VII 인터내셔널",
+      "original": "DIRGE of CERBERUS -FINAL FANTASY VII- INTERNATIONAL",
+      "platforms": [
+        "ps2"
+      ],
+      "genres": [
+        "ACT",
+        "RPG",
+        "TPS"
+      ],
+      "score": 6.5,
+      "summary": "2008년 9월 4일 스퀘어 에닉스가 일본 PS2용 Ultimate Hits로 발매한 《DIRGE of CERBERUS -FINAL FANTASY VII- INTERNATIONAL》(SLPM-66629). 《FINAL FANTASY VII》로부터 3년 뒤 빈센트 발렌타인이 디프그라운드 병사들과 맞서는 3인칭 총격 액션 RPG다. 2006년 일본 오리지널판을 베이스로 북미판에서 개선된 2단 점프·공중 사격 및 격투·슬라이드 대시와 넓어진 조준 시야, 총기 파츠 커스터마이징 등을 도입해 액션의 템포가 크게 나아졌다. 온라인 모드를 제거한 대신 46개 추가 미션, 갤러리와 EX 하드 난도로 혼자 즐길 콘텐츠를 확충했다. PS2 기준 CG와 연출, 하마우즈 마사시의 음악과 빈센트의 설정 확장이 인상적이나, 단조로운 사격·적 AI·선형적인 미션 구조와 원본에서 개선되지 않은 서사 전개의 허점, 영어 음성만 제공하는 점으로 인해 6.5/10. 《FFVII》 팬이 빈센트 관련 외전을 직접 체험하고 싶다면 조건부 추천하며, 깊이 있는 TPS 전투를 기대한다면 우선순위가 낮다. 공식 제작사·일본 인터내셔널 전용 분석·동일 시스템의 북미판 전문 리뷰에 기반한 편집 평가이며 실제 게임 플레이·패치 적용 테스트는 하지 않았다.",
+      "pros": [
+        "일본 초기판에 없던 2단 점프, 공중 사격·공중 격투와 회피를 대체한 슬라이드 대시로 빈센트의 움직임과 전투 접근성이 뚜렷하게 개선되었다.",
+        "핸드건·라이플·머신건의 프레임·배럴·스코프·액세서리 조합, 마테리아 마법과 변신용 아이템 등으로 플레이 스타일과 장비 성장의 변화를 시도한다.",
+        "기존 온라인 협력 모드를 걷어내는 대신 본편 클리어 후 즐길 수 있는 46개 엑스트라 미션, 각종 캐릭터 모델·아트·사운드·이벤트 갤러리를 추가해 싱글 플레이 분량을 보완했다.",
+        "당대 PS2 기준 인상적인 CG·캐릭터 모델과 하마우즈 마사시의 음악, 빈센트·셸크 등 인물의 감정 묘사가 고딕풍 SF 액션 분위기를 잘 살린다.",
+        "FFVII 본편 이후의 디프그라운드와 빈센트의 과거에 초점을 맞춘 별도 이야기가 시리즈의 세계관을 넓히며, 원작 팬에게 배경 설정을 감상할 동기를 제공한다."
+      ],
+      "cons": [
+        "조작 자체는 크게 개선됐지만 적의 단순한 패턴과 직선적인 사격·통로 위주의 전장, 얕은 엄폐·전술 활용 때문에 전문 TPS와 비교하면 전투의 깊이가 제한적이다.",
+        "동영상 사이의 서사 진행이 급하고 새 조직·설정을 설명 대사로 처리하는 부분이 많으며, 주제와 캐릭터의 감정선이 《FFVII》 원작의 깊이에 못 미친다는 평가가 있다.",
+        "인터내셔널판은 일본 원본의 음성을 없애고 영어 성우 연기만 사용한다. 일본어 자막은 지원하지만 일본 원판 캐릭터 음성을 선호하는 플레이어에게 불리하다.",
+        "원판 온라인 멀티플레이 모드가 제거되어 온라인에서 제공하던 별도의 이야기나 협력 콘텐츠를 원형 그대로 체험할 수 없으며, 갤러리 영상으로 일부만 보완한다.",
+        "기존 EASY 난도 대신 클리어 후 EX 하드가 추가되고 세밀한 조준·카메라와 공격 중 시야 확보에 익숙해져야 하므로 총격 액션 초심자에게 마냥 쉬운 작품은 아니다.",
+        "빈센트의 기존 설정과 FFVII 본편·컴필레이션 후속작의 세계관을 모르면 캐릭터의 무게감과 일부 사건의 의미를 충분히 이해하기 어렵다."
+      ],
+      "sources": [
+        {
+          "label": "SQUARE ENIX 공식 제품 소개: 국제판 2008-09-04 출시, SLPM-66629, 2단 점프·엑스트라 미션·갤러리",
+          "url": "https://www.jp.square-enix.com/game/detail/dcff7/"
+        },
+        {
+          "label": "ゲームカタログ@Wiki: 일본 2008 인터내셔널판 별도 평가 및 개선·유지된 단점",
+          "url": "https://w.atwiki.jp/gcmatome/pages/2860.html"
+        },
+        {
+          "label": "DIRGE of CERBERUS INTERNATIONAL 일본 공략 Wiki: 변경 사항과 46개 추가 미션·음성·장비 세부 내용",
+          "url": "https://w.atwiki.jp/dcinter/pages/12.html"
+        },
+        {
+          "label": "GameSpot 2006년 북미 PS2 버전 전문 리뷰: 국제판 기반으로 쓰인 사격·카메라·스토리·미션 분석",
+          "url": "https://www.gamespot.com/reviews/dirge-of-cerberus-final-fantasy-vii-review/1900-6155471/"
+        },
+        {
+          "label": "GameFAQs 일본 국제판 Ultimate Hits PS2 2008 패키지 Box Scan",
+          "url": "https://gamefaqs.gamespot.com/ps2/924449-dirge-of-cerberus-final-fantasy-vii/boxes/107364"
+        },
+        {
+          "label": "LaunchBox 게임 DB: 독립 등록된 일본 PS2 인터내셔널판 실제 Box - Front (Japan)",
+          "url": "https://gamesdb.launchbox-app.com/games/images/369175-dirge-of-cerberus-final-fantasy-vii-international"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/5926",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2008년 일본 PS2 《DIRGE of CERBERUS -FINAL FANTASY VII- INTERNATIONAL》 Ultimate Hits판(SLPM-66629)이며 2006년 일본 원판(SLPM-66271)과 게임 구조·조작·언어가 다르다. 사용자가 제공한 URL의 실제 배포 여부, 지원 게임판·디스크 리비전, 한글 번역 범위·미번역·적용 절차 및 PS2 실기/PCSX2 동작 여부는 확인하지 않았다. 게임 자체는 영어 음성·일본어 자막 구성이나 해당 패치에 적용되는 언어 변경 사항은 검증하지 않았다."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com/098df472-77fd-4603-9b8b-7df57db31bab.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/369175-dirge-of-cerberus-final-fantasy-vii-international",
+        "platform": "ps2",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT"
     }
   ]
 }
