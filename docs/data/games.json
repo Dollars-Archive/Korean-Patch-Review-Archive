@@ -11854,6 +11854,72 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "sakura-taisen-1-and-2-psp",
+      "title": "사쿠라 대전 1&2",
+      "original": "サクラ大戦1&2",
+      "platforms": [
+        "psp"
+      ],
+      "genres": [
+        "ADV",
+        "SRPG"
+      ],
+      "score": 8.4,
+      "summary": "2006년 3월 9일 발매된 일본 PSP 일반판(ULJM-05109) 《サクラ大戦1&2》의 합본 이식. 세가 새턴의 1편과 2편을 UMD 한 장에 담아 제국화격단의 이야기를 처음부터 이어 즐길 수 있다. LIPS 시간제한 대화와 호감도, 에피소드형 인물 드라마, 턴제 전술 전투, 다나카 고헤이의 음악과 애니메이션·성우 연출이 지금도 인상적이다. PSP 와이드 화면 조정과 휴대성의 이점은 크지만 UMD 로딩이 길고 일부 장면의 처리 지연·음성 품질 열화, 전환 편의와 구형 전투 템포가 약점이어서 8.4점. 캐릭터 교류와 고전 JRPG식 전략 전투를 좋아하며 시리즈를 1편부터 체험하고 싶은 사람에게 추천한다. 세가 공식 안내 및 PSP판 이용 리뷰 기반의 편집 평가로 직접 플레이한 점수가 아니며 한글패치 여부는 점수에 반영하지 않았다.",
+      "pros": [
+        "세가 새턴의 《사쿠라 대전》 1·2편을 한 UMD에 담아 제국화격단 화조의 출발과 후속 이야기를 순서대로 즐길 수 있는 풍부한 분량을 제공한다.",
+        "대화에서 시간 제한과 침묵까지 선택하는 LIPS, 인물 호감도와 전투 능력이 연결되는 구조가 연애·동료 드라마와 SRPG를 자연스럽게 잇는다.",
+        "각 화마다 사건·캐릭터 대화·전투가 이어지는 무대극 같은 구성, 다나카 고헤이의 음악, 성우 연기와 애니메이션이 시리즈 고유의 개성을 만든다.",
+        "원작의 이야기와 미니게임을 유지하면서 PSP 와이드 화면에 맞게 배치를 조정했고, 본격적인 두 작품을 휴대기기로 나누어 진행할 수 있다."
+      ],
+      "cons": [
+        "UMD에서 전투·미니게임 진입과 일부 대화 분기 시 로딩이 길어지고, 전투 중 공격 음성이 뒤늦게 재생되는 등 흐름이 끊기는 순간이 있다.",
+        "원작 대비 일부 장면에서 동작이 둔해지고 음성 압축 품질이 아쉬우며 특히 2편의 음성이 덜 선명하다는 지적이 있다.",
+        "PSP 와이드 화면에 맞췄지만 전투 맵 표시 영역 자체는 제한적이며, 두 게임을 번갈아 선택하는 인터페이스가 매끄럽지 않다.",
+        "캐릭터 관계에 비해 전투 난도·전술 깊이가 높지 않고 반복 루트와 연출 대기, 제한된 현대적 편의 기능으로 재플레이가 느릴 수 있다."
+      ],
+      "sources": [
+        {
+          "label": "세가 사쿠라대전 공식 - PSP판 발매일·일본 일반판 ULJM-05109·합본 구성",
+          "url": "https://sakura-taisen.com/archives/game/databace/sakura_psp.html"
+        },
+        {
+          "label": "게임카탈로그@Wiki - 사쿠라대전 1&2 PSP판 장점과 UMD 로딩·UI 평가",
+          "url": "https://w.atwiki.jp/gcmatome/pages/4697.html"
+        },
+        {
+          "label": "TAKA☆ 2006년 PSP판 실사용 후기 - 영상·와이드 화면·로딩 및 전투 연출",
+          "url": "https://chickendancers.seesaa.net/article/200604article_7.html"
+        },
+        {
+          "label": "Play-Asia 일본 PSP 일반판 사용자 리뷰 - 그래픽·음악·로딩·음질",
+          "url": "https://www.play-asia.com/en/sakura-taisen-1-2/13/7019gf"
+        },
+        {
+          "label": "LaunchBox - Sony PSP 《Sakura Wars 1 & 2》 일본판 Box - Front",
+          "url": "https://gamesdb.launchbox-app.com/games/details/121475"
+        },
+        {
+          "label": "별도 제작자 공개 저장소 - PSP ULJM05109용 한국어 번역 차분 패치 안내(사용자 링크와 동일 여부 미확인)",
+          "url": "https://github.com/snake7594/sakura-taisen-1-2-psp-korean"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/4662",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 게임 평가 대상은 2006-03-09 발매 일본 PSP 일반판 ULJM-05109이며 초기판 리버시블 표지를 기준으로 한다. 별도 공개 GitHub 프로젝트에서는 같은 PSP 제품 코드용 번역 차분 패치의 배포 안내와 일부 이미지·미니게임 설명의 미번역 잔존 가능성을 확인했으나, 이 사용자 제공 주소에 배포되는 파일의 버전·번역 범위·동일성은 확인하지 않았다. 원본 ISO 리비전·해시 일치 여부에 따른 적용 조건을 배포처의 별도 지침에서 확인해야 한다. 본 평가에서는 설치, PSP 실기 및 PPSSPP 구동을 직접 검증하지 않았다."
+      },
+      "reviewedAt": "2026-10-26",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com//398742a0-e06a-484f-9705-adbb33a23a28.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/details/121475",
+        "platform": "psp",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
