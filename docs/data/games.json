@@ -13537,6 +13537,73 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "fire-emblem-ankoku-ryuu-to-hikari-no-tsurugi-fc",
+      "title": "파이어 엠블렘: 암흑룡과 빛의 검 (FC)",
+      "original": "ファイアーエムブレム 暗黒竜と光の剣 (Fire Emblem: Ankoku Ryuu to Hikari no Tsurugi, FC)",
+      "platforms": [
+        "other"
+      ],
+      "genres": [
+        "전략 RPG",
+        "턴제 전술 시뮬레이션",
+        "판타지 SRPG"
+      ],
+      "score": 7.6,
+      "summary": "1990년 4월 20일 일본 패미컴(FC) 카트리지로 출시된 《ファイアーエムブレム 暗黒竜と光の剣》(HVC-VX)의 게임성 평가. 아카네이아 대륙에서 마르스가 다양한 병종의 동료와 함께 전투를 치르는 전략 RPG 시리즈 첫 작품이다. 유닛 영구 사망, 서로 다른 성장률·이동력과 무기·지형 특성, 동료 영입·전직과 자원 관리가 맞물려 장기적인 전술과 애착을 만든다. 일부 맵은 진군 경로와 부가 목표를 동시에 고려하는 재미가 있으며 원작 도트 연출에도 고유한 맛이 있다. 반면 이동 가능 칸과 전투 예상 피해·명중률 표시가 없고, 번거로운 메뉴·아이템 관리와 느린 턴 진행, 예고 없는 즉시 행동 증원군, 불균형한 육성·병종별 전직 제한, 주역 외 빈약한 인물 묘사가 두드러진다. 역사적 공헌과 지금도 살아 있는 핵심 전술성을 감안하면서 원작의 이용 편의성 문제를 감점해 7.6점. 불친절한 시스템을 익히며 전술적 성취를 추구하는 고전 SRPG 팬에게 추천하고, 처음 접한다면 개선된 DS 리메이크도 고려할 만하다. 패미컴 원작 기준이며 1994년 SFC 《문장의 비밀》에 수록된 재구성판, 2008년 DS 리메이크 및 2020년 Switch 발매판의 부가 편의 기능은 평가하지 않았다. 닌텐도 공식 자료와 원작 플레이 리뷰, 원작을 탑재한 이식판의 리뷰를 참고한 편집 평가이며 직접 플레이하지 않았고 한글패치 존재를 점수에 반영하지 않았다.",
+      "pros": [
+        "지형 회피, 보병·기병·비행병 등 병종별 이동과 공격 특성, 무기별 위력·명중 차이와 특효를 고려해 전선을 설계하는 SRPG의 탄탄한 기본기가 있다.",
+        "전투에서 쓰러진 동료가 영구적으로 이탈하여 위험 지역 배치, 후퇴·치료·전진 타이밍의 작은 판단까지 긴장감과 의미를 준다.",
+        "각 유닛의 경험치 성장과 일부 직업의 전직, 대화·마을 방문을 통한 동료 영입으로 자기만의 부대를 만들어 가는 몰입감이 높다.",
+        "거점 제압과 마을·보물 보호, 동료 설득 같은 부가 목표가 있는 전장에서 속도와 안전을 저울질하게 하는 장면이 인상적이다."
+      ],
+      "cons": [
+        "아군·적군의 이동 가능 범위를 표시해 주지 않으며 공격 직전 피해량·명중률 예측 화면도 없어 타일과 능력치를 직접 세고 계산해야 한다.",
+        "유닛마다 반복되는 명령 선택과 불편한 물품 전달·관리, 긴 적 턴과 전투 애니메이션으로 진행 템포가 늘어진다.",
+        "출현 위치를 충분히 알리기 전에 증원된 적이 즉시 행동하는 구간과 잦은 반복 증원 때문에 영구 사망 규칙이 부당하게 느껴질 수 있다.",
+        "일부 직업은 전직할 수 없고 경험치 육성의 불균형이 있으며, 마르스 외 다수 동료의 대사·개인 서사가 짧아 현대 시리즈 수준의 인물 드라마를 기대하기 어렵다."
+      ],
+      "sources": [
+        {
+          "label": "닌텐도 공식 FC 소프트 소개 - 원작 발매일·게임 규칙·인물·병종·승리조건",
+          "url": "https://www.nintendo.com/jp/famicom/software/fmc-fe1/index.html"
+        },
+        {
+          "label": "닌텐도 파이어 엠블렘 시리즈 공식 연혁 - 1990년 FC 원작 및 SFC·DS 후속판 구분",
+          "url": "https://www.nintendo.com/jp/fe/history/index.html"
+        },
+        {
+          "label": "GameFAQs - FC/NES판 플레이 리뷰(2019), 원작 병종·성장·지형·증원·난점",
+          "url": "https://gamefaqs.gamespot.com/nes/562649-fire-emblem-shadow-dragon-and-the-blade-of-light/reviews/167594"
+        },
+        {
+          "label": "RPGFan - 원작 기반 Switch 이식판 리뷰(2022), 기본 전투·UI·증원·서사 분석. 이식판 보조 기능은 FC와 구분",
+          "url": "https://www.rpgfan.com/review/fire-emblem-shadow-dragon-the-blade-of-light-2/"
+        },
+        {
+          "label": "Gavas - 1990년 패미컴 일본판 제품 번호 HVC-VX",
+          "url": "https://www.gavas.jp/products/detail.php?product_id=4259"
+        },
+        {
+          "label": "LaunchBox - Nintendo Entertainment System 일본판 Box - Front (2244×3246)",
+          "url": "https://gamesdb.launchbox-app.com/games/images/7599-fire-emblem-shadow-dragon-and-the-blade-of-light"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/5100",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 게임 평가는 1990년 일본 FC/패미컴 카트리지 《ファイアーエムブレム 暗黒竜と光の剣》(HVC-VX) 기준이며 SFC 《문장의 비밀》의 재구성판, DS 《신 암흑룡과 빛의 검》, Switch 이식판과 구별한다. 제공된 패치의 대상 원본 ROM 리비전, 대사·메뉴·이미지 번역 범위와 미번역, 적용 방법, FC 실기·에뮬레이터 호환성은 검증하지 않았다. 설치·구동 시험도 수행하지 않았다. 현재 사이트에는 FC 전용 기종 ID가 없어 평가 데이터 플랫폼 ID는 other(기타)이고 실제 평가 대상은 FC이다."
+      },
+      "reviewedAt": "2026-10-26",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/dcefc3d0-1d92-4c04-8909-57d2763145e8.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/7599-fire-emblem-shadow-dragon-and-the-blade-of-light",
+        "platform": "other",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
