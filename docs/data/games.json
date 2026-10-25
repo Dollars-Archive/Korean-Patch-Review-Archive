@@ -12298,6 +12298,77 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "burst-error-eve-the-1st-psp",
+      "title": "버스트 에러: 이브 더 퍼스트",
+      "original": "burst error -EVE The 1st.- (バーストエラー イブ・ザ・ファースト)",
+      "platforms": [
+        "psp"
+      ],
+      "genres": [
+        "ADV",
+        "미스터리",
+        "비주얼 노벨"
+      ],
+      "score": 5.7,
+      "summary": "2010년 3월 25일 일본 PSP 일반판 《burst error -EVE The 1st.-》(ULJM-05615) 평가. 《EVE burst error》의 사건 구조를 바탕으로 인물 디자인·성우·음악·대사와 시나리오를 대폭 변경한 재해석 리메이크로, PC-98 원작이나 PS Vita의 《EVE burst error R》와 다른 작품이다. 탐정 아마기 코지로와 정보요원 호죠 마리나의 서로 다른 시점을 바꿔가며 사건을 이해하는 멀티사이트 방식과 노벨식 직관적 진행, 신규 캐릭터와 추가 이야기는 장점이다. 그러나 정보 공개 순서와 대사의 재구성으로 원작 특유의 추리 긴장감과 반전 설득력이 낮아지고, 주인공의 판단력·조연 묘사 및 직접 조사하는 체험이 약해졌다는 비판이 크다. 강점이 남아 있지만 독립적인 미스터리 ADV로 보더라도 전개 완성도가 아쉬워 5.7/10. 원작의 충실한 재현보다는 새로운 캐릭터 해석과 편하게 읽는 서스펜스 VN을 원하는 사람에게 조건부 추천한다. 공개 자료 및 PSP판 이용자 평가 기반의 편집 점수이며 직접 플레이하지 않았고 한글패치 여부는 점수에 반영하지 않았다.",
+      "pros": [
+        "탐정 코지로와 정보요원 마리나의 두 이야기를 번갈아 진행해 서로 다른 단서와 행동이 연결되는 멀티사이트 시스템의 핵심 발상과 미스터리의 큰 줄기를 이어받았다.",
+        "구작의 장소별 조사·대화 명령 반복을 텍스트 중심 노벨 방식으로 바꾸어 진행 정체와 명령어 탐색 부담이 줄고 장편 이야기를 읽기 쉬워졌다.",
+        "전면 새로 그린 캐릭터 이미지, 교체된 성우와 음악, 신규 등장인물·에피소드 및 클리어 후 추가 시점으로 원작과 구별되는 해석을 제공한다.",
+        "원판의 두 시점 수사극을 PSP 휴대용 판본으로 접할 수 있으며 시리즈 이전 작품을 모르는 신규 독자는 변화 자체에 덜 얽매일 수 있다."
+      ],
+      "cons": [
+        "사건 배경·단서·정보 공개 순서를 크게 손보면서 수수께끼가 풀리는 과정의 긴장감과 반전의 충격이 약해지고 일부 새로운 전개가 억지스럽게 느껴진다.",
+        "주역 코지로와 마리나가 원작보다 성급하거나 서툰 판단을 하는 장면이 늘고 조연의 개성과 관계를 단순화해 인물 행동의 설득력이 낮아졌다.",
+        "커맨드 선택형 조사를 노벨식 읽기로 대체해 수사 현장을 직접 살피고 발견하는 능동적인 어드벤처의 재미와 주변 사물 조사 이벤트가 크게 줄었다.",
+        "원작과 확연히 달라진 캐릭터 디자인, 전원 교체된 성우와 BGM의 분위기가 강한 호불호를 낳으며 신규 장면도 재구성된 이야기를 충분히 보완하지 못한다."
+      ],
+      "sources": [
+        {
+          "label": "Media World - 일본 PSP판 발매일·ULJM-05615·게임 기본 소개",
+          "url": "https://mediaworld.co.jp/products/10210921001"
+        },
+        {
+          "label": "게임메카 - PSP판 사전 소개·주요 변경점(2010-03-02)",
+          "url": "https://www.gamemeca.com/view.php?gid=122755"
+        },
+        {
+          "label": "ゲームカタログ@Wiki - PSP판 시나리오·인물·시스템 평가",
+          "url": "https://w.atwiki.jp/gcmatome/pages/2317.html"
+        },
+        {
+          "label": "EVE 시리즈 이용자 감상·PSP판 비교",
+          "url": "https://pro-botti.com/eve-burst-error/"
+        },
+        {
+          "label": "GameFAQs - 일본 PSP판 품번과 발매 정보",
+          "url": "https://gamefaqs.gamespot.com/psp/979775-burst-error-eve-the-first/data"
+        },
+        {
+          "label": "LaunchBox - 일본 PSP판 실제 Box - Front 확인",
+          "url": "https://gamesdb.launchbox-app.com/games/details/120869-burst-error-eve-the-first"
+        },
+        {
+          "label": "HMV&BOOKS - 일본 PSP판 패키지 앞표지 이미지",
+          "url": "https://www.hmv.co.jp/artist_Game-Soft-PlayStation-Portable_000000000252014/item_%E3%83%90%E3%83%BC%E3%82%B9%E3%83%88%E3%82%A8%E3%83%A9%E3%83%BC-%E3%82%A4%E3%83%96%E3%83%BB%E3%82%B6%E3%83%BB%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88_3755935"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/4705",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 게임 평가 대상은 일본 PSP 일반판 《burst error -EVE The 1st.-》(ULJM-05615, 2010-03-25)이다. PC-98·새턴판 《EVE burst error》, PS2판 《EVE burst error PLUS》 및 PS Vita판 《EVE burst error R》와 구분된다. 제공 링크의 실제 지원 리비전, 번역 범위·잔존 일본어, 적용 방법 및 PSP 실기/PPSSPP 호환 여부는 확인하지 않았고 설치·구동 시험도 하지 않았다."
+      },
+      "reviewedAt": "2026-10-26",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://img.hmv.co.jp/image/jacket/400/37/5/5/935.jpg",
+        "source": "https://www.hmv.co.jp/artist_Game-Soft-PlayStation-Portable_000000000252014/item_%E3%83%90%E3%83%BC%E3%82%B9%E3%83%88%E3%82%A8%E3%83%A9%E3%83%BC-%E3%82%A4%E3%83%96%E3%83%BB%E3%82%B6%E3%83%BB%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88_3755935",
+        "platform": "psp",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
