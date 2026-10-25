@@ -3051,6 +3051,70 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "grisaia-no-kajitsu-psvita",
+      "title": "그리자이아의 과실",
+      "original": "グリザイアの果実 -LE FRUIT DE LA GRISAIA-",
+      "platforms": [
+        "psvita"
+      ],
+      "genres": [
+        "ADV",
+        "연애 비주얼 노벨",
+        "심리 드라마"
+      ],
+      "score": 8.5,
+      "summary": "2013년 8월 8일 프로토타입이 발매한 일본 PS Vita 통상 패키지판(VLJM-35051). 미하마 학원에 전학 온 카자미 유지와 다섯 히로인의 일상 코미디가 각자의 상처·비밀을 다루는 긴 심리 드라마로 전환되는 장편 연애 ADV다. 개성적인 캐릭터, 인물별 깊이 있는 사연, 풍부한 음악·음성 및 삽화가 강점이고 PS Vita판은 960×544 고해상도·터치 조작·빠른 스킵/되감기·선택지 점프 등 감상 편의성이 우수하다. 그러나 공통 루트가 길고 일부 개그는 반복되며 개별 루트 완성도와 무거운 소재에 호불호가 있다. 캐릭터 중심의 장대한 미스터리·심리 드라마와 연애 VN을 좋아하는 독자에게 강력 추천한다. 게임 자체를 자료에 근거해 편집 평가한 것으로 직접 플레이하지 않았으며 한글패치 유무는 점수에 반영하지 않았다.",
+      "pros": [
+        "다섯 히로인 각각의 복잡한 과거와 심리, 주인공 유지와의 관계 변화를 충분한 분량으로 다뤄 캐릭터 서사의 밀도가 높다.",
+        "가벼운 학원 생활의 유머가 개별 루트의 심리적 갈등·서스펜스로 바뀌는 장르 대비가 강렬하며 인물들의 성장과 선택을 설득력 있게 그린다.",
+        "와타나베 아키오·후미오의 캐릭터 CG, 폭넓은 성우 연기와 Elements Garden의 음악이 장시간 텍스트 감상을 뒷받침한다.",
+        "PS Vita판은 960×544 고해상도에 맞춘 그래픽·고품질 음원, 터치스크린 입력, 고속 스킵·되감기 및 선택지 점프를 지원해 해당 기종의 편의성이 좋다."
+      ],
+      "cons": [
+        "개별 히로인 루트로 들어가기까지 공통 루트의 일상·개그가 상당히 길어 핵심 갈등이 시작되기까지 기다려야 한다.",
+        "히로인별 루트의 서사적 설득력과 후반 전개에 편차가 있어 모든 이야기가 같은 완성도라고 보기는 어렵다.",
+        "선택지가 많지 않아 분기를 찾아내는 게임성보다는 장문의 서사 감상에 치우쳐 있다.",
+        "일부 과장된 성적 농담과 잔혹하거나 충격적인 사건·트라우마 묘사는 가벼운 학원 로맨스를 기대한 이용자에게 부담스러울 수 있다.",
+        "PC 원작과 달리 CERO D 등급에 맞춘 콘솔 이식판으로 성인 대상 원작의 표현을 그대로 경험하는 판본은 아니다."
+      ],
+      "sources": [
+        {
+          "label": "PROTOTYPE 공식 PS Vita판 제품 정보·발매일·제작진",
+          "url": "https://www.prot.co.jp/psv/grisaia/spec.html"
+        },
+        {
+          "label": "패미통 PS Vita판 전문 리뷰 4건(2013년)",
+          "url": "https://www.famitsu.com/game/title/29409/reviews"
+        },
+        {
+          "label": "4Gamer PS Vita판 그래픽·터치 조작·이식 특징 보도",
+          "url": "https://www.4gamer.net/games/218/G021833/20130529098/"
+        },
+        {
+          "label": "스루가야 PS Vita 일본 통상판 품번 VLJM-35051 확인",
+          "url": "https://www.suruga-ya.jp/product/detail/105000229"
+        },
+        {
+          "label": "LaunchBox 일본 PS Vita 패키지 Box - Front 확인",
+          "url": "https://gamesdb.launchbox-app.com/games/images/84983-grisaia-no-kajitsu-le-fruit-de-la-grisaia"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/6789",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 제작자 표기: sizz1214-lang(사용자 제공, 별도 검증하지 않음). 평가 대상은 2013년 PS Vita 일본 패키지판 『グリザイアの果実 -LE FRUIT DE LA GRISAIA-』(VLJM-35051)이다. 제공 주소의 지원 기종·게임 리비전, 번역 범위·미번역, 배포 상태, 적용 절차·호환성은 확인하지 않았다. 링크 GET·HEAD·미리보기·리다이렉트 확인 또는 실기·에뮬레이터 테스트를 수행하지 않았다."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com/710f095b-fdc0-419f-aec3-f27b1854697d.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/84983-grisaia-no-kajitsu-le-fruit-de-la-grisaia",
+        "platform": "psvita",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT"
     }
   ]
 }
