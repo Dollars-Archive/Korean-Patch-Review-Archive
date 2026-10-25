@@ -9497,6 +9497,67 @@
       },
       "reviewedAt": "2026-10-25",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "kenyuu-densetsu-yaiba-snes",
+      "title": "검용전설 야이바",
+      "original": "剣勇伝説YAIBA",
+      "platforms": [
+        "snes"
+      ],
+      "genres": [
+        "액션 RPG",
+        "탑다운 액션",
+        "협력 플레이"
+      ],
+      "score": 5.8,
+      "summary": "1994년 3월 25일 일본 SFC로 출시된 반프레스토의 원작 만화·애니메이션 기반 액션 RPG. 야이바와 오니마루의 대결을 중심으로 용신의 구슬 수집, 필살기와 동료 소환, 오리지널 동료 라이를 활용한 2인 동시 플레이를 구현해 팬서비스가 충실하다. 그러나 맵 반복과 빈약한 길 안내, 지나치게 긴 보스전과 단순한 적 AI, 부정확한 동료 AI 및 성장·아이템 밸런스 붕괴가 발목을 잡아 5.8점. 원작 팬 또는 2인 협력 액션을 체험하고 싶은 사람에게 추천하되 전투 완성도를 기대한다면 신중히 권한다. 공개 자료에 기반한 편집 평가로 직접 플레이한 점수는 아님.",
+      "pros": [
+        "오니마루와의 대결, 일본 각지의 용신 구슬 수집 등 원작의 주요 전개를 비교적 충실히 재현하며 팔귀·사천왕 등 다양한 등장인물 및 적 간부가 출연해 캐릭터 게임으로서 볼거리가 풍부하다.",
+        "뇌신검을 활용한 회전·번개·선풍 등 필살기와 화염·얼음·금 등의 구슬 기술을 구현했고, 사야카·무사시·카게토라 같은 동료를 소환하여 회복·공격·이동 지원을 받을 수 있다.",
+        "게임 오리지널 캐릭터 용신 라이를 조작하는 2인 동시 플레이가 가능하며, 일본 각지를 선택하여 돌아보는 구간과 회전·확대·축소를 활용한 일부 대형 보스 연출, 경쾌한 BGM이 매력적이다."
+      ],
+      "cons": [
+        "적 보스의 패턴은 대부분 단순한데 체력과 공격력이 지나치게 높아 강한 구슬 공격과 MP 회복 아이템에 의존하는 장기전이 반복되고, 레벨 차이로 난도가 급격하게 달라진다.",
+        "비슷한 던전에서 적이 무한히 등장하고 지도가 없으며 저장 지점도 드물어 탐험과 발판 구간이 피곤하다. 적과 접촉만 해도 피해를 입고 체력 표시가 없어 전투 정보를 파악하기도 어렵다.",
+        "공격 동료의 AI가 부정확해 오히려 방해가 되는 경우가 있고, 일부 구슬은 활용도가 낮은 반면 특정 구슬은 돈과 회복 아이템을 지나치게 쉽게 공급하여 성장·경제·전투 밸런스가 무너진다."
+      ],
+      "sources": [
+        {
+          "label": "패미통 - SFC 1994년 3월 25일 발매, 반프레스토, 액션 RPG 기본 정보",
+          "url": "https://www.famitsu.com/game/title/17511/reviews"
+        },
+        {
+          "label": "절대SIMPLE주의 - 2025년 SFC 완주 플레이 리뷰, 전투 밸런스·동료·보스·원작 재현",
+          "url": "https://www.simplelove.co/entry/20250413/1744533791"
+        },
+        {
+          "label": "레트로 게임 설명서 보관고 - SFC 팬서비스·원작 등장인물 및 전체 평가",
+          "url": "https://gamemanual.midnightmeattrain.com/entry/%E5%89%A3%E5%8B%87%E4%BC%9D%E8%AA%ACYAIBA"
+        },
+        {
+          "label": "콘솔 게임 대사전 - SFC판 협력 시스템·던전·AI·난도 분석",
+          "url": "https://consoledictionary.com/games/2060"
+        },
+        {
+          "label": "LaunchBox Games Database - SFC 일본판 Box - Front",
+          "url": "https://gamesdb.launchbox-app.com/games/images/34355-kenyuu-densetsu-yaiba"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/5138",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 1994년 3월 25일 출시된 일본 슈퍼패미컴 『剣勇伝説YAIBA』(SHVC-YB, 반프레스토 발매)로, 같은 날 발매된 게임보이판 및 게임기어판과 구분함. 제공한 한글패치 주소에서 지원 ROM 리비전·번역 범위·미번역 요소·버전·적용 방식·배포 상태는 확인하지 않았으며, 패치 설치·슈퍼패미컴 실기 또는 에뮬레이터 실행 검증도 진행하지 않음."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/51cc1b94-56b4-4b17-99b1-3dc63b1e19d6.png",
+        "source": "https://gamesdb.launchbox-app.com/games/images/34355-kenyuu-densetsu-yaiba",
+        "platform": "snes",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
