@@ -3859,6 +3859,77 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "enkaku-sousa-shinjitsu-e-no-23-nichikan-psp",
+      "title": "원격수사: 진실로의 23일간",
+      "original": "遠隔捜査 -真実への23日間-",
+      "platforms": [
+        "psp"
+      ],
+      "genres": [
+        "추리 ADV",
+        "미스터리",
+        "서스펜스"
+      ],
+      "score": 7.5,
+      "summary": "2009년 2월 5일 발매된 일본 PSP판(UCJS-10088)의 추리 ADV. 사립탐정 사이토 미쓰시(斉藤光志)가 술에 취해 기억을 잃은 밤의 살인 사건 용의자로 구금되면서, 변호사이자 옛 연인인 신조 노리코에게 외부 조사를 의뢰하고 23일의 구금 기한 내 단서를 모아 심문을 돌파한다. 당사자가 움직일 수 없다는 설정, 오전·오후 방문지 선택과 단서 '클루'를 제시하는 심문, 심증 게이지·기한 관리가 독특한 긴장감을 준다. 정보 정리 화면과 주역 성우·피아노 중심 음악도 강점이다. 다만 잘못된 수사 방향은 조기 배드엔딩으로 연결되고, 새로운 증거를 기다리는 동안 동일한 심문에 침묵하는 반복이 있으며, 전체 분량은 대략 8~10시간으로 비교적 짧고 조사 자유도도 제한적이다. 색다른 누명 벗기기 소재와 추리 노벨을 좋아하는 이용자에게 추천한다. 제작사 공식 자료 및 PSP판의 전문·이용자 리뷰를 토대로 한 편집 평가이며 직접 플레이하지 않았다. 제공된 한글패치 URL은 평가 근거 또는 가산점으로 사용하지 않았다.",
+      "pros": [
+        "용의자인 주인공이 유치장 밖으로 나갈 수 없어 변호사에게 원격으로 오전·오후 조사 장소를 지정하고 그 결과를 활용한다는 설정이 독창적이다.",
+        "취득한 단서(클루)를 적절한 시점에 제시해 형사 미우라의 심문에 대응하고 심증 게이지를 지키는 구조가 기한 압박과 결합해 추리의 긴장감을 높인다.",
+        "인물 관계도·용어 해설·의문 목록·보유 단서 메뉴를 통해 복잡한 조사 내용을 PSP의 작은 화면에서도 정리해 볼 수 있다.",
+        "구금된 주인공과 변호사의 협력 및 주변 인물의 관계를 서사에 활용하고, 오노 다이스케 등의 음성 연기와 피아노 중심 BGM이 서스펜스에 어울린다."
+      ],
+      "cons": [
+        "오전·오후 방문지와 조사 순서를 잘못 고르면 필수 단서를 놓쳐 5일째 등 매우 이른 시점에 기소·배드엔딩을 맞을 수 있어 시행착오 비용이 크다.",
+        "새 수사 정보를 얻기 전까지 기존 질문에 반복적으로 묵비권을 행사하는 구간이 있으며, 조사 결과의 도착을 기다리는 일과가 다소 기계적이다.",
+        "수사 장소를 정하는 부분 외에는 고정 질문·텍스트 감상 비중이 커서 플레이어가 직접 단서를 추리·검증할 수 있는 폭이 좁다는 감상이 있다.",
+        "본편은 이용자에 따라 약 8~10시간으로 짧으며, PSP판에서 데이터 인스톨을 하지 않으면 화면 전환·로딩이 느리다고 지적된다."
+      ],
+      "sources": [
+        {
+          "label": "Media.Vision 개발사 공식 작품·플랫폼·줄거리·시스템",
+          "url": "https://ssl.media-vision.co.jp/works/507"
+        },
+        {
+          "label": "GAME Watch 2009년 PSP판 소개·심문 구조·데이터 인스톨 486MB",
+          "url": "https://game.watch.impress.co.jp/docs/20090204/en.htm"
+        },
+        {
+          "label": "4Gamer 2009년 PSP판 프리뷰·기한·수사 시스템",
+          "url": "https://www.4gamer.net/games/083/G008344/index_review.html"
+        },
+        {
+          "label": "PSP판 이용자 상세 리뷰: 서사·UI·반복과 로딩",
+          "url": "https://maruko30.com/entry/enkakusousa-01"
+        },
+        {
+          "label": "PSP판 추리·분기·음악 감상",
+          "url": "https://wed-orpheus.net/novel/suspense/enkakusousa/"
+        },
+        {
+          "label": "Rakuten Books 일본 PSP 통상판 품번 UCJS-10088·이용자 평",
+          "url": "https://books.rakuten.co.jp/rb/5926369/"
+        },
+        {
+          "label": "LaunchBox PSP 일본 통상판 Box - Front 이미지 분류",
+          "url": "https://gamesdb.launchbox-app.com/games/images/120998-enkaku-sousa-sana-e-no-23-hiai"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/6293",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2009년 일본 PSP UMD 통상판(UCJS-10088)이며, 이 주소의 실제 지원 디스크 리비전, 번역 범위·미번역, 배포 상태, 설치 절차 및 실기·에뮬레이터 호환성은 확인하지 않았다. AI는 사용자 제공 패치 주소를 열거나 리다이렉트·미리보기·다운로드를 진행하지 않았다."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com/bca277a7-489e-4fb9-af28-ef8f500fea6f.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/120998-enkaku-sousa-sana-e-no-23-hiai",
+        "platform": "psp",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT"
     }
   ]
 }
