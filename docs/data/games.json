@@ -9246,6 +9246,62 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "wizards-harmony-ps1",
+      "title": "위자드 하모니",
+      "original": "ウィザーズハーモニー",
+      "platforms": [
+        "ps1"
+      ],
+      "genres": [
+        "SLG",
+        "ADV"
+      ],
+      "score": 6.5,
+      "summary": "마법학교의 폐부 위기를 막기 위해 15명 중 5명의 부원을 영입하고 1년간 육성하는 판타지 학원 육성 SLG·ADV. 다채로운 캐릭터별 이벤트, 분기 엔딩과 음악은 매력적이지만 초반 부원 모집의 불친절함, 느린 입력 반응과 고르지 못한 음성 연기가 완성도를 낮춰 6.5점. 복고풍 육성과 캐릭터 교류를 좋아하면 추천하되, 쾌적한 인터페이스와 전문 성우 연기를 우선한다면 비추천. 공개된 자료를 바탕으로 한 편집 평가이며 직접 플레이한 점수는 아님.",
+      "pros": [
+        "15명 후보 중 선호하는 5명을 영입해 훈련 과목과 일정을 정하고 시험 합격을 노리는 육성 구성으로 반복 플레이할 동기가 생긴다.",
+        "부원별 관계와 선택지에 따라 학원 이벤트·연애·우정 엔딩의 전개가 달라져 캐릭터 중심 이야기의 변주가 풍부하다.",
+        "판타지 마법학교의 편안한 분위기, 개성적인 캐릭터 디자인과 세계관에 잘 어울리는 음악이 매력적이다."
+      ],
+      "cons": [
+        "성우 경험이 부족한 출연진이 맡은 대사 연기의 편차가 커서 캐릭터 중심 게임의 몰입을 해칠 수 있다.",
+        "초반 부원 모집에서 등장 장소와 시간에 대한 힌트가 적고 선택지의 호감도 변화가 불합리하게 느껴져 원하는 인물을 영입하기 어렵다.",
+        "초기 PS1 특유의 느린 버튼 입력 반응, 제한적인 인터페이스와 상황에 따라 불명확한 이벤트 선택지가 편의성을 떨어뜨린다."
+      ],
+      "sources": [
+        {
+          "label": "패미통 - 위자드 하모니 PS1 발매·제작사 정보",
+          "url": "https://www.famitsu.com/game/title/9025/page/1"
+        },
+        {
+          "label": "ゲームカタログ@Wiki - ウィザーズハーモニー 게임 시스템·장단점",
+          "url": "https://w.atwiki.jp/gcmatome/pages/180.html"
+        },
+        {
+          "label": "乙女の友 - Wizard's Harmony PS1 게임 리뷰",
+          "url": "https://otomenotomo.tyonmage.com/game/another/050.html"
+        },
+        {
+          "label": "LaunchBox - Wizard's Harmony 일본 PS1 앞표지",
+          "url": "https://gamesdb.launchbox-app.com/games/details/113244-wizards-harmony"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/5186",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 일본 PS1 초판(1995년, SLPS-00194). 1999년 복각판(SLPS-01877)·2002년 SuperLite 1500판과의 패치 호환성, 번역 범위·미번역 요소·적용 방법은 확인하지 않음. 설치 및 실기·에뮬레이터 검증하지 않음."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com//e696fa92-869b-414a-a0ab-3f009ace6e62.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/details/113244-wizards-harmony",
+        "platform": "ps1",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
