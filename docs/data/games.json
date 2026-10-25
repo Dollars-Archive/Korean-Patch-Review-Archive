@@ -11920,6 +11920,66 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "samurai-deeper-kyo-gba",
+      "title": "사무라이 디퍼 쿄우",
+      "original": "SAMURAI DEEPER KYO（サムライディーパーキョウ）",
+      "platforms": [
+        "gba"
+      ],
+      "genres": [
+        "검극 액션",
+        "벨트스크롤 액션"
+      ],
+      "score": 6.4,
+      "summary": "2002년 12월 27일 일본 게임보이 어드밴스용 『SAMURAI DEEPER KYO』(AGB-P-AOSJ)를 평가했다. 원작 만화·애니메이션의 쿄우·베니토라·사나다 유키무라·시이나 유야 등으로 싸우며 연속 공격·점프 공격·기력 소모 필살기를 사용하는 직관적 검극 액션이다. 캐릭터별 무장·공격 범위 차이와 숨겨진 무기, 클리어 후 아케이드 모드로 팬서비스를 제공한다. 그러나 일반 적 종류와 공격 패턴, 스테이지 목표가 반복되고 액션·서사의 전개가 단순해 게임 자체의 깊이는 제한적이므로 6.4점. 원작 팬과 간단한 휴대용 횡스크롤·쿼터뷰 전투를 선호하는 사람에게 조건부 추천한다. 일본 GBA판의 공식 발표·공개 공략·이용자 자료에 기반한 편집 평가이며 직접 플레이하거나 한글패치를 설치·검증하지 않았다.",
+      "pros": [
+        "귀안의 쿄우·베니토라·사나다 유키무라·시이나 유야·미부 쿄시로 등 캐릭터별로 무기·공격 횟수·필살기 범위가 달라 원작 인물의 개성을 손쉽게 즐길 수 있다.",
+        "공격 연타를 통한 연속기, 점프 취소·공중 공격과 기력 게이지를 소비하는 컷인 필살기가 단순한 조작 안에서 검술의 속도감과 손맛을 살린다.",
+        "숨겨진 무기의 입수, 캐릭터별 진행 차이, 클리어 후 아케이드 모드와 숨겨진 인물 해금 등 팬을 위한 부가 목표와 재도전 요소가 있다."
+      ],
+      "cons": [
+        "다수의 구간에서 소수 계열의 검요·인요 적이 색과 체력만 달리해 반복 출현하므로 일반 전투와 연속 공격 운영이 단조로워지기 쉽다.",
+        "대부분의 스테이지가 이동하며 적을 무찌르고 보스를 상대하는 구조여서 탐색·기믹이나 전투 전술의 다양성이 부족하다.",
+        "원작 팬을 위한 인물·사건 중심의 짧은 액션 각색으로 인물의 배경 설명과 서사의 깊이가 제한적이며 캐릭터 해금 등을 위해 같은 구간을 반복해야 한다."
+      ],
+      "sources": [
+        {
+          "label": "마벨러스 공식 - GBA 일본판 제품 정보, 발매일·품번",
+          "url": "https://marv.jp/titles/cs/322/"
+        },
+        {
+          "label": "GAME Watch - 2002년 GBA판 사전 소개·연속 공격·필살기·등장인물",
+          "url": "https://game.watch.impress.co.jp/docs/20021011/kyo.htm"
+        },
+        {
+          "label": "GBA 실플레이 기반 공략 Wiki - 공격 조합·인물별 성능·스테이지·해금",
+          "url": "https://w.atwiki.jp/retrogamewiki/pages/1388.html"
+        },
+        {
+          "label": "GameFAQs - 일본 GBA 원판과 북미 발매판 구분·장르",
+          "url": "https://gamefaqs.gamespot.com/gba/583168-samurai-deeper-kyo/data"
+        },
+        {
+          "label": "LaunchBox Games Database - 일본 GBA 실제 Box - Front",
+          "url": "https://gamesdb.launchbox-app.com/games/images/29298-samurai-deeper-kyo"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/4627",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 일본 GBA판 AGB-P-AOSJ(2002년) 기준으로 게임을 평가했으며 2002년 일본 PS1 대전격투판 및 2008년 북미 GBA판 AGB-AOSE-USA와 구분한다. 제공한 주소의 적용 대상 리비전·번역 범위·미번역 부분·설치 방식·실기 또는 에뮬레이터 동작 여부는 검증하지 않았다."
+      },
+      "reviewedAt": "2026-10-26",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/f76f8fa9-3c86-40da-8874-ae3592eb5132.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/29298-samurai-deeper-kyo",
+        "platform": "gba",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
