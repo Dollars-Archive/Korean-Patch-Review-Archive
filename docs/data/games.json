@@ -8212,6 +8212,74 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "ginga-ojousama-densetsu-yuna-3-lightning-angel-saturn",
+      "title": "은하 아가씨 전설 유나 3: 라이트닝 엔젤",
+      "original": "銀河お嬢様伝説ユナ3 LIGHTNING ANGEL",
+      "platforms": [
+        "saturn"
+      ],
+      "genres": [
+        "ADV",
+        "SRPG",
+        "SF",
+        "캐릭터 어드벤처"
+      ],
+      "score": 7.2,
+      "summary": "1997년 12월 4일 일본 세가 새턴 초판 『銀河お嬢様伝説ユナ3 LIGHTNING ANGEL』(T-14311G) 기준. 디지털 코믹형 ADV와 최대 8인의 캐릭터를 편성하는 행동 순서 기반 SRPG를 결합한 시리즈 완결편. 다양한 동료·고유 기술, 구출·제한시간·함정 등 스테이지 기믹, 경로별 영입 변화, 풍부한 성우·애니메이션·CG가 강점이다. 반면 낮은 전투 난도와 극단적인 캐릭터 성능 격차, 단순한 메인 서사와 전작·OVA 맥락 의존이 약점이어서 7.2점. 유나 세계관과 미소녀 캐릭터 중심의 가벼운 전략 ADV를 즐기는 팬에게 추천하고 정통 고난도 SRPG를 원한다면 조건부 추천. 동시대 소개와 일본 새턴판 평가 자료를 기반으로 한 편집 평가이며 직접 플레이한 점수가 아니고 한글패치 존재는 가산하지 않았다. 1998년 PS1 『FINAL EDITION』의 추가 대전·카드 수집 요소는 평가에 포함하지 않음.",
+      "pros": [
+        "유나·유리 등 역대 등장인물을 최대 8명까지 팀으로 편성하며 캐릭터 고유한 이동력·특수 기술을 활용할 수 있어 캐릭터 팬서비스와 육성 동기가 크다.",
+        "단순 적 전멸뿐 아니라 동료 구출, 폭탄 제한시간, 적 생성 장치, 잠·화염 함정 등 임무 목표와 전장 기믹이 다양하다.",
+        "선택지에 따라 일부 분기 및 동료 가입이 달라지고 숨겨진 동료와 훈련 미션이 있어 원하는 멤버로 다시 도전할 가치가 있다.",
+        "아키타카 미카풍 캐릭터 디자인과 전통적인 밝은 개그, 풍부한 베테랑 성우 연기·변신 애니메이션·CG가 시리즈 분위기를 충실히 살린다."
+      ],
+      "cons": [
+        "일부 후반 동료의 성능이 지나치게 강하고 근접 특화 인물은 상대적으로 취약해, 캐릭터 간 전력 균형과 부대 편성의 전략성이 흔들린다.",
+        "육성용 전장과 낮은 전체 난도 덕분에 쉽게 클리어할 수 있지만 SRPG 숙련자에게는 위기감·전술적 도전이 충분하지 않다.",
+        "메인 줄거리가 단순하고 역대 인물이 다수 등장하는 것에 비해 개별 캐릭터의 깊이 있는 새 이야기가 부족해 장기 팬에게도 아쉬움을 남긴다.",
+        "시리즈의 앞선 게임과 OVA 『深闇のフェアリィ』 설정을 별도 설명 없이 활용하는 부분이 있고, 경로별 일부 동료를 한 번의 회차에서 모두 영입할 수 없다."
+      ],
+      "sources": [
+        {
+          "label": "PC Watch 1997년 당시 새턴판 소개: 전술 ADV·분기·동료·연습 미션",
+          "url": "https://pc.watch.impress.co.jp/docs/article/game9712/f_6.htm"
+        },
+        {
+          "label": "게임 카탈로그 Wiki - 새턴판 게임 평가, 전략·서사·밸런스·PS1 이식 차이",
+          "url": "https://w.atwiki.jp/gcmatome/pages/4694.html"
+        },
+        {
+          "label": "피코피코 대백과 - 세가 새턴 실사용자 평가 2건과 품번",
+          "url": "https://www.gavas.jp/products/detail.php?product_id=1385"
+        },
+        {
+          "label": "패미통 - 세가 새턴 발매일·장르·허드슨 정보",
+          "url": "https://www.famitsu.com/game/title/5042/reviews"
+        },
+        {
+          "label": "스루가야 - 새턴 일본 일반판 T-14311G 및 1997-12-04 발매",
+          "url": "https://www.suruga-ya.jp/product/detail/141000899"
+        },
+        {
+          "label": "LaunchBox - 일본 새턴판 Box - Front 앞표지",
+          "url": "https://gamesdb.launchbox-app.com/games/images/107032-ginga-ojousama-densetsu-yuna-3-lightning-angel"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/5553",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 일본 세가 새턴 초판 『銀河お嬢様伝説ユナ3 LIGHTNING ANGEL』(1997-12-04, T-14311G)에 대한 평가이며, 1998년 PS1 『銀河お嬢様伝説ユナ FINAL EDITION』과 구분한다. 제공된 URL의 실제 패치 지원 품번·디스크 리비전·번역 범위·잔여 미번역·적용 절차·패치 배포 버전과 작동 상태는 확인하지 않았다. 실기·에뮬레이터 설치 시험도 수행하지 않았다."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com/6f38f7fa-d5c1-4cd8-b796-b6f51333631c.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/107032-ginga-ojousama-densetsu-yuna-3-lightning-angel",
+        "platform": "saturn",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT"
     }
   ]
 }
