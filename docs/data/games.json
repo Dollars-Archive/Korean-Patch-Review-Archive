@@ -9927,6 +9927,70 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "comic-party-dreamcast",
+      "title": "코믹 파티",
+      "original": "こみっくパーティー",
+      "platforms": [
+        "dreamcast"
+      ],
+      "genres": [
+        "연애 ADV",
+        "육성 시뮬레이션"
+      ],
+      "score": 7.3,
+      "summary": "2001년 일본 드림캐스트로 발매된 아쿠아플러스의 동인지 제작·연애 어드벤처. 대학생 센도 카즈키가 동인 창작과 즉매회에 참여하면서 창작·우정·연애를 경험하는 독특한 설정에 미츠미 미사토 등의 매력적인 인물화와 개성적인 캐릭터 루트가 잘 어우러진다. DC판은 신규 히로인 미카게 스바루, 풀보이스, 이벤트 CG·추가 시나리오·오프닝 애니메이션, 명령 입력식 원고 제작으로 원작 대비 콘텐츠를 보강했다. 그러나 원고 제작·일정 관리의 반복, 까다로운 이벤트 조건, DC판의 무거운 처리 속도·프리징 보고·음성 잡음 문제로 7.3점. 동인지 문화와 창작 과정을 소재로 한 고전 연애 시뮬레이션을 좋아하는 사람에게 추천. 공개 자료 기반 편집 평가이며 직접 플레이한 점수는 아님.",
+      "pros": [
+        "동인지의 주제와 페이지 수를 정해 마감까지 원고를 만들고, 아르바이트·화구 구매·즉매회 참가·연애 이벤트를 관리하는 구성은 일반적인 연애 ADV와 차별화되는 재미를 준다.",
+        "타카세 미즈키·오오바 에이미·이나가와 유우 등의 인물마다 창작과 인간관계에 얽힌 고민이 있고, 미츠미 미사토·아마즈유 타츠키 등이 그린 개성적인 캐릭터와 경쾌한 음악이 작품의 활기를 살린다.",
+        "DC판에서 공략 가능 히로인 미카게 스바루와 신규 이벤트·엔딩·CG를 추가하고, 메인 대화를 풀보이스화했으며 오프닝 애니메이션과 명령 입력식 원고 제작으로 PC 초판의 일부 요소를 보강했다."
+      ],
+      "cons": [
+        "매달 이어지는 원고 제작·마감 및 일정 관리가 반복적이고, 일부 히로인은 높은 동인지 판매량이나 특정 날짜·조건의 이벤트 발생을 요구해 여러 번 공략하거나 공략 정보를 확인하기 쉽다.",
+        "DC판은 메뉴·화면 처리와 원고 제작 구간의 속도가 무겁고, 당시 이용자 자료에 게임이 멈추거나 장시간 응답하지 않는 사례가 보고되어 원활한 플레이를 방해할 수 있다.",
+        "풀보이스화를 했지만 DC판 음성의 음질과 잡음이 아쉽고, PC 원작부터 이어지는 제한적인 저장 시점과 긴 이벤트 중 중단의 어려움이 다회차 편의성을 떨어뜨린다."
+      ],
+      "sources": [
+        {
+          "label": "패미통 - 드림캐스트판 발매일·퍼블리셔·장르 정보",
+          "url": "https://www.famitsu.com/game/title/12340/page/1"
+        },
+        {
+          "label": "피코피코 대백과 - DC 일반판 T-38301M·추가 히로인과 변경 사항·이용자 리뷰",
+          "url": "https://www.gavas.jp/products/detail.php?product_id=551"
+        },
+        {
+          "label": "GameFAQs - Dreamcast판 실제 플레이 장문 리뷰 (2002)",
+          "url": "https://gamefaqs.gamespot.com/dreamcast/579251-comic-party/reviews/29418"
+        },
+        {
+          "label": "게임카탈로그@Wiki - 원작 평가와 DC판 변경 사항·프리징·음질 문제",
+          "url": "https://w.atwiki.jp/gcmatome/pages/1515.html"
+        },
+        {
+          "label": "DC판 비공식 공략 기록 - 디스크 구동 및 원고 제작 팁",
+          "url": "https://shisnap.iza-yoi.net/game/dc/CP_DC/cp_DC_index.htm"
+        },
+        {
+          "label": "LaunchBox Games Database - 일본 드림캐스트 앞표지",
+          "url": "https://gamesdb.launchbox-app.com/games/images/126621-comic-party"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/5091",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 일본 드림캐스트 일반판 『こみっくパーティー』(2001-08-09, T-38301M, 아쿠아플러스 발매)이며, PC 원작·DC 한정판(T-38302M)·PC DCE판·PSP 이식판과 구분함. DC판 제품은 디스크 2장으로 구성되며, 제공 패치가 어느 디스크 또는 양쪽 모두를 지원하는지와 대상 리비전·번역 범위·미번역 구간·적용 방법·배포 버전·다운로드 가능 상태는 사용자 제공 주소에 접속하지 않았으므로 확인하지 않음. 패치 설치나 드림캐스트 실기·에뮬레이터 동작 검증도 수행하지 않았음."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/8659d88d-a602-44ac-8bb3-83db5ffda32a.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/126621-comic-party",
+        "platform": "dreamcast",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
