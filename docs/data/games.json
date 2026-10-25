@@ -11121,6 +11121,66 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "zeus-carnage-heart-second-ps1",
+      "title": "제우스: 카니지 하트 세컨드",
+      "original": "ZEUS -CARNAGE HEART SECOND- (ゼウス カルネージハートセカンド)",
+      "platforms": [
+        "ps1"
+      ],
+      "genres": [
+        "SF 전략 시뮬레이션",
+        "로봇 AI 프로그래밍"
+      ],
+      "score": 8,
+      "summary": "1998년 11월 5일 출시된 일본 PS1 일반판 『ZEUS -CARNAGE HEART SECOND-』(SLPS-01666) 평가. 무인 기동병기 OKE의 무장과 조건 분기식 행동 프로그램을 직접 조정하고 3D 자동 전투의 결과를 분석·개선하는 설계의 깊이가 뛰어나다. 전작 대비 개선된 조작성·그래픽과 인물 중심의 SF 군사 이야기, 적 섬멸뿐 아니라 거점 탈환·침입로 확보 등 다양한 임무를 담아 8.0점. 반면 프로그래밍 규칙의 높은 학습 장벽, 로직 디버깅과 전투 관찰의 반복, 빠른 직접 조작 전투의 부재는 대중성을 제한한다. 시행착오를 즐기는 전략·자동화·로봇 AI 설계 팬에게 추천한다. 공개 자료 기반 편집 평가이며 직접 플레이한 점수는 아니고 패치 존재는 점수에 반영하지 않았다.",
+      "pros": [
+        "OKE 무인 로봇의 장비 구성과 조건 분기형 행동 로직을 직접 설계해 자신만의 AI로 승리하도록 만드는 독특하고 깊이 있는 전략성이 있다.",
+        "시뮬레이션 전투 결과에서 문제를 찾고 행동 우선순위와 무장을 고쳐 재시험하는 과정이 명확한 학습·실험·성취의 재미를 제공한다.",
+        "이전 시리즈의 그래픽·조작성·기체 라인업과 프로그래밍 인터페이스를 개선하고, 마크 그랜트 일행의 대화와 적 섬멸·거점 탈환·경로 확보 등 다양한 임무로 이야기와 게임을 잇는다."
+      ],
+      "cons": [
+        "행동 조건·로직 조합을 이해하지 않으면 원하는 대로 전투가 진행되지 않아 초보자에게 높은 학습 장벽이 있다.",
+        "실패 원인을 찾기 위해 AI를 재편집하고 자동 전투를 반복 관찰해야 해서 템포가 느리고 짧은 시간에 성취를 얻기 어렵다.",
+        "전투 중 로봇을 직접 조종하는 액션성이 없으며 고급 로직 설계에 많은 시행착오가 들어 복잡한 최적화 과정을 선호하지 않으면 흥미가 떨어진다."
+      ],
+      "sources": [
+        {
+          "label": "ARTDINK 공식 - ZEUS PS1 제품 사양",
+          "url": "https://www.artdink.co.jp/japanese/title/zeus/gaiyo.html"
+        },
+        {
+          "label": "ARTDINK 공식 - ZEUS 개발 회고·그래픽·UI·프로그래밍 개선과 당대 평가",
+          "url": "https://www.artdink.co.jp/japanese/title/zeuspc/gaiyou.html"
+        },
+        {
+          "label": "피코피코 대백과 - 1998년 PS1 원판 게임 개요·이용자 리뷰 2건",
+          "url": "https://www.gavas.jp/products/detail.php?product_id=8456"
+        },
+        {
+          "label": "LaunchBox Games DB - 1998년 일본 PS1 Box - Front 확인",
+          "url": "https://gamesdb.launchbox-app.com/games/images/93750-zeus-carnage-heart-second"
+        },
+        {
+          "label": "스루가야 - 일본 PS1 일반판 발매일·품번 SLPS-01666",
+          "url": "https://www.suruga-ya.jp/product/detail/140001582"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/4793",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 1998년 일본 PS1 일반판 SLPS-01666이며 후속작 『ZEUS II Carnage Heart』 및 Windows 이식판과 구분한다. 패치의 실제 대응 디스크·리비전, 대사·메뉴·프로그램 UI 번역 범위, 미번역 요소, 적용 방법과 실기·에뮬레이터 작동 여부는 확인하지 않았다."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/17218fc1-4b76-4dcb-a3b3-f1b18b1d0928.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/93750-zeus-carnage-heart-second",
+        "platform": "ps1",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
