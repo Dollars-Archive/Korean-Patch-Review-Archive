@@ -10758,6 +10758,66 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "eve-the-fatal-attraction-ps1",
+      "title": "이브 더 페이탈 어트랙션",
+      "original": "EVE The Fatal Attraction",
+      "platforms": [
+        "ps1"
+      ],
+      "genres": [
+        "미스터리 ADV",
+        "비주얼 노벨"
+      ],
+      "score": 6,
+      "summary": "2001년 일본 PS1 일반판(SLPM-86826~86828, 디스크 3장) 기준의 자료 기반 편집 평가로, 직접 플레이한 점수는 아니다. 탐정 아마기 코지로와 조사관 호조 마리나가 각자 진행하는 사건을 멀티사이트 방식으로 교차 추적하는 서스펜스, 두 주인공의 음성 연기 및 시점별 독백, 『ADAM THE DOUBLE FACTOR』를 재구성한 새 이야기는 매력적이다. 그러나 반복적인 화면 지점 탐색과 진행 플래그가 흐름을 끊고, 후반부의 급한 사건 정리·미회수 복선, 전작과 어긋나는 인물 성격·설정으로 완성도가 흔들려 6.0점. 『EVE burst error』『EVE ZERO』를 먼저 즐겼고 복잡한 고전 미스터리 ADV에 익숙한 시리즈 팬에게 조건부 추천한다.",
+      "pros": [
+        "코지로와 마리나의 서로 다른 사건을 교차 전환하는 멀티사이트 구조가 두 갈래 정보의 연결을 기다리게 하며 서스펜스를 만든다.",
+        "페이스 윈도와 풍부한 주인공 독백으로 코야스 타케히토·미츠이시 코토노의 연기를 충분히 들을 수 있어 캐릭터 감상 요소가 강하다.",
+        "미완성에 가까웠던 PC용 『ADAM THE DOUBLE FACTOR』의 이야기를 PS1용으로 대폭 재구성·확장했고 챕터 단위 저장 등 편의 기능도 갖췄다."
+      ],
+      "cons": [
+        "화면의 인물·사물·출입구를 커서로 일일이 짚는 터처블 뷰와 불명확한 진행 플래그가 추리보다 픽셀 찾기를 강요해 흐름이 자주 끊긴다.",
+        "후반부에 이야기가 급히 정리되면서 일부 조연의 활용과 복선 회수가 부족해 완결감을 크게 떨어뜨린다.",
+        "전작에 비해 코지로·마리나 등 기존 등장인물의 성격과 설정이 달라 보이는 장면이 있고, 전작 지식이 없으면 세계관과 인물 관계를 따라가기 어렵다."
+      ],
+      "sources": [
+        {
+          "label": "GameFAQs - PS1 일반판 발매일·제작사·3장 구성",
+          "url": "https://gamefaqs.gamespot.com/ps/581470-eve-the-fatal-attraction/data"
+        },
+        {
+          "label": "피코피코 대백과 - PS1 일반판 작품 소개 및 이용자 리뷰 5건",
+          "url": "https://www.gavas.jp/products/detail.php?product_id=10187"
+        },
+        {
+          "label": "pro-botti - 2024년 PS1 재플레이 리뷰·시스템과 서사 평가",
+          "url": "https://pro-botti.com/eve-the-fatal-attraction/"
+        },
+        {
+          "label": "서브컬처가 있는 생활 - EVE TFA PS판 회고 리뷰",
+          "url": "https://zel.hatenablog.com/entry/eve_tfa"
+        },
+        {
+          "label": "LaunchBox Games Database - Sony PlayStation 일본 일반판 Box - Front",
+          "url": "https://gamesdb.launchbox-app.com/games/images/108231-eve-the-fatal-attraction"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/4973",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 게임 평가 대상은 일본 PS1 일반판 3디스크(SLPM-86826·86827·86828)이며, 이 패치의 대응 판본(일반판·한정판·2003년 베스트판), 지원 디스크, 번역 범위·미번역 부분·적용 방법은 확인하지 않음. 패치 설치·실기·에뮬레이터 구동 검증하지 않음."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/81a7766c-6b66-482b-baa0-872f365ed801.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/108231-eve-the-fatal-attraction",
+        "platform": "ps1",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
