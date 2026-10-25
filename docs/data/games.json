@@ -10111,6 +10111,66 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "tennis-no-ouji-sama-saikyou-team-ps2",
+      "title": "테니스의 왕자님: 최강팀을 결성하라!",
+      "original": "テニスの王子様 最強チームを結成せよ!",
+      "platforms": [
+        "ps2"
+      ],
+      "genres": [
+        "스포츠 액션",
+        "육성 시뮬레이션"
+      ],
+      "score": 8.3,
+      "summary": "2004년 일본 PS2판(SLPM-65680)의 액션·육성 테니스 게임. 서로 다른 학교의 캐릭터를 영입하고 연습·친밀도·필살기를 조율해 자신만의 5인 팀을 만드는 자유도와 원작 특유의 과장된 승부 재현이 돋보여 8.3점. 육성 반복과 쉬운 대회 난도, 일부 캐릭터 성능 불균형 및 구식 그래픽은 아쉽다. 원작 팬과 캐릭터 조합·육성 실험을 즐기는 사람에게 특히 추천한다. 공개 자료 기반 편집 평가이며 직접 플레이한 점수는 아님.",
+      "pros": [
+        "학교의 경계를 넘어 리더와 팀원 4명을 자유롭게 구성하고 훈련·친밀도·기술을 조절하는 육성의 선택 폭이 넓다.",
+        "원작의 개성적인 필살기와 캐릭터별 대화·상호작용을 살려 직접 조작하는 경기와 드림 매치 연출 모두 팬서비스가 풍성하다.",
+        "능력치를 극단적으로 키우거나 독특한 기술 조합을 만드는 실험성이 뛰어나 팀을 바꿔 반복 플레이할 가치가 높다."
+      ],
+      "cons": [
+        "육성 과정의 연습과 이벤트 흐름이 반복되며, 정규 대회 우승 난도가 낮아 장기적인 도전 목표는 스스로 정해야 한다.",
+        "일부 인물의 강약과 기술 효율이 원작의 이미지에 어긋나고, 특수 기술 중심의 밸런스는 정통 테니스 게임을 기대하면 호불호가 갈린다.",
+        "PS2 초기 세대에 가까운 투박한 3D 캐릭터 모델, 제한적으로 느껴지는 BGM과 경기 패턴은 시대적 한계를 드러낸다."
+      ],
+      "sources": [
+        {
+          "label": "패미통 - 2004년 PS2판 작품 정보·발매일",
+          "url": "https://www.famitsu.com/game/title/5697/reviews"
+        },
+        {
+          "label": "전격 온라인 - 2026년 회고 리뷰·캐릭터 육성 및 원작 재현",
+          "url": "https://dengekionline.com/article/202610/91487"
+        },
+        {
+          "label": "Joko PS2 게임 - 이용자 리뷰·장단점",
+          "url": "https://www.joko.jp/ps2/review/ti1180.html"
+        },
+        {
+          "label": "와자ップ - 2014년 육성·대전 리뷰",
+          "url": "https://wazap.com/review/%E6%9C%80%E5%BC%B7%E3%83%81%E3%83%BC%E3%83%A0%E3%80%80%E8%A9%95%E4%BE%A1%26%239733%3B4.5/2359885/"
+        },
+        {
+          "label": "Play-Asia - 일본 PS2판 패키지·시스템·유저 리뷰",
+          "url": "https://www.play-asia.com/en/tennis-no-oji-sama-form-the-strongest-team/13/704t6"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/5043",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 일본 PS2 초판 SLPM-65680 기준으로 게임 평가. 한글패치의 적용 대상 리비전·번역 범위·미번역 요소·설치/실기 작동 여부는 별도로 확인하지 않음."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://s.pacn.ws/1/p/PA.06234.001.jpg?v=i0dzpu",
+        "source": "https://www.play-asia.com/en/tennis-no-oji-sama-form-the-strongest-team/13/704t6",
+        "platform": "ps2",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
