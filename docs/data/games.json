@@ -6605,6 +6605,62 @@
       },
       "reviewedAt": "2026-10-25",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "white-album-tsuzurareru-fuyu-no-omoide-ps3",
+      "title": "화이트 앨범: 쌓여가는 겨울의 추억",
+      "original": "WHITE ALBUM －綴られる冬の想い出－",
+      "platforms": [
+        "ps3"
+      ],
+      "genres": [
+        "연애 ADV",
+        "비주얼 노벨"
+      ],
+      "score": 7.3,
+      "summary": "인기 가수 연인과 멀어지는 대학생을 중심으로 사랑의 균열과 겨울의 쓸쓸함을 그리는 PS3 리메이크. 뛰어난 음악·성우 연기·새로운 캐릭터 표현과 접근성 개선이 장점이나, 맵 이동과 대화 반복으로 전개가 늘어지고 핵심 사건·개별 루트 분량이 아쉬워 7.3점. 인물의 감정선과 음악을 중시하는 연애 ADV 팬에게 추천. 공개 자료 기반 편집 평가이며 직접 플레이한 점수는 아님.",
+      "pros": [
+        "모리카와 유키와 오가타 리나를 둘러싼 관계의 불안과 거리감을 겨울 배경에 자연스럽게 녹여 연애 드라마 특유의 여운을 만든다.",
+        "히라노 아야와 미즈키 나나의 연기·노래, 카와타 히사시의 새 캐릭터 디자인 및 모션 포트레이트가 대화 장면의 감정 전달을 강화한다.",
+        "PS3 리메이크에서 새 히로인 키사라기 사요코를 추가하고, 맵에 인물과 이벤트를 표시하는 방식으로 원작의 무작위 이벤트 탐색 부담을 줄였다."
+      ],
+      "cons": [
+        "날짜와 맵을 오가며 반복 대화로 수치를 올리는 과정이 길어져 이야기의 리듬을 자주 끊는다.",
+        "개별 루트의 핵심 시나리오·이벤트 양이 비교적 짧고 반복 장면이 있어 플레이 시간에 비해 서사 밀도가 낮게 느껴질 수 있다.",
+        "일부 루트의 끝맺음이 급하고 PS3판에서 프리징과 번거로운 트로피 회수 문제가 보고됐다. 직접 재현한 것은 아니다."
+      ],
+      "sources": [
+        {
+          "label": "AQUAPLUS 공식 - PS3판 제품 정보",
+          "url": "https://aquaplus.jp/wa/product.html"
+        },
+        {
+          "label": "4Gamer - PS3판 출시·게임 시스템 소개",
+          "url": "https://www.4gamer.net/games/107/G010790/20100624001/"
+        },
+        {
+          "label": "PS3판 개인 플레이 리뷰 (2010-06-29)",
+          "url": "https://minatokako.exblog.jp/11424900/"
+        },
+        {
+          "label": "콘솔 게임 대사전 - PS3판 평가·문제점 요약",
+          "url": "https://consoledictionary.com/games/6385"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/5524",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 대상은 일본 PS3판 『WHITE ALBUM －綴られる冬の想い出－』(2010)으로 평가함. 제공 링크의 지원 디스크 리비전·번역 범위·미번역·적용 방법은 확인하지 않았으며, 실기·에뮬레이터 적용 테스트도 수행하지 않음."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com//3ca5ac74-021f-46ab-84a2-1cb337f1356b.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/details/413146-white-album-tsuzurareru-fuyu-no-omoide",
+        "platform": "ps3",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
