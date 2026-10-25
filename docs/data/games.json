@@ -1714,6 +1714,68 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "hakuoki-zuisouroku-ds",
+      "title": "박앵귀 수상록 DS",
+      "original": "薄桜鬼 随想録 DS",
+      "platforms": [
+        "ds"
+      ],
+      "genres": [
+        "여성향 연애 ADV",
+        "비주얼 노벨"
+      ],
+      "score": 7,
+      "summary": "2011년 2월 17일 발매된 일본판 닌텐도 DS용 『박앵귀 수상록』(NTR-P-THZJ)은 본편의 틈새 이야기와 인물 관계를 확장한 연애 ADV 팬디스크다. 신선조 인물들의 막간 에피소드, 성우 연기와 DS판 전용 터치 조각 수집·지도 해설·귀 인물들의 추가 외전이 강점이다. 반면 본편 선행 지식이 필요하고 긴장감 높은 독립 서사는 적으며 DS 저해상도 화면 및 음질은 아쉽다. 본편을 즐긴 캐릭터 팬에게 추천한다. 제작사 공식 정보와 DS판 이용자 리뷰에 근거한 편집 평가로 직접 플레이하지 않았다.",
+      "pros": [
+        "치즈루와 신선조 대원들의 본편 밖 일상과 사이사이 이야기를 그려 인물과 관계에 깊이를 더한다.",
+        "DS판에서 CG를 터치해 '마음의 조각'과 음성을 모으고 특전 삽화를 열 수 있어 팬디스크 수집 요소가 풍부하다.",
+        "'박앵귀 기행'은 실제 배경이 된 장소의 일화를 인물의 목소리와 지도 화면으로 소개하여 막말 시대 분위기를 살린다.",
+        "풍간·천무·부지화·남운 등 귀 인물 네 명의 추가 단편 '전우 그림두루마리'가 다른 판본과 구별되는 콘텐츠다."
+      ],
+      "cons": [
+        "본편에 등장했던 관계와 사건을 알고 있어야 완전하게 이해되는 팬디스크라 신규 입문자에게는 불친절하다.",
+        "큰 사건을 새로 전개하기보다 막간 일상에 집중해 본편의 극적 갈등과 긴장감은 약하다.",
+        "DS의 작은 저해상도 화면에서는 섬세한 원화의 계단 현상이 보이고 음질도 다른 기종보다 거칠게 느껴질 수 있다.",
+        "기본 플레이는 대사 감상·CG 수집 중심으로 새로운 선택지 시스템이나 조작 요소의 폭이 좁다."
+      ],
+      "sources": [
+        {
+          "label": "오토메이트 공식 DS판·추가 콘텐츠 안내",
+          "url": "https://www.otomate-p.jp/game/game-11/"
+        },
+        {
+          "label": "닌텐도 일본 공식 발매일·장르",
+          "url": "https://www.nintendo.co.jp/ds/software/thzj/index.html"
+        },
+        {
+          "label": "가격.com 일본 DS 통상판 사용자 리뷰",
+          "url": "https://review.kakaku.com/review/K0000215981/"
+        },
+        {
+          "label": "라쿠텐 북스 DS 통상판 이용자 평가·품번",
+          "url": "https://books.rakuten.co.jp/rb/6889207/"
+        },
+        {
+          "label": "LaunchBox DS 일본판 앞표지",
+          "url": "https://gamesdb.launchbox-app.com/games/images/141367-hakuouki-zuisouroku-ds"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/6519",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 닌텐도 DS 일본 통상판(NTR-P-THZJ)에 대한 평가이며, 이 링크의 실제 적용 판본·번역 범위·미번역·다운로드 가능 여부·설치 절차는 확인하지 않았다. 직접 패치 설치·실기·에뮬레이터 검증은 하지 않았다."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com/8701375f-cb29-49c6-953e-2ba7a6e4adb4.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/141367-hakuouki-zuisouroku-ds",
+        "platform": "ds",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT"
     }
   ]
 }
