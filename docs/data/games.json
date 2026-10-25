@@ -2205,6 +2205,73 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "etsuraku-no-gakuen-pc98",
+      "title": "열락의 학원 (PC-98)",
+      "original": "悦楽の学園",
+      "platforms": [
+        "pc"
+      ],
+      "genres": [
+        "ADV",
+        "서스펜스",
+        "성인 비주얼 노벨"
+      ],
+      "score": 6.2,
+      "summary": "1994년 2월 25일 C's Ware가 NEC PC-9801용 플로피디스크 3장으로 발매한 성인용 서스펜스 ADV. 실종된 조사원을 추적하기 위해 여학교에 잠입하는 설정과 상황별 선택지, 야사마타시야미의 원화, 후일 『DESIRE』·『EVE burst error』로 이어지는 간노 히로유키의 초기 서사 실험이 흥미롭다. 다만 사건의 전개 자체는 비교적 평범하고 분량이 짧으며 사실상 하나의 진행 경로와 결말만 제공하므로 6.2/10이다. 90년대 일본 PC 미스터리 ADV의 계보에 관심 있는 플레이어에게 조건부 추천한다. PC-9801 초판에 관한 보존 자료와 당시 작품을 다룬 리뷰·회고를 종합한 편집 평가이며 직접 플레이한 점수는 아니다. 아카이브가 PC-98 전용 기종 ID를 제공하지 않아 PC 범주로 분류하고 제목과 ID로 PC-98 판본을 구분한다.",
+      "pros": [
+        "연락이 끊긴 잠입 조사원과 여학교 내부의 의문을 쫓는 설정은 폐쇄 공간의 불안감과 서스펜스를 형성한다.",
+        "시나리오의 간노 히로유키(당시 명의 剣乃ゆきひろ)와 원화의 야사마타시야미가 만든 캐릭터 묘사가 후속 명작들의 제작 계보를 엿볼 수 있게 한다.",
+        "상황에 맞는 2~3개의 문장형 명령을 고르는 방식으로 고전 ADV의 반복적인 '보기·듣기' 명령 탐색을 줄여 이야기를 따라가기 쉽다.",
+        "1994년 PC-98 특유의 도트 CG와 여학교 배경 미술, 수상한 등장인물들이 고전 미스터리 분위기를 살린다."
+      ],
+      "cons": [
+        "서스펜스의 기본 골격은 이해하기 쉽지만 인물과 사건을 다루는 방식이 무난해 후속작 『DESIRE』 같은 강렬한 서사적 충격은 적다.",
+        "한 가지 중심 경로와 하나의 엔딩으로 사실상 고정된 구성이라 선택지가 주는 탐색·분기 보상이 작다.",
+        "비교적 짧은 분량으로 인물의 배경과 학교에 얽힌 의혹을 깊게 파고들기 전에 이야기가 끝나는 느낌을 줄 수 있다.",
+        "성인용 묘사와 사건 조사 파트의 비중이 취향을 크게 타고, 오늘날 기준으로는 이야기보다 당시 작품의 역사적 의미가 더 크게 느껴질 수 있다."
+      ],
+      "sources": [
+        {
+          "label": "게임보존협회 - 1994년 PC-9801VX판 발매·매체·제작사",
+          "url": "https://www.gamepres.org/catalog/?id=8811007667002"
+        },
+        {
+          "label": "LaunchBox - NEC PC-9801 일본판 상세 정보·앞표지",
+          "url": "https://gamesdb.launchbox-app.com/games/images/140357-etsuraku-no-gakuen"
+        },
+        {
+          "label": "MobyGames - PC-98판 줄거리·게임 방식·엔딩 구조",
+          "url": "https://www.mobygames.com/game/6411/love-potion/"
+        },
+        {
+          "label": "ADVGAMER - PC-98 원작의 구조 및 서스펜스 평가",
+          "url": "https://advgamer.com/etsuraku-no-gakuen/"
+        },
+        {
+          "label": "だんぼーるはうす - PC-98판 플레이 소개와 당시 반응",
+          "url": "https://lunchbox360.livedoor.biz/archives/7953884.html"
+        },
+        {
+          "label": "PC-98 게임 도서관 - 원작 발매일·제작진 및 다른 판본 구분",
+          "url": "https://pc98library.tistory.com/667"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/2380",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 1994년 NEC PC-9801 일본 플로피디스크 원판이며 PC-9821/FM Towns CD판 및 1998년 Windows판과 구분한다. 제공 링크가 실제로 어느 판본을 지원하는지, 번역 범위·패치 버전·배포 가능 여부·설치 방법·호환성은 확인하지 않았다. 직접 설치 및 실기·에뮬레이터 검증을 실시하지 않았다."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com/6cdda72b-c190-4e8a-bf2f-ecd6cfed6bc3.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/140357-etsuraku-no-gakuen",
+        "platform": "pc",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT"
     }
   ]
 }
