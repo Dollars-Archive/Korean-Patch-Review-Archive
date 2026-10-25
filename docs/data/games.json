@@ -10641,6 +10641,62 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "luminous-arc-ds",
+      "title": "루미너스 아크",
+      "original": "ルミナスアーク",
+      "platforms": [
+        "ds"
+      ],
+      "genres": [
+        "SRPG",
+        "RPG"
+      ],
+      "score": 7.2,
+      "summary": "마녀와 교회의 대립을 다룬 2007년 일본 NDS판 판타지 SRPG. 방향·고저차와 연계기, 필살기 플래시 드라이브, 전투 중 레벨업 시 HP·MP 회복 등의 장치로 접근하기 쉬우면서도 전술적인 재미가 있다. 전투 후 동료 대화인 애프터 브레이크와 캐릭터 연출도 매력적이지만, 전형적이고 얕은 서사와 비슷한 전투 목표·맵 구조의 반복, 일부 음성 연기와 투박한 전투 그래픽이 한계여서 7.2점. 캐릭터 교류가 있는 고전 스타일 전략 RPG를 원하는 사람에게 추천. 공개된 공식 정보 및 전문 리뷰 기반 편집 평가이며 직접 플레이한 점수는 아님.",
+      "pros": [
+        "턴제 타일 전투에서 이동 방향·고저차를 계산하고 각 캐릭터별 플래시 드라이브와 인접 동료의 연계 공격을 활용해 공격 타이밍을 고민하는 재미가 있다.",
+        "전투 중 경험치가 쌓여 레벨업하면 HP·MP가 전부 회복되어 위험한 상황에서 행동 순서와 레벨업 시점을 역전 수단으로 활용할 수 있다.",
+        "전투 후 동료와 대화해 친밀도를 높이는 애프터 브레이크, 개성 있는 캐릭터 일러스트와 풍부한 음성·음악으로 캐릭터 중심 모험의 정취를 살린다."
+      ],
+      "cons": [
+        "교회와 마녀의 대립에서 출발하는 세계관은 흥미롭지만 주요 반전과 인물 갈등을 전형적인 전개로 처리하며 일부 인물은 서사적 깊이가 부족하다.",
+        "대부분 적 격파 중심으로 진행되는 맵과 임무에 큰 변주가 없어 반복 공략 시 전술적 신선함이 떨어지고 긴 대화가 흐름을 끊기도 한다.",
+        "DS 화면의 전투 스프라이트와 마법 효과는 다소 투박하며 일부 성우 연기의 편차가 있고 장비 강화용 소재 감정 비용도 번거롭다."
+      ],
+      "sources": [
+        {
+          "label": "닌텐도 일본 공식 - 2007년 2월 8일 발매·전투·애프터 브레이크·통신 대전",
+          "url": "https://www.nintendo.co.jp/ds/software/anij/index.html"
+        },
+        {
+          "label": "GameSpot - 2007년 Nintendo DS판 전문 리뷰",
+          "url": "https://www.gamespot.com/reviews/luminous-arc-review/1900-6177594/"
+        },
+        {
+          "label": "Nintendo Life - 2007년 DS판 전투·서사·그래픽 전문 리뷰",
+          "url": "https://www.nintendolife.com/reviews/2007/09/luminous_arc_ds"
+        },
+        {
+          "label": "LaunchBox - NDS 일본판 Box - Front",
+          "url": "https://gamesdb.launchbox-app.com/games/images/10906-luminous-arc"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/4940",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2007-02-08 발매 일본판 Nintendo DS 『ルミナスアーク』(NTR-ANIJ-JPN). 후속작 『ルミナスアーク2 ウィル』 및 『ルミナスアーク3 アイズ』와 다른 첫 작품. 제공 링크의 번역 범위·미번역 요소·지원 ROM 리비전·적용 방법과 실기·에뮬레이터 호환성은 검증하지 않았으며 설치·구동 테스트 미실시."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/f79c8fb5-0e73-45c8-bf7c-13749fb9a7b4.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/10906-luminous-arc",
+        "platform": "ds",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
