@@ -5095,6 +5095,62 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "star-ocean-first-departure-psp",
+      "title": "스타 오션: 퍼스트 디파쳐",
+      "original": "スターオーシャン1 First Departure",
+      "platforms": [
+        "psp"
+      ],
+      "genres": [
+        "RPG",
+        "액션 RPG"
+      ],
+      "score": 7.8,
+      "summary": "SF와 판타지의 만남, 자유로운 동료 영입, 풍부한 스킬·아이템 제작을 살린 PSP판 1편 리메이크. 애니메이션 연출과 유연한 육성은 매력적이지만 잦은 왕복 이동과 후반 전투의 단조로움, 얕은 서사로 7.8점. 시스템을 깊이 파고드는 고전 JRPG 팬에게 추천. 공개 자료 기반 편집 평가이며 직접 플레이한 점수는 아님.",
+      "pros": [
+        "요리·집필·음악·장비 제작 등 다층적인 스킬과 아이템 크리에이션이 파티 육성과 탐색에 자유도를 더한다.",
+        "동료 영입 분기와 프라이빗 액션, 캐릭터별 이벤트·엔딩으로 반복 플레이의 선택지가 다양하다.",
+        "고전 2D 캐릭터와 3D 배경의 재구성, Production I.G 애니메이션과 음성 연출이 원작의 분위기를 보강한다."
+      ],
+      "cons": [
+        "퀘스트·던전의 밀도보다 같은 지역을 여러 번 오가는 이동과 랜덤 전투의 비중이 커서 중후반 흐름이 늘어진다.",
+        "전투 난도가 비교적 낮고 후반으로 갈수록 반복 공격 위주가 되며 필살기 할당 슬롯도 2개로 제한된다.",
+        "메인 스토리와 일부 인물 묘사가 단순하고 제작·스킬 시스템의 복잡한 구조는 처음 접하는 이용자에게 불친절하다."
+      ],
+      "sources": [
+        {
+          "label": "Square Enix 공식 - 스타 오션 1 원작과 PSP 리메이크 소개",
+          "url": "https://www.jp.square-enix.com/so1_fdr/overview/index.html"
+        },
+        {
+          "label": "RPGFan - PSP 일본판 리뷰 (James Quentin Clark, 2008)",
+          "url": "https://www.rpgfan.com/review/star-ocean-first-departure/"
+        },
+        {
+          "label": "RPGFan - PSP 리뷰 (John McCarroll, 2008)",
+          "url": "https://www.rpgfan.com/review/star-ocean-first-departure-2/"
+        },
+        {
+          "label": "GameSpot - PSP 리뷰 (Shiva Stella, 2008)",
+          "url": "https://www.gamespot.com/reviews/star-ocean-first-departure-review/1900-6200515/"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/5770",
+        "notes": "사용자 제공 한글패치 주소(zimbu) · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. PSP판 적용 대상·번역 범위·미번역 사항·설치 조건은 확인되지 않았으며 실제 패치 적용 및 실기·에뮬레이터 검증하지 않음."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com//a97c2250-73f7-412d-ad41-f410bf0f9bf0.png",
+        "source": "https://gamesdb.launchbox-app.com/games/details/12094-star-ocean-first-departure",
+        "platform": "psp",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
