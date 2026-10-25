@@ -1900,6 +1900,69 @@
       },
       "reviewedAt": "2026-10-25",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "desire-haitoku-no-rasen-pc98",
+      "title": "디자이어: 배덕의 나선 (PC-98)",
+      "original": "DESIRE 背徳の螺旋",
+      "platforms": [
+        "pc"
+      ],
+      "genres": [
+        "ADV",
+        "SF 미스터리",
+        "서스펜스"
+      ],
+      "score": 7.8,
+      "summary": "C's Ware가 1994년 7월 22일 NEC PC-9801용으로 발매한 18세 이상 대상 커맨드 선택식 SF 서스펜스 ADV. 외딴 섬의 연구소 'DESIRE'에서 기자 알버트와 연구소 기술 책임자 마코토의 이야기를 각각 진행하며 서로 다른 관점을 통해 의문을 해소하는 다중 시점 서사가 핵심이다. 복선이 연결되는 마지막 전개와 우메모토 류의 음악이 뛰어나지만 마코토 편의 인물 전개는 논쟁적이고, 명령어·장소 선택의 반복 및 짧은 전체 분량은 약점이다. 1990년대 일본 PC 미스터리 ADV를 좋아하는 사람에게 추천한다. PC-9801 원판 자료에 기반한 편집 평가로 직접 플레이하지 않았다. 사이트에 별도 PC-98 기종 ID가 없어 PC 범주에 수록하고 항목명·ID에 PC-98을 명시한다.",
+      "pros": [
+        "알버트와 마코토의 각 시점에 같은 사건의 단서를 분산시키고, 두 시나리오를 완료한 뒤 추가 장에서 수수께끼를 회수하는 구성이 인상적이다.",
+        "폐쇄된 연구시설과 군사·과학의 그림자가 드리운 섬을 무대로 긴장감 있는 SF 서스펜스를 전개한다.",
+        "초반부터 심은 복선이 후반에 다른 의미를 얻어 첫 감상 이후 되짚어볼 여지가 풍부하다.",
+        "우메모토 류의 음악과 PC-98 특유의 정교한 도트 그래픽이 고립된 시설의 음울한 분위기를 살린다."
+      ],
+      "cons": [
+        "마코토 편의 관계 묘사와 인물의 행동 동기가 호불호를 크게 가르며 알버트 편보다 사건 추리와의 연결이 약하다는 평가가 있다.",
+        "일부 인물의 배경 설명이 부족하고 전체 길이도 비교적 짧아 설정의 잠재력을 모두 펼치지는 못한다.",
+        "1994년식 커맨드 선택 ADV답게 진행 단서를 찾지 못하면 장소 이동과 '보기·대화하기' 명령을 반복해야 한다.",
+        "PC-9801 원판은 성인용 묘사가 포함되며, 후속 새턴·PS2·리마스터판의 성우·시각적 개선은 제공하지 않는다."
+      ],
+      "sources": [
+        {
+          "label": "LaunchBox NEC PC-9801 원작 기본 정보 및 일본 Box - Front",
+          "url": "https://gamesdb.launchbox-app.com/games/details/106050-desire-haitoku-no-rasen"
+        },
+        {
+          "label": "LaunchBox NEC PC-9801 일본 앞표지 분류",
+          "url": "https://gamesdb.launchbox-app.com/games/images/106050-desire-haitoku-no-rasen"
+        },
+        {
+          "label": "게임 보존 협회 - PC-9801VX 초판 매체·발매 연도",
+          "url": "https://www.gamepres.org/catalog/?id=8811007666005"
+        },
+        {
+          "label": "게임카탈로그 Wiki - PC98판 시스템·평가점·논쟁점",
+          "url": "https://w.atwiki.jp/gcmatome/pages/7281.html"
+        },
+        {
+          "label": "MobyGames - PC-98판 크레딧·게임 설명",
+          "url": "https://www.mobygames.com/game/5165/desire/"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/2857",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 제작자 표기: 찌니짱(사용자 제공, 별도 확인하지 않음). 평가 대상은 1994년 NEC PC-9801 일본 초판이며 링크에 있는 패치의 지원 판본, 번역 범위, 배포 가능 여부, 적용 방식과 실행 환경은 확인하지 않았다. 직접 설치하거나 실기·에뮬레이터로 검증하지 않았다."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com/85753535-5ea9-4da6-ab7f-5549fcfb2a6d.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/106050-desire-haitoku-no-rasen",
+        "platform": "pc",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT"
     }
   ]
 }
