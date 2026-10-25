@@ -2777,6 +2777,73 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "chaos-head-noah-psvita",
+      "title": "카오스 헤드 노아",
+      "original": "CHAOS;HEAD NOAH",
+      "platforms": [
+        "psvita"
+      ],
+      "genres": [
+        "ADV",
+        "SF 심리 호러",
+        "미스터리 비주얼 노벨"
+      ],
+      "score": 8.2,
+      "summary": "2014년 8월 21일 일본 PS Vita로 나온 『CHAOS;HEAD NOAH』 단독 다운로드판(PCSG-00434)에 대한 평가. 시부야의 기괴한 연쇄 사건에 휘말리는 히키코모리 오타쿠 사이조 타쿠미의 불신과 망상을 통해 현실·환각의 경계를 흔드는 심리 서스펜스가 탁월하다. 긍정·부정·무선택으로 바뀌는 망상 트리거, 별도 캐릭터 루트, 아보 다케시의 음악이 강점이나 주인공에 대한 거부감, 느린 중반과 불명확한 엔딩 조건이 단점이다. 어두운 심리 호러·추리형 비주얼 노벨을 즐기는 팬에게 추천한다. PS Vita 일본판 공식 기본 자료와 핵심 이야기 구조를 공유하는 다른 기종 리뷰에 바탕을 둔 편집 점수이며 직접 플레이하거나 PS Vita판 성능을 테스트하지 않았다. 패키지판 『CHAOS;HEAD DUAL』과 구분해 단독 다운로드 작품으로 평가한다.",
+      "pros": [
+        "시부야의 '뉴 제네레이션' 연쇄 사건을 따라가며 믿을 수 없는 화자의 공포·불신을 독자에게 전염시키는 심리 서스펜스 연출이 독창적이다.",
+        "긍정적·부정적 망상을 선택하거나 망상 자체를 피하는 '망상 트리거'가 장면의 해석과 분기·엔딩을 바꿔 일반적인 대화 선택지와 구별된다.",
+        "『NOAH』에 추가된 인물별 루트와 결말 덕분에 핵심 사건을 다른 시선에서 재해석하는 다회차 감상의 보람이 있다.",
+        "사사키 무쓰미의 개성적인 캐릭터 디자인과 아보 다케시의 긴장감 있는 음악·보이스 연기가 불길한 일상 분위기를 살린다."
+      ],
+      "cons": [
+        "주인공 타쿠미가 극단적으로 자기중심적이고 사회적으로 위축된 인물이라 초반부터 호감과 몰입 여부가 크게 갈린다.",
+        "중반에 혼란과 망상을 반복하는 구간이 길고 전개 속도가 일정하지 않아 추리·사건의 진전을 기다리는 독자에게 답답하다.",
+        "망상 선택이 어떤 루트·엔딩을 결정하는지 설명이 부족하여 특정 엔딩을 보기 위해 공략을 참조하거나 이미 읽은 장면을 반복해야 할 수 있다.",
+        "강한 살인·잔혹 묘사, 성적 망상과 공격적 소재의 수위가 높아 가벼운 청춘 연애 VN을 기대하는 독자에게 적합하지 않다."
+      ],
+      "sources": [
+        {
+          "label": "과학 어드벤처 공식 - CHAOS;HEAD NOAH 판본 및 제작진",
+          "url": "https://www.kagaku-adv.com/titles/chaoshead_noah/"
+        },
+        {
+          "label": "전격 온라인 - 2014 PS Vita 단독 다운로드판 존재·발매일",
+          "url": "https://dengekionline.com/elem/000/000/905/905380/"
+        },
+        {
+          "label": "GameFAQs - PS Vita 일본 다운로드판 PCSG-00434 식별",
+          "url": "https://gamefaqs.gamespot.com/vita/834684-chaoshead-noah/data"
+        },
+        {
+          "label": "Nintendo Life - Chaos;Head Noah 이야기·망상 트리거 리뷰 (다른 기종)",
+          "url": "https://www.nintendolife.com/reviews/switch-eshop/chaoshead-noah"
+        },
+        {
+          "label": "TheSixthAxis - Chaos;Head Noah 서사·분기 리뷰 (다른 기종)",
+          "url": "https://www.thesixthaxis.com/2022/10/24/chaos-head-noah-chaos-child-double-pack-review/"
+        },
+        {
+          "label": "PSprices 일본 PS Vita 스토어 데이터·PlayStation 제공 공식 타이틀 아트",
+          "url": "https://psprices.com/region-jp/game/25585/chaoshead-noah"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/6464",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2014년 일본 PS Vita용 『CHAOS;HEAD NOAH』 단독 다운로드판(PCSG-00434)이며 패키지 『CHAOS;HEAD DUAL』(VLJM-35126)과 구분한다. 사용자 주소가 어느 판본을 지원하는지, 번역 범위·미번역·설치 방법·배포 및 버전·실기 호환 여부는 확인하지 않았다. 사용자 제공 링크를 GET·HEAD·리다이렉트 또는 미리보기하지 않았으며 설치·실기·에뮬레이터 테스트도 하지 않았다."
+      },
+      "cover": {
+        "url": "https://image.api.playstation.com/cdn/JP0745/PCSG00434_00/GwjM1ZA6cXVX2RK5c7x4D4OnYEdaAfTa.png",
+        "source": "https://psprices.com/region-jp/game/25585/chaoshead-noah",
+        "platform": "psvita",
+        "type": "Official store artwork",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT"
     }
   ]
 }
