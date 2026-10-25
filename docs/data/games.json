@@ -13213,6 +13213,77 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "exodus-guilty-neos-dreamcast",
+      "title": "엑소더스 길티 네오스",
+      "original": "エクソダスギルティー ネオス (EXODUS Guilty NEOS)",
+      "platforms": [
+        "dreamcast"
+      ],
+      "genres": [
+        "미스터리 ADV",
+        "SF 어드벤처",
+        "멀티타임 재핑"
+      ],
+      "score": 7.3,
+      "summary": "2001년 5월 31일 일본 드림캐스트 일반판 《EXODUS Guilty NEOS》(T-44404M)를 대상으로 한 편집 평가. 아벨의 1998년 PS1판 《EXODUS Guilty》를 캐릭터 음성을 더해 이식한 작품으로, 고대·현대·먼 미래의 같은 지역에서 서로 다른 주인공을 번갈아 조작하며 유물·문명·세계의 운명에 관한 수수께끼를 추적한다. 세 시대에 흩어진 단서를 서로 맞춰보는 구성과 시간의 흐름에 따라 달라진 풍경, 애니메이션 및 음성 연기가 매력적이다. 그러나 전개가 느리고 장소 탐색·대화·진행 플래그 반복이 많으며, 일부 주인공의 경솔한 결정과 작위적인 장면은 몰입을 약화한다. 재핑은 흥미롭지만 전반적인 시나리오 진행은 선형적이고 DC판만의 시스템 혁신은 제한적이라 7.3/10. 《EVE》·《YU-NO》 계열의 복선과 장편 SF 미스터리를 좋아하는 고전 ADV 팬에게 조건부 추천한다. 발매 정보와 DC판 감상·다른 판본에 대한 보조 자료를 참고한 자료 기반 평가이며 직접 플레이하지 않았고 한글패치 여부는 점수에 반영하지 않았다.",
+      "pros": [
+        "기원전의 고대, 현대 유적 발굴 현장, 문명이 변모한 먼 미래를 전환하며 같은 장소와 사건의 흔적을 다른 시대에서 재해석하는 멀티타임 재핑 발상이 매력적이다.",
+        "시대마다 성격과 목표가 다른 세 주인공의 모험을 통해 종교·신화·유물·문명에 얽힌 복선이 장편 SF 미스터리로 서서히 연결된다.",
+        "PS1 원작에 없던 캐릭터 음성을 드림캐스트판에서 추가해 주요 등장인물의 대화와 갈등 장면에 연기와 개성을 보탰다.",
+        "다지마 나오의 원화와 후속 추가 장면의 일러스트, 시대별 배경 미술과 오프닝 애니메이션이 서로 다른 세 세계를 표현한다."
+      ],
+      "cons": [
+        "진행 조건을 찾기 위해 같은 장소의 조사·대화와 캐릭터 전환을 반복해야 하며 중요한 플래그를 놓치면 불필요한 왕복이 늘어나 이야기의 리듬이 끊긴다.",
+        "일부 주인공의 충동적이거나 비현실적인 판단과 편의적인 위기 해결이 긴장감·인물 설득력을 떨어뜨려 호불호가 크다.",
+        "세 시대를 자유롭게 전환할 수 있지만 서로 다른 시대에서 특정 진행을 끝내야만 다음 사건이 열리는 선형적인 설계여서 선택의 결과를 크게 바꾸는 비선형 모험을 기대하면 아쉽다.",
+        "PS1판 대비 주요 변경점이 음성 추가에 집중되어 탐색 UI와 오래된 어드벤처의 느린 전개·독백 위주 문장 및 반복 작업 등 근본적인 불편함이 남았다."
+      ],
+      "sources": [
+        {
+          "label": "패미통 - Dreamcast판 발매일·장르·개발/판매 정보",
+          "url": "https://www.famitsu.com/game/title/856/reviews"
+        },
+        {
+          "label": "Media World - 일본 드림캐스트 일반판 T-44404M·3시대 재핑 시스템 공식 상품 설명",
+          "url": "https://mediaworld.co.jp/products/10360349001"
+        },
+        {
+          "label": "피코피코 대백과 - 일본 DC판 이식 정보 및 음성 추가·이용자 평가",
+          "url": "https://www.gavas.jp/products/detail.php?product_id=544"
+        },
+        {
+          "label": "だんぼーるはうすinブログ - 드림캐스트판 실제 플레이 소개(2016): 인물·서사 템포·음성",
+          "url": "https://lunchbox360.livedoor.biz/archives/8532245.html"
+        },
+        {
+          "label": "空想少年 - PS1 원작 플레이 회고: 시대 전환·인물·배경, DC 이식판과 구별해 참고",
+          "url": "https://tutikure.blog.shinobi.jp/%E9%81%8A%E6%8A%80%E3%83%BB%E6%84%9F%E6%83%B3%EF%BC%88ps%EF%BC%89/%E3%82%A8%E3%82%AF%E3%82%BD%E3%83%80%E3%82%B9%E3%82%AE%E3%83%AB%E3%83%86%E3%82%A3%E3%83%BC"
+        },
+        {
+          "label": "Libretro Thumbnails - Dreamcast 일본판 Exodus Guilty Neos Boxart 이미지 목록",
+          "url": "https://thumbnails.libretro.com/Sega%20-%20Dreamcast/Named_Boxarts/"
+        },
+        {
+          "label": "Okini Land - 일본 드림캐스트 실제 패키지 표지 비교",
+          "url": "https://okini.land/en/1061-exodus-guilty-neos-abel-4524209000273.html"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/4493",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 게임 평가는 2001-05-31 일본 Dreamcast 일반판 《EXODUS Guilty NEOS》(T-44404M) 기준이며 1998년 PS1 원작 《EXODUS Guilty》, 2002년 Windows 성인판 《EXODUS Guilty alternative》와 구분한다. 제공된 주소의 실제 지원 GD-ROM 리비전, 메뉴·대화·애니메이션·이미지 등의 번역 범위와 미번역 요소, 적용 방식 및 드림캐스트 실기·에뮬레이터 호환성은 확인하지 않았다. 설치·구동 검증을 하지 않았다."
+      },
+      "reviewedAt": "2026-10-26",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://thumbnails.libretro.com/Sega%20-%20Dreamcast/Named_Boxarts/Exodus%20Guilty%20Neos%20%28Japan%29.png",
+        "source": "https://thumbnails.libretro.com/Sega%20-%20Dreamcast/Named_Boxarts/",
+        "platform": "dreamcast",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
