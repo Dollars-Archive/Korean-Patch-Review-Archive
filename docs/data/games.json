@@ -5288,6 +5288,62 @@
         "type": "Box - Front",
         "region": "North America"
       }
+    },
+    {
+      "id": "saki-zenkoku-hen-plus-psvita",
+      "title": "사키: 전국편 플러스",
+      "original": "咲-Saki-全国編Plus",
+      "platforms": [
+        "psvita"
+      ],
+      "genres": [
+        "마작",
+        "테이블 게임"
+      ],
+      "score": 7.4,
+      "summary": "원작의 캐릭터별 초능력과 성우·컷인 연출을 마작 규칙에 접목하고, 팀 대전·챌린지·육성·수집으로 반복 플레이를 살린 PS Vita판. 팬 서비스와 선택의 폭은 충실하지만 정규 스토리 모드가 없고 로딩 및 능력 밸런스 편차, DLC 의존성이 있어 7.4점. 『사키』 원작과 마작을 모두 좋아하는 플레이어에게 추천. 공개 자료 기반 편집 평가이며 직접 플레이한 점수는 아님.",
+      "pros": [
+        "원작 캐릭터의 초현실적 마작 능력, 애니메이션 성우 음성, 풍부한 컷인으로 『사키』 특유의 대국 감각을 살린다.",
+        "자유 대국·단체전·조건부 챌린지·협력 대국과 능력별 육성으로 캐릭터 편성 및 반복 플레이의 폭이 넓다.",
+        "능력 사용과 육성 캐릭터 허용 여부, 대국 규칙 등을 조정할 수 있고 카드·의상 수집도 팬 서비스에 보탬이 된다."
+      ],
+      "cons": [
+        "본격적인 스토리 모드가 없어 원작 서사를 따라가는 게임을 기대하면 아쉽고, 대국과 수집 중심의 반복 구조다.",
+        "캐릭터 능력·육성에 따른 유불리와 CPU 상대의 난도 편차가 있어 경쟁 마작의 균형을 기대하기는 어렵다.",
+        "일부 이용자 리뷰에서 긴 로딩이 지적됐으며 온라인 대전·서바이벌은 업데이트 2.00과 별매 DLC '전국 티켓'이 필요하다. 본편·DLC의 공식 신규 판매도 2021-03-31 종료됐다."
+      ],
+      "sources": [
+        {
+          "label": "ENTERGRAM 공식 - PS Vita 『咲-Saki-全国編Plus』 게임 시스템",
+          "url": "https://www.entergram.co.jp/saki/system.html"
+        },
+        {
+          "label": "ENTERGRAM 공식 - 2021-03-31 게임 본편 및 DLC 판매 종료 공지",
+          "url": "https://entergram.co.jp/saki/"
+        },
+        {
+          "label": "가격.com - PS Vita 전국편 Plus 사용자 리뷰 3건 (2018·2020·2025)",
+          "url": "https://review.kakaku.com/review/K0000948578/"
+        },
+        {
+          "label": "패미통 - 2017-04-27 PS Vita 패키지판 발매 및 표지 확인",
+          "url": "https://www.famitsu.com/news/201703/03128256.html"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/5738",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 대상은 PS Vita 『咲-Saki-全国編Plus』로 기록했으며 패치의 실제 적용 판본, 번역 범위, 미번역 요소, 적용 절차는 별도 확인되지 않음. 직접 설치·실기·에뮬레이터 검증하지 않음. 참고: 게임 본편 및 공식 DLC의 신규 판매는 2021-03-31 종료됨(패치 배포 상태와 별개)."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com//93e35033-d61b-439a-a265-f79dfe4dd787.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/details/134070-saki-zenkoku-hen-plus",
+        "platform": "psvita",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
