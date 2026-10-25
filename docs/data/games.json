@@ -8538,6 +8538,77 @@
       },
       "reviewedAt": "2026-10-25",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "mahou-shoujo-lyrical-nanoha-as-the-battle-of-aces-psp",
+      "title": "마법소녀 리리컬 나노하 A's 포터블: 더 배틀 오브 에이스",
+      "original": "魔法少女リリカルなのはA's PORTABLE -THE BATTLE OF ACES-",
+      "platforms": [
+        "psp"
+      ],
+      "genres": [
+        "대전 액션",
+        "3D 격투",
+        "캐릭터 액션"
+      ],
+      "score": 6.5,
+      "summary": "2010년 1월 21일 발매 일본 PSP 일반판 『魔法少女リリカルなのはA's PORTABLE -THE BATTLE OF ACES-』(ULJS-00241) 기준. TV 애니메이션 『나노하 A's』의 사건 이후를 상상한 원작자 츠즈키 마사키의 IF 시나리오, 원작 성우진의 풀보이스, 캐릭터별 화려한 마법과 근·원거리 레인지 시프트 대전은 팬서비스가 좋다. 그러나 적은 사용 기술, 느릿한 조작감, 불균형한 캐릭터 성능, 훈련 모드와 1인용 콘텐츠 부족으로 격투 게임으로서의 깊이와 지속성이 낮아 6.5점. 나노하 팬의 스토리 감상 및 가벼운 애드혹 대전에는 조건부 추천하며, 본격적인 격투 시스템을 원하면 신중히 선택할 작품. 2011년 후속작 『THE GEARS OF DESTINY』와 구분함. 공식 정보와 해당 PSP판 전문·이용자 리뷰 기반 편집 평가이며 직접 플레이하지 않았고 한글패치 여부는 평점에 반영하지 않음.",
+      "pros": [
+        "원작자 츠즈키 마사키가 쓴 TV 애니메이션 『A's』 이후의 IF 스토리를 인물별 시점에서 감상하며, 인기 성우진의 풀보이스와 신규 이벤트 CG를 즐길 수 있다.",
+        "원거리 포격·탄막과 근접 무기 격투를 바꿔 사용하는 레인지 시프트 방식, MP·가드·대시 자원 관리로 캐릭터별 전투 거리와 운영법에 개성을 부여한다.",
+        "단순한 버튼 조합으로 강력한 마법과 풀드라이브 버스트를 빠르게 발동할 수 있고 원작의 화려한 기술을 3D 대전 화면에 구현해 팬서비스가 뛰어나다.",
+        "캐릭터별 이야기, CG 갤러리와 애드혹 2인 대전이 있어 좋아하는 인물의 이벤트와 대전을 짧게 즐기기 좋다."
+      ],
+      "cons": [
+        "캐릭터별 필살기와 근접 행동 종류가 적어 반복 전투에서 콤보·방어의 변주가 제한적이고, 일부 조작 반응이 한 박자 늦게 느껴진다.",
+        "캐릭터별 화력·기동성 및 거리별 효율 차이가 크고 일부 기술의 활용도가 낮아 캐릭터 상성과 대전 밸런스가 고르지 않다.",
+        "전용 훈련·연습 모드가 없고 스토리·아케이드·CPU 대전 이외에 혼자 장기간 파고들 콘텐츠가 부족하다.",
+        "여러 인물의 스토리에서 유사한 전투 구성이 반복되고 대화 장면의 시각 연출은 정적이며 기존 애니메이션 설정을 모르면 IF 전개의 매력이 줄어든다."
+      ],
+      "sources": [
+        {
+          "label": "GAME Watch 2009-11-17: 밴다이남코 공식 공개 자료, 캐릭터별 IF 시나리오·전투 시스템·필살기·CG",
+          "url": "https://game.watch.impress.co.jp/docs/news/329558.html"
+        },
+        {
+          "label": "주간 패미통 1102호 PSP 전문 리뷰 4건(7·7·6·6): 조작·연출·기술 수·밸런스",
+          "url": "https://www.famitsu.com/game/title/6142/reviews"
+        },
+        {
+          "label": "紅の碧落 - 2010년 PSP 클리어 후기: 스토리·캐릭터 성능·모드 수·반복",
+          "url": "https://akaheki.blog50.fc2.com/blog-entry-649.html"
+        },
+        {
+          "label": "가격.com 일본 PSP 이용자 후기: 음악·조작·1인용 모드 부족",
+          "url": "https://review.kakaku.com/review/K0000052341/"
+        },
+        {
+          "label": "스루가야 - 일본 PSP 일반판 제품 정보·발매일·품번 ULJS-00241",
+          "url": "https://www.suruga-ya.jp/product/detail/177001294"
+        },
+        {
+          "label": "LaunchBox - Sony PSP 일본 일반판 Box - Front (500×852)",
+          "url": "https://gamesdb.launchbox-app.com/games/images/18907-mahou-shoujo-lyrical-nanoha-as-portable-the-battle-of-aces"
+        },
+        {
+          "label": "GameFAQs - 일반판/리리컬 BOX/베스트판의 별도 제품 코드",
+          "url": "https://gamefaqs.gamespot.com/psp/968926-mahou-shoujo-lyrical-nanoha-as-portable-the-battle-of-aces/data"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/5258",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가는 일본 PSP 일반판 『魔法少女リリカルなのはA's PORTABLE -THE BATTLE OF ACES-』(2010-01-21, ULJS-00241)을 기준으로 했으며 한정판 리리컬 BOX(ULJS-00240), 염가판(ULJS-19079) 및 2011년 후속작 『THE GEARS OF DESTINY』와 구별함. 제공 주소의 패치 지원 UMD/다운로드판 및 리비전·번역 범위·미번역 사항·적용 방법·배포 상태와 버전은 확인하지 않았다. 한글패치 설치·PSP 실기·에뮬레이터 직접 시험도 하지 않았음."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/efd0df47-5b73-4f01-853e-326f9812b291.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/18907-mahou-shoujo-lyrical-nanoha-as-portable-the-battle-of-aces",
+        "platform": "psp",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
