@@ -13604,6 +13604,73 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "langrisser-iv-saturn",
+      "title": "랑그릿사 IV",
+      "original": "ラングリッサーIV",
+      "platforms": [
+        "saturn"
+      ],
+      "genres": [
+        "SRPG",
+        "턴제 전략",
+        "판타지 전쟁"
+      ],
+      "score": 8.6,
+      "summary": "1997년 8월 1일 일본에서 발매된 세가 새턴 일반판 《ラングリッサーIV》(T-2506G). 란디우스의 모험을 중심으로 국가 간 전쟁과 세 개의 주요 시나리오 분기가 펼쳐지는 전략 RPG다. 지휘관·용병의 상성·지휘 범위·클래스 전직을 활용하는 전술, 동료 호감도와 분기별 결말, 개성적인 음악과 캐릭터 연출이 높은 재플레이 가치를 만든다. 다만 저지먼트 행동 순서가 지휘관과 용병의 차례를 갈라 부대 관리를 어렵게 하고 전투 애니메이션 로딩, 복잡한 분기 조건, 병종 밸런스 편차가 아쉽다. 전략의 깊이와 이야기 선택을 높이 평가해 8.6점. 다회차 서사와 대규모 전술을 즐기는 SRPG 팬에게 추천. 공식 소개 및 새턴판 전문 리뷰를 바탕으로 한 자료 기반 편집 평가로 직접 플레이하지 않았으며 한글패치 존재는 점수에 반영하지 않았다.",
+      "pros": [
+        "용병을 고용하는 지휘관 시스템에 지휘 범위 보너스, 병종 상성, 배치와 클래스 전직을 결합해 전투마다 고민할 전술이 풍부하다.",
+        "대화·전투 중 선택으로 세 주요 시나리오와 동료 구성이 변화하며, 호감도와 인물별 엔딩이 다회차 공략의 동기를 만든다.",
+        "지휘관·용병 성장 및 비밀 요소가 다양해 전술과 파티를 달리하는 재플레이 가치가 높다.",
+        "우루시하라 사토시의 캐릭터 디자인, 음성 연기와 이와다레 노리유키 등이 참여한 음악이 전쟁 판타지 분위기를 강화한다."
+      ],
+      "cons": [
+        "새턴판 저지먼트 시스템에서는 지휘관과 용병이 각각 다른 행동 속도로 차례를 받아, 지휘 범위 유지와 집중 공격의 타이밍이 엇갈리는 문제가 있다.",
+        "전투 애니메이션에 로딩이 있고 큰 맵에서 수많은 유닛을 조작해야 하므로 시나리오별 전투 시간이 길다.",
+        "일부 시나리오 분기에는 여러 선택·호감도·전투 이벤트를 모두 충족해야 하는 숨겨진 조건이 있어 원하는 루트로 가기 까다롭다.",
+        "병종별 행동 속도와 사거리 편차로 기병·비병 등의 효율이 낮고, 인물별 서사 비중과 전개 속도가 불균일하다는 평가도 있다."
+      ],
+      "sources": [
+        {
+          "label": "랑그릿사 공식 시리즈 소개 - 1997년 세가 새턴 IV와 줄거리",
+          "url": "https://www.langrisser.com/series/"
+        },
+        {
+          "label": "패미통 - 새턴 일본판 발매일·장르·메사이어",
+          "url": "https://www.famitsu.com/game/title/3511/reviews"
+        },
+        {
+          "label": "RPGamer - Saturn판 전문 리뷰: 전략·분기·저지먼트·로딩",
+          "url": "https://archive.rpgamer.com/games/lang/lang4/reviews/lang4strev1.html"
+        },
+        {
+          "label": "GameFAQs - Saturn판 전문 리뷰와 PS1 Final Edition 변경점",
+          "url": "https://gamefaqs.gamespot.com/saturn/574215-langrisser-iv/reviews/175499"
+        },
+        {
+          "label": "LaunchBox - 세가 새턴 일본 일반판 패키지 앞표지",
+          "url": "https://gamesdb.launchbox-app.com/games/images/96547-langrisser-iv"
+        },
+        {
+          "label": "Satakore - 일본 일반판 T-2506G",
+          "url": "https://www.satakore.com/sega-saturn-game%2C%2CT-2506G%2C%2CLangrisser-IV-JPN.html"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/4340",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 1997년 8월 1일 출시된 일본 세가 새턴 일반판 《ラングリッサーIV》(T-2506G)이며 한정판(T-2505G), 사타코레판, PS1 《랑그릿사 IV＆V FINAL EDITION》과 구별한다. 제공한 주소의 지원 디스크 리비전·번역 범위·미번역 요소·적용 방법·새턴 실기 및 에뮬레이터 구동 여부는 확인하지 않았다. 설치 및 실행 시험 없음."
+      },
+      "reviewedAt": "2026-10-26",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/c257bd33-3737-48d4-9821-eb0b785ea30a.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/96547-langrisser-iv",
+        "platform": "saturn",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
