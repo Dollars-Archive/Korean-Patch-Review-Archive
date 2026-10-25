@@ -12369,6 +12369,67 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "wild-arms-alter-code-f-ps2",
+      "title": "와일드 암즈 얼터 코드: F",
+      "original": "ワイルドアームズ アルターコード:F",
+      "platforms": [
+        "ps2"
+      ],
+      "genres": [
+        "RPG",
+        "턴제 RPG",
+        "던전 탐험"
+      ],
+      "score": 8,
+      "summary": "2003년 11월 27일 일본에서 발매된 PS2 일반판 《ワイルドアームズ アルターコード:F》(SCPS-17002). 1996년 PS1 첫 작품을 3D 그래픽·추가 이벤트와 동료·성우 연기·편곡 음악·재구성된 전투 및 던전으로 다시 만든 RPG다. 서부극과 판타지가 결합한 세계관, 개성 있는 세 주인공과 도구를 활용한 퍼즐 탐험이 강점이다. 그러나 높은 랜덤 인카운터 빈도, 느린 전투 전개, 다소 투박한 3D 표현 및 불균일한 성장·전투 밸런스가 아쉬워 8.0점. 1990년대식 일본 RPG와 퍼즐 중심 탐험을 좋아하는 사람에게 추천한다. 공식 개발사 정보와 PS2판 전문 리뷰를 종합한 자료 기반 편집 평가이며 직접 플레이한 결과가 아니다.",
+      "pros": [
+        "황야·고대 문명·ARMs 등 서부극과 SF 판타지가 뒤섞인 필가이아의 분위기와 루디·잭·세실리아를 중심으로 전개되는 고전 모험담이 여전히 매력적이다.",
+        "캐릭터별 필드 도구를 이용하는 던전 퍼즐과 숨겨진 보스·아이템이 정해진 길을 따라 전투하는 RPG 이상의 탐험·발견 재미를 제공한다.",
+        "3D 배경과 새 애니메이션·이벤트, 일본판 캐릭터 음성, 추가 동료를 통한 교대 출전, 나루케 미치코의 음악 편곡으로 원작을 더 풍성하게 재구성했다."
+      ],
+      "cons": [
+        "랜덤 인카운터가 잦고 전투 애니메이션과 턴제 명령 수행이 느린 편이어서 던전 퍼즐을 탐색하는 흐름이 자주 끊긴다.",
+        "PS2 세대 작품임에도 일부 인물의 3D 모델과 표정·카메라 표현이 투박하고, 원작의 도트 그래픽에 익숙한 팬에게는 분위기 변화가 낯설 수 있다.",
+        "일부 성장·전투 시스템의 재조정과 잦은 우회 이동·탐색 요구 때문에 전투 난이도 및 던전 진행 편의성에 호불호가 갈린다."
+      ],
+      "sources": [
+        {
+          "label": "미디어비전 공식 - PS2 일본판 제품정보·발매일·품번",
+          "url": "https://ssl.media-vision.co.jp/soft/waf.php"
+        },
+        {
+          "label": "GAME Watch - 2003년 PS2판 전문 리뷰와 시스템·연출 분석",
+          "url": "https://game.watch.impress.co.jp/docs/20031210/wa.htm"
+        },
+        {
+          "label": "GameSpot - PS2판 리뷰와 잦은 전투·속도·연출 평가",
+          "url": "https://www.gamespot.com/reviews/wild-arms-alter-code-f-review/1900-6140679/"
+        },
+        {
+          "label": "게임카탈로그@Wiki - 일본판 리메이크 장점과 단점",
+          "url": "https://w.atwiki.jp/gcmatome/pages/4040.html"
+        },
+        {
+          "label": "Play-Asia - 일본 PS2 일반판 패키지 앞표지",
+          "url": "https://www.play-asia.com/wild-arms-alter-code-f/13/702y4"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/4803",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2003년 일본 PS2 일반판 《ワイルドアームズ アルターコード:F》(SCPS-17002)이다. PlayStation2 the Best 염가판 및 북미판과 구별한다. 해당 한글패치 링크의 대상 디스크 리비전·번역 범위(시나리오·메뉴·전투·그래픽·음성 자막)·미번역 부분·적용 방법·실기/PCSX2 작동 여부는 확인하지 않았다."
+      },
+      "reviewedAt": "2026-10-26",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://s.pacn.ws/1/p/PA.03820.001.jpg?v=hod9yj",
+        "source": "https://www.play-asia.com/wild-arms-alter-code-f/13/702y4",
+        "platform": "ps2",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
