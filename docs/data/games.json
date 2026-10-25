@@ -1521,6 +1521,70 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "shin-koihime-musou-otome-ryouran-sangokushi-engi-ps2",
+      "title": "진 연희몽상: 소녀요란 삼국지연의",
+      "original": "真・恋姫†夢想 ～乙女繚乱☆三国志演義～",
+      "platforms": [
+        "ps2"
+      ],
+      "genres": [
+        "ADV",
+        "SLG"
+      ],
+      "score": 7.5,
+      "summary": "2011년 일본 PS2 일반판(SLPM-55288). 위·오·촉 여성화 삼국지 영웅들과의 관계를 다룬 장편 역사·연애 ADV. PSP의 세 나라별 3개 작품을 1장으로 합치고 신규 오프닝·추가 CG·이벤트를 더한 PS2판이다. 인물 개성과 풍부한 음성, 세력별 감동적인 시나리오가 장점이나 장황한 대사와 반복 이벤트, 사전 장수·군사 편성에 승패가 좌우되는 단순한 상성 전투로 7.5/10. 삼국지 캐릭터 재해석·장편 비주얼 노벨을 즐기면 추천, 깊은 전략 전투를 원하면 조건부 추천. 직접 플레이가 아닌 PS2판 공식·언론 자료 기반 편집 평가.",
+      "pros": [
+        "PSP 위·오·촉 3편의 메인 이야기를 PS2 디스크 한 장에 통합해 세 세력의 다양한 시점과 결말을 차례대로 감상할 수 있다.",
+        "50명 이상 매력적인 여성화 삼국지 인물과 세력마다 다른 관계·유머·감정적 서사가 방대한 이야기를 이끈다.",
+        "풍부한 풀보이스와 코미디·전쟁 서사의 교차가 감정 몰입을 돕고, 패미통 PS2 리뷰에서도 각 세력 시나리오의 개성을 인정했다.",
+        "PS2판 전용 신규 오프닝, 추가 이벤트 이야기와 CG 등이 포함돼 PSP 합본 이상의 판본 차별점을 갖춘다.",
+        "쉽고 이해하기 쉬운 병종 삼각 상성 중심 전투로 전략 게임 숙련도가 낮아도 이야기 감상 흐름을 크게 방해하지 않는다."
+      ],
+      "cons": [
+        "세 나라의 수많은 캐릭터를 전부 다루면서 대사와 일상 이벤트가 길어지고 일부 장면의 서사 밀도가 떨어진다.",
+        "전투가 장수·군사 선발 및 병종 상성에서 상당 부분 결정되어 전투 중 선택과 긴장감이 부족하다.",
+        "히로인 수가 많아 인물별 비중이 고르지 않고 유사한 진행 구조가 이어져 모든 분기를 감상할 때 반복이 생긴다.",
+        "PC 성인판을 바탕으로 한 가정용 이식작이므로 성인 장면 삭제·수정 등 콘텐츠 차이가 있어 원판과 동일한 수록 내용을 기대해서는 안 된다.",
+        "장시간의 텍스트·캐릭터 대화가 중심이며 전략 전투와 역동적인 표현은 보조 요소에 그쳐 SLG 중심의 재미는 제한적이다."
+      ],
+      "sources": [
+        {
+          "label": "Neowing - PS2 일반판 SLPM-55288, 2011-11-10 발매·세 나라 통합",
+          "url": "https://www.neowing.co.jp/product/SLPM-55288"
+        },
+        {
+          "label": "아미아미 - PS2 일반판 신규 오프닝·이벤트 CG·추가 시나리오",
+          "url": "https://www.amiami.jp/top/detail/detail?gcode=TVG-PS2-1306"
+        },
+        {
+          "label": "패미통 - PS2판 4인 리뷰: 6·6·8·7",
+          "url": "https://www.famitsu.com/game/title/20390/reviews"
+        },
+        {
+          "label": "4Gamer - PS2 게임 개요 및 발매 정보",
+          "url": "https://www.4gamer.net/games/130/G013056/"
+        },
+        {
+          "label": "LaunchBox - 일본 PlayStation 2 Box - Front",
+          "url": "https://gamesdb.launchbox-app.com/games/images/401483-shin-koihime-musou-otome-ryouran-sangokushi-engi"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/6564",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 2011년 일본 PS2 일반판(SLPM-55288) 기준으로 평가했으며, 사용자 제공 주소의 실제 대상 판본·리비전·위/오/촉 번역 범위·미번역·적용 방법·실기 및 에뮬레이터 호환성은 조회하거나 확인하지 않았다."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/8e317776-e74a-4879-abb8-fd218b531cdc.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/401483-shin-koihime-musou-otome-ryouran-sangokushi-engi",
+        "platform": "ps2",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
