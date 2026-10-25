@@ -11427,6 +11427,66 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "lets-make-a-soccer-team-europe-championship-ps2",
+      "title": "프로축구팀을 만들자! 유럽 챔피언쉽",
+      "original": "プロサッカークラブをつくろう！ヨーロッパチャンピオンシップ",
+      "platforms": [
+        "ps2"
+      ],
+      "genres": [
+        "스포츠 경영 시뮬레이션",
+        "축구 육성 시뮬레이션"
+      ],
+      "score": 6.2,
+      "summary": "2006년 3월 29일 일본 PS2 일반판 『プロサッカークラブをつくろう！ヨーロッパチャンピオンシップ』(SLPM-66316)을 대상으로 한 평가. 유럽 6개국에서 직접 구단을 만들고 승격·리그 우승·유럽 대회 정복까지 성장시키는 경영, 실명 선수 영입·임대·훈련·전술, 시설 확장과 스폰서 계약이 어우러진 깊이는 매력적이다. 전작의 장면식 경기를 실시간 3D로 바꿔 선수 활약을 관찰할 수 있지만, 긴 경기·잦은 로딩과 화면 전환, 비현실적 경기 AI·부상·카드 빈도, 반복되는 사무 이벤트로 진행 피로가 커 6.2점. 빠른 템포보다 장기 축구단 경영과 선수 육성을 즐기는 팬에게 조건부 추천한다. 2006년 일본판의 공식 설명·관련 평가 자료에 근거한 편집 평가이며 직접 플레이하지 않았고 한글패치 존재는 점수에 반영하지 않았다.",
+      "pros": [
+        "잉글랜드·프랑스·독일·이탈리아·스페인·네덜란드의 리그와 승강 구조를 배경으로 2부에서 1부, 나아가 유럽 대회 우승까지 긴 성장 목표가 뚜렷하다.",
+        "실명 선수 약 9,000명과 대규모 선수 데이터에 바탕을 두고 영입·임대·훈련·선발·전술뿐 아니라 스폰서, 입장 수익, 경기장과 부대시설 투자까지 구단 운영을 세밀하게 다룰 수 있다.",
+        "기존 시리즈의 장면식 경기 표현 대신 실시간 3D 경기를 도입해 육성한 선수의 플레이를 계속 관찰하고 선수 교체와 전술 변경에 개입할 수 있다."
+      ],
+      "cons": [
+        "풀타임에 가까운 실시간 경기와 잦은 로딩·화면 전환 때문에 시즌 1년을 소화하는 데 지나치게 오랜 시간이 들고 반복 플레이 템포가 늘어진다.",
+        "비현실적으로 보이는 슛·패스, 선수 교체 후 포지션 이상 등 경기 엔진에 관한 불만이 있으며 카드·부상 빈도에도 불균형 지적이 있다.",
+        "선수와 구단 관련 보고·대화·시설 관리 이벤트가 계속 반복되고 업무 메뉴가 복잡해 경영 자체의 재미보다 사무 작업 피로가 커지는 구간이 있다."
+      ],
+      "sources": [
+        {
+          "label": "SEGA 공식 - 유럽 챔피언쉽 일본 PS2판 발매일·리그·실명 선수·실시간 경기 및 경영 시스템",
+          "url": "https://www.sega.jp/game/detail/sakatsuku-sakaeu/"
+        },
+        {
+          "label": "Joko - 일본 PS2판 이용자 리뷰, 경기 시간·부상·경고·버그와 장점",
+          "url": "https://www.joko.jp/ps2/review/ti1880.html"
+        },
+        {
+          "label": "Random Stoat Productions - PS2판 회고 리뷰, 경기 엔진과 로딩·메뉴 비판",
+          "url": "https://www.randomstoat.com/lets-make-a-soccer-team-ps2-review-60-second-gamer-episode-04/"
+        },
+        {
+          "label": "GameFAQs - 일본 PS2 일반판 SLPM-66316과 유럽판 SLES-54151 구분",
+          "url": "https://gamefaqs.gamespot.com/ps2/932386-lets-make-a-soccer-team/data"
+        },
+        {
+          "label": "LaunchBox - PS2 일본판 Box - Front 확인(800×1125)",
+          "url": "https://gamesdb.launchbox-app.com/games/details/89560-lets-make-a-soccer-team"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/4770",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2006년 일본 PS2 일반판 SLPM-66316이며, 같은 작품의 유럽판 SLES-54151과 구분한다. 제공 주소가 실제 지원하는 디스크·언어·리비전, 메뉴·선수명·경영 이벤트 등의 번역 범위·미번역 요소·적용 방법은 확인하지 않았고 실기·에뮬레이터 구동 시험도 하지 않았다."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/923d6d93-b169-44af-af35-1ac305c42895.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/details/89560-lets-make-a-soccer-team",
+        "platform": "ps2",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
