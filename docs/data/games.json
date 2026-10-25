@@ -8411,6 +8411,66 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "ore-no-imouto-portable-ga-tsuzuku-wake-ga-nai-disc-1-psp",
+      "title": "내 여동생이 이렇게 귀여울 리가 없어 포터블이 계속될 리가 없어 (Disc 1·전작 개선판)",
+      "original": "俺の妹がこんなに可愛いわけがない ポータブルが続くわけがない（Disc 1：前作リファイン版）",
+      "platforms": [
+        "psp"
+      ],
+      "genres": [
+        "연애 ADV",
+        "비주얼 노벨"
+      ],
+      "score": 7.3,
+      "summary": "2012년 PSP 2장 합본 『俺の妹がこんなに可愛いわけがない ポータブルが続くわけがない』의 Disc 1에 수록된 2011년 전작 『ポータブル』의 개선판. 원작자 후시미 츠카사의 감수를 거친 히로인별 IF 시나리오, Live2D 2SHOT 대화와 ORE 분기, 전작 대비 CG 수정·추가와 쿄스케의 내면 독백 음성, 2SHOT 판정 보강으로 7.3점. 반면 루트별 완성도 편차와 선택 조건의 불투명함, 공통 구간 반복은 남는다. 2012년 후속편 Disc 2 이전 이야기를 즐기고 싶은 원작 팬에게 추천. 공개 자료 기반 편집 평가이며 직접 플레이하지 않았음.",
+      "pros": [
+        "원작자 후시미 츠카사가 전반을 감수하고 아야세를 포함한 일부 에피소드를 집필해 키리노·쿠로네코·사오리·마나미 등 원작 인물의 언행과 관계를 설득력 있게 살린다.",
+        "2011년 원판을 다듬으면서 일부 CG 수정·추가, 쿄스케의 내면 독백 음성 추가, 아카기 세나 관련 장면·엔딩 보강 및 기존보다 알아보기 쉬운 2SHOT 대화 결과 판정을 제공한다.",
+        "O.R.E. 레코드 활용과 Live2D 2SHOT 대화로 선택과 감정 표현에 변화를 주며 플로차트·백로그·기존 문장 스킵·퀵세이브 등 분기 감상에 필요한 기능도 잘 갖췄다."
+      ],
+      "cons": [
+        "아야세 등 상대적으로 비중이 큰 시나리오와 다른 히로인 루트 사이에 이야기의 밀도와 완결감 차이가 있고, 일부 엔딩은 마지막 결말만 달라진다는 지적이 있다.",
+        "2SHOT 대화 성공 여부는 개선됐지만 원하는 루트·베스트 엔딩을 위한 특정 ORE 레코드 및 선택 조건이 완전히 명확하지 않아 시행착오나 재공략이 필요하다.",
+        "공통 시나리오를 히로인별로 다시 지나가야 하고 대화 중심의 게임성이 단조롭게 느껴질 수 있으며 원작 인물 관계에 익숙하지 않으면 감정선을 따라가기 어렵다."
+      ],
+      "sources": [
+        {
+          "label": "Neowing 일본판 제품 소개 - 2012년 PSP 합본 Disc 1의 전작 개선판 구성",
+          "url": "https://www.neowing.co.jp/product/ULJS-492"
+        },
+        {
+          "label": "게임카탈로그@Wiki - 전작·개선판 시스템 및 장단점 비교",
+          "url": "https://w.atwiki.jp/gcmatome/pages/4587.html"
+        },
+        {
+          "label": "Diary on wind - 2012년 합본 Disc 1 실제 플레이 리뷰",
+          "url": "https://diarywind.com/blog/e/ore-imo-portable-1.html"
+        },
+        {
+          "label": "Inside Games - 출하시 Disc 번호 라벨 뒤바뀜 보도 (2012-05-15)",
+          "url": "https://www.inside-games.jp/article/2012/05/15/56612.html"
+        },
+        {
+          "label": "LaunchBox - 2012년 PSP 합본 일본판 앞표지",
+          "url": "https://gamesdb.launchbox-app.com/games/images/40452-ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai-portable-ga-tsuzuku-wake-ga-nai"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "",
+        "notes": "이번 Disc 1 평가 요청에는 Disc 1용 한글패치 주소가 별도로 제공되지 않았음. 직전 Disc 2용 사용자 제공 URL을 Disc 1에도 적용 가능한 것으로 추정하지 않고 등록하지 않음. 한글패치 공개 여부·지원 판본·번역 범위·버전 모두 미확인. 평가 대상은 2012년 5월 17일 발매된 일본 PSP 2장 합본 『俺の妹がこんなに可愛いわけがない ポータブルが続くわけがない』(일반판 ULJS-00492)의 Disc 1 내용인 『俺の妹がこんなに可愛いわけがない ポータブル』 개선판임. 일부 초판 물량의 UMD 인쇄 Disc 1/2 표기가 실제 수록 내용과 뒤바뀌었다는 보도가 있으므로 실제 게임 내용으로 구분해야 함. 패치 설치·실기·에뮬레이터 시험하지 않음."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/caced673-2b91-4bce-8e8c-a5b8c88ccaea.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/40452-ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai-portable-ga-tsuzuku-wake-ga-nai",
+        "platform": "psp",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
