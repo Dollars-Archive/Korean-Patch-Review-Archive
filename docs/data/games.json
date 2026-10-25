@@ -9614,6 +9614,65 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "3x3-eyes-seima-kourinden-snes",
+      "title": "3×3 아이즈: 성마강림전",
+      "original": "3×3EYES 聖魔降臨伝",
+      "platforms": [
+        "snes"
+      ],
+      "genres": [
+        "RPG"
+      ],
+      "score": 5.2,
+      "summary": "만화 『3×3 EYES』의 야쿠모와 파이가 세계 각지를 돌며 성스러운 열쇠를 찾는 1992년 SFC판 턴제 RPG. 원작의 오컬트 모험 분위기, 인상적인 적 그래픽과 음악, 낮은 통상 적 출현 빈도는 장점이지만 동료가 한 명이라도 쓰러지면 즉시 게임 오버가 되는 규칙, 후반 동료 육성·저장 제한, 항공료와 아이템 관리의 불합리함이 커 5.2점. 원작 팬이나 고전 RPG 애호가에게만 조건부 추천. 공개 자료 기반 편집 평가이며 직접 플레이한 점수는 아님.",
+      "pros": [
+        "원작 만화의 야쿠모·파이와 초자연적 사건, 세계 곳곳을 무대로 삼는 모험을 반영하면서 게임만의 사건을 섞어 원작 팬에게 보는 재미를 준다.",
+        "오프닝과 엔딩에 사용된 캐릭터 일러스트, 박력 있는 요괴 그래픽, 호러 분위기를 살리는 던전·전투 음악의 인상이 좋다.",
+        "일반적인 적 출현은 주로 던전에 집중되고 빈도도 높지 않으며, 강력한 술법과 호부 제작을 이용하면 보통 전투를 비교적 빠르게 진행할 수 있다."
+      ],
+      "cons": [
+        "주인공 야쿠모 외의 동료가 단 한 명이라도 전투불능이 되면 바로 게임 오버가 되며, 빈번한 동료 교체와 적의 선제공격이 이 불합리함을 키운다.",
+        "후반에 합류하는 동료는 첫 레벨업에 비정상적으로 많은 경험치가 필요하고, 마지막 구간에서는 이동과 저장이 제한되어 상당한 반복 육성을 강요한다.",
+        "초반부터 큰돈이 필요한 항공권, 일부 진행 필수 아이템의 불친절한 안내, 소비·진행 실수 시 막힐 수 있는 이벤트와 상점 가격 표시 오류가 완성도를 떨어뜨린다."
+      ],
+      "sources": [
+        {
+          "label": "MobyGames - 1992년 SFC 작품 정보·줄거리·전투 방식",
+          "url": "https://www.mobygames.com/game/13693/3x3-eyes-seima-korinden/"
+        },
+        {
+          "label": "ゲームカタログ@Wiki - 전투 규칙·진행 결함·그래픽·음악 평가",
+          "url": "https://w.atwiki.jp/gcmatome/pages/2691.html"
+        },
+        {
+          "label": "ANTIDOTE - SFC RPG 이용자 회고 평가",
+          "url": "https://a-antidote.com/sfc_list.html"
+        },
+        {
+          "label": "슈퍼패미컴 게임 목록 - 원작 범위·게임 오리지널 에피소드",
+          "url": "https://www.super-famicom.jp/data/sa/sa_0021.html"
+        },
+        {
+          "label": "LaunchBox - SFC 일본판 전면 표지 확인",
+          "url": "https://gamesdb.launchbox-app.com/games/images/19644-3x3-eyes-seima-kourinden"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/5681",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 1992-07-28 일본 SFC판 『3×3EYES 聖魔降臨伝』(SHVC-33). 동일 기종의 별도 작품 『3×3EYES 獣魔奉還』과 구분. 패치 번역 범위·미번역 요소·지원 ROM 리비전·적용 방식 및 실기·에뮬레이터 호환성은 확인하지 않았으며 설치·구동 테스트도 수행하지 않음."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://www.cdiscount.com/pdt2/4/1/6/1/700x700/auc4902425360416/rw/3x3-eyes-seima-kourinden-jeu-nintendo-snes-super.jpg",
+        "source": "https://www.cdiscount.com/jeux-pc-video-console/consoles/3x3-eyes-seima-kourinden-jeu-nintendo-snes-super/f-1033906-auc4902425360416.html",
+        "platform": "snes",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
