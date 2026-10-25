@@ -6145,6 +6145,69 @@
       },
       "reviewedAt": "2026-10-25",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "tales-of-the-world-narikiri-dungeon-3-gba",
+      "title": "테일즈 오브 더 월드: 나리키리 던전 3",
+      "original": "テイルズ オブ ザ ワールド なりきりダンジョン3",
+      "platforms": [
+        "gba"
+      ],
+      "genres": [
+        "SRPG",
+        "ACT",
+        "RPG"
+      ],
+      "score": 7.2,
+      "summary": "역대 테일즈 캐릭터들과 최대 4개 파티(12명)를 운용하는 전술 맵과 횡스크롤 액션 전투를 결합한 GBA 코스프레 SRPG. 폭넓은 캐릭터 출연, 직업 코스튬 제작·교체, 명곡과 원작 무대 재현은 매력적이지만 불편한 맵 이동, 캐릭터 밸런스 차이, 전작 대비 일부 성장·반복 콘텐츠 축소 때문에 7.2점. 테일즈 캐릭터 수집과 크로스오버 전투를 좋아하는 팬에게 추천. 공식 자료 및 GBA판 리뷰를 바탕으로 한 편집 평가이며 직접 플레이하지 않음.",
+      "pros": [
+        "판타지아·데스티니·이터니아·데스티니 2·심포니아 등 역대 시리즈의 영웅과 악역을 함께 편성하며 원작 관계를 살린 조합과 이벤트를 즐길 수 있다.",
+        "다양한 직업·캐릭터 코스튬을 제작하고 교체해 전투 기술과 맵 활용 능력을 바꾸는 수집·육성 요소가 풍부하다.",
+        "턴제 맵에서 최대 4개 파티를 지휘하고 적과 접촉하면 횡스크롤 액션 전투로 전환되는 방식이 전술과 직접 조작의 재미를 결합한다.",
+        "여러 테일즈 작품의 음악과 인상적인 던전 맵, 남코 작품 패러디와 숨겨진 콘텐츠가 팬서비스를 강화한다."
+      ],
+      "cons": [
+        "일반 SRPG의 격자 이동과 다른 경로 지정식 이동은 조작이 번거롭고 장애물에 걸리면 이동이 끊겨 템포를 해친다.",
+        "등장 인원이 많은 만큼 인물별 전투 성능 격차가 크며 특히 신규 참가 캐릭터 일부는 GBA 도트·모션의 완성도가 고르지 않다.",
+        "전작의 보너스 어빌리티·수행·퀘스트 등 일부 성장 및 반복 플레이 요소가 사라져 팬서비스 증가에 비해 육성의 깊이는 줄었다.",
+        "횡스크롤 전투 자체는 전작과 유사하고 본편 이야기는 기존 캐릭터와 작품에 대한 이해가 있을수록 즐기기 좋다."
+      ],
+      "sources": [
+        {
+          "label": "반다이남코 공식 - GBA 나리키리 던전 3 제품 소개 및 파티 배틀",
+          "url": "https://www.bandainamcoent.co.jp/cs/list/narikiri3/product/"
+        },
+        {
+          "label": "GAME Watch - GBA 나리키리 던전 3 시스템 소개 (2004-11-22)",
+          "url": "https://game.watch.impress.co.jp/docs/20041122/nari3.htm"
+        },
+        {
+          "label": "GameFAQs - GBA판 이용자 리뷰 (2005-07-11)",
+          "url": "https://gamefaqs.gamespot.com/gba/924468-tales-of-the-world-narikiri-dungeon-3/reviews/89572"
+        },
+        {
+          "label": "게임 카탈로그@Wiki - GBA판 장단점 및 전작 비교",
+          "url": "https://w.atwiki.jp/gcmatome/pages/981.html"
+        },
+        {
+          "label": "LaunchBox - GBA 일본판 Box - Front 확인",
+          "url": "https://gamesdb.launchbox-app.com/games/images/128808-tales-of-the-world-narikiri-dungeon-3"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/5510",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2005년 발매 GBA 일본판이며, 링크에 게시된 패치의 배포 여부·버전·번역 범위·미번역 요소·지원 ROM 리비전·적용 방법은 확인하지 않았음. 패치 설치·실기·에뮬레이터 실행 검증하지 않음."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/779f3419-f535-41cb-b17b-a5b2757c132f.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/128808-tales-of-the-world-narikiri-dungeon-3",
+        "platform": "gba",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
