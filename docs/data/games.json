@@ -5673,6 +5673,60 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "fire-emblem-warriors-3ds",
+      "title": "파이어 엠블렘 무쌍",
+      "original": "ファイアーエムブレム無双",
+      "platforms": [
+        "3ds"
+      ],
+      "genres": [
+        "액션",
+        "무쌍",
+        "전술"
+      ],
+      "score": 7,
+      "summary": "파이어 엠블렘의 무기 상성·동료 지휘를 무쌍식 대규모 전투에 결합한 전술 액션. New 3DS판도 미션·캐릭터·핵심 시스템을 대체로 유지하고 전투가 원활하지만, 심하게 단순화된 그래픽과 협력 플레이 삭제로 7.0점. Switch 없이 New 3DS로 캐릭터 액션을 즐기려는 시리즈 팬에게 추천. 공개 자료 기반 편집 평가이며 직접 플레이하지 않음.",
+      "pros": [
+        "무기 간 상성과 동료 부대 지휘·교대가 단순 난타에 전술적 판단을 더하고 파이어 엠블렘의 개성을 살린다.",
+        "뉴 3DS로 옮기면서도 기본 미션과 조작·등장 캐릭터·핵심 게임 시스템이 대체로 유지돼 휴대기에서 온전한 무쌍 전투를 즐길 수 있다.",
+        "상대적으로 안정적인 전투 동작과 하단 화면의 지도 표시 덕분에 전장 상황 파악과 부대 운영이 편리하다."
+      ],
+      "cons": [
+        "스위치판 대비 저해상도 캐릭터 모델·흐릿한 텍스처·압축된 이벤트 영상과 축소된 특수기 연출로 시각적 만족도가 크게 낮다.",
+        "스위치판의 2인 협력 플레이가 빠졌고 3DS의 입체 3D 표시도 지원하지 않는다.",
+        "크로스오버 이야기의 깊이가 비교적 얕고 주요 출연작 편중 및 무쌍식 반복 전투에 호불호가 갈린다.",
+        "기존 3DS 및 기존 2DS에서는 실행되지 않고 New 3DS·New 2DS 계열 기기가 필요하다."
+      ],
+      "sources": [
+        {
+          "label": "닌텐도 일본 공식 - 파이어 엠블렘 무쌍 발매 안내",
+          "url": "https://www.nintendo.com/jp/topics/article/b8397323-a360-11e7-8cda-063b7ac45a6d"
+        },
+        {
+          "label": "Nintendo Life - New Nintendo 3DS판 리뷰",
+          "url": "https://www.nintendolife.com/reviews/new-3ds/fire_emblem_warriors"
+        },
+        {
+          "label": "Wccftech - New 3DS판 리뷰",
+          "url": "https://wccftech.com/review/fire-emblem-warriors-new-3ds/"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/5543",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 제공자 표기: arqhive(사용자 제공 정보). 대상은 일본판 New 닌텐도 3DS 전용 게임이나, 패치의 구체적인 호환 리비전·번역 범위·미번역·적용 방법은 미확인. 설치·실기 검증하지 않음."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/9d9db96e-2732-4917-97fd-9cb5972967fe.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/97533-fire-emblem-warriors",
+        "platform": "3ds",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
