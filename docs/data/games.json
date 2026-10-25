@@ -11612,6 +11612,63 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "ys-i-ii-eternal-story-ps2",
+      "title": "이스 I & II 이터널 스토리",
+      "original": "イースI・II エターナルストーリー",
+      "platforms": [
+        "ps2"
+      ],
+      "genres": [
+        "액션 RPG",
+        "판타지",
+        "합본"
+      ],
+      "score": 7.1,
+      "summary": "2003년 8월 7일 일본 디지큐브 발매 PS2 일반판 《イースI・II エターナルストーリー》(SLPS-25206). PC 《이스 I·II 완전판》을 기반으로 원작 두 작품을 각각 즐기는 모드와 연속 진행을 지향한 에터널 스토리 모드를 수록하고, 성우 음성·추가 캐릭터와 이벤트·무기별 고유 효과·갤러리를 제공한다. 경쾌한 몸통박치기 전투, 연결된 고전 판타지 이야기, 뛰어난 음악의 재미는 여전하다. 하지만 PS2 이식판은 잦고 긴 로딩, 일부 프리징 보고, 변화된 성장/적 체력·콤보 밸런스 때문에 원작의 쾌적함을 충분히 살리지 못해 7.1점. PS2로 고전 이스의 이야기와 추가 연출을 경험하려는 사람에게 권하지만, 쾌적한 플레이가 최우선이라면 PC·PSP의 다른 이식판도 고려할 만하다. 공개 게임 소개와 PS2판 이용자·전문 리뷰 기반 편집 평가이며 직접 플레이한 결과는 아니다.",
+      "pros": [
+        "간단한 몸통박치기 공격과 성장을 통한 난도 변화가 특유의 직관적인 액션 RPG 재미를 유지하고, 이스 I과 II가 이어지는 초기 시리즈의 모험을 한 장에서 경험할 수 있다.",
+        "팔콤 원작의 귀에 남는 음악과 고전 판타지 스토리, 인물 일러스트가 지금도 강점이며 주요 캐릭터에 새로 녹음된 음성이 장면의 감정 표현을 돕는다.",
+        "별도 이터널 모드와 이어 플레이하는 이터널 스토리 모드를 선택할 수 있고, 신규 아이템·이벤트·무기 특수 효과·꿈의 세계, 아트 갤러리와 사운드 테스트가 추가돼 비교 감상의 가치가 있다."
+      ],
+      "cons": [
+        "장면 전환마다 긴 로딩과 다소 무거운 메뉴 반응이 발생하며 음성 재생 때문에 원작의 빠른 템포가 느려진다. 일부 이용자는 프리징도 보고했다.",
+        "이터널 스토리 모드의 레벨 상한·적 내구력 조정은 반복 레벨업과 자금 수급 부담을 늘리고, 콤보·무기 효과는 특정 보스전을 지나치게 쉽게 만드는 등 밸런스가 고르지 않다.",
+        "두 게임을 이어 플레이해도 레벨·성장치가 자연스럽게 계승되지는 않으며 캐릭터 디자인 변경과 선명하지 못한 화면, 반 캐릭터 비껴치기 조작의 불편함이 원판 팬에게 아쉬울 수 있다."
+      ],
+      "sources": [
+        {
+          "label": "GAME Watch - 디지큐브 PS2 이식 발표·합본 및 신규 요소",
+          "url": "https://game.watch.impress.co.jp/docs/20021227/ys12.htm"
+        },
+        {
+          "label": "Vision - PS2판 상세 리뷰: 신규 모드, 밸런스, 조작, 로딩",
+          "url": "https://codevis.nobody.jp/review-ps2/ys1_2es.html"
+        },
+        {
+          "label": "Joko - PS2판 일본 이용자 평가 및 이식 품질",
+          "url": "https://www.joko.jp/ps2/review/ti672.html"
+        },
+        {
+          "label": "LaunchBox Games Database - 일본 PS2 일반판 Box - Front",
+          "url": "https://gamesdb.launchbox-app.com/games/details/128963-ys-i-ii-eternal-story"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/4918",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2003년 PS2 일본판 《イースI・II エターナルストーリー》(SLPS-25206)이며 PC 완전판·PSP 크로니클즈 및 PS2 한정판 패키지와 구분한다. 패치 대상 디스크 리비전, 스토리·음성 자막·메뉴/UI·이미지 등의 번역 범위, 미번역 요소, 적용 방식 및 PS2 실기·PCSX2 호환성은 확인하지 않았다."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com//deb1c024-4ecb-4da4-9ef4-87788f7ffe62.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/details/128963-ys-i-ii-eternal-story",
+        "platform": "ps2",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
