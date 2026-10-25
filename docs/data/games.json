@@ -7342,6 +7342,77 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "tears-to-tiara-kakan-no-daichi-portable-psp",
+      "title": "티어즈 투 티아라: 화관의 대지 포터블",
+      "original": "ティアーズ・トゥ・ティアラ 花冠の大地 PORTABLE",
+      "platforms": [
+        "psp"
+      ],
+      "genres": [
+        "ADV",
+        "SRPG",
+        "판타지 RPG"
+      ],
+      "score": 7.5,
+      "summary": "2010년 11월 25일 일본 PSP 일반판 『ティアーズ・トゥ・ティアラ 花冠の大地 PORTABLE』(ULJM-05661) 기준. PS3판 『화관의 대지』를 휴대용으로 옮겨, 아로운과 리안논 일행의 왕도 판타지 서사·풀보이스 이벤트·속성 및 용병 육성의 SRPG를 그대로 즐길 수 있다. PSP판 전투 그래픽은 3D에서 2D로 변경됐으며 DEVIL 난이도·전투 평가·이벤트 CG 저장·메모리스틱 설치 기능을 더해 활용성을 높인다. 그러나 긴 ADV 대화와 느린 초반 전개, 비교적 평범한 전술·전투 목표, 휴대용 화면의 흐릿한 전투 화질 및 일부 연출 스킵의 제약으로 7.5점. 등장인물 중심의 서사형 SRPG를 선호하는 플레이어에게 추천하고 전략적 혁신이나 빠른 템포를 기대한다면 신중히 선택할 작품. 공개 공식 자료와 PSP판 리뷰에 근거한 편집 평가이며 직접 플레이하지 않았고 한글패치 유무를 점수에 반영하지 않음.",
+      "pros": [
+        "마왕 아로운과 게일족 동료들의 관계와 성장, 우정·갈등을 풀보이스 이벤트로 세밀하게 묘사해 왕도 판타지 전개의 몰입감을 높인다.",
+        "속성의 유불리와 에레먼트 사이클, 유닛 배치·스킬·용병 육성을 활용하는 이해하기 쉬운 턴제 전투가 캐릭터 중심 이야기를 뒷받침한다.",
+        "PSP판의 추가 DEVIL 난이도와 전투 평가·보상 시스템은 승리 방식의 효율을 따져보게 하며, 이벤트 CG를 메모리스틱에 저장할 수도 있다.",
+        "PS3판의 3D 전투를 2D로 재구성해 휴대성을 확보했고 메모리스틱 설치를 통한 화면 전환 단축과 대화 자동 진행을 제공한다."
+      ],
+      "cons": [
+        "대화·이벤트 비중이 상당히 높고 도입부 전개가 느려, 빠르게 전투를 이어가는 정통 SRPG를 원하는 플레이어에게 답답할 수 있다.",
+        "전투의 기본 구조와 미션 목표는 비교적 전통적이며 반복적인 전장·육성 과정에서 고유한 전략적 혁신을 기대하기 어렵다.",
+        "PSP의 작은 화면과 낮은 해상도 때문에 2D로 바뀐 전투 화면 일부가 흐릿하고 PS3판보다 세부 표현이 약하다.",
+        "일부 전투 연출의 스킵이 불편하다는 완료자 후기가 있고, 하렘식 캐릭터 관계와 전형적인 판타지 연출은 취향을 탈 수 있다."
+      ],
+      "sources": [
+        {
+          "label": "AQUAPLUS 공식 - PSP판 제품·발매일·일반판 ULJM-05661",
+          "url": "https://aquaplus.jp/psp_ttt/product.html"
+        },
+        {
+          "label": "AQUAPLUS 공식 - PSP판 전투의 속성 사이클·스킬·용병 등 시스템",
+          "url": "https://aquaplus.jp/psp_ttt/system.html"
+        },
+        {
+          "label": "애니메이트 타임즈 - PSP판 공식 발표: DEVIL·전투 평가·CG 저장·메모리스틱 설치",
+          "url": "https://www.animatetimes.com/news/details.php?id=1287367372"
+        },
+        {
+          "label": "MAGIC兄貴 - 일본 PSP판·PS3판 직접 비교 리뷰: 2D 전투·대화·평가",
+          "url": "https://ameblo.jp/minimagic/entry-10725447281.html"
+        },
+        {
+          "label": "makapy - PSP판 클리어 후기: 전투 시스템·육성·연출·서사",
+          "url": "https://blog.makapy.com/archives/2610"
+        },
+        {
+          "label": "楽天ブックス - PSP판 일반판 구매자 후기: 전투 조작과 하렘식 서사",
+          "url": "https://books.rakuten.co.jp/rb/6736300/"
+        },
+        {
+          "label": "LaunchBox - 일본 PSP 일반판 Box - Front (500×866)",
+          "url": "https://gamesdb.launchbox-app.com/games/images/122051-tears-to-tiara-kakan-no-daichi-portable"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/5361",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가는 일본 PSP 『ティアーズ・トゥ・ティアラ 花冠の大地 PORTABLE』 2010-11-25 일반판(ULJM-05661)을 대상으로 하며 초회 한정판(ULJM-05693), 2013년 다운로드판, PS3 원작 및 PSP 외전 『아발론의 수수께끼 PORTABLE』과 구분함. 제공된 한글패치가 어떤 판본·리비전에 적용되는지, 번역 범위·잔여 일본어·설치 방법·호환성과 배포 버전은 확인되지 않음. 사용자 제공 URL의 열람·미리보기·다운로드·리다이렉트 확인은 하지 않았고 PSP 실기 및 에뮬레이터 실행 검증도 수행하지 않음."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/3d7a04d1-5b49-4397-8824-81aa3cf32fac.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/122051-tears-to-tiara-kakan-no-daichi-portable",
+        "platform": "psp",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
