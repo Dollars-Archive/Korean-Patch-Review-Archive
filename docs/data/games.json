@@ -6074,6 +6074,77 @@
       },
       "reviewedAt": "2026-10-25",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "drag-on-dragoon-ps2",
+      "title": "드래그 온 드라군",
+      "original": "ドラッグ オン ドラグーン",
+      "platforms": [
+        "ps2"
+      ],
+      "genres": [
+        "액션 RPG",
+        "다크 판타지",
+        "핵 앤 슬래시"
+      ],
+      "score": 7,
+      "summary": "2003년 9월 11일 발매된 일본 PS2 초판 『ドラッグ オン ドラグーン』(SLPM-65266) 기준. 전쟁·복수·인물의 집착을 다룬 타협 없는 어두운 서사, 다중 엔딩과 무기별 배경 이야기, 드래곤 공중전·지상 난전의 결합과 불길한 음악이 강렬한 개성을 만든다. 그러나 적과 스테이지의 반복, 단순한 공격 패턴, 불편한 카메라 및 모든 결말을 위한 과중한 무기 수집은 액션 RPG로서 큰 약점이므로 7.0점. 독특하고 불편한 다크 판타지 서사를 원하는 사람에게 조건부 추천하며 정교하고 시원한 무쌍형 액션을 기대한다면 비추천. 공개 자료 기반 편집 평가이며 직접 플레이한 점수가 아니고 한글패치 여부는 가산하지 않음.",
+      "pros": [
+        "영웅담을 비틀어 복수·폭력·광기를 그리는 불안한 다크 판타지와 비극적인 인물 관계가 당시 액션 RPG와 차별화된다.",
+        "지상 전투와 드래곤 등에 타는 저공·공중 슈팅을 오가는 구성, 용과 인간의 계약을 시스템·서사 양쪽에서 경험하게 하는 독특함이 있다.",
+        "다섯 개의 엔딩으로 갈라지는 전개와 다수 무기에 얽힌 이야기, 무기·드래곤 성장 및 추가 미션이 수집과 재회차 동기를 제공한다.",
+        "불협화음에 가까운 실험적인 음악과 인상적인 CG 영상이 이야기의 불길한 분위기를 강화한다."
+      ],
+      "cons": [
+        "지상전의 기본 콤보·피니시·마법 운용이 단순하고 같은 병사 무리를 장시간 처치해야 해 공격 버튼 연타 중심의 반복이 심하다.",
+        "카메라 재정렬과 목표 추적이 불편하고 일부 대규모 전투의 타격 피드백 및 공중전 조작이 세련되지 못해 액션의 손맛이 떨어진다.",
+        "광활하지만 비슷비슷한 지형과 적 모델 재사용이 많아 전장의 다양성이 낮고 미션을 반복할수록 피로하다.",
+        "모든 엔딩을 확인하려면 숨겨진 무기를 광범위하게 수집·육성해야 하며 특정 조건이 노멀 난이도에 묶여 공략 의존이 커질 수 있다."
+      ],
+      "sources": [
+        {
+          "label": "스퀘어에닉스 공식 - 2003년 시리즈 첫 작품 발매 확인",
+          "url": "https://www.jp.square-enix.com/company/ja/news/2013/html/a2bf0399d7abd99eaad08f9d5829595733e6ef8b.html"
+        },
+        {
+          "label": "GAME Watch - PS2 초판 게임 시스템 지상·저공·공중 모드(2003)",
+          "url": "https://game.watch.impress.co.jp/docs/20030627/dod.htm"
+        },
+        {
+          "label": "스루가야 - 일본 PS2 초판 제품번호 SLPM-65266 및 발매일",
+          "url": "https://www.suruga-ya.jp/product/detail/144001373"
+        },
+        {
+          "label": "RPGFan - Stephen Harris PS2 리뷰(2004): 서사·전투·카메라·엔딩",
+          "url": "https://www.rpgfan.com/review/drakengard/"
+        },
+        {
+          "label": "GameSpot - Greg Kasavin PS2 리뷰(2004): 액션 반복·음악·드래곤전",
+          "url": "https://www.gamespot.com/reviews/drakengard-review/1900-6089873/"
+        },
+        {
+          "label": "Joko - 일본 PS2 초기 이용자 리뷰: 무기·분기·전투 단조로움",
+          "url": "https://www.joko.jp/ps2/review/ti696-26.html"
+        },
+        {
+          "label": "LaunchBox - PS2 일본판 Box - Front 확인",
+          "url": "https://gamesdb.launchbox-app.com/games/images/6932-drakengard"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/5515",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 사용자 제공 패치 제작자 표기: 퍼스트버튼(별도 검증하지 않음). 평가는 일본 PS2 초판 『ドラッグ オン ドラグーン』(2003-09-11, SLPM-65266) 대상이며 Ultimate Hits 염가판(SLPM-55080), 북미판 『Drakengard』 등과 구별함. 사용자 제공 링크에 담긴 실제 패치의 지원 품번·리비전, 번역 범위·미번역 요소·적용 절차·호환성은 미확인. 설치·실기·에뮬레이터 직접 검증하지 않음."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com/r2_c8112a23-a8ad-41ed-acf2-1ad56a10c573.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/6932-drakengard",
+        "platform": "ps2",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT"
     }
   ]
 }
