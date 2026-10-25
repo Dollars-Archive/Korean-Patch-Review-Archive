@@ -10051,6 +10051,66 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "murder-on-the-eurasia-express-ps1",
+      "title": "유라시아 익스프레스 살인사건",
+      "original": "ユーラシアエクスプレス殺人事件",
+      "platforms": [
+        "ps1"
+      ],
+      "genres": [
+        "ADV",
+        "미스터리"
+      ],
+      "score": 6.2,
+      "summary": "대륙 횡단 열차에서 발생한 살인사건을 제한 시간에 조사하는 1998년 PS1 실사 미스터리 ADV. 유명 배우들이 연기한 풀보이스 영상과 폐쇄 공간의 분위기, 최종 추리 장면은 매력적이지만 반복 심문·느린 이동·조건 플래그 때문에 추리 게임으로서의 리듬이 약해 6.2점. 1990년대 일본 실사 ADV와 출연 배우에 관심 있는 사람에게 추천한다. 공개 자료 기반 편집 평가이며 직접 플레이한 점수는 아니다.",
+      "pros": [
+        "후카다 쿄코·카토 아이 등 당시 인기 배우가 등장하는 실사 영상과 풀보이스가 시대적 개성과 현장감을 준다.",
+        "열차 내에서 다음 정차역 전까지 사건을 풀어야 하는 제한 시간이 수사에 긴장감을 더한다.",
+        "마지막 추리 과정과 인물별 이벤트·수집 요소가 단순한 단선형 이야기 이상의 즐길 거리를 제공한다."
+      ],
+      "cons": [
+        "동일 인물에게 여러 차례 질문하고 조건을 확인하는 반복 심문이 많아 사건을 추적하는 과정이 단조롭다.",
+        "열차 내부 이동과 대화 영상 재생이 느리고 정보를 회수하는 데 시간이 많이 든다.",
+        "숨겨진 대화 플래그는 까다로운 반면 사건의 추리 구조는 다소 단순해, 정통 본격 미스터리를 기대하면 아쉽다."
+      ],
+      "sources": [
+        {
+          "label": "스퀘어에닉스 공식 PlayStation 게임 목록",
+          "url": "https://www.jp.square-enix.com/game/ps/"
+        },
+        {
+          "label": "LaunchBox - PS1판 기본 정보 및 일본 표지",
+          "url": "https://gamesdb.launchbox-app.com/games/details/108229-murder-on-the-eurasia-express"
+        },
+        {
+          "label": "へっぽこうるたろー - 2021년 플레이 리뷰",
+          "url": "https://teru-gamer.hatenablog.com/entry/2021/03/06/000000"
+        },
+        {
+          "label": "ゲムアニパ日記 - 2026년 플레이 리뷰",
+          "url": "https://blog.livedoor.jp/spleen14/archives/2678802.html"
+        },
+        {
+          "label": "ピコピコ大百科 - 이용자 평가",
+          "url": "https://www.gavas.jp/products/detail.php?product_id=7135"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/5054",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. PS1 일본판 대상 번역 범위, 적용 방식, 실기 동작도 미검증."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/77d7f725-8af5-4abc-b8a2-ca54be14d6e1.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/details/108229-murder-on-the-eurasia-express",
+        "platform": "ps1",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
