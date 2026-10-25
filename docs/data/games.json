@@ -5222,6 +5222,72 @@
       },
       "reviewedAt": "2026-10-25",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "shaman-king-master-of-spirits-gba",
+      "title": "샤먼킹: 마스터 오브 스피릿츠",
+      "original": "Shaman King: Master of Spirits",
+      "platforms": [
+        "gba"
+      ],
+      "genres": [
+        "액션 어드벤처",
+        "탐색형 액션"
+      ],
+      "score": 7.2,
+      "summary": "2004년 11월 9일 코나미가 북미 Game Boy Advance로 출시한 『Shaman King: Master of Spirits』(AGB-BSOE-USA). 일본판 동명 게임이 아니라 북미·유럽용으로 개발된 횡스크롤 탐색형 액션 게임으로, 아사쿠라 요우가 악한 주술사의 마신 부활 계획을 저지하는 오리지널 모험을 그린다. 수집한 수호령을 L/R 버튼에 배치해 전투용 공격과 장애물 제거·새 통로 발견 등에 사용하는 '스피릿 컨트롤'이 장점이고, 선명한 만화풍 캐릭터 애니메이션과 음악도 분위기를 살린다. 그러나 한 번 지난 스테이지를 일일이 다시 횡단해야 하는 불친절한 월드맵과 많은 백트래킹, 기본 검 공격의 단조로움, 빈약한 적 구성, 회복 자원 관리와 짧은 플레이 분량은 아쉽다. 7.2점. 샤먼킹 원작 팬이거나 캐슬바니아풍의 간단한 정령 조합·탐험 액션을 좋아한다면 추천하지만 정교한 지도·전투·긴 플레이를 기대하면 실망할 수 있다. 코나미 공식 발표를 인용한 Nintendo World Report 기사, Nintendo Power·eToychest 리뷰 소개, GBA판 이용자 리뷰를 토대로 작성한 자료 기반 편집 평가이며 직접 플레이한 결과는 아니다.",
+      "pros": [
+        "아미다마루 등 여러 수호령을 수집해 양쪽 어깨 버튼에 장착하고 적을 공격하거나 바위를 옮기고 특정 장벽을 돌파하는 등 정령에 따라 전투와 탐험 방법이 달라지는 스피릿 컨트롤이 핵심 재미를 제공한다.",
+        "새 정령의 능력으로 이전에 막혀 있던 갈림길과 비밀 통로를 여는 메트로배니아식 탐험 구조가 진행에 따라 선택지를 늘리고 수집 동기를 부여한다.",
+        "요우와 동료의 원작풍 도트 캐릭터와 부드러운 동작, 영적·괴기적인 배경 분위기와 음악이 GBA 화면에서 애니메이션의 느낌을 비교적 잘 구현한다.",
+        "일반 검 공격과 점프·정령 호출의 조작이 직관적이며, 정령을 골라 조합하는 즐거움이 액션 초보자와 원작 팬의 접근성을 높인다."
+      ],
+      "cons": [
+        "월드맵에서 이미 클리어한 장소로 바로 이동하기 어렵고 스테이지를 거꾸로 여러 차례 통과해야 하는 백트래킹이 심해, 신규 정령을 찾으러 돌아갈 때 시간이 불필요하게 소비된다.",
+        "기본 검 공격은 전방의 제한된 모션에 의존하고 적 종류와 배치가 자주 반복되므로 다양한 정령을 얻기 전까지 전투가 단순하게 느껴진다.",
+        "체력을 보충할 수 있는 음식과 돈이 넉넉하지 않은 데다 상자·지형 퍼즐을 반복 해결해야 하므로 길을 헤매면 자원 관리와 이동 모두 답답해질 수 있다.",
+        "이야기가 짧고 주요 전개가 비교적 단순하며, 숨겨진 정령 수집 외에는 장기간 즐길 부가 콘텐츠와 재플레이 동기가 부족하다."
+      ],
+      "sources": [
+        {
+          "label": "Konami 공식 보도자료 전재: Nintendo World Report - 북미 GBA판 2004-11-09 발매 및 오리지널 스토리",
+          "url": "https://www.nintendoworldreport.com/news/10092/konami-ships-shaman-king-games"
+        },
+        {
+          "label": "GameFAQs - 북미·유럽 GBA판 발매 지역·게임 코드 (AGB-BSOE-USA)",
+          "url": "https://gamefaqs.gamespot.com/gba/919443-shaman-king-master-of-spirits/data"
+        },
+        {
+          "label": "Metacritic - GBA판 Nintendo Power·eToychest·Play Magazine의 당대 평가",
+          "url": "https://www.metacritic.com/game/shaman-king-master-of-spirits/"
+        },
+        {
+          "label": "GameFAQs - GBA판 이용자 리뷰 'Lift your spirits'(2005-09-17), 정령 조합·지도·백트래킹",
+          "url": "https://gamefaqs.gamespot.com/gba/919443-shaman-king-master-of-spirits/reviews/92173"
+        },
+        {
+          "label": "GameFAQs - GBA판 이용자 리뷰 'Strictly for fans of the animation series'(2004-11-29)",
+          "url": "https://gamefaqs.gamespot.com/gba/919443-shaman-king-master-of-spirits/reviews/81836"
+        },
+        {
+          "label": "LaunchBox - GBA 북미판 원본 앞표지 (Box - Front, North America)",
+          "url": "https://gamesdb.launchbox-app.com/games/images/3505-shonen-jumps-shaman-king-master-of-spirits"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/5763",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 제작자 표기: 레갤러(사용자 제공, 별도 검증하지 않음). 평가 대상은 2004-11-09 발매 북미 GBA 『Shaman King: Master of Spirits』(AGB-BSOE-USA)로, 2005년 유럽판(AGB-BSOP-EUR), 동명 후속작 『Master of Spirits 2』 및 별개 일본 내수용 『Shaman King』 GBA 시리즈와 구분한다. 제공 패치 주소의 실제 지원 지역·카트리지 리비전, 메뉴/대사/튜토리얼의 한글화 범위·미번역, 배포 상태·패치 버전·적용 방법·실기/에뮬레이터 호환성은 확인하지 않았으며 링크에 접속하거나 설치·구동 시험을 하지 않았다."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/34eb585c-9596-470c-ae3f-929556e8f16d.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/3505-shonen-jumps-shaman-king-master-of-spirits",
+        "platform": "gba",
+        "type": "Box - Front",
+        "region": "North America"
+      }
     }
   ]
 }
