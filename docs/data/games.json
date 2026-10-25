@@ -5344,6 +5344,73 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "durarara-3way-standoff-alley-psp",
+      "title": "듀라라라!! 3way standoff -alley-",
+      "original": "デュラララ!! 3way standoff -alley-",
+      "platforms": [
+        "psp"
+      ],
+      "genres": [
+        "ADV",
+        "미스터리",
+        "캐릭터 어드벤처"
+      ],
+      "score": 7.1,
+      "summary": "2011년 8월 25일 일본 PSP 통상판(ULJS-00400) 『デュラララ!! 3way standoff -alley-』에 대한 평가. 원작 소설·애니메이션 속 이케부쿠로에 전학 온 게임 오리지널 주인공 미요시 요시무네가 류가미네 미카도, 키다 마사오미, 소노하라 안리, 오리하라 이자야, 헤이와지마 시즈오 등 여러 인물과 교류하면서 도시의 사건에 접근하는 캐릭터 중심 어드벤처다. 2010년 원작 『3way standoff』의 3개 루트(달러즈·황건적·죄가)를 모두 포함하고 『臨戦編』·『雄猛編』·『愚麗威編』의 3개 if 루트, 추가 CG·엔딩·우정 이벤트·채팅·휴대전화 연출로 분량을 두 배 이상 확대한다. 원작 성우 연기와 캐릭터 교류는 매력적이지만 맵 이동·대화의 반복, 단순한 분기와 얕은 게임성, 다소 정적인 연출이 한계다. 7.1/10. 듀라라라 세계관과 캐릭터를 좋아하는 팬에게 추천하며 처음 입문한다면 초판보다 이 확장판이 적합하다. 공식 개발사·배급사 자료와 당시 PSP 전문 리뷰를 바탕으로 한 자료 기반 편집 점수이며 직접 플레이하지 않았고 한글패치 존재 여부는 가산하지 않았다. 2014년 PS Vita판 『-alley- V』와 구분한다.",
+      "pros": [
+        "2010년 원작의 달러즈·황건적·죄가 3개 루트를 모두 수록하고 이자야·시즈오 관련 사건 및 『愚麗威編』 3개 신루트를 더해 총 6개 이야기를 한 번에 볼 수 있다.",
+        "일반 루트에도 새 장면을 추가하고 신·프렌드십 이벤트에서 특정 캐릭터의 심경과 관계를 깊이 다뤄 원작 인물 팬서비스가 풍부하다.",
+        "게임 전용 주인공 미요시 요시무네가 애니메이션의 미카도·안리·셀티·이자야·시즈오 등과 자연스럽게 엮이며 이케부쿠로의 다층적인 군상극 분위기를 살린다.",
+        "휴대전화·채팅·도시 지도와 성우진의 연기를 활용한 연출, 진입할 루트 정보가 보이는 분기 안내, 후일담과 기존작 세이브 연계가 팬에게 편리하다."
+      ],
+      "cons": [
+        "지역을 이동하며 특정 인물을 만나고 대화를 거듭하는 탐색 루프는 반복적이고, 친밀도를 위한 행동의 전략성이 얕다.",
+        "기본 구조가 일반적인 텍스트 중심 커맨드 ADV라 추리·전투 등 적극적인 플레이 비중이 낮아 원작을 모르는 사람에게 심심할 수 있다.",
+        "대사와 원작 캐릭터의 매력에 비해 이벤트 장면의 시각적 연출이 평면적이고 중요한 사건의 긴장감 표현이 부족하다는 평이 있다.",
+        "분기가 비교적 명확하고 개별 루트가 짧게 정리되는 편이며 확장판이라도 원작 세계관을 미리 알지 못하면 인물 관계나 농담을 충분히 즐기기 어렵다."
+      ],
+      "sources": [
+        {
+          "label": "KADOKAWA 공식 PSP판 제품 정보·발매일·개발사",
+          "url": "https://www.kadokawa.co.jp/product/game1635/"
+        },
+        {
+          "label": "개발사 Tenda Games 공식 작품 소개: 2011년 판본, 새 3개 루트, 분량 2배",
+          "url": "https://tendagames.co.jp/works/%E3%83%87%E3%83%A5%E3%83%A9%E3%83%A9%E3%83%A9-3way-standoff-alley/"
+        },
+        {
+          "label": "패미통 일본 PSP판 전문 리뷰 4건(주간 패미통 1185호): 전개·루트·연출",
+          "url": "https://www.famitsu.com/game/title/20433/reviews"
+        },
+        {
+          "label": "4Gamer 2011-06-22 PSP판 신루트·if 엔딩·신 프렌드십 시스템 상세",
+          "url": "https://www.4gamer.net/games/135/G013560/20110622059/"
+        },
+        {
+          "label": "GameFAQs 일본 PSP 통상판 ULJS-00400, 한정판 ULJS-00399 구별",
+          "url": "https://gamefaqs.gamespot.com/psp/626627-durarara-3way-standoff-alley/data"
+        },
+        {
+          "label": "LaunchBox Sony PSP 일본 통상판 Box - Front (364x640)",
+          "url": "https://gamesdb.launchbox-app.com/games/images/120990-durarara-3way-standoff-alley"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/5629",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2011년 일본 PSP 통상판 『デュラララ!! 3way standoff -alley-』(ULJS-00400)이며 2010년 오리지널 『3way standoff』(ULJS-00318), 2011년 한정판(ULJS-00399), 2013년 Dengeki SP 염가판(ULJS-00572), 2014년 PS Vita판 『-alley- V』와 구별한다. 제공된 패치가 어느 UMD/PSP 다운로드판·업데이트 리비전에 대응하는지, 추가된 세 신규 루트·구작 루트 및 신규 이벤트의 번역 범위, 미번역, 설치 방법과 동작·배포 상태·버전은 확인하지 않았다. 사용자 제공 주소는 GET·HEAD·미리보기·리다이렉트·다운로드를 하지 않았으며 패치 설치·실기·에뮬레이터 시험도 하지 않았다."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com/1a1f7270-4be0-4b00-9525-640e6a04c077.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/120990-durarara-3way-standoff-alley",
+        "platform": "psp",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT"
     }
   ]
 }
