@@ -10697,6 +10697,67 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "knights-in-the-nightmare-ds",
+      "title": "나이츠 인 더 나이트메어",
+      "original": "ナイツ・イン・ザ・ナイトメア",
+      "platforms": [
+        "ds"
+      ],
+      "genres": [
+        "SRPG",
+        "탄막 액션",
+        "전략"
+      ],
+      "score": 8.4,
+      "summary": "2008년 9월 25일 일본 발매된 닌텐도 DS 일반판 《ナイツ・イン・ザ・ナイトメア》(NTR-P-CKNJ). 터치펜으로 위스프를 움직여 탄막을 피하며 병과와 공격 위치를 지정하는 '액티브 & 택티컬 RPG'로, 전략·슈팅·퍼즐이 유기적으로 결합한 독창적 전투와 비선형으로 드러나는 비극적 다크 판타지, 섬세한 일러스트와 음악이 큰 강점이다. 다만 방대한 학습량과 복잡한 유닛·무기 관리, 작은 DS 화면의 과밀한 정보는 진입 장벽이다. 고유한 시스템을 익히며 반복 연구하는 전략 RPG 팬에게 8.4점으로 추천한다. 스팅·닌텐도 공식 정보와 DS판 리뷰에 근거한 자료 기반 편집 평가로, 직접 플레이한 결과는 아니다.",
+      "pros": [
+        "위스프를 터치펜으로 움직여 적 탄막을 피하면서 기사에게 공격을 지시하는 실시간 슈팅·전술 RPG의 결합이 매우 독창적이고 숙련 보상이 크다.",
+        "병과별 공격 범위, 무기와 속성, 위치·제한 턴을 함께 설계하고 기사를 영입·운용하는 구조가 높은 전략성과 재도전 가치를 제공한다.",
+        "단편적인 과거 사건을 차츰 맞추는 비선형 서사, 어두운 성채의 배경과 섬세한 캐릭터 일러스트, 강렬한 오케스트라풍 음악이 몰입을 돕는다."
+      ],
+      "cons": [
+        "조작·장비·능력치·전투 조건 등 학습량이 방대하며 긴 튜토리얼을 거쳐도 규칙에 익숙해지는 데 시간이 걸린다.",
+        "DS의 작은 화면에 다양한 수치와 아이콘, 세밀한 문자, 적의 탄막이 겹쳐 가독성이 떨어지고 시각적 피로가 크다.",
+        "한정된 기사 생명력과 무기 내구도 관리가 부담스럽고, 전투 사이의 짧은 과거 회상 장면 및 비선형 설명 때문에 이야기 흐름을 따라가기 까다로울 수 있다."
+      ],
+      "sources": [
+        {
+          "label": "닌텐도 일본 공식 - 2008 DS 발매·전투 시스템 설명",
+          "url": "https://www.nintendo.co.jp/ds/software/cknj/index.html"
+        },
+        {
+          "label": "STING 공식 - 원작 DS 버전 제품 정보",
+          "url": "https://www.sting.co.jp/game/kinghtsinthenightmare-ds/"
+        },
+        {
+          "label": "패미통 DS판 공식 리뷰 - 7·8·9·8, 총 32/40",
+          "url": "https://www.famitsu.com/game/title/3002/reviews"
+        },
+        {
+          "label": "Nintendo Life - DS판 리뷰 (8/10)",
+          "url": "https://www.nintendolife.com/reviews/2009/06/knights_in_the_nightmare_ds"
+        },
+        {
+          "label": "LaunchBox - 닌텐도 DS 일본판 일반판 Box - Front",
+          "url": "https://gamesdb.launchbox-app.com/games/images/10843-knights-in-the-nightmare"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/4981",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 대상 게임은 2008년 일본 닌텐도 DS 일반판 《ナイツ・イン・ザ・ナイトメア》(NTR-P-CKNJ)이며 PSP 이식판과 구별한다. 사용자 제공 링크의 패치 대응 지역·리비전과 번역 범위(스토리·메뉴·전투 UI·튜토리얼)·미번역 요소·적용 절차, NDS 실기/에뮬레이터 작동 여부는 검증하지 않았다."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/7c3062c5-a246-47b8-9b7c-4775fe289ab8.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/10843-knights-in-the-nightmare",
+        "platform": "ds",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
