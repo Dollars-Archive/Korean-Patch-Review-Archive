@@ -2583,6 +2583,77 @@
       },
       "reviewedAt": "2026-10-25",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "occultic-nine-psvita",
+      "title": "오컬틱 나인",
+      "original": "OCCULTIC;NINE (オカルティック・ナイン)",
+      "platforms": [
+        "psvita"
+      ],
+      "genres": [
+        "ADV",
+        "VN"
+      ],
+      "score": 6.5,
+      "summary": "2017년 11월 9일 출시된 일본 PS Vita 일반판(VLJM-35458)의 초상과학 미스터리 ADV. 오컬트 관련 블로그 '키리키리바사라'를 운영하는 가몬 유타가 사건에 휘말리면서 벌어지는 이야기를 12화 구성으로 읽는다. 대화 중 수집한 키워드로 블로그 기사를 만드는 '아피 트리거'와 라디오 조작, 강렬한 음성 연기와 도시괴담의 서스펜스가 매력적이다. 다만 애니메이션과 상당 부분 겹치는 이야기, 분기별 정보·결말의 소화불량, 일부 반복 이벤트, Vita의 작은 글씨와 직관적이지 않은 분기·스킵 때문에 6.5/10. 분위기 중심의 초상과학 미스터리와 블로그 형식의 VN을 좋아하되, 애니메이션과 차별화된 풍부한 후일담을 기대하지 않는 독자에게 조건부 추천한다. 패미통과 출시 당시 게임 리뷰·PS Vita 사용자 평가를 바탕으로 한 자료 기반 편집 평가이며 직접 플레이하거나 패치를 설치하지 않았다.",
+      "pros": [
+        "귀신·도시전설·인터넷 괴담에 과학적인 질문을 접목한 이야기 전개로 중반부터 스릴러의 긴장감과 의심을 효과적으로 키운다.",
+        "일반 선택지 대신 대화 중 단어를 수집해 블로그 게시물에 활용하는 '아피/블로그 트리거'로 이야기 흐름과 일부 엔딩이 갈리는 장르에 어울리는 시스템이 신선하다.",
+        "가몬 유타와 주변 인물의 빠른 대화와 개성적인 음성 연기가 훌륭하며, 역동적인 캐릭터 배치·컷인·시각적인 UI가 정적인 VN 장면을 살린다.",
+        "라디오의 주파수를 맞추는 스카이 센서, 블로그 댓글과 인터넷상의 소문 등 오컬트와 현대 온라인 문화를 엮은 연출이 작품만의 정체성을 만든다."
+      ],
+      "cons": [
+        "애니메이션의 주요 사건을 상당 부분 재현하는 데 그쳐 이미 영상을 본 사람에게 새로운 정보나 확실한 서사적 완결감이 부족하다는 일본 이용자·리뷰어의 지적이 일치한다.",
+        "블로그용 단어를 고르는 조건과 각 분기에 영향을 주는 정확한 기준이 불투명하고, 다회차에서는 노란 키워드를 다시 확인해야 해서 반복·회수 편의성이 낮다.",
+        "PS Vita 화면의 글씨와 메시지창이 작고 텍스트 위치·디자인이 들쭉날쭉해 휴대기기 장시간 감상에서 가독성이 떨어진다는 해당 판본 이용자 지적이 있다.",
+        "개별 엔딩에서 독자적인 내용이 크게 확장되지 않고 유사한 사건 흐름이 반복되어 새로운 루트를 끝까지 읽는 보상이 기대보다 작다.",
+        "과하게 빠른 말투의 주인공과 초반의 긴 소문·인물 소개는 취향을 타며, 일부 캐릭터의 사연과 사건의 의문이 충분히 다뤄지지 않는다고 평가된다."
+      ],
+      "sources": [
+        {
+          "label": "OCCULTIC;NINE 공식 사이트 - 2017-11-09 출시·PS Vita 제품 정보",
+          "url": "https://occultic9.jp/gamedetail/"
+        },
+        {
+          "label": "GameFAQs - 일본 PS Vita 일반판 VLJM-35458 발매일 및 바코드",
+          "url": "https://gamefaqs.gamespot.com/vita/210634-occulticnine/data"
+        },
+        {
+          "label": "패미통 1509호 평점 정리 - PS Vita판 8/8/8/9 (33/40)",
+          "url": "https://www.gematsu.com/2017/10/famitsu-review-scores-issue-1509"
+        },
+        {
+          "label": "KENTWORLD - 게임 원판 PS4/PS Vita/Xbox One 심층 리뷰·분기 장단점",
+          "url": "https://kentworld-blog.com/archives/occulticnine-review.html"
+        },
+        {
+          "label": "가격.com - PS Vita 일반판 사용자 리뷰(글씨 크기·분기 및 반복 편의성)",
+          "url": "https://review.kakaku.com/review/K0000994991/"
+        },
+        {
+          "label": "게임 전문 리뷰 '積みゲーはかく語りき' - PS4 공통 시나리오 및 음성·결말 평가",
+          "url": "https://tsumige.net/archives/3078"
+        },
+        {
+          "label": "LaunchBox - 일본 PS Vita 앞표지 Box - Front (Japan)",
+          "url": "https://gamesdb.launchbox-app.com/games/images/134440-occulticnine"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/6467",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 게임 평가 대상은 일본 PS Vita 일반판 《OCCULTIC;NINE》(VLJM-35458, 2017-11-09)이다. 사용자 제공 링크의 실제 지원 기종·디스크 또는 디지털 리비전·번역 범위·미번역·적용 방법·실기/에뮬레이터 구동 여부를 확인하지 않았으며, PS4·Xbox One·Switch판과의 패치 호환성을 추측하지 않는다."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com/a92e973a-2ac4-427b-9098-cfb8c498c37b.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/134440-occulticnine",
+        "platform": "psvita",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT"
     }
   ]
 }
