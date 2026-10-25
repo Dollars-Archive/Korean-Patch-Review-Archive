@@ -2521,6 +2521,68 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "akai-ito-ds",
+      "title": "붉은 실 DS",
+      "original": "赤い糸 DS",
+      "platforms": [
+        "ds"
+      ],
+      "genres": [
+        "연애 ADV",
+        "비주얼 노벨"
+      ],
+      "score": 6.2,
+      "summary": "2008년 12월 25일 알케미스트가 발매한 일본 닌텐도 DS판(NTR-CIAJ-JPN) 연애 어드벤처 노벨. 휴대전화 소설 『赤い糸』를 원작으로 중학생에서 고등학생으로 성장하는 주인공 메이의 연애·우정·좌절을 따라가며, 원작 경로 외에 4개의 추가 엔딩을 제공한다. DS를 가로로 돌려 책처럼 읽는 구성과 주인공을 제외한 풀보이스 성우 연기가 장점이나 자극적 사건이 연이어 등장하는 멜로드라마, 단순한 시각 연출과 원작을 크게 따르는 선형적 이야기는 단점이다. 드라마틱한 청춘 연애 소설과 성우 연기를 선호하는 이용자에게 조건부 추천한다. 2009년 후속작 『赤い糸 destiny DS』와 별개인 2008년 초대작으로, 공식 자료와 이용자 평가에 기반한 편집 점수이며 직접 플레이하지 않았다.",
+      "pros": [
+        "후쿠야마 준, 모리타 마사카즈, 나미카와 다이스케 등 폭넓은 성우진이 주인공 메이를 제외한 등장인물에게 음성을 제공해 텍스트 중심의 연애담에 생동감을 더한다.",
+        "원작자 메이가 감수한 소설의 주요 이야기와 더불어 DS판 고유의 새로운 엔딩 4개가 추가되어 원작 독자도 다른 운명을 살펴볼 수 있다.",
+        "DS를 90도 돌려 책처럼 잡고 한쪽에는 인물, 다른 쪽에는 본문을 표시하는 구성이 휴대용 소설 감상에 알맞다.",
+        "중학교 2학년부터 고등학교 1학년까지 이어지는 우정·첫사랑·가족과 인간관계의 변화를 청춘 멜로드라마의 감정선으로 담았다."
+      ],
+      "cons": [
+        "이별과 엇갈린 감정, 연속적인 사건에 크게 의존하는 전개가 작위적·자극적으로 느껴질 수 있어 사실적이고 담백한 연애 서사를 기대하면 맞지 않는다.",
+        "일러스트가 세밀한 캐릭터 CG보다 단순한 팝 스타일을 활용하고 주된 상호작용이 문장 읽기와 선택지 고르기에 제한되어 비주얼 노벨 연출과 게임 시스템의 깊이가 얕다.",
+        "추가 엔딩은 있지만 소설 원작의 전개를 대부분 따라가므로 폭넓은 연애 시뮬레이션이나 독립적인 여러 주인공별 루트를 기대하기 어렵다.",
+        "초대작은 메이의 고등학교 1학년 무렵까지만 다루며 이후 이야기는 별도 후속작 『赤い糸 destiny DS』에 이어져 단일 작품의 완결감이 떨어질 수 있다."
+      ],
+      "sources": [
+        {
+          "label": "닌텐도 일본 공식 『赤い糸 DS』 발매·시나리오·추가 엔딩·음성 안내",
+          "url": "https://www.nintendo.co.jp/ds/software/ciaj/index.html"
+        },
+        {
+          "label": "GAME Watch 2008-10-14 일본 DS판 시스템·성우·원작 감수 소개",
+          "url": "https://game.watch.impress.co.jp/docs/20081014/akai.htm"
+        },
+        {
+          "label": "Bangumi - 2008년 『赤い糸DS』 이용자 평가",
+          "url": "https://bangumi.tv/game/tag/DS?page=5&sort=collects"
+        },
+        {
+          "label": "여성향 게임 위키 - 『赤い糸 DS』 장르·음성·후속작 구별",
+          "url": "https://w.atwiki.jp/girlgame/pages/2559.html"
+        },
+        {
+          "label": "LaunchBox - Nintendo DS 일본판 실제 Box - Front",
+          "url": "https://gamesdb.launchbox-app.com/games/images/101422-akai-ito-ds"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/6469",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 2008년 12월 25일 발매된 일본 DS 초대작 『赤い糸 DS』(NTR-CIAJ-JPN) 기준으로 등록하며, 2009년 후속작 『赤い糸 destiny DS』는 제외한다. 제공 링크의 대상 ROM/카트리지 리비전, 번역 범위, 배포 상태와 적용 방법은 확인하지 않았다. 설치·실기·에뮬레이터 적용 테스트도 하지 않았다."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com/8e6c97c8-2bc2-4a2b-aae7-bd20cbd0fc3f.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/101422-akai-ito-ds",
+        "platform": "ds",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT"
     }
   ]
 }
