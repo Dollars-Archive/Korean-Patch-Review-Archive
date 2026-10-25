@@ -7040,6 +7040,70 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "sound-novel-evolution-2-kamaitachi-no-yoru-tokubetsu-hen-ps1",
+      "title": "카마이타치의 밤 특별편",
+      "original": "サウンドノベル・エボリューション2 かまいたちの夜 特別篇",
+      "platforms": [
+        "ps1"
+      ],
+      "genres": [
+        "사운드 노벨",
+        "미스터리",
+        "호러",
+        "ADV"
+      ],
+      "score": 8.7,
+      "summary": "1998년 12월 3일 일본 PS1으로 발매된 『사운드 노벨 에볼루션 2: 카마이타치의 밤 특별편』(SLPS-01794). 눈보라로 고립된 산장의 연쇄 살인사건을 선택지로 풀어가는 탄탄한 추리와 긴장감, 다양한 분기와 결말이 뛰어나며, 플로차트·선택 이력 색상 구분·신규 시나리오 2개·진동 효과가 SFC 원작의 완성도를 더했다. 다만 텍스트 중심 진행에 따른 취향차, 일부 불친절한 숨겨진 분기, 느린 메모리카드 저장·읽기, 정적인 시각 연출을 감안해 8.7점. 본격 미스터리와 다회차 선택형 소설을 좋아하는 플레이어에게 강력 추천. 공개 제품 정보와 PS1판 이용자 리뷰 기반 편집 평가이며 직접 플레이하지 않았고 한글패치 유무는 가산하지 않음.",
+      "pros": [
+        "한겨울 눈보라에 고립된 펜션의 연쇄 살인사건을 등장인물의 불신과 단서 축적, 점진적 위협으로 밀도 높게 전개해 읽고 추리하는 몰입감이 크다.",
+        "선택지에 따라 결말뿐 아니라 이야기의 장르와 등장인물 관계까지 달라지는 다수의 추가 분기·숨겨진 시나리오로 재플레이 가치가 매우 높다.",
+        "PS1 특별편에서 선택 경로를 볼 수 있는 플로차트, 이미 고른 선택지 표시 및 과거 장면 재방문을 추가해 원작의 복잡한 분기 탐색 부담을 크게 줄였다.",
+        "주인공의 연인 마리 시점 후일담 등 2편의 신규 보너스 시나리오, 한층 선명한 실사 배경과 긴장감 있는 사운드·컨트롤러 진동으로 콘텐츠와 공포 연출을 보강했다."
+      ],
+      "cons": [
+        "텍스트와 선택지 위주라 직접 탐색·조작이나 액션의 비중이 거의 없고, 장문의 독서를 즐기지 않으면 진입 장벽이 높다.",
+        "특정 패러디·숨겨진 이야기의 해금에는 복잡하거나 단서가 부족한 조건과 암호가 필요해 모든 분기를 수집할 때 공략 의존이 생길 수 있다.",
+        "PS1판의 메모리카드 저장·읽기 시간이 길고, 배경과 인물 실루엣을 위주로 한 정적 연출은 현대식 노벨 게임보다 투박하다.",
+        "핵심 추리 시나리오는 슈퍼패미컴 원작의 재수록이어서 이미 본편을 완주한 플레이어에게는 추가 콘텐츠의 체감 비중이 작을 수 있다."
+      ],
+      "sources": [
+        {
+          "label": "패미통 - 일본 PS1 특별편 기본 정보·발매일 (1998-12-03)",
+          "url": "https://www.famitsu.com/game/title/18303/reviews"
+        },
+        {
+          "label": "LaunchBox - PS1판 일본 Box - Front 및 특별편 변경 사항",
+          "url": "https://gamesdb.launchbox-app.com/games/images/135203-sound-novel-evolution-2-kamaitachi-no-yoru-tokubetsu-hen"
+        },
+        {
+          "label": "리뷰 대보코 - 일본 PS1 특별편 당시 이용자 리뷰 (2002-06-01)",
+          "url": "https://review.daihouko.com/ps/kamaitati.htm"
+        },
+        {
+          "label": "120en - PS1 특별편 리뷰: 서사·플로차트·세이브 로딩 (2014-01-05)",
+          "url": "https://120en.net/kamaitati.html"
+        },
+        {
+          "label": "게임 카탈로그@Wiki - SFC·PS1 변경 사항과 신규 보너스 시나리오",
+          "url": "https://w.atwiki.jp/gcmatome/pages/3581.html"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/5190",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 1998년 일본 PS1 『サウンドノベル・エボリューション2 かまいたちの夜 特別篇』 초판(SLPS-01794)이며, SFC 원판·PS1 The Best 재판(SLPS-91187)·후속편과 구분함. 사용자 제공 링크의 패치 지원 디스크 리비전, 본편/추가 시나리오 번역 범위, 미번역 부분, 설치·실기·에뮬레이터 호환성은 미확인. 패치를 직접 설치하거나 실행하지 않음."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com/62f948aa-3d73-4d36-b3c1-0a5316eaeaf5.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/135203-sound-novel-evolution-2-kamaitachi-no-yoru-tokubetsu-hen",
+        "platform": "ps1",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT"
     }
   ]
 }
