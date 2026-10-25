@@ -7480,6 +7480,66 @@
       },
       "reviewedAt": "2026-10-25",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "ys-iii-wanderers-from-ys-ps2",
+      "title": "이스 III: 원더러스 프롬 이스",
+      "original": "イースIII ワンダラーズ フロム イース",
+      "platforms": [
+        "ps2"
+      ],
+      "genres": [
+        "액션 RPG",
+        "횡스크롤 액션"
+      ],
+      "score": 4.7,
+      "summary": "타이토가 2005년 PS2로 내놓은 『이스 III: 원더러스 프롬 이스』 리메이크. 아돌과 도기의 페르가나 모험, 원작에 가까운 횡스크롤 액션, 연속 공격·링 및 아이템 단축키와 3단계 난도는 장점이다. 그러나 전장의 다중 스크롤을 화면 전환으로 대체한 구성, 빈번한 로딩과 둔한 전투, 짧고 쉬워진 진행, 호불호가 큰 그림체와 음악 편곡 때문에 4.7점. 고전 『이스 III』 이식판을 비교하고 싶은 팬에게는 의미가 있지만 이 시리즈 입문용으로는 권하기 어렵다. 본가 팔콤의 별도 리메이크 『이스: 페르가나의 맹세』와 구분해야 한다. 공개 자료 기반 편집 평가이며 직접 플레이한 점수는 아님.",
+      "pros": [
+        "아돌·도기·엘레나와 페르가나를 중심으로 원작 『이스 III』의 이야기를 대체로 유지하며, 횡스크롤 액션과 검·점프·링을 활용하는 전투의 기본 매력은 남아 있다.",
+        "지상 연속 베기 및 공격 이펙트 개선, 링과 소비 아이템 단축키 등 PS2판만의 변화가 있고, EASY·NORMAL·HARD 난도 선택으로 접근성을 높였다.",
+        "대화에 음성 연출이 더해지고 양방향을 따로 그린 캐릭터 스프라이트 애니메이션 등 시각적 움직임은 기존 일부 기종판보다 세밀해졌다."
+      ],
+      "cons": [
+        "원작의 다중 스크롤 던전을 대부분 화면 단위 이동으로 바꾸고 마을도 지점 선택식으로 구성해 탐험의 연속성이 훼손되며 화면마다 로딩도 잦다.",
+        "액션 후 경직과 쉬운 보스전, 과도한 레벨 성장으로 전투 감각과 밸런스가 약화됐고, 일부 맵·보스·시나리오 요소가 축소돼 짧은 시간에 끝난다는 리뷰가 많다.",
+        "캐릭터 디자인과 성우 연기가 호불호를 크게 타고 기존 『이스 III』의 명곡을 편곡한 음원도 전반적으로 부정적인 평가를 받아, PS2판으로서의 연출 완성도가 아쉽다."
+      ],
+      "sources": [
+        {
+          "label": "GAME Watch - 타이토 PS2 『이스 III』 2005년 출시·변경점",
+          "url": "https://game.watch.impress.co.jp/docs/20050311/ys3.htm"
+        },
+        {
+          "label": "MSX Resource Center - PS2 타이토 리메이크 심층 리뷰 (2005)",
+          "url": "https://www.msx.org/articles/ys-3-playstation-2-remake-taito-review"
+        },
+        {
+          "label": "HonestGamers - PS2판 스태프 리뷰 (2007)",
+          "url": "https://www.honestgamers.com/5675/playstation-2/ys-iii-wanderers-from-ys/review.html"
+        },
+        {
+          "label": "게임카탈로그@Wiki - 『이스 III』 PS2판 개별 평가·특징",
+          "url": "https://w.atwiki.jp/gcmatome/pages/785.html"
+        },
+        {
+          "label": "LaunchBox - PS2 일본판 Box - Front",
+          "url": "https://gamesdb.launchbox-app.com/games/images/73507-ys-iii-wanderers-from-ys"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/5948",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2005년 3월 24일 일본 PS2 발매 『イースIII ワンダラーズ フロム イース』(타이토 발매, 통상판 SLPM-62532)이며, 별도 작품 『이스: 페르가나의 맹세』나 SFC/PC엔진 등의 이식판과 구분함. 제공 링크의 정확한 지원 디스크 리비전, 번역 범위·미번역 요소·패치 버전·적용 방법·실기 호환성은 확인하지 않음. AI는 패치 주소를 방문하지 않았으며 설치·실기·에뮬레이터 시험도 수행하지 않음."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/cc904829-3819-4b00-b03d-08f6df68a049.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/73507-ys-iii-wanderers-from-ys",
+        "platform": "ps2",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
