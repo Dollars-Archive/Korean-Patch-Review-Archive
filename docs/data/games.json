@@ -7104,6 +7104,62 @@
       },
       "reviewedAt": "2026-10-25",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "sd-gundam-g-generation-spirits-ps2",
+      "title": "SD건담 G제네레이션 스피릿츠",
+      "original": "SDガンダム GGENERATION SPIRITS",
+      "platforms": [
+        "ps2"
+      ],
+      "genres": [
+        "전략 시뮬레이션",
+        "턴제 SLG"
+      ],
+      "score": 7.6,
+      "summary": "우주세기 건담 본편과 외전을 폭넓게 재현하는 PS2 턴제 전략 시뮬레이션. 새 전투 애니메이션과 음성, 기체 개발·설계·육성 및 함대 운용의 방대한 즐길 거리가 매력적이지만, 긴 전투 연출·스테이지와 반복적인 화력 중심 공략, 시나리오 재현 편차가 발목을 잡아 7.6점. 원작 시나리오를 따라가며 기체를 모으는 우주세기 팬에게 추천. 공개 자료 기반 편집 평가이며 직접 플레이한 점수는 아님.",
+      "pros": [
+        "퍼스트 건담과 제08MS소대·MS IGLOO·BLUE DESTINY 등 외전부터 역습의 샤아·크로스본·V건담 등까지 우주세기 작품을 풍부하게 담고, 좋아하는 작품의 시나리오부터 시작할 수 있다.",
+        "새롭게 그린 전투 애니메이션, 콕핏 컷인과 풍부한 음성 연출로 원작의 전투 분위기를 살리고 모빌슈트와 거대 함선의 크기 차이도 전장에 반영한다.",
+        "기체 개발·설계·육성·수집과 대형 유닛·함대전·다수 유닛의 협공이 맞물려 장시간 즐길 수 있는 편성 및 전술의 재미가 있다."
+      ],
+      "cons": [
+        "대규모 스테이지와 매번 반복되는 전투 대사·연출로 진행 템포가 느려지고 한 맵의 소요 시간이 길어질 수 있다.",
+        "강력한 기체를 육성하면 전술보다는 화력으로 적을 처리하는 패턴이 반복되고, 장시간 플레이에서는 전략 변화가 부족하다는 평가가 있다.",
+        "우주세기에 집중한 구성상 W·SEED 등 비우주세기 작품을 다루지 않으며, 일부 원작 시나리오의 재현 밀도와 작품별 분량에 편차가 있다는 지적이 있다."
+      ],
+      "sources": [
+        {
+          "label": "반다이남코 G제네레이션 공식 포털 - 2007년 SPIRITS 발매 및 특징",
+          "url": "https://www.ggene.jp/history/"
+        },
+        {
+          "label": "GAME Watch - PS2판 참전작·신규 전투 시스템 소개",
+          "url": "https://game.watch.impress.co.jp/docs/20070907/ggs.htm"
+        },
+        {
+          "label": "Joko - PS2판 이용자 리뷰 모음",
+          "url": "https://www.joko.jp/ps2/review/ti2334.html"
+        },
+        {
+          "label": "가격닷컴 - PS2판 이용자 리뷰 및 장르별 평가",
+          "url": "https://review.kakaku.com/review/4110G414244/?lid=itemview_top_review_list"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/5381",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2007년 일본 PS2판 『SDガンダム GGENERATION SPIRITS』(SLPS-25832)이며, 제공 링크의 정확한 지원 판본·리비전·번역 범위·미번역 요소·설치 방법 및 실기 호환성은 검증하지 않음. 패치 설치·실기·에뮬레이터 구동 테스트를 수행하지 않음."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/afd95050-df9a-4c5a-b812-f16070fa6587.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/161542-sd-gundam-g-generation-spirits-g-spirits",
+        "platform": "ps2",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
