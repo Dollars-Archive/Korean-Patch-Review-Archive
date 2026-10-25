@@ -8743,6 +8743,67 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "slayers-royal-ps1",
+      "title": "슬레이어즈 로얄",
+      "original": "スレイヤーズ ろいやる",
+      "platforms": [
+        "ps1"
+      ],
+      "genres": [
+        "RPG",
+        "전술 RPG",
+        "ADV"
+      ],
+      "score": 6.3,
+      "summary": "1998년 일본 PS1판으로 이식된 『스레이어즈 로얄』은 리나·가우리·나가가 엘프 소년 라크와 함께하는 오리지널 모험을 풀보이스·신규 애니메이션으로 그린 팬 중심 RPG다. 화려한 범위 마법과 지형 파괴, 원작식 농담과 퀴즈는 즐겁지만 전투의 잦은 대기·느린 명령 처리와 미흡한 자동전투 AI, 제한적인 성장·탐험 때문에 6.3점. 『슬레이어즈』 원작 및 애니 팬에게 추천하며 속도감 있는 전략 RPG를 원하는 사람에게는 신중히 권한다. 공개 자료 기반 편집 평가이고 직접 플레이한 점수는 아님.",
+      "pros": [
+        "리나·가우리·나가 등 친숙한 인물과 엘프 소년 라크를 중심으로 한 오리지널 시나리오에 원작 특유의 말다툼과 코미디를 담아 캐릭터 감상의 재미가 있다.",
+        "애니메이션판 성우가 참여하는 메인 시나리오 풀보이스, 별도 제작된 애니메이션 영상과 풍성한 음악이 원작의 분위기를 살린다.",
+        "드래곤 슬레이브와 라그나 블레이드 등 다채로운 마법·필살기가 등장하고 일부 광역 주문은 건물·지형까지 파괴하며, 100문제의 원작 퀴즈도 팬서비스로 제공한다."
+      ],
+      "cons": [
+        "SRPG처럼 명령을 내리는 실시간·턴 혼합 전투가 각 행동 처리와 대기에서 자주 끊기고 적의 수가 많아 전투 한 번이 필요 이상으로 길어진다.",
+        "자동 전투 AI의 판단이 부정확하고 강력한 범위 마법에 전략이 집중되기 쉬워, 마법의 종류에 비해 실제 전술 선택지가 제한된다.",
+        "전통적인 레벨업이 없어 육성의 보상이 작고 던전 탐험도 선택지 중심으로 간소화되어 있으며, PS1판의 저장·불러오기 대기까지 겹쳐 RPG로서의 편의성이 약하다."
+      ],
+      "sources": [
+        {
+          "label": "패미통 - PS1판 1998년 6월 25일 발매·RPG 제품 정보",
+          "url": "https://www.famitsu.com/game/title/18135/reviews"
+        },
+        {
+          "label": "게임카탈로그@Wiki - 『スレイヤーズ ろいやる』 전투 구조·장단점",
+          "url": "https://w.atwiki.jp/gcmatome/pages/1858.html"
+        },
+        {
+          "label": "scrap-cliff - 2021년 슬레이어즈 로얄 플레이 리뷰 (PS·SS)",
+          "url": "https://scrap-cliff.sakuraweb.com/game/game_190.html"
+        },
+        {
+          "label": "120en - 2010년 PS1판 『スレイヤーズろいやる』 리뷰",
+          "url": "https://120en.net/ruiyaru1.html"
+        },
+        {
+          "label": "LaunchBox - PS1 일본판 실제 Box - Front 이미지",
+          "url": "https://gamesdb.launchbox-app.com/games/images/112354-slayers-royal"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/5248",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 1998-06-25 발매 일본 PlayStation판 『スレイヤーズ ろいやる』(SLPS-01363)이며 1997년 세가 새턴판과 후속작 『スレイヤーズ ろいやる2』가 아님. 제공된 링크의 패치 지원 디스크 리비전·번역 범위·미번역 부분·설치 방식·배포 상태/버전·실기 호환성은 확인하지 않음. AI는 한글패치를 설치하거나 실기·에뮬레이터에서 실행해 검증하지 않았음."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/e46ecfcd-44ce-4d19-af0d-d1647618c52e.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/112354-slayers-royal",
+        "platform": "ps1",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
