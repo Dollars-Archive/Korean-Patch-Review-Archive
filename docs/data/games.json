@@ -11551,6 +11551,67 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "sonic-mega-collection-plus-ps2",
+      "title": "소닉 메가 컬렉션 플러스",
+      "original": "ソニック メガコレクション プラス",
+      "platforms": [
+        "ps2"
+      ],
+      "genres": [
+        "액션",
+        "플랫폼 게임",
+        "레트로 게임 합본"
+      ],
+      "score": 8,
+      "summary": "2004년 12월 9일 일본 PS2 일반판 『소닉 메가 컬렉션 플러스』(SLPM-65758)를 평가했다. 메가드라이브용 『소닉 1·2·3』 및 『소닉 & 너클즈』를 비롯한 고전 작품, 게임기어용 6종, 숨겨진 보너스 게임과 영상·코믹스 자료를 한 장에 모았다. 원작에 가까운 그래픽·조작·음향의 높은 에뮬레이션 충실도와 중단 저장 덕분에 수록 게임을 편하게 즐길 수 있어 8.0점. 그러나 『소닉 CD』 등 주요 작품이 누락됐고 일부 게임의 완성도 차이, 번거로운 해금 조건과 느린 저장 처리는 아쉽다. 고전 2D 소닉을 처음 경험하거나 시리즈 역사를 한꺼번에 즐기려는 사람에게 추천한다. 공식 자료와 당시 리뷰를 토대로 한 편집 평가이며 직접 플레이하거나 한글패치를 구동한 결과가 아니다.",
+      "pros": [
+        "메가드라이브의 『소닉 1·2·3』, 『소닉 & 너클즈』 등 고전과 게임기어용 6종, 조합·숨겨진 작품을 폭넓게 제공해 여러 세대의 2D 소닉을 한 기종에서 즐길 수 있다.",
+        "PS2판은 원작의 속도감과 조작·화면·효과음을 대체로 충실하게 재현하며 언제든 중단 상태를 저장하고 재개할 수 있어 고난도 구간의 접근성이 높다.",
+        "메뉴와 컬렉션 구성이 깔끔하고 캐릭터 아트, 미국판 코믹스 표지, 관련 영상 및 제작 자료 등 팬을 위한 부록의 소장·감상 가치가 높다."
+      ],
+      "cons": [
+        "『소닉 CD』·『너클즈 카오틱스』 등 중요한 작품이 없어 시리즈 완전 합본은 아니며 원작 게임마다 재미·품질 차이가 크다.",
+        "일부 보너스 게임과 소닉 & 너클즈 조합을 열려면 개별 게임을 수차례 실행하는 번거로운 조건을 채워야 하고 중단 저장·불러오기 처리도 빠르지 않다.",
+        "에뮬레이션은 전반적으로 우수하지만 일부 음악·영상 출력이 원본 하드웨어와 미세하게 다르고, 게임기어판의 작은 화면과 구식 디자인은 현대적인 편의성을 기대하면 답답할 수 있다."
+      ],
+      "sources": [
+        {
+          "label": "SEGA 공식 - 일본 PS2판 발매일·수록 게임·제품 개요",
+          "url": "https://www.sega.jp/game/detail/sonic-megacolleplus/"
+        },
+        {
+          "label": "소닉 채널 공식 - 메가드라이브·게임기어·숨겨진 작품과 부가 콘텐츠",
+          "url": "https://sonic.sega.jp/SonicChannel/gametitle/SonicMegaCollectionPlus.html"
+        },
+        {
+          "label": "GameSpot - Sonic Mega Collection Plus PS2 리뷰 (2004-11-03)",
+          "url": "https://www.gamespot.com/reviews/sonic-mega-collection-plus-review/1900-6112158/"
+        },
+        {
+          "label": "VideoGamer - Sonic Mega Collection Plus 리뷰, 수록작·사운드·해금 조건 평가",
+          "url": "https://www.videogamer.com/reviews/sonic-mega-collection-plus-review/"
+        },
+        {
+          "label": "LaunchBox - 일본 PS2 초판 Box - Front (499×710)",
+          "url": "https://gamesdb.launchbox-app.com/games/images/19152-sonic-mega-collection-plus"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/4901",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 게임 평가는 일본 PS2 일반판 SLPM-65758 기준. 제공 링크가 실제로 지원하는 국가·게임 리비전 및 메인 메뉴·게임 내 문자열·갤러리·설명 문구의 번역 범위, 미번역 요소와 적용 방식은 확인하지 않았다. 게임 실행·패치 설치·실기 또는 에뮬레이터 구동 검증을 수행하지 않았다."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/5c14c3a0-2ac5-4ea2-9823-300885a66bdf.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/19152-sonic-mega-collection-plus",
+        "platform": "ps2",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
