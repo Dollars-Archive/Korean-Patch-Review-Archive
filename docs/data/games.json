@@ -9185,6 +9185,67 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "kimi-ga-nozomu-eien-dreamcast",
+      "title": "그대가 바라는 영원",
+      "original": "君が望む永遠",
+      "platforms": [
+        "dreamcast"
+      ],
+      "genres": [
+        "연애 ADV",
+        "비주얼 노벨",
+        "드라마"
+      ],
+      "score": 8.5,
+      "summary": "2002년 드림캐스트로 이식된 『君が望む永遠』은 나루미 타카유키와 스즈미야 하루카·하야세 미츠키를 중심으로 사랑과 우정, 책임과 선택의 갈등을 길고 진지하게 그리는 연애 ADV. 인물의 모순을 피하지 않는 감정 묘사와 풍부한 분기·성우 연기·음악, DC판 전용 오프닝 및 음성 연동 입 모양 연출이 돋보인다. 그러나 주인공의 우유부단함과 반복적인 독백·느린 진행이 부담스러워 8.5점. 가볍고 달콤한 연애물보다는 무거운 심리 드라마와 인물 관계를 즐기는 비주얼 노벨 팬에게 추천. 공개 자료 기반 편집 평가로 직접 플레이한 점수는 아님.",
+      "pros": [
+        "타카유키·하루카·미츠키·신지 등 핵심 인물의 서로 다른 욕망과 죄책감·우정·책임을 미화 없이 다뤄, 단순한 연애 성공담을 넘어 감정의 여운이 길게 남는 드라마를 만든다.",
+        "2장으로 구성된 긴 이야기와 다수의 히로인·분기 결말이 선택에 따른 관계 변화를 심화하며, 인물의 감정에 밀착한 성우 연기와 서정적인 음악이 몰입을 돕는다.",
+        "드림캐스트판에는 오리지널 오프닝 영상 및 신규 그래픽을 추가하고 캐릭터가 음성에 맞춰 입을 움직이는 연출, 푸루푸루 팩 진동 등 이식판만의 표현을 제공한다."
+      ],
+      "cons": [
+        "2장의 일상 대화와 주인공의 자책·망설임이 길고 비슷한 심리 묘사가 반복돼 루트 수에 비해 진행이 늘어지는 편이다.",
+        "주인공이 핵심 선택의 순간에도 우유부단하게 행동하거나 선택지의 의도와 어긋나는 듯한 모습을 보여 플레이어의 결정권이 약하다고 느낄 수 있다.",
+        "배신감·상실감·관계의 파탄 같은 무거운 감정 묘사가 중심이라 편안한 러브코미디를 기대하면 부담스럽고, 반복 시 공통 구간의 피로감도 크다."
+      ],
+      "sources": [
+        {
+          "label": "GAME Watch - 2002년 드림캐스트 이식판 발표와 새로운 오프닝·CG",
+          "url": "https://game.watch.impress.co.jp/docs/20020208/kiminozo.htm"
+        },
+        {
+          "label": "GAME Watch - DC판 9월 26일 발매·립싱크·진동·오리지널 오프닝 확인",
+          "url": "https://game.watch.impress.co.jp/docs/20020709/kimi.htm"
+        },
+        {
+          "label": "피코피코 대백과 - DC 일반판 T-47101M 및 이용자 리뷰 3건",
+          "url": "https://www.gavas.jp/products/detail.php?product_id=584"
+        },
+        {
+          "label": "R3B - 『君が望む永遠』 시나리오·인물 평가 (원작 기반)",
+          "url": "https://r3b.blog.shinobi.jp/%E3%83%93%E3%83%87%E3%82%AA%E3%82%B2%E3%83%BC%E3%83%A0/%E3%80%90%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%80%91%EF%BC%BB%E3%83%8D%E3%82%BF%E3%83%90%E3%83%AC%EF%BC%BD%E5%90%9B%E3%81%8C%E6%9C%9B%E3%82%80%E6%B0%B8%E9%81%A0"
+        },
+        {
+          "label": "LaunchBox - Dreamcast 일본판 Box - Front",
+          "url": "https://gamesdb.launchbox-app.com/games/images/131882-kimi-ga-nozomu-eien"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/5203",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2002-09-26 일본 드림캐스트 일반판 『君が望む永遠』(T-47101M, Alchemist 발매)으로, 2001년 원본 PC판·2003년 PS2판 『Rumbling Hearts』 및 재발매판과 구분함. 해당 링크의 실제 지원 디스크·리비전·번역 범위·미번역 구간·패치 적용 방법·버전 및 배포 상태는 미확인. AI는 한글패치 주소를 열지 않았고 설치·드림캐스트 실기·에뮬레이터 적용 시험도 하지 않았음."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/bf72a2c7-2acf-4483-a6ab-309e86fe6b60.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/131882-kimi-ga-nozomu-eien",
+        "platform": "dreamcast",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
