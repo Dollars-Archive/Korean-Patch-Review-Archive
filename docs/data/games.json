@@ -3798,6 +3798,67 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "bleach-soul-carnival-2-psp",
+      "title": "블리치 소울 카니발 2",
+      "original": "BLEACH ～ソウル・カーニバル2～",
+      "platforms": [
+        "psp"
+      ],
+      "genres": [
+        "ACT"
+      ],
+      "score": 7.8,
+      "summary": "2009년 12월 10일 일본 PSP용으로 발매된 『BLEACH ～ソウル・カーニバル2～』(UCJS-10106). 원작 캐릭터를 귀여운 SD 스타일로 표현한 2D 횡스크롤 액션으로, 사신대행편에서 이어지는 애니메이션 주요 사건을 풍부한 영상·대화와 함께 체험한다. 공격·점프·대시·지원 기술의 쉬운 조작과 화려한 필살기, 전작보다 늘어난 캐릭터·스테이지 기믹·미션, 소울 피스와 성장하는 피스 보드의 능력 조합이 재미있다. 다만 다채로운 기술의 부족으로 장기 전투가 단조롭고 방어·회피 수단이 제한돼 일부 공격 대응이 어렵다. 일직선 진행과 전작을 크게 벗어나지 않는 액션 구조도 아쉬워 7.8점. BLEACH의 인기 캐릭터를 조작하며 가벼운 콤보·성장·수집을 즐기는 팬에게 추천한다. 출시 정보와 패미통 PSP판 리뷰, GameSpot 사전 체험 기사를 바탕으로 한 편집 평가이며 직접 플레이한 점수는 아니다.",
+      "pros": [
+        "이치고·뱌쿠야·켄파치 등 인기 캐릭터를 귀여운 SD 형태로 표현하고, 조작이 쉬운 일반 공격·대시·필살기와 지원 캐릭터 호출을 연결해 경쾌한 횡스크롤 액션을 즐길 수 있다.",
+        "애니메이션 영상과 빠른 대화 장면을 활용해 이치고와 루키아의 만남부터 이후 아란칼 관련 시나리오까지 BLEACH 원작의 주요 사건을 폭넓게 재구성한다.",
+        "캐릭터 능력을 조정하는 소울 피스와 성장하는 피스 보드, 액세서리의 조합으로 공격·지원 효과를 실험하며 취향에 맞는 세팅을 만들 수 있다.",
+        "전작에 비해 등장 캐릭터·시나리오와 스테이지 장치·미션이 늘어났고 동료 연계와 반복 육성, 수집형 부가 요소가 강화돼 파고들 거리가 많아졌다."
+      ],
+      "cons": [
+        "기본 전투 조작은 접근하기 쉽지만 캐릭터별 기술 종류와 모션 변화가 제한적이어서 같은 공격·필살기·지원 기술의 반복으로 단조로워지기 쉽다.",
+        "가드와 정교한 회피 기능이 부족해 여러 적에게 둘러싸이거나 원거리 공격을 받는 구간에서 즉각적인 대응이 까다로워, 어려운 전투가 답답하게 느껴질 수 있다.",
+        "원작 재현형의 일직선 서사라 분기와 독자적인 이야기는 적고, 만화나 TV 애니메이션을 이미 본 사람에게는 스토리의 새로움이 크지 않다.",
+        "전작의 SD 횡스크롤 액션 틀을 거의 그대로 계승해 캐릭터와 시스템 확장 대비 핵심 게임플레이의 혁신은 크지 않다."
+      ],
+      "sources": [
+        {
+          "label": "패미통 - BLEACH 소울 카니발 2 PSP 크로스 리뷰(8·8·7·8)",
+          "url": "https://www.famitsu.com/game/title/6033/reviews"
+        },
+        {
+          "label": "GameSpot - Bleach: Soul Carnival 2 TGS 2009 PSP 실기 시연 기사",
+          "url": "https://www.gamespot.com/articles/bleach-soul-carnival-2-hands-on/1100-6230404/"
+        },
+        {
+          "label": "Neowing - 일본판 PSP 일반 제품 정보 UCJS-10106와 게임 특징",
+          "url": "https://www.neowing.co.jp/product/UCJS-10106"
+        },
+        {
+          "label": "인벤 - SCEK 제공 한국 출시 및 시스템 개선 안내(2009-12-02)",
+          "url": "https://m.inven.co.kr/webzine/wznews.php?idx=24911&iskin=webzine"
+        },
+        {
+          "label": "LaunchBox - PSP 일본판 Box - Front (Japan) 원본",
+          "url": "https://gamesdb.launchbox-app.com/games/images/18896-bleach-soul-carnival-2"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/6294",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2009-12-10 일본 PSP 일반판 『BLEACH ～ソウル・カーニバル2～』(UCJS-10106)이며 전작 『BLEACH ～ソウル・カーニバル～』와 구분한다. 제공한 URL의 실제 배포 상태·지원 게임 지역/UMD 리비전/다운로드판 차이·패치 버전·대사/메뉴/영상 자막의 번역 범위·미번역·적용 방법 및 실기/PPSSPP 호환 여부는 확인하지 않았다. 링크 접속, 다운로드, 설치 및 실기·에뮬레이터 시험을 하지 않았다."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/5a20cbb4-3985-4d4a-a94a-5229f1617248.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/18896-bleach-soul-carnival-2",
+        "platform": "psp",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
