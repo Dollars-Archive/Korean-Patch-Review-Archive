@@ -3930,6 +3930,69 @@
       },
       "reviewedAt": "2026-10-25",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "7th-dragon-iii-code-vfd-3ds",
+      "title": "세븐스 드래곤 III Code: VFD",
+      "original": "セブンスドラゴンIII code:VFD",
+      "platforms": [
+        "3ds"
+      ],
+      "genres": [
+        "턴제 RPG",
+        "던전 탐험",
+        "파티 육성 RPG"
+      ],
+      "score": 8,
+      "summary": "2015년 10월 15일 세가가 일본 닌텐도 3DS용으로 발매한 시리즈 완결편(CTR-P-BD7J). 현대 도쿄·과거 아틀란티스·미래 에덴의 세 시대를 누비며 드래곤에 맞서는 턴제 RPG다. 8가지 직업과 자유로운 외형·성우 선택, 최대 3유닛 9명을 활용하는 전위·후위 전투, 고시로 유조의 개성 넘치는 음악과 미와 시로의 디자인이 돋보인다. 반면 던전마다 드래곤을 반복 토벌하는 구조와 평이한 이야기·중반 이후 무너지는 난이도 균형, 컷신 및 전투 연출 스킵의 제약, 입체 3D 미지원은 단점이다. 직업 조합과 파티 육성을 중시하는 고전식 턴제 JRPG 팬에게 추천한다. 세가 공식 일본판 정보와 동일한 3DS판 해외 발매 리뷰를 토대로 한 자료 기반 편집 평가이며 직접 플레이하지 않았고 한글패치 유무는 점수에 영향을 주지 않았다.",
+      "pros": [
+        "사무라이·갓 핸드 등 총 8개 직업을 자유로운 외형·음성(40명 성우)과 결합할 수 있어 개성 있는 모험단을 직접 만드는 재미가 높다.",
+        "전위 3명과 후위 최대 6명을 포함한 9인 파티를 편성하고 협력 공격·지원 및 직업 간 스킬 연계를 활용하는 턴제 전투가 전략적이다.",
+        "현대 도쿄, 과거 아틀란티스, 미래 에덴의 서로 다른 시대·생태계를 탐험하며 시리즈의 드래곤 전쟁을 한 작품에서 마무리하는 스케일이 크다.",
+        "고시로 유조의 시대별 배경음악, sasakure.UK의 주제가, 미와 시로의 캐릭터 디자인과 화려한 전투 애니메이션이 시청각 완성도를 높인다."
+      ],
+      "cons": [
+        "챕터마다 던전을 열고 드래곤을 처치한 뒤 보물상자를 회수하는 흐름이 반복되어 후반으로 갈수록 탐험이 공식적으로 느껴진다.",
+        "주요 사건의 전개는 예측 가능한 부분이 있으며, 세계관을 몰라도 진행 가능하지만 전작 인물·설정에 대한 맥락은 일부 놓치기 쉽다.",
+        "직업 능력이 강하고 재화 획득량이 많아 중후반의 일반 전투와 장비 관리가 쉬워져 전략적 긴장감이 줄어들 수 있다.",
+        "전투 애니메이션과 일부 이벤트를 건너뛰기 어려우며, 자동 카메라와 미니맵 방향이 어긋나는 경우가 있고 3DS의 입체 3D 기능을 지원하지 않는다."
+      ],
+      "sources": [
+        {
+          "label": "세가 일본 공식 3DS 제품 정보 및 2015년 10월 15일 발매·9인 파티·캐릭터 생성 설명",
+          "url": "https://www.sega.jp/game/detail/dragon3/"
+        },
+        {
+          "label": "Nintendo Life - 7th Dragon III Code: VFD 3DS판 리뷰(2016-07-07)",
+          "url": "https://www.nintendolife.com/reviews/3ds/7th_dragon_iii_code_vfd"
+        },
+        {
+          "label": "GameSpot - 7th Dragon III Code: VFD 3DS판 리뷰",
+          "url": "https://www.gamespot.com/reviews/7th-dragon-iii-code-vfd-review/1900-6416468/"
+        },
+        {
+          "label": "RPG Site - 7th Dragon III Code: VFD 3DS판 리뷰(2016-07-07)",
+          "url": "https://www.rpgsite.net/review/4915-7th-dragon-iii-code-vfd-review"
+        },
+        {
+          "label": "LaunchBox - 닌텐도 3DS 일본판 Box - Front 표지 확인",
+          "url": "https://gamesdb.launchbox-app.com/games/images/73256-7th-dragon-iii-code-vfd"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/6127",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2015년 일본 닌텐도 3DS 패키지판(CTR-P-BD7J)이다. 제공 링크의 정확한 대응 지역·카트리지·게임 리비전, 번역 범위·미번역 부분, 배포 상태 및 버전, 적용 절차와 실기·에뮬레이터 호환성은 확인하지 않았다. 사용자 제공 패치 URL에 GET·HEAD·미리보기·리다이렉트 요청을 수행하거나 적용 시험을 하지 않았다."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com/c04d01d8-552d-4b78-8e84-7a80923e88aa.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/73256-7th-dragon-iii-code-vfd",
+        "platform": "3ds",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT"
     }
   ]
 }
