@@ -8804,6 +8804,73 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "chrono-trigger-snes",
+      "title": "크로노 트리거",
+      "original": "クロノ・トリガー",
+      "platforms": [
+        "snes"
+      ],
+      "genres": [
+        "JRPG",
+        "턴제 RPG",
+        "시간여행 판타지"
+      ],
+      "score": 9.5,
+      "summary": "1995년 3월 11일 일본 슈퍼패미컴(SFC) 초판 『クロノ・トリガー』(SHVC-ACTJ) 기준. 여러 시대를 넘나드는 시간여행 이야기를 빠른 전개와 인과관계로 엮고, 적을 필드에서 보며 연속적으로 전투에 진입하는 ATB 방식과 2인·3인 합동기로 전술의 개성과 높은 템포를 구현했다. 토리야마 아키라의 캐릭터 디자인, 섬세한 도트 연출과 미츠다 야스노리 중심의 음악, 다중 엔딩 및 뉴 게임 플러스가 뛰어난 재플레이 가치를 만든다. 다만 비교적 낮은 본편 난도, 제한적인 캐릭터 육성·빌드 자유도, 간결한 인물 심리 묘사, 후반 일반 전투의 반복성은 단점으로 고려해 9.5점. 스토리와 전투 템포가 좋은 고전 JRPG를 원하는 누구에게나 강력 추천. 일본 SFC 실물판 기본 정보와 동일 16비트 원작판을 다룬 전문 리뷰 3건에 근거한 자료 기반 편집 평가로 직접 플레이하지 않았으며 한글패치 존재 여부는 점수에 반영하지 않음. 이후 PS1·NDS·PC 등 이식판의 추가 영상·지역·엔딩·편의 기능은 원작 평가에 포함하지 않음.",
+      "pros": [
+        "원시 시대부터 황폐한 미래까지 서로 다른 시대에서 벌어지는 사건이 유기적으로 연결돼, 시간여행의 인과관계와 인물들의 모험을 짧고 밀도 높게 경험할 수 있다.",
+        "ATB 기반 전투에서 동료 두세 명의 조합 기술을 활용하고 적의 위치·속성·행동 패턴을 고려하는 전술을 즐기며, 전투 화면 전환과 무작위 인카운터를 최소화해 흐름이 쾌적하다.",
+        "토리야마 아키라의 개성적인 디자인, 표정이 살아 있는 16비트 도트 애니메이션, 미츠다 야스노리·우에마쓰 노부오의 음악이 시대마다 다른 분위기와 감정을 정교하게 뒷받침한다.",
+        "뉴 게임 플러스로 진행을 이어가며 다른 시점·조건의 여러 엔딩을 탐색할 수 있고, 후반 동료별 보조 에피소드로 새로운 회차와 인물 탐색에 의미가 생긴다."
+      ],
+      "cons": [
+        "대부분의 본편 전투는 큰 레벨 노가다 없이 돌파 가능하고 전체 난도가 높지 않아 치밀한 전술 도전이나 극단적인 캐릭터 빌드를 즐기는 RPG 팬에게는 손쉬울 수 있다.",
+        "캐릭터별 고유한 기술 세트가 정해져 있어 장비·스킬 트리·직업 등을 세밀하게 바꾸는 육성 자유도가 적고, 강한 합동기 위주 전술이 반복되기 쉽다.",
+        "전개가 빠르고 대사가 간결한 장점의 반대급부로, 무언의 주인공 크로노와 몇몇 동료의 관계 및 감정 변화가 충분히 대화로 묘사되지 않는 부분이 있다.",
+        "일부 후반 필드 전투는 약한 적을 동일한 공격으로 처리하는 반복 구간이 되고, 큰 목표로 향하는 본편 경로는 후반부 선택형 부가 에피소드 전까지 비교적 선형적이다."
+      ],
+      "sources": [
+        {
+          "label": "RCGS 게임 컬렉션 - 1995-03-11 일본 슈퍼패미컴 실물 패키지·제작사·장르",
+          "url": "https://collection.rcgs.jp/page/PACKAGE0001764"
+        },
+        {
+          "label": "일본 SFC 실물 게임 데이터 - 품번 SHVC-ACTJ-JPN, 발매일·초판 박스",
+          "url": "https://chromagi.com/v2/nintendo/sfc-snes/shvc-actj-jpn/"
+        },
+        {
+          "label": "Nintendo Life 슈퍼패미컴판 전문 리뷰 - 전투·연계기·다중 엔딩·음악·연출",
+          "url": "https://www.nintendolife.com/reviews/2011/05/chrono_trigger_virtual_console"
+        },
+        {
+          "label": "RPGFan Ken Chu 1999년 SNES판 전문 리뷰 - 스토리·전투·사운드·인물 묘사",
+          "url": "https://www.rpgfan.com/review/chrono-trigger/"
+        },
+        {
+          "label": "HonestGamers Rob Hamilton 2015년 SNES판 리뷰 - 빠른 전개·난도·짧은 분량",
+          "url": "https://www.honestgamers.com/12702/snes/chrono-trigger/review.html"
+        },
+        {
+          "label": "LaunchBox - 슈퍼패미컴판 1995년 일본 Box - Front 2261×1229",
+          "url": "https://gamesdb.launchbox-app.com/games/images/1220-chrono-trigger"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/5238",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 1995년 3월 11일 일본 SFC 초판 『クロノ・トリガー』(SHVC-ACTJ / SHVC-ACTJ-JPN)이다. 미국 SNES판과 PS1·NDS·PC·모바일 이식판 및 별도 재발매와 구분하며, 제공된 링크의 실제 지원 ROM 지역·리비전·해시, 번역 범위·잔여 미번역·설치 방식·배포 상태 및 버전은 검증하지 않음. 사용자 제공 주소를 GET·HEAD·미리보기·리다이렉트·다운로드로 접속하지 않았고 패치 적용이나 SFC 실기·에뮬레이터 실행 테스트도 하지 않았음."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/d0b71539-c5d2-4e90-b6a5-8ff6da9e31e4.png",
+        "source": "https://gamesdb.launchbox-app.com/games/images/1220-chrono-trigger",
+        "platform": "snes",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
