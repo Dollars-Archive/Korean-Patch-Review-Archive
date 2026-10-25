@@ -1395,6 +1395,70 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "toheart2-dungeon-travelers-psp",
+      "title": "투하트 2 던전 트래블러즈",
+      "original": "ToHeart2 ダンジョントラベラーズ",
+      "platforms": [
+        "psp"
+      ],
+      "genres": [
+        "RPG",
+        "3D 던전 RPG",
+        "턴제 RPG"
+      ],
+      "score": 7.8,
+      "summary": "『ToHeart2』의 캐릭터들이 이세계에서 모험하는 2011년 PSP판 1인칭 턴제 던전 RPG(일본 통상판 ULJM-05873). 5인 파티 편성·직업 전직·스킬·속성 운용과 높은 도전성, 캐릭터 일러스트가 매력적이고 원작 PC판보다 던전·장비 등이 늘었다. 반면 후반의 복잡한 워프·일방통행 미궁, 어려운 스킬 재배분, 적은 소지품과 원작 인물 지식 의존이 아쉽다. 깊은 육성과 어려운 고전형 던전 탐색을 즐기는 플레이어에게 추천한다. PSP판 공식 안내 및 당대 전문·이용자 리뷰를 종합한 자료 기반 편집 평가이며 직접 플레이한 점수는 아니다.",
+      "pros": [
+        "PC 팬디스크 수록 미니게임에서 확장되며 파티 정원을 4명에서 5명으로 늘리고 던전·몬스터·장비·이벤트를 추가해 본격 던전 RPG다운 분량을 갖췄다.",
+        "직업별 전직·스킬 빌드·파티 조합과 적 특성에 맞춘 전술 선택이 손맛 있고 전투 난도가 적절히 높아 육성의 보상이 크다.",
+        "ToHeart2의 인기 인물을 직업마다 다른 일러스트로 표현하고 히로인 사이의 대화 및 이벤트가 탐험 동기를 보완한다.",
+        "오토맵·던전 내 세이브, 이동·전투 속도 설정과 이펙트 끄기 등 휴대용 RPG의 기본 편의 기능을 제공한다."
+      ],
+      "cons": [
+        "후반 던전은 일방통행·워프·함정이 반복되어 길찾기가 과도하게 번거롭고 전체 지도를 한눈에 보기 어렵다.",
+        "스킬을 재분배할 때 간단한 초기화가 아니라 레벨 리셋을 요구하고 일부 스킬의 소비 자원·효율이 불균형하다.",
+        "초반의 자금 확보와 제한된 소지 아이템 슬롯이 답답하고 반복 전투로 육성해야 하는 구간이 길다.",
+        "전개 자체는 가벼운 패러디 성격이며 원작 ToHeart2 인물들의 성격을 모르면 대화와 팬서비스의 매력이 줄어든다.",
+        "제작사 공지에 따르면 일부 초기 PSP판은 던전 11층 스위치 조작 순서에 따라 진행불가가 발생할 수 있으므로 해당 구간에서 주의가 필요하다."
+      ],
+      "sources": [
+        {
+          "label": "AQUAPLUS 공식 PSP 제품 정보·버전·추가 요소·진행 불가 안내",
+          "url": "https://aquaplus.jp/th2dt/product.html"
+        },
+        {
+          "label": "4Gamer 일본 PSP판 상세 리뷰 (2011-07-16)",
+          "url": "https://www.4gamer.net/games/129/G012940/20110715001/"
+        },
+        {
+          "label": "4Gamer PSP판 이용자 리뷰·장단점",
+          "url": "https://www.4gamer.net/games/129/G012940/index_userreview.html"
+        },
+        {
+          "label": "AQUAPLUS 공식 진행불가 증상과 회피법",
+          "url": "https://blog.aquaplus.jp/archives/1583"
+        },
+        {
+          "label": "LaunchBox PSP 일본판 패키지 앞표지",
+          "url": "https://gamesdb.launchbox-app.com/games/images/122097-to-heart-2-dungeon-travelers"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/6589",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 사용자 제공 제작자 표기: 레갤러(미검증). 평가 대상은 2011년 PSP 일본 통상판(ULJM-05873)이며 패치가 어느 릴리스·리비전에 적용되는지, 번역 범위·미번역·적용 방법과 현재 배포 여부는 확인하지 않았다. 직접 패치 설치·실기 또는 에뮬레이터 테스트를 진행하지 않았다."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com/77c6faf9-c2ac-45d9-8663-f089459f897c.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/122097-to-heart-2-dungeon-travelers",
+        "platform": "psp",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT"
     }
   ]
 }
