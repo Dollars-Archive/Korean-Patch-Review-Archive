@@ -4546,6 +4546,78 @@
       },
       "reviewedAt": "2026-10-25",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "memories-off-6-next-relation-psp",
+      "title": "메모리즈 오프 6: 넥스트 릴레이션",
+      "original": "メモリーズオフ6 Next Relation",
+      "platforms": [
+        "psp"
+      ],
+      "genres": [
+        "ADV",
+        "VN"
+      ],
+      "score": 7.2,
+      "summary": "2010년 10월 14일 5pb.가 출시한 일본 PSP 일반판 《メモリーズオフ6 Next Relation》(ULJM-05762)의 연애 ADV. 전작 《メモリーズオフ6 ～T-wave～》에서 연인이 된 다섯 히로인 가운데 한 명을 도입부에서 선택하면 서로 다른 여름방학 후일담을 읽는 팬디스크이다. 리리스·치사·클로에·스즈·유노의 개성을 살린 달콤한 관계 묘사, 온천 여행과 새로운 조연·시리즈 게스트, 주인공을 제외한 풀보이스와 아보 다케시의 음악이 장점이다. PSP 이식판은 Xbox 360판을 기반으로 영상 연출을 다듬고 전용 새 오프닝도 추가했다. 그러나 본편을 먼저 읽지 않으면 인물 감정선의 무게를 알기 어렵고, 루트별 서사 완성도와 성격 묘사의 편차가 있으며, 관계 성립 후의 드라마가 비교적 가볍고 분기 선택의 폭이 작아 7.2/10. 전작 《T-wave》를 끝낸 팬에게 추천하지만 단독 입문이나 강한 미스터리·갈등을 기대하는 독자에게는 권하기 어렵다. 공식 제품 정보, PSP 이식 설명, 원 시나리오에 대한 독립 감상과 이후 합본판 전문 평가를 구분해 참고한 자료 기반 편집 평가이며 직접 플레이하지 않았다.",
+      "pros": [
+        "본편에서 연인이 된 리리스·치사·클로에·스즈·유노 다섯 히로인의 새로운 여름방학과 장래에 대한 고민을 각기 다른 연애 후일담으로 감상할 수 있다.",
+        "이야기 시작 시 파트너를 선택해 곧바로 해당 히로인의 루트로 들어가는 방식이라 복잡한 공통 루트와 반복적인 호감도 공략 부담이 적다.",
+        "류자카이 온천향 등의 새로운 무대와 신규 조연, 이전 시리즈에서 등장했던 손도 마히로의 게스트 출연 등이 팬을 위한 연결고리와 변화를 준다.",
+        "히라노 아야·고토 유코 등 성우진의 인물별 음성 연기(주인공 제외), 아보 다케시의 BGM 및 서로 다른 분위기의 연애 장면이 후일담의 감정선을 살린다.",
+        "PSP판은 Xbox 360판에 기반해 일부 표현을 새로 조정하고 새 오프닝을 제공해 휴대용으로 전작 이후 이야기를 이어 읽기 좋다."
+      ],
+      "cons": [
+        "전작 《T-wave》의 각 히로인 연애 엔딩을 전제로 한 작품이므로 신규 플레이어는 사전 설명과 관계 형성 과정이 부족해 등장인물의 감정에 몰입하기 어렵다.",
+        "일부 히로인 루트는 본편에서 보여준 주인공의 성숙함이나 인물의 판단과 어긋나는 갈등을 만든다는 당시 독립 팬 리뷰의 비판이 있어 시나리오 완성도가 일정하지 않다.",
+        "이미 연인인 상태로 시작해 설렘과 일상·팬서비스가 중심이므로 전작처럼 커다란 선택과 관계 변화, 강한 서사적 반전을 기대하면 신선함이 약하다.",
+        "상대 히로인을 첫 선택지에서 지정하는 구조로 공통부의 상호작용이나 폭넓은 분기 탐색의 즐거움이 적고, 일부 루트의 사건과 전개가 서로 유사하게 느껴진다.",
+        "후일담 중심의 비교적 작은 이야기로 본편 전체를 담지 않은 독립 팬디스크이기 때문에 입문작이나 한 작품으로 완결된 장편을 찾는 독자에게 가성비와 내용 면에서 제약이 있다."
+      ],
+      "sources": [
+        {
+          "label": "5pb./Memories Off 공식 PSP판 제품 사양: 발매일·CERO·주인공 제외 풀보이스·주제곡·제작진",
+          "url": "https://memoriesoff.jp/6nr/spec.html"
+        },
+        {
+          "label": "5pb. 공식 작품 소개: 다섯 히로인별 여름방학 후일담·초반 분기·온천향·용어 해설",
+          "url": "https://memoriesoff.jp/6nr/intro.html"
+        },
+        {
+          "label": "Neowing PSP 일반판 ULJM-05762 제품 설명: 2010-10-14 발매·Xbox 360판 기반 이식·신규 오프닝 및 게스트",
+          "url": "https://www.neowing.co.jp/product/ULJM-5762"
+        },
+        {
+          "label": "KID 비공식 Wiki 독립 리뷰: 본편 이후 각 히로인 시나리오의 장단점·인물 일관성 비평",
+          "url": "https://kid-game.sakura.ne.jp/memories_off6a_review.html"
+        },
+        {
+          "label": "패미통 PS3 합본 Complete 전문 평가: Next Relation의 달콤한 후일담·중복 전개에 대한 부분 평가(PSP 전용 리뷰 아님)",
+          "url": "https://www.famitsu.com/game/title/29082/reviews"
+        },
+        {
+          "label": "Suruga-ya 일본 PSP 일반판: ULJM-05762, 출시일 및 히로인 5명 후일담",
+          "url": "https://www.suruga-ya.jp/product/detail/177001781"
+        },
+        {
+          "label": "LaunchBox PSP Games Database: 일본 일반판 Box - Front 실제 이미지",
+          "url": "https://gamesdb.launchbox-app.com/games/images/121236-memories-off-6-next-relation"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/5870",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 작품 평가는 2010-10-14 출시 일본 PSP 일반판 《メモリーズオフ6 Next Relation》(ULJM-05762) 기준이다. 제공 주소는 실제 배포 상태·버전·배포자·기종 및 리비전 호환성·다섯 히로인 루트별 번역 범위·미번역·적용 방법·PSP 실기/PPSSPP 구동을 검증하지 않았다. 《メモリーズオフ6 ～T-wave～》 본편 및 PS3/PS Vita 합본 《Memories Off 6 Complete》와 다른 항목이며 해당 버전과의 패치 호환성을 추정하지 않는다."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com/70dd8df4-4524-41f8-82ac-378af53b7305.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/121236-memories-off-6-next-relation",
+        "platform": "psp",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT"
     }
   ]
 }
