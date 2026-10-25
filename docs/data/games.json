@@ -5795,6 +5795,77 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "tears-to-tiara-gaiden-avalon-no-nazo-ps3",
+      "title": "티어즈 투 티아라 외전: 아발론의 수수께끼",
+      "original": "ティアーズ・トゥ・ティアラ 外伝 アヴァロンの謎",
+      "platforms": [
+        "ps3"
+      ],
+      "genres": [
+        "AVG",
+        "SRPG",
+        "전략 RPG"
+      ],
+      "score": 7.2,
+      "summary": "2009년 9월 17일 발매된 일본 PS3 일반판(BLJM-60166) 기준. 『티어즈 투 티아라: 화관의 대지』 이후 아발론 왕국에서 일어나는 수수께끼를 다루는 후일담형 판타지 ADV+전략 RPG. 기존 전술 전투에 체인지링(EP 관리), 속성 상성, 아이템 합성·함정·마법진·전투 평가를 추가해 육성·전략의 폭을 넓히고 풍부한 풀보이스 이벤트를 제공한다. 그러나 앞선 작품의 서사를 알아야 하며 ADV 장면이 길고 반복적인 육성·전투와 번거로운 교대 조작이 남아 7.2점. 전작을 마친 스토리·전략 RPG 팬에게 추천, 첫 입문작으로는 비추천. 공식 정보와 당시 일본 PS3판 리뷰에 기반한 편집 평가이며 직접 플레이하지 않음.",
+      "pros": [
+        "EP(존재 포인트)가 감소하면 능력이 약화되는 체인지링 시스템과 대기 중 회복, 적 약점 속성 활용이 유닛 교대·전장 운영을 중요하게 만들어 전작보다 전략성이 높다.",
+        "아이템 합성으로 장비를 단계적으로 강화·파생시키고, 함정과 회복·약화·방어 마법진 및 전투 평가 보상으로 전술과 육성에 선택지를 더했다.",
+        "기존 캐릭터의 후일담과 풍부한 풀보이스 장면·CG, 긴 이야기 분량으로 전작의 인물과 세계관을 좋아하는 팬에게 만족도가 높다.",
+        "조작과 로딩은 당시 PS3판 리뷰에서 비교적 쾌적하다는 평가를 받았고, 프리 맵을 통한 육성과 CG 감상 등 반복 플레이 요소를 갖췄다."
+      ],
+      "cons": [
+        "전작의 사건·인물 관계를 당연하게 전제하는 후일담이라 『화관의 대지』를 플레이하지 않았다면 전개의 흥미와 의미를 따라가기 어렵다.",
+        "어드벤처 파트의 긴 대화와 적은 스탠딩 변화, PS3 하드웨어에 비해 소박한 시각 연출 때문에 템포가 늘어지고 화면이 정적으로 느껴진다.",
+        "꾸준한 캐릭터 레벨 관리와 육성·전투의 반복이 필요하며, 자주 쓰는 캐릭터 교대의 조작 단계가 다소 번거롭다.",
+        "기본적인 SRPG 구조는 전작과 크게 달라지지 않아 새로운 전술 장치에도 장르 혁신이나 큰 시스템 변화를 기대하기는 어렵다."
+      ],
+      "sources": [
+        {
+          "label": "AQUAPLUS 공식 - 2009년 PS3 일반판/한정판/염가판 발매 및 품번",
+          "url": "https://aquaplus.jp/t3a/product.html"
+        },
+        {
+          "label": "AQUAPLUS 공식 - 아이템 합성·트랩·EP/체인지링·마법진",
+          "url": "https://aquaplus.jp/t3a/system.html"
+        },
+        {
+          "label": "AQUAPLUS 공식 - 아발론 후일담 시놉시스",
+          "url": "https://aquaplus.jp/t3a/story.html"
+        },
+        {
+          "label": "패미통 1084호 - PS3판 전문 리뷰 4건 (전략·스토리·연출·교대 조작)",
+          "url": "https://www.famitsu.com/game/title/6035/reviews"
+        },
+        {
+          "label": "PS3 일본판 플레이 후기 (2017)",
+          "url": "https://blog.goo.ne.jp/sapphy_0611/e/b3e0c9deb5dea41a0b55a894b107c3e0"
+        },
+        {
+          "label": "LaunchBox - 일본 PS3판 Box - Front (500x582)",
+          "url": "https://gamesdb.launchbox-app.com/games/details/413140-tears-to-tiara-gaiden-avalon-no-nazo"
+        },
+        {
+          "label": "제작자 공개 배포 목록 - PS3 한국어 패치 v0.6 공지 (2026-10-11)",
+          "url": "https://by-the-sea.tistory.com/category/%ED%95%9C%EA%B8%80%ED%8C%A8%EC%B9%98%20%EB%B0%B0%ED%8F%AC/%ED%8B%B0%EC%96%B4%EC%A6%88%20%ED%88%AC%20%ED%8B%B0%EC%95%84%EB%9D%BC"
+        }
+      ],
+      "patch": {
+        "status": "available",
+        "url": "https://redb.me/kr/5707",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 별개로 확인한 제작자 공개 배포 목록에서 2026-10-11 『티어즈 투 티아라 외전: 아발론의 수수께끼』 PS3 한국어 패치 v0.6을 안내하며, 장비 선택 오류 수정·전체 스크립트·이미지·오프닝/엔딩 영상 자막 한국어화를 명시. 다만 개별 게시물 검색 캐시에는 이전 v0.5 표기도 있어 링크 내부 최신 버전은 단정하지 않음. 제작자에 따르면 갱신된 패치 적용 후 에뮬레이터 자체 세이브 상태가 아니라 게임 내 메모리카드 저장 데이터를 불러와야 하며 100% 검수 및 PS3 실기 동작은 확인되지 않아 수시 저장 권장. 평가 대상 PS3 일본판 일반판 BLJM-60166 기준이고 사용자 제공 주소 내 패치의 호환 품번·리비전은 미검증. AI는 사용자 제공 URL을 GET·HEAD·미리보기·리다이렉트하지 않았고 패치 적용·실기·RPCS3 검증도 수행하지 않음."
+      },
+      "reviewedAt": "2026-10-25",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com//d0689a77-938d-4759-a7ae-61f3f471f6cc.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/details/413140-tears-to-tiara-gaiden-avalon-no-nazo",
+        "platform": "ps3",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
