@@ -14073,6 +14073,73 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "nekketsu-beach-volley-da-yo-kunio-kun-gb",
+      "title": "열혈! 비치발리볼이다 쿠니오군 (GB)",
+      "original": "熱血！ビーチバレーだよ♡くにおくん (Nekketsu! Beach Volley Da yo: Kunio-kun)",
+      "platforms": [
+        "other"
+      ],
+      "genres": [
+        "스포츠 액션",
+        "비치발리볼",
+        "아케이드 스포츠"
+      ],
+      "score": 7.1,
+      "summary": "1994년 7월 29일 일본 게임보이(GB) 일반 카트리지 《熱血！ビーチバレーだよ♡くにおくん》(DMG-VXJ-JPN)에 대한 자료 기반 편집 평가. 테크노스 재팬의 《쿠니오군》 계열 2대2 비치발리볼 게임으로, 8개 팀의 서로 다른 생김새·능력·필살 스파이크, 팀 전용 코트와 간단한 이야기, 폭탄 등 보조 아이템으로 캐릭터 스포츠다운 개성을 살렸다. 리시브와 토스·스파이크의 위치 선정과 타이밍을 익히면 공방의 맛이 있고, 짧은 경기 옵션·비밀번호 이어하기·대전 및 슈퍼 게임보이 전용 컬러·사운드 지원도 장점이다. 그러나 리시브 판정이 엄격하고 파트너의 자율 행동이 미흡해 수동 전환 부담이 있으며, 도지볼·축구 같은 다른 열혈 시리즈보다 액션이 얌전하고 아이템 효과가 불명료하다. 콘텐츠의 양과 전략 변화도 제한적이므로 7.1점. 짧은 아케이드 스포츠와 쿠니오군의 익살을 좋아한다면 추천하지만 빠르고 자유로운 난투형 스포츠를 기대하면 아쉽다. 2012년 3DS 버추얼 콘솔 재발매와 구별되는 1994년 일본 GB 원판 평가이며 직접 플레이하지 않았고 한국어 패치 유무는 점수에 반영하지 않았다. 아카이브에 GB 전용 플랫폼 ID가 없어 데이터상 other(기타)로 분류한다.",
+      "pros": [
+        "쿠니오 팀부터 축구·공수도·근육질 팀 등 총 8개 팀이 서로 다른 외형과 움직임·필살 스파이크를 가지고 있어 팀 선택에 개성과 작은 전술 차이가 있다.",
+        "각 팀을 상대로 특색 있는 코트에서 경기하며 서브·리시브·토스·점프 스파이크 및 필살기를 구사하는 과정이 간결하지만 숙련의 재미를 제공한다.",
+        "경기 전 아이템과 특수 공격을 사용하는 《열혈》 시리즈다운 장난스러운 요소, 팀별 간단한 이야기와 엔딩이 팬서비스를 보탠다.",
+        "경기 점수·세트 수를 조정할 수 있고 비밀번호로 이어하기가 가능하며, 대전 모드와 슈퍼 게임보이의 전용 컬러·보이스·음악 연출이 있다."
+      ],
+      "cons": [
+        "공을 받을 위치와 타이밍을 정확히 맞추지 않으면 헛스윙으로 실점해 초반 조작 난도가 높은 편이다.",
+        "CPU 파트너가 공을 충분히 적극적으로 처리하지 않아 SELECT로 조작 캐릭터를 바꾸거나 플레이어가 무리하게 공을 따라가야 하는 일이 많다.",
+        "폭탄 등 아이템 효과를 게임 안팎에서 명확히 설명하지 않고, 여러 특수 요소의 실제 존재감도 도지볼·축구 시리즈에 비해 약하다.",
+        "기본적인 비치발리볼 공방과 토너먼트의 반복이 중심이라 장시간 혼자 즐기기에는 게임 모드와 장기 콘텐츠가 많지 않다."
+      ],
+      "sources": [
+        {
+          "label": "GameFAQs - 일본 Game Boy 일반판 제품 코드 DMG-VXJ-JPN 및 1994-07-29 발매 확인",
+          "url": "https://gamefaqs.gamespot.com/gameboy/569845-nekketsu-beach-volley-dayo-kunio-kun/data"
+        },
+        {
+          "label": "MobyGames - 일본 GB판 경기 구성·필살기·파워업·대전 모드",
+          "url": "https://www.mobygames.com/game/25136/nekketsu-beach-volley-da-yo-kunio-kun/"
+        },
+        {
+          "label": "Obscure Video Games (2013) - 슈퍼 게임보이에서 GB판 실제 플레이 리뷰, 팀·경기·조작·소리·단점",
+          "url": "https://obscurevideogames.com/2013/05/12/nekketsu-beach-volleyball-dayo-kunio-kun-for-game-boy-information-and-review/"
+        },
+        {
+          "label": "가격.com - GB판 버추얼 콘솔 이용 감상: 8개 팀·난도·파트너 AI와 조작 불편",
+          "url": "https://kakaku.com/item/K0000741831/"
+        },
+        {
+          "label": "레트로게임 설명서 보관소 - GB판 설명서 확인 및 아이템·기술의 한계 평가",
+          "url": "https://gamemanual.midnightmeattrain.com/entry/%E7%86%B1%E8%A1%80%EF%BC%81_%E3%83%93%E3%83%BC%E3%83%81%E3%83%90%E3%83%AC%E3%83%BC%E3%81%A0%E3%82%88%E2%99%A1%E3%81%8F%E3%81%AB%E3%81%8A%E3%81%8F%E3%82%93"
+        },
+        {
+          "label": "LaunchBox - GB 일본판 Box - Front (1536×1935)",
+          "url": "https://gamesdb.launchbox-app.com/games/images/32863-nekketsu-beach-volley-da-yo-kunio-kun"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/4265",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 게임 평가는 1994-07-29 일본 게임보이(GB) 일반판 《熱血！ビーチバレーだよ♡くにおくん》(DMG-VXJ-JPN) 기준이며 2012년 닌텐도 3DS 버추얼 콘솔 재출시판 및 GBA 합본과 구분한다. 패치 대상 카트리지 ROM 리비전, 게임 내 텍스트·메뉴·이미지 번역 범위 및 미번역, 적용 방법, 게임보이·슈퍼 게임보이 실기나 에뮬레이터 호환 여부는 확인하지 않았다. 설치·구동 시험은 실시하지 않았다. 이 아카이브에 GB 기종 ID가 없어 other(기타)로 분류하지만 실제 평가 대상은 GB 원작이다."
+      },
+      "reviewedAt": "2026-10-26",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/r2_ca7a97e5-47d1-4be6-b82e-cba906aae4ad.png",
+        "source": "https://gamesdb.launchbox-app.com/games/images/32863-nekketsu-beach-volley-da-yo-kunio-kun",
+        "platform": "other",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
