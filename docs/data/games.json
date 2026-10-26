@@ -14140,6 +14140,69 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "nekketsu-koukou-soccer-bu-world-cup-hen-gb",
+      "title": "열혈고교 축구부: 월드컵편 (GB)",
+      "original": "熱血高校サッカー部 ワールドカップ編",
+      "platforms": [
+        "other"
+      ],
+      "genres": [
+        "스포츠 액션",
+        "아케이드 축구",
+        "대전"
+      ],
+      "score": 6.2,
+      "summary": "1991년 4월 26일 테크노스 재팬이 발매한 게임보이(GB) 일본판 《熱血高校サッカー部 ワールドカップ編》(DMG-NCJ)을 평가했다. 해외 NES 《Nintendo World Cup》을 기반으로 열혈고교가 세계 팀들과 겨루는 축구 액션이며, 거친 태클과 캐릭터별 필살 슛, 국가별 테마곡, 모든 팀을 고를 수 있는 통신 대전은 여전히 매력적이다. 그러나 GB 하드웨어에 맞추며 선수·필살 슛의 속도감이 크게 떨어졌고 전술 선택지·수비 지시·경기장 구성과 연출이 축소됐으며 작은 화면에서는 주변 선수 파악도 어렵다. 휴대기 이식의 장점과 줄어든 조작·전술 완성도를 함께 고려해 6.2점. 《열혈》의 과장된 격투 축구를 좋아하는 팬에게 조건부 추천한다. 1990년 FC 《熱血高校ドッジボール部 サッカー編》과는 구분한 자료 기반 편집 평가이며 직접 플레이하지 않았고 한글패치 유무는 가산하지 않았다. 현재 사이트에 GB 플랫폼 ID가 없어 'other(기타)'로 분류했으며 게임 제목과 ID에서 GB판임을 구분한다.",
+      "pros": [
+        "태클로 상대를 날려버리고 특수한 궤적의 필살 슛으로 골을 노리는 《열혈》 시리즈의 호쾌하고 익살스러운 축구 시스템을 휴대기에서도 구현했다.",
+        "세계 여러 국가의 팀을 만나고 각 팀의 특징적인 선수를 상대하며, 통신 케이블 2인 대전에서는 모든 국가 팀을 선택할 수 있어 경쟁과 조합의 폭이 넓다.",
+        "작은 GB 화면에서도 큰 캐릭터 도트와 특유의 표정·움직임을 살렸으며, 기존 곡의 이식과 국가별 도입 테마 음악이 경기 분위기를 잘 전달한다.",
+        "한 경기의 시간이 비교적 짧고 두 버튼 중심의 슛·패스·태클 조작이 익숙해져 휴대하며 짬짬이 즐기기 좋다."
+      ],
+      "cons": [
+        "FC/NES 기반 원작에 비해 선수의 달리기와 필살 슛 속도가 전반적으로 느려져 원작의 폭발적인 속도감과 타격감이 많이 줄었다.",
+        "팀 작전·수비 행동·경기장 종류와 하프타임 연출 등이 축소되었고, 태클과 슬라이딩의 성능 차이도 작아져 전술의 선택폭이 좁다.",
+        "화면에서 보이는 필드 범위가 좁아 다른 선수와 패스 경로를 보기 어렵고, 캐릭터 깜빡임 때문에 경기 상황을 한눈에 파악하기 불편하다.",
+        "필살 슛의 발동 판정이 단순해져 공격이 비슷한 패턴으로 흐르기 쉽고 결말 연출도 담백해 경기 내외의 볼거리가 줄었다."
+      ],
+      "sources": [
+        {
+          "label": "패미통 - 1991년 4월 26일 게임보이판 발매 및 기본 정보",
+          "url": "https://www.famitsu.com/game/title/13601/reviews"
+        },
+        {
+          "label": "게임카탈로그@Wiki - GB 월드컵편의 FC/NES 대비 전술·속도·연출 평가",
+          "url": "https://w.atwiki.jp/gcmatome/pages/5877.html"
+        },
+        {
+          "label": "레트로보이 - GB판 실제 플레이 리뷰: 화면·필살 슛·짧은 경기",
+          "url": "https://retroboy.hatenablog.com/entry/2018/07/03/173000"
+        },
+        {
+          "label": "미디어월드 - 일본 GB판 DMG-NCJ·발매일·게임 소개",
+          "url": "https://mediaworld.co.jp/products/10188194003"
+        },
+        {
+          "label": "LaunchBox - Nintendo World Cup / Nekketsu Koukou Soccer-bu: World Cup Hen 게임보이 일본 Box - Front",
+          "url": "https://gamesdb.launchbox-app.com/games/details/20985-nintendo-world-cup"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/4266",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 1991년 4월 26일 일본 게임보이(GB)용 《熱血高校サッカー部 ワールドカップ編》(DMG-NCJ)으로, 1990년 FC 《熱血高校ドッジボール部 サッカー編》과 해외 GB 《Nintendo World Cup》의 지역판을 구분한다. 사이트에 GB 전용 플랫폼 ID가 없어 'other(기타)'로 등록하고 제목과 ID에 GB임을 명시했다. 사용자 제공 링크의 실제 지원 ROM 리비전·번역 범위·미번역 요소·적용 방법과 게임보이 실기·에뮬레이터 동작 여부는 확인하지 않았으며 설치 및 실행 시험도 하지 않았다."
+      },
+      "reviewedAt": "2026-10-26",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/273d9998-6ced-4260-9500-80ff1b3c7287.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/details/20985-nintendo-world-cup",
+        "platform": "other",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
