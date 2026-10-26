@@ -14267,6 +14267,72 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "nekketsu-kouha-kunio-kun-bangai-rantou-hen-gb",
+      "title": "열혈경파 쿠니오군: 번외난투편 (GB)",
+      "original": "熱血硬派くにおくん 番外乱闘編 (Nekketsu Kouha Kunio-kun: Bangai Rantou-hen, Game Boy)",
+      "platforms": [
+        "other"
+      ],
+      "genres": [
+        "벨트스크롤 액션",
+        "대전 액션"
+      ],
+      "score": 7.1,
+      "summary": "1990년 12월 7일 일본 게임보이판 《熱血硬派くにおくん 番外乱闘編》(DMG-KUJ) 평가. 친구 히로시를 다치게 한 세력에 맞서 쿠니오가 싸우는 10스테이지의 SD 캐릭터 벨트스크롤 액션이다. 펀치·킥·잡기·니드롭·점프 어퍼컷을 이용한 조작이 직관적이고 타격 및 날아가는 모션이 호쾌하다. 난도 3단계와 이어 하기, 통신 케이블을 이용해 쿠니오와 리키가 함께 싸우는 2인 플레이도 강점이다. 다만 적이 동시에 두 명 정도만 출현하고 일반 적·배경·공략법이 반복돼 단조로우며, 특정 강력한 연속기와 위치 조절로 대부분의 상대를 쉽게 제압할 수 있다. 쉬움 난도는 4스테이지까지만 진행되어 입문에 제약이 있다. 7.1/10. 짧은 휴대용 난투와 쿠니오군 특유의 통쾌한 액션을 원하는 사람에게 추천하지만 깊은 벨트스크롤 액션을 원한다면 아쉬울 수 있다. 서구의 《Double Dragon II》로 인물 및 연출을 변경해 재발매된 판본과 구분하는 일본 GB 원판의 자료 기반 편집 평가이며 직접 플레이·패치 설치를 하지 않았고 한글패치 유무를 점수에 반영하지 않았다.",
+      "pros": [
+        "A 버튼 펀치·B 버튼 킥과 양 버튼의 앉기, 잡기·연속 펀치·니드롭·점프 어퍼컷 등 간단한 2버튼 조작에 여러 기술이 응축돼 타격을 연계하는 손맛이 좋다.",
+        "점프 어퍼컷으로 적을 날리고 쓰러진 상대를 니드롭으로 마무리하는 호쾌한 연출과 데포르메된 SD 캐릭터의 피격·폭주 모션이 단색 화면에서도 개성을 드러낸다.",
+        "서로 다른 10개 스테이지와 여러 보스전, 3단계 난도 및 게임 오버 후 이어 하기가 있어 가볍게 반복 도전하기 적절하다.",
+        "게임보이 본체와 카트리지 2개·통신 케이블을 갖추면 쿠니오와 리키의 2인 동시 플레이가 가능해 혼자 싸울 때보다 난투의 재미가 커진다."
+      ],
+      "cons": [
+        "작은 화면의 제약으로 동시에 출현하는 적이 많지 않고 일반 적의 공격·반응이 단순해, 긴 전장을 다수의 상대와 싸우는 벨트스크롤 게임과 비교하면 전투가 반복적이다.",
+        "거리와 세로축을 조절해 적을 한 명씩 상대하거나 강력한 점프 어퍼컷과 연속 펀치를 반복하면 대부분의 적을 쉽게 제압할 수 있어 숙련자의 전술적 깊이는 제한적이다.",
+        "도시·역·열차·빌딩 등 10개 스테이지 중 배경과 졸개 적의 구성이 자주 재활용되며 파괴 가능한 오브젝트나 다양한 장비·아이템 등 환경 변화가 부족하다.",
+        "쉬움 난도에서는 4스테이지까지만 진행할 수 있어 낮은 난도로 전체 이야기를 체험할 수 없고, 통신 협력 플레이는 본체·소프트·케이블을 각자 갖추어야 즐길 수 있다."
+      ],
+      "sources": [
+        {
+          "label": "LaunchBox - 일본 Game Boy판 발매일·장르·박스 앞표지",
+          "url": "https://gamesdb.launchbox-app.com/games/details/423018-nekketsu-kouha-kunio-kun-bangai-ranto-hen"
+        },
+        {
+          "label": "Gekkio Game Boy hardware database - 일본판 DMG-KUJ 카트리지 및 북미 Double Dragon II 변형 구분",
+          "url": "https://gbhwdb.gekkio.fi/cartridges/DMG-KUJ-0/"
+        },
+        {
+          "label": "게임보이 마니아 - 일본 GB판 실플레이 리뷰: 타격감·난도·반복·동시 출현 적",
+          "url": "https://blog.gameboymania.com/2014/03/blog-post_76.html"
+        },
+        {
+          "label": "タコタ仙人 벨트게임 도장 - GB판 조작표·콤보·10스테이지·통신 2인 플레이 상세 공략",
+          "url": "https://ie3.sakura.ne.jp/kunio_bangai/index.html"
+        },
+        {
+          "label": "가격.com - 원작 기반 3DS VC 사용자 리뷰: 10스테이지·배경 반복·조작과 공략 방식",
+          "url": "https://review.kakaku.com/review/K0000742130/"
+        },
+        {
+          "label": "레트로게임의 책갈피 - 1990년 게임보이판 발매일·3단계 난도와 쉬움 제한",
+          "url": "https://retrogamebm.com/nekketsukoha-kuniokun-bangairanto-hen/"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/4264",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 1990-12-07 일본 오리지널 게임보이 카트리지판 《熱血硬派くにおくん 番外乱闘編》(DMG-KUJ)이다. 캐릭터·연출을 바꾼 미국/유럽 GB판 《Double Dragon II》 및 3DS 버추얼 콘솔 복각판과 구분한다. 제공 링크의 실제 지원 지역/ROM 리비전·이벤트/메뉴·대사 등의 번역 범위·미번역 항목·적용 방법, GB 실기와 에뮬레이터에서의 동작은 확인하지 않았고 패치를 설치하거나 검증하지 않았다."
+      },
+      "reviewedAt": "2026-10-26",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com//8b55a711-cad4-4427-972c-f14a3b1a0fc6.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/details/423018-nekketsu-kouha-kunio-kun-bangai-ranto-hen",
+        "platform": "other",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
