@@ -13870,6 +13870,71 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "yuusha-ou-gaogaigar-blockaded-numbers-ps1",
+      "title": "용자왕 가오가이가: 블록케이드 넘버즈",
+      "original": "勇者王ガオガイガー BLOCKADED NUMBERS",
+      "platforms": [
+        "ps1"
+      ],
+      "genres": [
+        "ADV",
+        "애니메이션 어드벤처",
+        "미니게임"
+      ],
+      "score": 7.2,
+      "summary": "1999년 4월 8일 타카라가 일본 PS1으로 발매한 《勇者王ガオガイガー BLOCKADED NUMBERS》(SLPS-01980). TV 애니메이션의 사이에 존재하는 공식 외전 14.5화와 43.2화를 선택지·탐색·미니게임을 통해 체험하는 애니메이션 중심 ADV다. 원작 제작진이 참여한 새 영상·원작 성우들의 연기와 본편을 보충하는 사건, 분기와 다중 결말은 팬에게 큰 매력이다. 반면 직접 조작보다는 동영상 감상이 중심이고 미니게임의 규칙 및 완성도가 고르지 않으며, 본편을 모르면 이야기의 감흥이 떨어지고 수록 시나리오도 두 편뿐이다. 애니메이션 외전으로서의 가치와 게임 자체의 제한적인 상호작용을 함께 고려해 7.2점. 《가오가이가》 TV판 팬에게 추천하며 본격 액션 게임을 찾는 사람에게는 비추천한다. 공식 작품 사이트·PS1 발매 정보와 이용자 리뷰에 근거한 자료 기반 편집 평가이며 직접 플레이하지 않았고 한글패치 유무는 점수에 반영하지 않았다.",
+      "pros": [
+        "TV 애니메이션 제14화와 15화 사이의 number 14.5, 43화와 44화 사이의 number 43.2를 공식 외전으로 다루어 원작 사건과 이어지는 미공개 이야기를 즐길 수 있다.",
+        "요네타니 요시토모 감수·타니구치 고로 감독 등 원작 관계자가 참여한 애니메이션과 원작 성우진의 음성 연출로 TV 시리즈 특유의 열기와 필살기 장면을 되살린다.",
+        "대화 선택·탐색·미니게임의 성공 여부가 분기와 결말에 반영되며 43.2화에는 다른 외전과 연결되는 여러 전개가 마련되어 팬 대상의 재감상 가치가 있다."
+      ],
+      "cons": [
+        "전개 대부분을 애니메이션 영상 시청이 차지하여 직접 로봇을 움직이거나 전투를 자유롭게 조작하는 액션 게임으로 기대하면 실망하기 쉽다.",
+        "몇몇 미니게임은 맥락과 조작 규칙이 직관적이지 않고 상황에 맞지 않게 느껴진다는 이용자 평가가 있으며, 영상 부분에 비해 게임 시스템의 깊이가 얕다.",
+        "TV 시리즈 중간에 끼워 넣는 두 편의 외전이므로 사전 인물·사건 이해가 요구되고, 장편 독립 모험이나 많은 시나리오 분량을 기대하면 부족하다."
+      ],
+      "sources": [
+        {
+          "label": "용자왕 가오가이가 공식 홈페이지 - 게임 외전 14.5·43.2 및 원작 제작진·분기",
+          "url": "https://www.gaogaigar.net/TV/sp/clm01.html"
+        },
+        {
+          "label": "패미통 - 1999년 4월 8일 PS1판 발매·타카라·ADV",
+          "url": "https://www.famitsu.com/game/title/4774/page/1"
+        },
+        {
+          "label": "GameFAQs - 일본판 고유 제품 번호 SLPS-01980",
+          "url": "https://gamefaqs.gamespot.com/ps/575257-yuusha-ou-gaogaigar-blockaded-numbers/data"
+        },
+        {
+          "label": "피코피코 대백과 - PS1판 이용자 리뷰, 영상 중심·미니게임 평가",
+          "url": "https://www.gavas.jp/products/detail.php?product_id=7607"
+        },
+        {
+          "label": "Brave Saga Wiki - ADV 탐색·미니게임과 분기 구조",
+          "url": "https://bravesaga.fandom.com/wiki/GaoGaiGar:_Blockaded_Numbers"
+        },
+        {
+          "label": "LaunchBox - PS1 일본판 실제 박스 앞표지",
+          "url": "https://gamesdb.launchbox-app.com/games/images/128621-yuusha-ou-gaogaigar-blockaded-numbers"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/4478",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 1999년 4월 8일 일본 PS1판 《勇者王ガオガイガー BLOCKADED NUMBERS》(SLPS-01980)이며 TV 애니메이션 본편과 다른 가오가이가 게임·영상 매체를 구분한다. 제공된 패치 링크의 실제 지원 디스크 및 리비전, 외전 2편·대사·선택지·영상 자막·메뉴·이미지의 번역 범위, 미번역 부분과 적용 방법, PS1 실기/에뮬레이터 작동 여부는 확인하지 않았으며 패치를 직접 설치·구동하지 않았다."
+      },
+      "reviewedAt": "2026-10-26",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/52c39e4b-b011-4e63-a8e6-ce68808e5557.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/128621-yuusha-ou-gaogaigar-blockaded-numbers",
+        "platform": "ps1",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
