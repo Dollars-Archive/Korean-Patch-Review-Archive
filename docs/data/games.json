@@ -14203,6 +14203,70 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "nekketsu-koukou-dodgeball-bu-kyouteki-dodge-soldier-gb",
+      "title": "열혈고교 피구부: 강적! 투구전사의 권 (GB)",
+      "original": "熱血高校ドッジボール部 ～強敵!闘球戦士の巻～ (Game Boy)",
+      "platforms": [
+        "other"
+      ],
+      "genres": [
+        "스포츠 액션",
+        "피구",
+        "대전 액션"
+      ],
+      "score": 6.2,
+      "summary": "1991년 11월 8일 출시된 일본 게임보이 원판 《熱血高校ドッジボール部 ～強敵!闘球戦士の巻～》(DMG-NDJ)에 대한 평가. 패미컴판 《열혈고교 피구부》를 바탕으로 새롭게 꾸민 작품으로, 쿠니오가 펑크·야쿠자·산적·몬스터·히어로·닌자 등 여섯 팀과 싸운다. 선수별 능력과 개성 있는 필살 슛·편성, 독특한 승패 모션, 2인 대전과 최대 4인 난투의 즐거움이 살아 있다. 그러나 작은 화면으로 상대 위치를 볼 수 없는 문제가 크고, 조작 캐릭터의 지속적인 점멸과 한 명씩만 볼 수 있는 체력 표시, 지나치게 까다로운 필살기 조작과 일부 상대 팀의 패스 반복·버그가 완성도를 떨어뜨려 6.2점. 짧은 고전 피구 액션과 쿠니오군 캐릭터를 좋아하는 팬에게 조건부 추천한다. 게임보이 일본판의 자료와 리뷰를 토대로 한 편집 평가로 직접 플레이하지 않았으며 한글패치 여부는 점수에 반영하지 않았다.",
+      "pros": [
+        "펑크·야쿠자·산적·몬스터·히어로·닌자 등 여섯 개의 전용 상대 팀과 쿠니오를 제외한 새로운 동료가 원작 피구를 색다르게 구성한다.",
+        "선수마다 체력·공격력·필살 슛이 달라 내야·외야 배치와 패스·캐치·회피 타이밍을 활용하는 전략성이 남아 있다.",
+        "소멸·페인트·흡인 등 개성 있는 필살기, 다양한 얼굴 및 피격·승패 모션과 특색 있는 팀별 BGM이 열혈 시리즈 특유의 유머를 살린다.",
+        "대전 모드와 4인 난투를 갖추었고 별도 게임보이 본체·소프트와 통신 장비를 준비하면 최대 4명이 함께 즐길 수 있다."
+      ],
+      "cons": [
+        "GB의 작은 화면에서는 자신이 공을 소유한 순간에도 상대 내야의 위치가 잘 보이지 않아 공의 궤도를 예상하고 정확히 노리는 재미가 약하다.",
+        "조작 캐릭터가 계속 깜빡이고 현재 선수의 체력만 표시되어 누가 맞았는지와 팀원 전체의 남은 체력을 즉시 파악하기 어렵다.",
+        "필살 점프 슛의 발동 타이밍이 상당히 까다롭고 움직임도 뻣뻣해 원하는 순간에 슛을 내기가 어렵다.",
+        "산적 팀 등 일부 CPU는 패스를 오래 반복하고, 일부 상황에는 쓰러진 선수가 다시 일어나는 버그가 있어 불필요하게 경기가 길어진다.",
+        "한 번 패배하면 처음부터 다시 시작해야 하고, 여섯 팀 위주의 싱글 구성은 짧게 즐기기에는 적당하지만 반복 도전의 부담이 크다."
+      ],
+      "sources": [
+        {
+          "label": "스루가야 - 일본 GB판 DMG-NDJ 품번·발매일·제작사",
+          "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/165000237"
+        },
+        {
+          "label": "게임 카탈로그@Wiki - GB판 시스템·팀 구성·장점과 조작·시야·버그 문제",
+          "url": "https://w.atwiki.jp/gcmatome/pages/9373.html"
+        },
+        {
+          "label": "メガネなゲームレビュー - 2015년 GB 실플레이 감상과 장단점",
+          "url": "https://meganenagamereview.blog.jp/archives/1033100892.html"
+        },
+        {
+          "label": "레트로게임 설명서 보관소 - GB판 원판과 다른 팀·게임 진행의 특성",
+          "url": "https://gamemanual.midnightmeattrain.com/entry/%E7%86%B1%E8%A1%80%E9%AB%98%E6%A0%A1%E3%83%89%E3%83%83%E3%82%B8%E3%83%9C%E3%83%BC%E3%83%AB%E9%83%A8_%EF%BD%9E%E5%BC%B7%E6%95%B5%EF%BC%81%E9%97%98%E7%90%83%E6%88%A6%E5%A3%AB%E3%81%AE%E5%B7%BB%EF%BD%9E"
+        },
+        {
+          "label": "LaunchBox - GB 일본판 Box - Front (640×749)",
+          "url": "https://gamesdb.launchbox-app.com/games/images/33799-nekketsu-koukou-dodgeball-bu-kyouteki-dodge-soldier-no-maki"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/4267",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 대상은 일본 게임보이 카트리지판(1991-11-08, DMG-NDJ)이다. 패미컴판 및 3DS 버추얼 콘솔판과 구분한다. 제공 URL의 실제 지원 리비전·번역 범위·미번역 부분·적용 절차·GB 실기 또는 에뮬레이터 동작 여부는 확인하지 않았고 패치 설치·실행 검증을 수행하지 않았다."
+      },
+      "reviewedAt": "2026-10-26",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/26abb9d6-88d5-46f8-928c-22c7a6703c97.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/33799-nekketsu-koukou-dodgeball-bu-kyouteki-dodge-soldier-no-maki",
+        "platform": "other",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
