@@ -18042,6 +18042,70 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "ar-tonelico-melody-of-elemia-ps2",
+      "title": "알 토네리코: 세계의 끝에서 계속 노래하는 소녀",
+      "original": "アルトネリコ 世界の終わりで詩い続ける少女 (Ar tonelico: Melody of Elemia)",
+      "platforms": [
+        "ps2"
+      ],
+      "genres": [
+        "JRPG",
+        "턴제 RPG",
+        "판타지",
+        "캐릭터 육성"
+      ],
+      "score": 8.1,
+      "summary": "2006년 1월 26일 발매된 일본 PS2 오리지널 초판 《アルトネリコ 世界の終わりで詩い続ける少女》(SLPS-25604) 기준. 노래가 마법이 되는 탑의 세계를 무대로, 레바테일의 마음속 세계인 코스모스피어를 탐험해 관계를 깊게 하고 새로운 노래 마법을 얻는 독창적인 JRPG다. 히므노스어 성악곡, 세밀한 세계관, 다채로운 인물별 이야기와 아이템 조합이 높은 몰입감을 선사한다. 반면 노래 마법이 지나치게 강해 전투가 쉬워지고 긴 대화와 지역 재방문, 낡은 시각 표현 및 성적 암시가 강한 농담은 호불호가 갈린다. 음악과 캐릭터 서사, 세계관의 독창성을 높이 평가하되 전투 밸런스와 진행 속도를 감안해 8.1점. 이야기와 음악에 몰입하는 JRPG 팬에게 추천한다. 일본판 기본 정보와 PS2판 전문 리뷰를 종합한 편집 평가이며 직접 플레이하지 않았다. 북미 영어판 현지화의 오류는 일본판 결점으로 간주하지 않았고 한글패치 유무는 점수에 반영하지 않았다.",
+      "pros": [
+        "레바테일의 마음속 세계를 이야기·선택지로 탐험하는 코스모스피어가 인물의 감정과 성장, 노래 마법 습득을 연결해 독특한 캐릭터 서사를 만든다.",
+        "히므노스어 성악곡과 감정에 맞춘 음악, 탑과 부유 대륙의 세밀한 설정이 판타지 세계에 강한 개성을 부여한다.",
+        "후위 레바테일을 보호하며 노래 마법을 충전·발동하는 전투 구조와 그라스메르크 아이템 조합이 일반적인 턴제 RPG와 차별화된다.",
+        "인물별 이야기 분기와 대화 이벤트, 여러 엔딩·육성 요소가 캐릭터 중심의 반복 플레이 동기를 제공한다."
+      ],
+      "cons": [
+        "충전한 노래 마법의 위력이 지나치게 강해 일반전과 보스전의 난도가 낮고 전략적 긴장감이 오래 유지되지 않는다.",
+        "긴 연애·대화 이벤트가 진행을 자주 끊고, 후반에는 같은 장소를 여러 차례 오가며 이야기의 속도가 떨어진다.",
+        "PS2 동시대 작품과 비교해 단순한 필드 그래픽과 작은 캐릭터 표현 등 화면 연출이 다소 낡았다.",
+        "성적 암시가 강한 농담과 인물 관계 중심 전개가 세계의 모험이나 진지한 서사를 기대한 플레이어에게 부담스러울 수 있다."
+      ],
+      "sources": [
+        {
+          "label": "Suruga-ya - 일본 PS2 초판(SLPS-25604)과 2006-01-26 발매 정보",
+          "url": "https://www.suruga-ya.jp/product/detail/144003237?tenpo_cd=400485"
+        },
+        {
+          "label": "RPGFan - PS2판 상세 리뷰, 세계관·코스모스피어·전투·음악",
+          "url": "https://www.rpgfan.com/review/ar-tonelico-melody-of-elemia/"
+        },
+        {
+          "label": "RPGamer - PS2판 리뷰, 진행 속도·육성·오디오 평가",
+          "url": "https://rpgamer.com/review/ar-tonelico-melody-of-elemia-review/"
+        },
+        {
+          "label": "GameSpot - PS2판 리뷰, 노래 전투·대화 비중·난도",
+          "url": "https://www.gamespot.com/reviews/ar-tonelico-melody-of-elemia-review/1900-6165576/"
+        },
+        {
+          "label": "LaunchBox - 일본 PS2판 Box - Front (Japan) 확인",
+          "url": "https://gamesdb.launchbox-app.com/games/images/5617-ar-tonelico-melody-of-elemia"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/3323",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가는 2006-01-26 일본 PS2 오리지널 일반판(SLPS-25604) 기준. 제공된 주소에서 실제 지원 디스크 지역·리비전, 번역 범위(대사·메뉴·노래 가사·이미지 등)·미번역 구간과 적용 방법, 실기·에뮬레이터 호환성은 확인하지 않았다. 패치를 다운로드하거나 설치·구동 검증하지 않았다."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com/67b6edb9-ff43-4537-91fd-40622d03d67d.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/5617-ar-tonelico-melody-of-elemia",
+        "platform": "ps2",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-10-30",
+      "reviewer": "WebGPT"
     }
   ]
 }
