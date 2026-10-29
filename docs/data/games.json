@@ -17927,6 +17927,62 @@
       },
       "reviewedAt": "2026-10-30",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "shinseiki-gpx-cyber-formula-vs-psp",
+      "title": "사이버 포뮬러 VS",
+      "original": "新世紀GPXサイバーフォーミュラVS",
+      "platforms": [
+        "psp"
+      ],
+      "genres": [
+        "레이싱",
+        "미래형 아케이드 레이싱"
+      ],
+      "score": 6.7,
+      "summary": "원작의 개성적인 머신과 속도감, 다채로운 모드·튜닝/육성 시스템이 돋보이는 PSP용 미래형 레이싱 게임. 그러나 무겁고 예측하기 어려운 핸들링, 과한 충돌 감속, 해금 노가다가 완성도를 깎아 6.7점. 사이버 포뮬러 팬이나 기체 수집·튜닝을 즐기는 사람에게 권하며 정교한 레이싱 조작을 중시한다면 신중히 추천. 공개 자료를 바탕으로 한 편집 평가로 직접 플레이한 점수는 아님.",
+      "pros": [
+        "원작 드라이버와 개성 있는 머신, 레이스 중 캐릭터 연출 및 레트로 애니메이션풍 음악이 팬 서비스를 충실히 제공한다.",
+        "부스트·타이어 마모·피트 전략에 더해 100종 이상의 부품과 드라이버 능력 육성을 결합해 차량별 운용 방식이 다양하다.",
+        "GPX 대회, 서바이벌, 대결, 타임어택, 최고속 도전 등 모드가 풍부하고 기록 달성에 따른 차량 해금 동기가 있다."
+      ],
+      "cons": [
+        "PSP 실기 조작에서 핸들링이 둔하고 그립·드리프트 전환이 까다로워 좁은 코스에서 원치 않는 벽 충돌이 잦다.",
+        "다른 차량과 살짝 닿아도 플레이어 쪽 감속이 지나치게 커 AI와의 대결이 불합리하게 느껴진다.",
+        "차량·부품 구매 포인트 획득이 더뎌 반복 플레이를 강요하고, 스토리·대사 비중과 음악 종류도 제한적이다."
+      ],
+      "sources": [
+        {
+          "label": "GameFAQs - PSP 일본판 발매 정보 및 장르",
+          "url": "https://gamefaqs.gamespot.com/psp/946157-shinseiki-gpx-cyber-formula-vs/data"
+        },
+        {
+          "label": "The Pixel Empire - PSP판 리뷰 (2023)",
+          "url": "https://www.thepixelempire.net/shinseiki-gpx-cyber-formula-vs-psp-review.html"
+        },
+        {
+          "label": "콘슈머게임대사전 - PSP판 특징 및 평가",
+          "url": "https://consoledictionary.com/games/26312"
+        },
+        {
+          "label": "Siliconera - PSP판 출시 당시 수록 요소",
+          "url": "https://www.siliconera.com/sunrise-shifts-gpx-cyber-formula-games-to-the-psp/"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/3470",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. PSP 일본판 대상 여부·번역 범위·적용 방법·실기 구동은 확인하지 않음."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com/ec02c34d-66ee-4737-9ae4-51db86238803.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/129443-shinseiki-gpx-cyber-formula-vs",
+        "platform": "psp",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-10-30",
+      "reviewer": "WebGPT"
     }
   ]
 }
