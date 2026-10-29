@@ -16871,6 +16871,62 @@
       },
       "reviewedAt": "2026-10-30",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "downtown-special-kunio-kun-jidaigeki-fc",
+      "title": "다운타운 스페셜: 쿠니오군의 시대극이다 전원집합! (FC)",
+      "original": "ダウンタウンスペシャル くにおくんの時代劇だよ全員集合！",
+      "platforms": [
+        "other"
+      ],
+      "genres": [
+        "ACT",
+        "RPG"
+      ],
+      "score": 8.4,
+      "summary": "《다운타운 열혈이야기》의 타격 액션과 성장·상점 요소를 전국 자유 이동형 시대극으로 확장한 FC판. 2인 협력과 폭넓은 필살기·무기 활용이 즐겁지만 복잡한 지역 이동, 메뉴 편의성, 반복 전투가 감점 요인으로 8.4점. 자유도 높은 레트로 난투 액션을 좋아하는 플레이어에게 추천한다. 공개 자료 기반 편집 평가이며 직접 플레이한 점수는 아니다.",
+      "pros": [
+        "다양한 기본 공격, 필살기와 던지거나 휘두를 수 있는 주변 물건이 어우러져 FC 기준으로 높은 액션 자유도를 제공한다.",
+        "일본 전국을 누비는 비선형 이동과 상점·성장·동료 영입, 숨겨진 요소가 반복 플레이의 동기를 만든다.",
+        "2인 협력과 CPU 동료 설정으로 혼자 또는 함께 플레이할 수 있고, 시대극 분위기의 민요 편곡 음악과 익살스러운 연출이 개성을 더한다."
+      ],
+      "cons": [
+        "연결 구조가 직관적이지 않은 지역이 있어 목적지나 이동 경로를 찾는 데 시간을 허비할 수 있다.",
+        "상점 아이템 효과에 대한 설명과 메뉴의 가독성·조작성 등 진행 편의가 현대 기준으로 부족하다.",
+        "적을 찾아 이동하고 비슷한 싸움을 되풀이하기 쉽고, CPU 동료의 공격 간섭과 성장 후 낮아지는 난도가 전투 균형을 흔들 수 있다."
+      ],
+      "sources": [
+        {
+          "label": "패미통 - FC 발매 기본 정보",
+          "url": "https://www.famitsu.com/game/title/4052/reviews"
+        },
+        {
+          "label": "MobyGames - FC판 게임 시스템 및 소개",
+          "url": "https://www.mobygames.com/game/24740/downtown-special-kunio-kun-no-jidaigeki-da-yo-zenin-shugo/"
+        },
+        {
+          "label": "게임 카탈로그@Wiki - 작품 평가·장단점",
+          "url": "https://w.atwiki.jp/gcmatome/pages/3396.html"
+        },
+        {
+          "label": "게임＊야오요로즈 Retro - FC판 플레이 감상",
+          "url": "https://mimora.mimoza.jp/yao_game/retro/contents/ctg_main/memorandum/FC/detail/gmr_FC-0009.php"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/3484",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 1991-07-26 일본 패미컴(FC) 카트리지판(TJC-J6)으로, 1993년 게임보이판 및 후대 합본·이식판과 구별한다. 아카이브에는 FC 전용 기종 ID가 없어 'other(기타)'에 등록하며 게임 제목과 ID에 FC를 명시했다. 해당 패치 주소의 실제 지원 ROM 리비전, 번역 범위·미번역 요소, 설치 방법, 실기·에뮬레이터 동작은 확인하지 않았고 패치 설치·실행 시험도 하지 않았다."
+      },
+      "reviewedAt": "2026-10-30",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://cdn.wikimg.net/en/strategywiki/images/d/da/Downtown_Special_Kunio-kun_no_Jidaigeki_da_yo_Zenin_Sh%C5%ABg%C5%8D%21_Famicom_box.jpg",
+        "source": "https://strategywiki.org/wiki/Downtown_Special%3A_Kunio-kun_no_Jidaigeki_da_yo_Zenin_Shuugou%21",
+        "platform": "other",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
