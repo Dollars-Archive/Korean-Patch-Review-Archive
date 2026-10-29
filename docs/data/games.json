@@ -19592,6 +19592,68 @@
       },
       "reviewedAt": "2026-10-30",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "rinne-tsukihime-gba",
+      "title": "월희",
+      "original": "輪廻月姫",
+      "platforms": [
+        "gba"
+      ],
+      "genres": [
+        "비주얼 노벨",
+        "미스터리",
+        "호러 ADV"
+      ],
+      "score": 7.8,
+      "summary": "2001년 Inside-Cap(帽子屋インサイド)이 TYPE-MOON의 허가를 받아 제공한 GBA용 원작 『월희』 변환판 『輪廻月姫』를 대상으로 한다. 정식 GBA 카트리지 발매작이 아니라 PC판 원본 디스크를 이용해 GBA ROM 이미지를 제작하는 변환 도구를 통해 접하는 작품이며, 2003년 『輪廻月姫 BOX EDITION』이나 2021년 리메이크와 별개다. 토오노 시키의 시점을 따라가는 기묘한 사건과 인물별 분기, 흡혈귀·가족의 비밀을 둘러싼 이야기의 흡인력은 뛰어나다. 다만 장시간 읽기에는 작은 GBA 화면, 원작의 간소한 그래픽·음성 부재, 일부 루트의 공통 전개 반복, 변환 도구 및 에뮬레이터 구동 제약으로 휴대용판의 편의성이 떨어져 7.8점. 음산한 미스터리와 인물 중심 서사를 좋아하고 GBA용 특이 이식작 자체에 관심 있는 이용자에게 추천한다. 원작 리뷰, GBA 변환판 상품 설명과 구동 관련 자료 기반 편집 평가이며 직접 플레이하지 않았고 한국어 패치의 존재 여부는 점수에 반영하지 않았다.",
+      "pros": [
+        "토오노 시키의 지각과 사건을 중심으로 일상과 초자연적 공포가 교차해 서스펜스와 이야기의 몰입감이 강하다.",
+        "아르퀘이드·시엘·아키하·히스이·코하쿠 등 인물별 분기가 서로 다른 비밀과 관점을 드러내 재독과 선택지 탐색의 가치를 만든다.",
+        "음악과 절제된 배경 연출로 음산한 분위기를 구축한 원작의 장편 비주얼 노벨을 GBA용으로 변환할 수 있게 한 독특한 휴대용 시도가 돋보인다."
+      ],
+      "cons": [
+        "문장량이 많은 비주얼 노벨을 작은 GBA 화면에서 장시간 읽어야 하므로 큰 화면의 PC 원작보다 가독성과 편안함이 떨어질 수 있다.",
+        "여러 루트가 공통 도입부와 일부 전개를 공유해 반복 구간을 다시 읽는 일이 부담스럽고, 원작 자체도 인물·적의 구성에 편차가 있다.",
+        "초기 동인 작품다운 단순한 시각 연출, 제한적인 곡 수, 캐릭터 음성 부재는 이후 비주얼 노벨과 비교하면 낡게 느껴진다.",
+        "정식 카트리지가 아닌 PC 원본 디스크 기반의 ROM 생성 도구가 필요하며, Inside-Cap 계열 변환작은 에뮬레이터 감지·인증 관련 구동 문제가 보고되어 접근성이 낮다."
+      ],
+      "sources": [
+        {
+          "label": "駿河屋 - 輪廻月姫[トールケース版] (INSCD-0001), GBA ROM 생성 도구·원본 요구 및 GBA 패키지 앞표지",
+          "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/186003361"
+        },
+        {
+          "label": "336GameReviews - 원작 Tsukihime (R18+) 리뷰, 인물·분기·연출·약점 (2019-06-28)",
+          "url": "https://www.336gamereviews.com/tsukihime-r18-review/"
+        },
+        {
+          "label": "Tsuki-kan - TYPE-MOON 원작 월희의 발매·세계관 소개",
+          "url": "https://tsukikan.com/tmdb/tsukihime"
+        },
+        {
+          "label": "RetroAchievements - 2001 GBA 윤회월희와 2003 BOX EDITION의 판본 구분",
+          "url": "https://retroachievements.org/forums/topic/25588"
+        },
+        {
+          "label": "mGBA GitHub #1815 - Inside-Cap GBA 변환작의 에뮬레이터 감지 문제 보고",
+          "url": "https://github.com/mgba-emu/mgba/issues/1815"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/3092",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 사용자는 대상 분류를 GBA개조로 지정함. 평가 대상은 『輪廻月姫』 GBA 변환판이며 원작 PC판, 2003년 『輪廻月姫 BOX EDITION』 및 2021년 리메이크와 구분. 제공된 패치가 실제로 2001년판·2003년판 중 어느 변환 결과물을 지원하는지, 한국어 번역 범위·미번역·버전·적용 방법·배포 상태는 확인하지 않음. 실기 및 에뮬레이터에서의 패치 설치·구동 검증도 수행하지 않음."
+      },
+      "reviewedAt": "2026-10-30",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://www.suruga-ya.jp/database/pics/game/186003361.jpg",
+        "source": "https://www.suruga-ya.jp/kaitori/kaitori_detail/186003361",
+        "platform": "gba",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
