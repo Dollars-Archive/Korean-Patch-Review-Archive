@@ -16208,6 +16208,73 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "animetic-story-game-1-cardcaptor-sakura-ps1",
+      "title": "애니메틱 스토리 카드캡터 사쿠라",
+      "original": "アニメチックストーリーゲーム① カードキャプターさくら (Animetic Story Game 1: Cardcaptor Sakura)",
+      "platforms": [
+        "ps1"
+      ],
+      "genres": [
+        "어드벤처",
+        "애니메이션 ADV",
+        "미니게임"
+      ],
+      "score": 7,
+      "summary": "1999년 8월 5일 일본 PS1 일반판 《アニメチックストーリーゲーム① カードキャプターさくら》(SLPS-01830~01831, CD-ROM 2장)을 평가했다. 제작사 아리카가 TV 애니메이션 초반부의 크로우 카드 수집 이야기를 작은 SD 캐릭터, 애니메이션 영상, 대화·이벤트와 미니게임으로 다시 구성한 인터랙티브 애니메이션 어드벤처다. 14개 에피소드에서 사쿠라를 조작하며 케로·토모요 등 익숙한 인물들을 만나고, 원작 음성 연기와 갤러리·포켓스테이션 대응 요소를 즐길 수 있다. 원작의 따뜻한 분위기와 캐릭터 재현이 뛰어나고 초심자도 접근하기 쉽다. 그러나 이야기와 행동이 거의 정해져 있고 미니게임과 퍼즐도 대체로 단순하며, 원작의 모든 카드·에피소드를 담지는 못했다. 시나리오를 모두 감상한 뒤 반복해서 즐길 요소도 제한적이다. 팬용 체험 게임으로서의 정성을 높게 평가하되 독립 게임의 깊이가 부족해 7.0점. 《카드캡터 사쿠라》 TV 애니메이션 팬과 가벼운 스토리 중심 어드벤처를 좋아하는 사람에게 추천한다. 아리카 공식 제품 소개와 PS1판 이용자 리뷰에 기반한 편집 평가이며 직접 플레이한 결과가 아니고 한글패치 유무는 점수에 반영하지 않았다.",
+      "pros": [
+        "TV 애니메이션의 주요 장면을 영상으로 삽입하고 작고 표정 풍부한 SD 캐릭터를 움직이게 해 사쿠라와 케로, 토모요 등 원작 인물과 분위기를 충실히 재현한다.",
+        "인물의 대화를 원작에 가까운 풍부한 음성으로 들을 수 있어 익숙한 이야기를 직접 체험하는 팬서비스의 만족도가 높다.",
+        "14개의 짧은 에피소드에서 다양한 크로우 카드 관련 사건을 따라가며 주변 인물·장소를 조사하고 상황에 맞는 미니게임을 해결하는 구성으로 접근성이 좋다.",
+        "게임에서 얻는 포인트로 영상·음성·설정화 등을 감상할 수 있는 갤러리와 포켓스테이션 대응 등 소장·감상 요소가 마련되어 있다."
+      ],
+      "cons": [
+        "애니메이션 내용을 거의 그대로 따라가는 직선적 진행이라 탐험 경로·대사 선택·사건 해결 방식에 플레이어가 개입할 여지가 적다.",
+        "캐릭터 이동과 상호작용은 기본 방향키·확인 버튼 위주이며 미니게임도 비교적 단순해서 본격적인 액션·퍼즐의 깊이를 기대하면 실망하기 쉽다.",
+        "원작의 모든 크로우 카드와 사건을 수록하지 않고 14개 에피소드로 압축해, 좋아하는 이야기나 카드가 생략된 팬에게 아쉬울 수 있다.",
+        "한 번 스토리를 완료하면 보너스 갤러리·미니게임 재도전 외에 새로운 분기와 보상이 적어 재플레이 가치가 낮다."
+      ],
+      "sources": [
+        {
+          "label": "아리카 공식 - 1999년 일본 PS1판 발매일·2장 구성·ADV 시스템·포켓스테이션 대응",
+          "url": "https://www.arika.co.jp/product/sakura_hp/cc1_index.html"
+        },
+        {
+          "label": "패미통 - 일본 PS1판 1999-08-05 발매·제작사·장르",
+          "url": "https://www.famitsu.com/game/title/18806/reviews"
+        },
+        {
+          "label": "GameFAQs - PS1판 이용자 리뷰 (Rin-Coconut, 2017): 14화 구성·음성·애니메이션·미니게임·팬 중심 평가",
+          "url": "https://gamefaqs.gamespot.com/ps/575609-animetic-story-game-1-card-captor-sakura/reviews/165098"
+        },
+        {
+          "label": "GameFAQs - PS1판 이용자 리뷰 (Sumo_kun, 2004): 인터랙티브 애니메이션 방식과 제한된 게임성",
+          "url": "https://gamefaqs.gamespot.com/ps/575609-animetic-story-game-1-card-captor-sakura/reviews/71185"
+        },
+        {
+          "label": "피코피코 대백과 - 일본 PS1판 이용자 리뷰·풀보이스·갤러리·일부 카드 생략",
+          "url": "https://www.gavas.jp/products/detail.php?product_id=8380"
+        },
+        {
+          "label": "LaunchBox - PS1 일본 일반판 Box - Front (1280×1294)",
+          "url": "https://gamesdb.launchbox-app.com/games/images/105051-animetic-story-game-1-cardcaptor-sakura"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/4596",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 게임 평가는 1999-08-05 일본 PS1 일반판 《アニメチックストーリーゲーム① カードキャプターさくら》(SLPS-01830~01831, 2CD) 기준으로 하며, 2000년 PS1 《カードキャプターさくら クロウカードマジック》와 다른 게임이다. 제공 링크의 실제 지원 디스크·게임 리비전, 대사·메뉴·미니게임·영상/그래픽의 번역 범위와 미번역 요소, 적용 방법, PS1 실기 및 에뮬레이터 호환성은 확인하지 않았으며 설치·구동 검증도 하지 않았다."
+      },
+      "reviewedAt": "2026-10-30",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/384f14cd-4953-40b5-b5d0-ab4dfa770585.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/105051-animetic-story-game-1-cardcaptor-sakura",
+        "platform": "ps1",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
