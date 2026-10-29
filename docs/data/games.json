@@ -19196,6 +19196,73 @@
       },
       "reviewedAt": "2026-10-30",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "musou-orochi-2-ultimate-ps3",
+      "title": "무쌍 오로치 2 얼티밋",
+      "original": "無双OROCHI2 Ultimate (Warriors Orochi 3: Ultimate)",
+      "platforms": [
+        "ps3"
+      ],
+      "genres": [
+        "택티컬 액션",
+        "핵 앤 슬래시",
+        "무쌍 액션"
+      ],
+      "score": 8.5,
+      "summary": "2013년 9월 26일 발매된 일본 PS3 일반판 《無双OROCHI2 Ultimate》(BLJM-61084) 기준. 《진·삼국무쌍》·《전국무쌍》 등에서 모인 140명 이상의 캐릭터, 3인 교대·트리플 러시·합체기와 방대한 육성, 전일담·후일담·추가 전투, 5인 편성 언리미티드 모드가 대규모 무쌍의 재미를 극대화한다. 그러나 비슷한 적 소탕·이동 패턴이 거듭되고 전 캐릭터 육성의 반복 부담이 크며, PS3판의 화면 표시·처리 관련 한계와 다소 번거로운 모드 구조가 아쉽다. 무쌍식 대규모 전투와 장기 파밍을 좋아한다면 8.5점으로 강력 추천하며 반복 전투를 싫어한다면 취향이 갈릴 수 있다. 제작사·패미통 PS3판 전문 평가와 일본판 이용자 후기를 종합한 자료 기반 편집 평가로 직접 플레이하지 않았고, 한글패치 유무는 점수에 반영하지 않았다.",
+      "pros": [
+        "140명 이상의 삼국·전국·외전 및 협업 캐릭터를 자유롭게 조합하며 각자의 기술과 전투 타입을 시험하는 크로스오버의 재미가 압도적이다.",
+        "3인 팀 교대와 트리플 러시·진 무쌍 버스트로 공격을 끊김 없이 이어가며 대군을 쓸어버리는 타격감과 연출이 뛰어나다.",
+        "원작 《무쌍OROCHI2》 전체 분량에 전일담·후일담·외전과 신규 인물을 더해 스토리와 전투 무대가 풍부하다.",
+        "5인 편성 언리미티드 모드의 진형·전리품 선택, 강력한 무기 수집과 전생 육성, 진·무쌍의 전장 편집 등의 장기 도전 요소가 풍부하다."
+      ],
+      "cons": [
+        "광대한 전장이라도 적장을 찾아 이동하고 적군을 대량 격파하는 전투 구조가 반복돼 긴 플레이 동안 단조로울 수 있다.",
+        "등장 무장이 워낙 많아 전원 레벨업·친밀도·무기 강화·전생을 끝까지 채우려면 상당한 반복 파밍이 필요하다.",
+        "일부 전장에서 목적지 이동과 장수 구조 조건이 번거롭고, 임무 실패 뒤 다시 준비해야 하는 흐름이 전투 템포를 끊는다.",
+        "PS3판에서는 대규모 교전의 처리 지연과 멀리 있는 적장 표시 누락 등 구형 하드웨어에 따른 전투 화면 표현의 한계가 보고된다."
+      ],
+      "sources": [
+        {
+          "label": "패미통 - PS3 일본판 《無双OROCHI2 Ultimate》 전문 리뷰 4건 및 발매 정보",
+          "url": "https://www.famitsu.com/game/title/29549/reviews"
+        },
+        {
+          "label": "코에이 테크모 공식 - PS3/PS Vita판 변경점·업데이트 내역",
+          "url": "https://www.gamecity.ne.jp/orochi2/ultimate/update-info/index.html"
+        },
+        {
+          "label": "GAME Watch - 개발진 소개 및 PS3판 발매·추가 콘텐츠",
+          "url": "https://game.watch.impress.co.jp/docs/news/615552.html"
+        },
+        {
+          "label": "스루가야 - PS3 일본판 일반판 BLJM-61084, 2013-09-26",
+          "url": "https://www.suruga-ya.jp/product/detail/103002469"
+        },
+        {
+          "label": "일본 PS3 이용자 평가 - 무쌍OROCHI2 Ultimate의 처리 지연·표시 문제와 장단점",
+          "url": "https://okirakujuraku.blog97.fc2.com/blog-entry-3657.html"
+        },
+        {
+          "label": "Shark Power Games - 일본 PS3판 패키지 앞표지 사진",
+          "url": "https://www.sharkpowergames.com.br/playstation/seminovo-musou-orochi-2-ultimate-japones-ps3"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/3135",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 일본 PS3 일반판 《無双OROCHI2 Ultimate》(2013-09-26, BLJM-61084)으로, PSP판 《無双OROCHI2 Special》·PS3 무인판 《無双OROCHI2》 및 PS Vita·PS4·Switch의 《Ultimate》 판본과 구별한다. 제공된 패치의 실제 대응 게임 ID·리비전·업데이트 버전, 대사·메뉴·영상·이미지·DLC 번역 범위와 미번역 요소, 적용 방식, PS3 실기·RPCS3 구동 상태는 확인하지 않았다. 패치 설치·실행 시험도 하지 않았다."
+      },
+      "cover": {
+        "url": "https://images.tcdn.com.br/img/img_prod/1042771/seminovo_musou_orochi_2_ultimate_japones_ps3_11299_1_ae0c670d02f0a8f3cd0a398840c77544.jpg",
+        "source": "https://www.sharkpowergames.com.br/playstation/seminovo-musou-orochi-2-ultimate-japones-ps3",
+        "platform": "ps3",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-10-30",
+      "reviewer": "WebGPT"
     }
   ]
 }
