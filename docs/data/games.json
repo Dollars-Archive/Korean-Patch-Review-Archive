@@ -14531,6 +14531,77 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "bakusou-kyoudai-lets-go-eternal-wings-ps1",
+      "title": "폭주형제 렛츠&고!! 이터널 윙스",
+      "original": "爆走兄弟レッツ&ゴー!! エターナルウイングス (Bakusou Kyoudai Let's & Go!! Eternal WingS)",
+      "platforms": [
+        "ps1"
+      ],
+      "genres": [
+        "아케이드 레이싱",
+        "미니카 레이싱",
+        "캐릭터 액션"
+      ],
+      "score": 7.4,
+      "summary": "1998년 7월 30일 일본 PlayStation 일반판 《爆走兄弟レッツ&ゴー!! エターナルウイングス》(SLPS-01489)의 자료 기반 편집 평가. 잘 알려진 애니메이션 《폭주형제 렛츠&고!!》의 등장인물과 미니카를 직접 조종하는 3D 레이싱 게임으로, 시나리오 모드·자유 대전·코스 에디트와 2인 대전을 제공한다. 여러 캐릭터의 대화·원작 성우 음성, 51종 머신, 부품 구매와 모터·배터리 등 세팅을 조합해 추월과 코너 공략을 시도하는 즐거움이 크다. 반면 차량마다 코너링 능력 차이가 커 일부 머신이 지나치게 유리하고, 원작의 특색 있는 필살기가 게임상에서는 단순 가속 효과에 머무는 경우가 많으며, 코스의 구성과 레이스 전개가 반복되고 3D 그래픽도 거칠다. 캐릭터 게임과 미니카 직접 조종의 매력은 충분하지만 정교한 튜닝 시뮬레이터나 깊이 있는 경쟁 레이스로서는 한계가 있어 7.4점. 원작 애니메이션 팬이나 캐주얼한 미니카 레이스를 즐기는 사람에게 특히 추천한다. 1999년 7월 재발매판 《Eternal WingS》(SLPS-02093)와 구분한 1998년 오리지널 일본 PS1판 평가다. 패미통의 기본 정보와 당시·후대의 사용자 평가를 참고했으며 직접 플레이하지 않았고 한글패치 존재는 게임 점수에 반영하지 않았다.",
+      "pros": [
+        "원작에서 친숙한 등장인물과 각종 미니카가 풍부하게 등장하며, 일본어 원작 성우 대사와 캐릭터별 상호작용이 팬서비스로 작동한다.",
+        "직접 가속·감속·조향·필살기를 조작하는 3D 미니카 레이스가 기존 세팅 위주 게임과 달리 손으로 주행하는 재미를 선사한다.",
+        "모터·배터리 등 부품을 구입해 머신 속도와 코너링을 조정하고 승리로 얻은 자원으로 새 부품·등장인물·코스를 열어 가는 성장과 재플레이 요소가 있다.",
+        "시나리오 레이스 외에 자유 대전, 코스 에디트, 2인용 경쟁을 지원해 원작 팬이 다양한 조합과 트랙을 시도할 수 있다."
+      ],
+      "cons": [
+        "기본 머신별 코너링·주행 성능 격차가 커 속도가 빠른 기체도 좁은 코스에서 자주 충돌하고, 일부 상위 차량에 선택이 쏠릴 수 있다.",
+        "원작에서는 독창적인 필살 기술 상당수가 실제 레이스에서는 단순 직선 가속과 유사한 효과로 처리되어 연출과 전략 양쪽 모두 아쉬움이 있다.",
+        "트랙 구성의 다양성과 레이스 전개 변화가 제한적이어서 시나리오를 반복할수록 코스 패턴에 익숙해지고 새로운 도전이 줄어든다.",
+        "PS1 특유의 거친 3D 그래픽과 단순화된 머신 세팅으로, 현실적인 미니카 튜닝 시뮬레이션이나 정교한 레이싱 게임을 기대하면 깊이가 부족하다."
+      ],
+      "sources": [
+        {
+          "label": "패미통 - 1998년 7월 30일 PS1판 발매일·장르·제작사",
+          "url": "https://www.famitsu.com/game/title/18174/reviews"
+        },
+        {
+          "label": "GameFAQs - 1999년 당시 PS1판 이용자 리뷰: 부품·캐릭터·음성·대전·그래픽",
+          "url": "https://gamefaqs.gamespot.com/ps/562809-bakusou-kyoudai-lets-and-go-eternal-wings/reviews/2895"
+        },
+        {
+          "label": "피코피코 대백과 - 1998년 원작 게임 모드·51종 머신·일본 이용자들의 성능 불균형과 필살기·코스 평가",
+          "url": "https://www.gavas.jp/products/detail.php?product_id=9268"
+        },
+        {
+          "label": "つぶログ PlayStation 리뷰 (2026-10-22) - 아케이드 주행·캐릭터성·3D와 코스의 한계",
+          "url": "https://uniquerui.com/tblog/playstation-tier-1997-1998/"
+        },
+        {
+          "label": "GameFAQs - 오리지널판 SLPS-01489와 1999년 재발매판 SLPS-02093 발매일·제품번호 구분",
+          "url": "https://gamefaqs.gamespot.com/ps/562809-bakusou-kyoudai-lets-and-go-eternal-wings/data"
+        },
+        {
+          "label": "LaunchBox - Sony PlayStation 일본판 박스 이미지 비교 (등록된 Box - Front는 재발매판 디자인으로 판단)",
+          "url": "https://gamesdb.launchbox-app.com/games/images/27992-bakusou-kyoudai-lets-go-eternal-wings"
+        },
+        {
+          "label": "PSX Data Center - 일본 PS1 1998년 원작판 SLPS-01489 박스 앞면 이미지",
+          "url": "https://psxdatacenter.com/images/hires/J/B/SLPS-01489/SLPS-01489-F-ALL.html"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/4181",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 사용자 입력에 '제작자 신청' 표기가 있으나 제작자 실명 또는 활동명은 제공되지 않아 기재하지 않았다. 게임 평가는 1998-07-30 일본 PS1 원작 일반판(SLPS-01489) 기준이며 1999-07-01 일본 재발매판(SLPS-02093)과 표지·제품번호를 구분한다. 제공된 패치가 어느 디스크 판본·리비전을 지원하는지, 시나리오 대사·메뉴·머신명·이미지 번역 범위, 미번역 내용, 패치 적용 방법 및 PS1 실기·에뮬레이터 호환성은 확인하지 않았다. 설치·구동 시험도 수행하지 않았다."
+      },
+      "reviewedAt": "2026-10-29",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://psxdatacenter.com/images/hires/J/B/SLPS-01489/SLPS-01489-F-ALL.jpg",
+        "source": "https://psxdatacenter.com/images/hires/J/B/SLPS-01489/SLPS-01489-F-ALL.html",
+        "platform": "ps1",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
