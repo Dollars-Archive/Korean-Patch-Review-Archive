@@ -18169,6 +18169,69 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "super-robot-wars-iv-scramble-ps1",
+      "title": "제4차 슈퍼로봇대전 S",
+      "original": "第4次スーパーロボット大戦S (Super Robot Wars IV Scramble)",
+      "platforms": [
+        "ps1"
+      ],
+      "genres": [
+        "SRPG",
+        "턴제 전략 RPG",
+        "메카"
+      ],
+      "score": 8,
+      "summary": "1996년 1월 26일 윙키소프트가 개발하고 반프레스토가 발매한 일본 PS1 일반판 『第4次スーパーロボット大戦S』(SLPS-00196)를 대상으로 한 공개 자료 기반 편집 평가이며 직접 플레이하지 않았다. SFC 『제4차 슈퍼로봇대전』의 이식·개량판으로, 건담·마징가·겟타 등 다수 로봇 작품의 크로스오버, 정신 커맨드와 기체·무기 개조, 강화 파츠와 루트 분기의 전략적 재미가 핵심이다. PS1판은 일부 주요 캐릭터의 성우 음성, 신규 시나리오 2개, 신작 오프닝 CG, 유닛 능력과 강제 이탈·버그 관련 조정을 추가해 원작보다 내용과 밸런스를 보완했다. 다만 전투 애니메이션을 건너뛸 수 없고 CD 로딩과 길고 반복적인 전투, 숨겨진 파츠의 불친절한 입수 조건, 일부 기체의 성능 격차, 원본의 투박한 시나리오가 남아 있다. 풍성한 전략·팬서비스에 높은 가치를 주면서 PS1판 속도·편의성의 약점을 반영해 8.0/10. 옛 로봇 애니메이션과 고전 SRPG의 긴 전투·육성을 즐기는 팬에게 추천하나 빠른 템포를 중시한다면 주의가 필요하다. 한글패치 여부는 평점에 반영하지 않았다.",
+      "pros": [
+        "건담·마징가·겟타·단바인·엘가임 등 여러 로봇 애니메이션의 기체와 파일럿이 모여 독특한 연합 부대를 꾸리는 크로스오버 팬서비스가 풍성하다.",
+        "정신 커맨드, 기체·무기 개조, 강화 파츠, 지형 적응과 반격·방어·회피 선택으로 기체의 강점을 살리며 전장을 풀어 가는 전략 RPG 시스템이 견고하다.",
+        "주인공의 계통·선택과 시나리오 분기, 숨겨진 동료·유닛·파츠와 엔딩 조건이 다양한 편성 및 재도전 동기를 제공한다.",
+        "PS1판은 일부 캐릭터의 원작 성우 음성, 추가 시나리오 '접촉'과 '구출', 신규 CG 오프닝과 BGM, 다수 유닛 성능 조정 및 강제 이탈 축소로 SFC판의 아쉬움을 개선했다."
+      ],
+      "cons": [
+        "전투 연출을 건너뛸 수 없고 PS1 CD-ROM 로딩이 겹쳐 적과 아군이 많은 전투의 진행 속도가 느리며 반복 플레이에서 피로가 크다.",
+        "파일럿과 기체의 성능 격차가 뚜렷해 일부 지원·비주류 기체를 적극 운용하기 어렵고, 특정 정신 커맨드나 유닛에 전술이 쏠리는 경향이 있다.",
+        "지도에 표시되지 않는 특정 칸의 강화 파츠 탐색과 설명이 부족한 분기·영입 조건이 공략 정보 없이 진행할 때 불친절하다.",
+        "SFC판 시나리오와 대사의 대부분을 유지해 일부 전개가 다듬어지지 않았고, 전체 캐릭터에 음성이 추가된 것도 아니어서 PS1판만의 변화 폭은 제한적이다."
+      ],
+      "sources": [
+        {
+          "label": "피코피코 대백과 - 일본 PS1 초판 발매일·반프레스토·SLPS-00196 제품 정보",
+          "url": "https://www.gavas.jp/products/detail.php?product_id=9134"
+        },
+        {
+          "label": "게임카탈로그@Wiki - 제4차 슈퍼로봇대전 S 평가·PS1판 추가점·문제점",
+          "url": "https://w.atwiki.jp/gcmatome/pages/677.html"
+        },
+        {
+          "label": "gcgx.games - PS판 제4차 슈퍼로봇대전 S의 SFC판 대비 추가 시나리오·수정 사항",
+          "url": "https://gcgx.games/srw4/diff.html"
+        },
+        {
+          "label": "에이스 퀘스트 - SFC·PS1 제4차 슈퍼로봇대전 비교와 플레이 회고 (2026-02-01)",
+          "url": "https://acequest.net/retrogame/super_robot_wars4"
+        },
+        {
+          "label": "LaunchBox - 제4차 슈퍼로봇대전 S 일본 PS1 통상판 Box - Front 실제 앞표지",
+          "url": "https://gamesdb.launchbox-app.com/games/images/135345-dai-4-ji-super-robot-taisen-s"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/3310",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 1996년 일본 PlayStation(PS1) 초판 『第4次スーパーロボット大戦S』(SLPS-00196)이며 1995년 SFC판 『第4次スーパーロボット大戦』, PS1 PlayStation the Best 염가판(SLPS-91014)과 구분한다. 사용자 제공 주소의 실제 배포 상태, 대응 디스크 판본·리비전, 번역 범위·미번역 여부·적용 방법은 확인하지 않았으며 설치·실기·에뮬레이터 테스트를 수행하지 않았다."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com/b2f0b599-8cf6-4016-bae3-155fd874cf1d.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/135345-dai-4-ji-super-robot-taisen-s",
+        "platform": "ps1",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-10-30",
+      "reviewer": "WebGPT"
     }
   ]
 }
