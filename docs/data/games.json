@@ -18415,6 +18415,73 @@
       },
       "reviewedAt": "2026-10-30",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "farland-saga-toki-no-michishirube-saturn",
+      "title": "파랜드 택틱스 2: 시간의 이정표 (SS)",
+      "original": "ファーランドサーガ 時の道標 (Farland Saga: Toki no Michishirube)",
+      "platforms": [
+        "saturn"
+      ],
+      "genres": [
+        "SRPG",
+        "턴제 전략 RPG",
+        "판타지"
+      ],
+      "score": 7.8,
+      "summary": "일본 세가 새턴 일반판(T-32509G) 《ファーランドサーガ 時の道標》 평가. 전작 《파랜드 사가》에서 8년 후, 항구도시 아트락타로 건너온 카린과 기억을 잃은 알의 모험을 그리는 판타지 SRPG다. 유쾌함과 진지함을 오가는 인물극, 풍부한 음성·음악과 고저차·장애물을 활용하는 쿼터뷰 전술 전투가 장점이다. 길드 의뢰로 짜인 스테이지 구성도 따라가기 쉽다. 반면 느린 전투 메시지·커서 조작, 일부 강력한 범위 마법과 불균등한 난도, 자유로운 레벨 보충이 어려운 진행 및 후반 전개 집중이 아쉬워 7.8점. 캐릭터 중심 이야기를 선호하는 고전 SRPG 팬에게 추천. 세가 공식 자료·일본 SS판 소개 및 이용자 평가를 바탕으로 한 편집 평가로 직접 플레이하지 않았고 한글패치 여부를 점수에 반영하지 않았다.",
+      "pros": [
+        "카린과 알을 중심으로 개성적인 동료들의 유쾌한 대화와 진지한 사건이 이어져, 전작을 모르는 이용자도 이야기의 큰 줄기를 따라갈 수 있다.",
+        "이벤트 장면의 풍부한 음성 연기와 캐릭터 애니메이션, 오케스트라풍 음악이 1990년대 일본 판타지 SRPG 특유의 정서를 살린다.",
+        "고저차와 장애물, 유닛 방향, 비행 이동과 마법 사거리 및 전투 중 MP 회복을 고려하는 쿼터뷰 전장이 단순 평면 격자보다 다채로운 배치를 요구한다.",
+        "길드에서 의뢰를 받아 임무를 수행하고 상점·숙소를 이용하는 직관적 구성과 전투 중 성장 보상이 캐릭터 육성의 동기를 준다."
+      ],
+      "cons": [
+        "쿼터뷰 맵에서 커서를 옮기거나 원하는 위치를 지정하는 조작이 번거롭고, 공격·피해량 표시의 속도가 느려 전투 템포를 끊는다.",
+        "강한 범위 공격을 쓰는 적과 맵별 전력 차이 등 난도 편차가 커 특정 스테이지가 갑자기 까다로워질 수 있다.",
+        "자유 전투와 추가 경험치 수급 경로가 제한적이고 재합류 인물의 육성 격차가 생기면 뒤처진 대원을 따라잡기 어렵다.",
+        "후반부에 중요한 사건과 시합이 몰리며 전개가 급해지고, 반복되는 전술 임무에 비해 신규 규칙과 장면의 변화가 다소 부족하다."
+      ],
+      "sources": [
+        {
+          "label": "세가 공식 세가 새턴 라이선스 소프트 목록 - 일본 SS 일반판 T-32509G",
+          "url": "https://www.sega.jp/history/hard/segasaturn/software_l.html"
+        },
+        {
+          "label": "피코피코 대백과 - 세가 새턴판 개요·기종·이용자 리뷰",
+          "url": "https://www.gavas.jp/products/detail.php?product_id=94"
+        },
+        {
+          "label": "컨슈머게임 대사전 - SS판 스토리·전투·육성·난도와 조작 평가",
+          "url": "https://consoledictionary.com/games/10920"
+        },
+        {
+          "label": "MobyGames - 시리즈의 속편 및 Windows·Saturn·PS 판본 구별",
+          "url": "https://www.mobygames.com/game/18747/farland-saga-toki-no-michishirube/"
+        },
+        {
+          "label": "Satakore - 일본 세가 새턴판 일반판 T-32509G 확인",
+          "url": "https://www.satakore.com/sega-saturn-game%2C%2CT-32509G%2C%2CFarland-Saga-Toki-no-Michishirube-JPN.html"
+        },
+        {
+          "label": "LaunchBox - 일본 세가 새턴판 Box - Front 이미지",
+          "url": "https://gamesdb.launchbox-app.com/games/images/107016-farland-saga-toki-no-michishirube"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/3303",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 1998년 발매된 일본 세가 새턴 일반판 《ファーランドサーガ 時の道標》(T-32509G)이며, 일본 새턴 한정판(T-32511G)·1997년 Windows 원작·1999년 PS1 이식판 및 한국 PC판 《파랜드 택틱스 2》와 구별한다. 출시일은 세가 공식 목록에 1998-12-03, 패미통·Satakore·LaunchBox에 1998-12-17로 서로 다르게 기재되어 확정 표기를 피했다. 사용자 제공 패치 링크의 지원 디스크 지역·리비전, 이벤트 대사·메뉴·전투·음성·이미지 번역 범위와 미번역 요소, 적용 방법, 세가 새턴 실기 및 에뮬레이터 구동 호환성은 확인하지 않았고 패치 설치·실행 시험도 하지 않았다."
+      },
+      "reviewedAt": "2026-10-30",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/17ef8764-4e81-4847-9c55-9c8f2cd8df27.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/107016-farland-saga-toki-no-michishirube",
+        "platform": "saturn",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
