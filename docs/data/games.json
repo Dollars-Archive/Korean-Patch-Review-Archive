@@ -19972,6 +19972,73 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "masou-kishin-3-pride-of-justice-ps3",
+      "title": "마장기신 3: 프라이드 오브 저스티스",
+      "original": "スーパーロボット大戦OGサーガ 魔装機神III PRIDE OF JUSTICE (Super Robot Taisen OG Saga: Masou Kishin III - Pride of Justice)",
+      "platforms": [
+        "ps3"
+      ],
+      "genres": [
+        "SRPG",
+        "턴제 전술 RPG",
+        "메카닉 판타지"
+      ],
+      "score": 7,
+      "summary": "2013년 8월 22일 일본 PS3 일반판(BLJS-10223) 기준. 라 기아스를 무대로 마사키 안도와 안티라스대의 이야기를 잇는 《마장기신 II》의 후속작이다. 고해상도 전투 애니메이션과 기체별 BGM, 방향·고저차·정령 상성·플라나를 활용한 위치 선정, PP로 재조정 가능한 파일럿 스킬과 강화 파츠, 분기 시나리오가 인상적이다. 반면 중반 이후 적의 과도한 장거리 이동 후 공격과 집중 사격, 예고가 부족한 증원으로 난도 상승이 불공정하게 느껴질 수 있다. 전작의 주요 갈등과 복선을 충분히 매듭짓지 못하는 전개 및 전작 지식에 대한 의존도도 아쉽다. 전술적 위치 선정과 기체 육성을 즐기며 시리즈 설정에 익숙한 팬에게 조건부 추천하는 7.0점. 공식 제품 소개, PS3판 이용자 리뷰, 게임 분석을 참고한 자료 기반 편집 평가로 직접 플레이하지 않았으며 한글패치 유무는 점수에 반영하지 않았다.",
+      "pros": [
+        "PS3에서 선명하고 부드러워진 실물 비율 로봇 전투 애니메이션과 역동적인 카메라·캐릭터 컷인이 기술별 개성을 드러낸다.",
+        "측면·배후 공격과 고저차, 정령 상성, 플라나 및 원호 공격을 함께 고려하는 전술은 배치와 공격 순서를 고민하게 만든다.",
+        "PP를 소비해 파일럿 특수 스킬을 육성하고 필요하면 환급·재편성할 수 있으며, 기체 개조와 강화 파츠로 전장에 맞는 편성을 구축할 수 있다.",
+        "캐릭터별 전용 BGM이 강화되고 신기체·신인물, 선택에 따라 달라지는 분기 시나리오가 기존 팬에게 여러 회차의 볼거리를 제공한다."
+      ],
+      "cons": [
+        "중반 이후 일반 적까지 고화력·장거리 이동 후 공격을 사용하며 취약한 아군 한 명을 집중 공격해, 개조가 부족하면 갑작스러운 격추가 자주 발생한다.",
+        "적의 실제 공격 가능 범위를 계산하기 어렵고 적 턴 증원까지 겹치면서 전술적 난도가 치밀한 대응보다 예측 불가능한 재도전으로 느껴질 수 있다.",
+        "전작에서 이어진 갈등과 복선의 해소가 더디고 사건이 반복되어, 여러 분기를 진행해도 이야기의 진전이 부족하다는 비판이 있다.",
+        "기존 시리즈 세계관과 인물 관계를 알고 있을 때 이해가 쉬우며, 특정 기체의 성능 편차와 장기적인 자금·개조 부담으로 부대 운용 선택지가 좁아진다."
+      ],
+      "sources": [
+        {
+          "label": "GAME Watch - 일본 PS3/PS Vita판 공식 게임 소개·발매일·전투 시스템",
+          "url": "https://game.watch.impress.co.jp/docs/news/599501.html"
+        },
+        {
+          "label": "GAME Watch - 캐릭터 육성 PP·포제션·강화 및 전투 연출 상세",
+          "url": "https://game.watch.impress.co.jp/docs/news/612163.html"
+        },
+        {
+          "label": "4Gamer - 일본 PS3판 독자 리뷰: 전투 전략·난도·스토리",
+          "url": "https://www.4gamer.net/games/215/G021509/index_userreview.html"
+        },
+        {
+          "label": "게임카탈로그@Wiki - 전투 연출, BGM 및 밸런스·시나리오 상세 평가",
+          "url": "https://w.atwiki.jp/gcmatome/pages/3927.html"
+        },
+        {
+          "label": "MediaWorld - 일본 PS3 일반판 BLJS-10223 제품 정보",
+          "url": "https://mediaworld.co.jp/products/10412038000"
+        },
+        {
+          "label": "LaunchBox - PS3 일본판 Box - Front 이미지",
+          "url": "https://gamesdb.launchbox-app.com/games/details/132027-super-robot-taisen-og-saga-masou-kishin-iii-pride-of-justice"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/5675",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 일본 PS3 일반판(2013-08-22, BLJS-10223)이며 PS Vita판 및 별도 작품 《마장기신 F》와 구분한다. 제공된 패치의 실제 대상 게임 ID·디스크 리비전·업데이트 버전, 시나리오·전투·메뉴·영상·이미지·DLC 번역 범위 및 미번역 요소, 적용 절차, PS3 실기·RPCS3 호환성은 검증하지 않았으며 설치·구동 시험도 실시하지 않았다."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com//b069d3b7-c29d-40ef-a05d-7d2bbcdc6780.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/details/132027-super-robot-taisen-og-saga-masou-kishin-iii-pride-of-justice",
+        "platform": "ps3",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-10-30",
+      "reviewer": "WebGPT"
     }
   ]
 }
