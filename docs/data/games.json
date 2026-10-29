@@ -19128,6 +19128,74 @@
       },
       "reviewedAt": "2026-10-30",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "shinseiki-gpx-cyber-formula-road-to-the-infinity-ps2",
+      "title": "사이버 포뮬러 Road to the INFINITY",
+      "original": "新世紀GPXサイバーフォーミュラ Road To The INFINITY (Shinseiki GPX Cyber Formula: Road to the Infinity)",
+      "platforms": [
+        "ps2"
+      ],
+      "genres": [
+        "레이싱",
+        "미래형 아케이드 레이싱",
+        "애니메이션 캐릭터 게임"
+      ],
+      "score": 6.1,
+      "summary": "2003년 12월 18일 일본 PS2로 발매된 『新世紀GPXサイバーフォーミュラ Road To The INFINITY』 초대작(SLPS-25307)의 자료 기반 편집 평가로 직접 플레이하지 않았고 한글패치 여부는 점수에 반영하지 않았다. 원작의 아스라다 등 미래형 레이싱 머신을 비교적 정교한 3D로 재현하고, 부스트와 추월 상황에서 인물 컷인과 원작 성우 음성을 제공하는 팬서비스가 돋보인다. 부스트 압력을 조정해 충전 속도와 최고속도의 균형을 바꾸는 시스템, 그랑프리·원매치·서바이벌·포인트 매치·타임어택과 해금 머신 수집도 즐길 수 있다. 반면 시속 수백 km라는 설정과 달리 카메라·연출의 체감 속도감이 부족하며 드리프트 조작의 극단적인 반응, 낮은 AI 난도와 약한 차량 세팅 효과, 적은 코스 및 동시 출전 6대의 제한이 레이싱 완성도를 떨어뜨린다. 원작의 서사를 따라가는 스토리 모드나 원작 BGM도 없어 애니메이션 팬서비스의 깊이가 아쉽다. 매력적인 차량 재현과 부스트 조작의 재미를 인정하되 레이싱 품질과 콘텐츠의 반복성에 감점해 6.1/10. 사이버 포뮬러의 머신을 직접 몰고 싶은 팬에게 제한적으로 추천하며, 경주 자체의 속도감·세밀한 주행 감각을 중시한다면 신중히 선택할 것. 2005년 『Road to the INFINITY 2』, 2006년 3편, 2007년 4편 및 PSP 『VS』와 구분한다.",
+      "pros": [
+        "아스라다를 비롯한 원작 인기 사이버 머신을 세밀한 3D 외형과 변형·질주 이미지로 재현하고 CG 오프닝·차고 화면의 표현에 공을 들였다.",
+        "추월·부스트 시 등장하는 캐릭터 컷인과 원작 주요 성우들의 음성으로 레이스에 애니메이션 팬다운 활기를 더한다.",
+        "부스트 압력을 낮춰 재충전 빈도를 높이거나 높은 압력으로 순간 최고속도를 노리는 조절 방식이 일반 레이싱과 다른 재미를 준다.",
+        "그랑프리와 프리런·원매치·서바이벌·포인트 매치·타임어택 등 다양한 경기 모드, 숨겨진 머신 및 수집 요소를 제공한다."
+      ],
+      "cons": [
+        "계기판의 시속 수백 km와 부스트 수치에 비해 화면의 움직임과 카메라 연출이 느려서 최고속 레이스의 박진감이 약하다.",
+        "특히 드리프트형 머신은 조향만으로 지나치게 쉽게 미끄러지는 등 주행 감각이 균일하지 않고, 머신 세팅이 주행에 미치는 효과도 적게 느껴진다.",
+        "원작 스토리를 재현하는 별도 시나리오 모드와 애니메이션 원곡 BGM이 없어서 캐릭터 컷인·음성에 비해 서사적 팬서비스가 부족하다.",
+        "동시 출전 머신 6대와 제한된 코스 종류, 비교적 쉬운 상대 AI와 반복되는 장거리 레이스 때문에 경기를 오래 진행할수록 단조롭다.",
+        "레이싱 자체의 전술과 주행 정교함보다 캐릭터·기체 재현의 비중이 커, 레이싱 장르 팬에게는 완성도가 부족할 수 있다."
+      ],
+      "sources": [
+        {
+          "label": "패미통 일본 PS2 초대작 제품 기록: 2003-12-18 발매·선라이즈 인터랙티브",
+          "url": "https://www.famitsu.com/game/title/10356/reviews"
+        },
+        {
+          "label": "GameFAQs - 일본 PS2 초대작 Box Front·제작 Atelier-Sai, 출시 2003-12-18",
+          "url": "https://gamefaqs.gamespot.com/ps2/919390-shinseiki-gpx-cyber-formula-road-to-the-infinity/boxes/49240"
+        },
+        {
+          "label": "PS2 게임 평가 사이트 joko.jp - 2004~2007년 초대작 이용자 리뷰 (속도감·핸들링·부스트·코스)",
+          "url": "https://www.joko.jp/ps2/review/ti850.html"
+        },
+        {
+          "label": "컨슈머게임대사전 - 초대작 3D 모델링·모드·조작·속도감·원작 BGM·AI 평가",
+          "url": "https://consoledictionary.com/games/14325"
+        },
+        {
+          "label": "사이버 포뮬러 Road To The 시리즈 연구 Wiki - 1편과 후속작 시스템 비교 및 게임 모드",
+          "url": "https://w.atwiki.jp/cyberformula_game/pages/19.html"
+        },
+        {
+          "label": "LaunchBox - PS2 초대작 일본판 Box - Front 직접 앞표지 (500×700)",
+          "url": "https://gamesdb.launchbox-app.com/games/images/128868-shinseiki-gpx-cyber-formula-road-to-the-infinity"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/3120",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2003-12-18 일본 PS2 초대작 『新世紀GPXサイバーフォーミュラ Road To The INFINITY』(SLPS-25307)이며 2004년 GC 『Road To The EVOLUTION』, 2005년 PS2 『Road To The INFINITY 2』, 2006년 3편, 2007년 4편 및 PSP 『VS』와 구별한다. 제공 주소의 실제 배포 여부·대상 디스크 지역/리비전·대사/메뉴/이미지 번역 범위·미번역·적용 방법·버전은 확인하지 않았다. PS2 실기 및 에뮬레이터에서 패치를 설치·실행·검증하지 않았다."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com/b65f69e3-d4e8-4b05-aa4a-2d74466c40f2.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/128868-shinseiki-gpx-cyber-formula-road-to-the-infinity",
+        "platform": "ps2",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-10-30",
+      "reviewer": "WebGPT"
     }
   ]
 }
