@@ -19726,6 +19726,67 @@
       },
       "reviewedAt": "2026-10-30",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "disgaea-2-dark-hero-days-psp",
+      "title": "마계전기 디스가이아 2 포터블",
+      "original": "魔界戦記ディスガイア2 PORTABLE",
+      "platforms": [
+        "psp"
+      ],
+      "genres": [
+        "SRPG",
+        "턴제 전략 RPG",
+        "육성 RPG"
+      ],
+      "score": 8.6,
+      "summary": "2009년 3월 26일 일본 PSP로 발매한 『魔界戦記ディスガイア2 PORTABLE』(해외명 『Disgaea 2: Dark Hero Days』) 평가. PS2 『디스가이아 2』의 아델·로잘린드 본편에 다크 히어로 액터레(영어명 Axel) 중심의 새 시나리오와 추가 캐릭터·시스템을 더한 확장 이식작이다. 최대 레벨 9,999, 아이템계, 암흑의회, 지오 패널 및 탑 공격 등 끝없는 육성과 변칙적인 SRPG 전투가 압도적이고, 전투 속도 설정·연출 생략·정렬 기능 같은 PSP 편의성도 좋다. 다만 반복적인 노가다, 시스템 학습 부담, 가려지는 맵 타일과 비교적 약한 추가 시나리오의 각본이 약점으로 8.6점. 스토리 진행보다 캐릭터 육성·아이템 강화·자유로운 전투 최적화를 오래 즐기는 SRPG 팬에게 추천한다. 일본이치 소프트웨어 공식 자료 및 PSP판 리뷰에 근거한 편집 평가이며 직접 플레이한 결과가 아니다. 한글패치 제공 여부는 점수에 반영하지 않았다.",
+      "pros": [
+        "레벨 9,999까지의 캐릭터 성장·환생, 아이템 안으로 들어가 장비를 강화하는 아이템계, 암흑의회와 수많은 직업 덕에 육성 목표와 파고들 거리가 풍부하다.",
+        "지오 패널 연쇄 효과, 캐릭터 들어 올리기·던지기, 탑 공격 등 독특한 규칙이 전장마다 다양한 해결책과 조합을 제공한다.",
+        "PSP에서 새로 추가한 액터레 중심 시나리오, 새 동료·직업·기술 및 디스가이아 3 계열의 마체인지·몬스터를 이용한 이동 요소가 원작 경험자에게도 새 목표를 준다.",
+        "전투 이동 속도 변경, 전투 연출 생략, 장비·기술·출전 캐릭터의 정렬 기능 등 장시간 반복 플레이를 덜 번거롭게 만드는 편의 기능을 갖췄다.",
+        "아델과 로잘린드의 관계, 과장된 악마계 유머, 음성 연기와 경쾌한 음악이 방대한 전술 전투 사이에 캐릭터의 매력을 살린다."
+      ],
+      "cons": [
+        "높은 레벨과 고난도 보너스 콘텐츠를 노리면 같은 스테이지·아이템계 전투를 반복하는 육성 시간이 많아지고, 노가다를 선호하지 않으면 재미가 급격히 줄어든다.",
+        "전직·환생, 아이템 육성, 암흑의회, 지오 패널 같은 여러 시스템의 규칙과 효율을 익히는 초기 진입 장벽이 높다.",
+        "45도 전술 맵을 90도씩 돌리는 시점 전환 때문에 특정 지형이나 타일이 가려져 이동·공격 위치를 파악하기 불편한 경우가 있다.",
+        "새 액터레 시나리오는 재밌는 추가물이지만 본편보다 각본의 흡인력이 떨어진다는 PSP판 리뷰가 있으며, 본편의 전개도 1편보다 정통 RPG에 가까워 유머의 밀도가 고르지 않다.",
+        "작은 화면에서 많은 캐릭터와 세부 수치·아이템 목록을 다뤄야 하며, 반복 플레이 시 메뉴 조작과 전투 선택이 누적되는 피로가 있다."
+      ],
+      "sources": [
+        {
+          "label": "일본이치 소프트웨어 공식 - PSP 일본판 2009-03-26 발매, 시나리오·전투·추가 시스템 및 편의 기능",
+          "url": "https://disgaea.jp/psp2/lp/"
+        },
+        {
+          "label": "RPGFan - Disgaea 2: Dark Hero Days PSP 리뷰 (2009-09-17), 시스템·시점·조작 및 추가 시나리오",
+          "url": "https://www.rpgfan.com/review/disgaea-2-dark-hero-days/"
+        },
+        {
+          "label": "WorthPlaying - Disgaea 2: Dark Hero Days PSP 리뷰 (2009-10-06), 이식·속도·각본 비교",
+          "url": "https://worthplaying.com/article/2009/10/6/reviews/69083-psp-review-disgaea-2-dark-hero-days/"
+        },
+        {
+          "label": "LaunchBox - Disgaea 2: Dark Hero Days PSP 일본판 실제 앞표지 Box - Front",
+          "url": "https://gamesdb.launchbox-app.com/games/images/6785-disgaea-2-dark-hero-days"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/3050",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2009년 3월 26일 발매된 일본 PSP 『魔界戦記ディスガイア2 PORTABLE』로 PS2 원판 『魔界戦記ディスガイア2』, 해외 PSP 『Disgaea 2: Dark Hero Days』 및 PC판과 구분. 제공 링크의 패치가 지원하는 지역·UMD/PSN 리비전, 번역 범위·미번역 요소, 설치 방식, 버전 및 다운로드 가능 여부를 확인하지 않았다. 패치 설치·PSP 실기·에뮬레이터 구동 시험을 하지 않았다."
+      },
+      "reviewedAt": "2026-10-30",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/bd46d181-c624-46dd-9017-4db01b56ca0e.png",
+        "source": "https://gamesdb.launchbox-app.com/games/images/6785-disgaea-2-dark-hero-days",
+        "platform": "psp",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
