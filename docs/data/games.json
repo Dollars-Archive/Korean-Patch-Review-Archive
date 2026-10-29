@@ -19913,6 +19913,65 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "criminal-girls-psp",
+      "title": "크리미널 걸즈",
+      "original": "クリミナルガールズ (Criminal Girls)",
+      "platforms": [
+        "psp"
+      ],
+      "genres": [
+        "RPG",
+        "던전 RPG",
+        "캐릭터 육성 RPG"
+      ],
+      "score": 7.5,
+      "summary": "2010년 11월 18일 발매한 일본 PSP 원작 《クリミナルガールズ》(ULJS-00323) 평가. 지옥의 탑을 오르는 일곱 소녀의 재활과 성장을 그린 던전 RPG로, 캐릭터들이 무작위로 제안하는 행동을 골라 싸우는 전투와 미니게임을 통한 기술 습득이 독특하다. 개성 뚜렷한 인물, 팀 조합과 회복 아이템 운용이 필요한 높은 난도는 강점이다. 반면 단조로운 던전·반복되는 적과 전투 명령의 무작위성, 성적인 '오시오키(훈육)' 연출의 강한 호불호는 아쉽다. 전형적인 RPG보다 독특한 시스템과 캐릭터 중심 육성을 즐기는 플레이어에게 추천하는 7.5점. 패미통·4Gamer의 PSP판 리뷰와 발매 자료를 종합한 편집 평가이며 직접 플레이하지 않았고 한글패치 유무는 점수에 반영하지 않았다.",
+      "pros": [
+        "파티의 소녀들이 매 턴 제안하는 공격·보조·회복 행동 중 하나를 고르는 독특한 전투가 동료의 제멋대로인 성격을 시스템에 반영한다.",
+        "각기 다른 사연과 성격을 지닌 일곱 캐릭터, 대화·음성·성장 이벤트가 파티에 애착을 형성한다.",
+        "경험치 레벨업과 별개로 OP를 사용한 미니게임 육성, 기술 해금과 소녀들의 의뢰(걸즈 오더)가 전투·캐릭터 성장을 연결한다.",
+        "파티 교체, 회복 아이템 관리, 기술 조합을 요구하는 제법 높은 난도로 전투에 긴장감이 있다."
+      ],
+      "cons": [
+        "층이 바뀌어도 비슷한 구조의 던전과 적이 많고, 탐험 중 기믹이 부족해 진행이 단조롭다.",
+        "필요한 치유·공격 기술이 행동 제안에 나오지 않는 운 요소가 있어 원하는 전술을 즉시 실행하지 못하는 답답함이 있다.",
+        "육성용 미니게임을 반복해야 새 기술을 익히는 구조가 번거롭고, 선정적 음성·이미지를 포함한 '훈육' 연출이 취향을 강하게 가른다.",
+        "적의 화력이 만만치 않고 성장 균형이 빡빡해 레벨·자원 관리에 시간을 들여야 하며 초반 접근성이 좋지 않다."
+      ],
+      "sources": [
+        {
+          "label": "패미통 - PSP 《クリミナルガールズ》 4인 리뷰 (주간 패미통 1145호)",
+          "url": "https://www.famitsu.com/game/title/15807/reviews"
+        },
+        {
+          "label": "4Gamer - 일본 PSP 원작 전문 리뷰 (2010-12-22), 전투·육성·난이도",
+          "url": "https://www.4gamer.net/games/117/G011776/20101221102/"
+        },
+        {
+          "label": "GameFAQs - PSP 일본판 발매일·제품 코드 ULJS-00323",
+          "url": "https://gamefaqs.gamespot.com/psp/604328-criminal-girls/data"
+        },
+        {
+          "label": "LaunchBox - PSP 일본판 실제 패키지 앞표지 Box - Front",
+          "url": "https://gamesdb.launchbox-app.com/games/images/23228-criminal-girls"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/3022",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2010년 일본 PSP 원작 《クリミナルガールズ》(ULJS-00323)이며, 이후 PS Vita판 《クリミナルガールズ INVITATION》 및 PC판과 구분한다. 제공한 패치의 실제 지원판본·리비전, 메뉴·대사·이미지 번역 범위와 미번역 부분, 버전·설치 방식·배포 가능 여부는 확인하지 않았다. PSP 실기·PPSSPP 적용 테스트를 하지 않았다."
+      },
+      "reviewedAt": "2026-10-30",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/da5dd2a2-1bbb-4649-86e4-bb933c9a3875.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/23228-criminal-girls",
+        "platform": "psp",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
