@@ -16808,6 +16808,69 @@
       },
       "reviewedAt": "2026-10-30",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "school-rumble-neesan-jiken-desu-psp",
+      "title": "스쿨 럼블: 언니 사건이에요!",
+      "original": "スクールランブル 姉さん事件です! (School Rumble: Nee-san Jiken Desu!)",
+      "platforms": [
+        "psp"
+      ],
+      "genres": [
+        "어드벤처",
+        "비주얼 노벨",
+        "캐릭터 ADV"
+      ],
+      "score": 6.1,
+      "summary": "2005년 7월 7일 발매된 일본 PSP 초판 《スクールランブル 姉さん事件です!》(ULJS-00019, 개발 KID, 발매 반다이)를 평가했다. 인기 학원 코미디 만화를 원작으로 천마가 카라스마의 갑작스러운 실신 사건을 둘러싼 진상을 찾아가는 오리지널 스토리의 풀보이스 ADV다. 다양한 인물 시점과 호감도·선택지·결말 변화, 애니메이션에 충실한 캐릭터 CG와 원작 성우 연기가 매력적이지만, 대사마다 끼어드는 긴 UMD 로딩과 퀵로드의 지연, 큰 줄기가 유사한 분기와 반복 수집, 제한된 플레이어 개입이 완성도를 떨어뜨린다. 팬서비스 품질을 인정하되 느린 템포와 게임성의 한계를 감안해 6.1점. 원작 팬 중 캐릭터 대화를 느긋하게 감상하고 싶은 사람에게 추천하며, 쾌적한 진행이나 깊은 추리를 원하는 사람에게는 신중한 선택을 권한다. 제품 정보와 일본 PSP판 구매자 후기·평가 자료에 근거한 편집 평가로, 직접 플레이한 점수는 아니며 한글패치 유무는 평점에 반영하지 않았다.",
+      "pros": [
+        "원작 TV 애니메이션 성우진이 대사를 풀보이스로 연기하고 선명한 인물 CG와 애니메이션 오프닝이 캐릭터 팬서비스를 충실히 제공한다.",
+        "천마·하리마 등 여러 인물의 시점으로 사건을 재구성할 수 있어 동일한 소동을 서로 다른 관점에서 감상하는 재미가 있다.",
+        "호감도 관계도와 대화 선택·타이밍 맞춘 츳코미(태클) 시스템으로 원작 특유의 오해 코미디를 인터랙티브하게 표현한다.",
+        "캐릭터 관계에 따라 엔딩이 달라지는 멀티 엔딩 구조로 좋아하는 등장인물의 후일담을 수집하는 목표를 제공한다."
+      ],
+      "cons": [
+        "대사와 장면 전환에서 반복적으로 발생하는 UMD 로딩, 느린 퀵로드와 메뉴 전환이 ADV의 감상 흐름을 심하게 끊는다.",
+        "오리지널 사건 소재는 흥미롭지만 전개의 큰 줄기는 거의 고정되고 분기 사이 중복이 많아 전 엔딩 회수가 반복 작업으로 변한다.",
+        "선택지·츳코미 외에 능동적으로 조사하거나 사건을 풀어내는 게임적 상호작용이 적어 읽는 게임 이상의 깊이를 기대하기 어렵다.",
+        "원작 코미디와 캐릭터 관계를 아는 사람에게 맞춘 각색이어서 비팬에게는 지나치게 과장된 행동과 얕은 미스터리가 부담스럽다."
+      ],
+      "sources": [
+        {
+          "label": "패미통 - PSP 일본판 2005년 7월 7일 발매, 반다이, 어드벤처",
+          "url": "https://www.famitsu.com/game/title/2636/reviews"
+        },
+        {
+          "label": "GameFAQs - PSP 일본판 제품 코드 ULJS-00019, 개발 KID, 발매일",
+          "url": "https://gamefaqs.gamespot.com/psp/928060-school-rumble-anesan-jiken-desu/data"
+        },
+        {
+          "label": "PSP主義 - PSP판 구매자 후기 발췌, 풀보이스·CG·로딩·분기·오리지널 사건 전개",
+          "url": "https://pspstyle.blog42.fc2.com/blog-entry-1698.html"
+        },
+        {
+          "label": "콘솔 게임 대사전 - PSP판 시스템, 캐릭터별 시점 및 로딩·전개 특성",
+          "url": "https://consoledictionary.com/games/26083"
+        },
+        {
+          "label": "Libretro Thumbnails - PSP 일본판 정면 패키지 이미지 목록 (School Rumble - Neesan Jiken Desu! (Japan).png)",
+          "url": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/3485",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 게임 평가 대상은 2005년 7월 7일 발매 일본 PSP 초판 《スクールランブル 姉さん事件です!》(ULJS-00019)이다. PS2판 《スクールランブル ねる娘は育つ。》 및 《スクールランブル二学期》와 서로 다른 작품이다. 제공한 패치 링크의 지원 UMD/ISO 지역·리비전, 대사·선택지·CG·UI 번역 범위 및 미번역 요소, 적용 방법과 PSP 실기·PPSSPP 호환성은 확인되지 않았으며 설치·실행 검증도 하지 않았다."
+      },
+      "cover": {
+        "url": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/School%20Rumble%20-%20Neesan%20Jiken%20Desu%21%20%28Japan%29.png",
+        "source": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%20Portable/Named_Boxarts/",
+        "platform": "psp",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-10-30",
+      "reviewer": "WebGPT"
     }
   ]
 }
