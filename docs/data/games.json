@@ -19654,6 +19654,78 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "xenosaga-i-ii-ds",
+      "title": "제노사가 I & II",
+      "original": "ゼノサーガ I・II (Xenosaga I & II)",
+      "platforms": [
+        "ds"
+      ],
+      "genres": [
+        "JRPG",
+        "턴제 RPG",
+        "SF",
+        "스토리 중심 RPG"
+      ],
+      "score": 7.5,
+      "summary": "2006년 3월 30일 일본 Nintendo DS판 《ゼノサーガ I・II》(NTR-AXSJ-JPN)를 기준으로 한 평가. PS2 에피소드 I·II의 이야기를 20장짜리 하나의 이야기로 재구성하면서 시온을 중심으로 시점을 정리하고 인물 관계·배경을 보강한 SF RPG다. 원작 제작진이 감독한 추가 이야기와 용어 사전, 2D 캐릭터 도트, 포메이션·부스트·기술 강화·E.S. 전투를 결합한 간결한 전투가 돋보인다. 언제든 저장할 수 있고 휴대용으로 진행이 편하지만, 대사량과 전문용어가 많아 이해 부담이 높다. 또한 원작의 음성·영상·던전과 부가 콘텐츠가 크게 축소됐고, 후반 전투가 쉬우며 탐색과 반복 플레이의 깊이가 부족하다. 서사의 재구성과 휴대용 접근성을 높이 평가하면서도 RPG로서 단순해진 구성과 전투 밸런스를 고려해 7.5점. 이야기 중심의 SF RPG와 제노사가 세계관을 좋아하는 이에게 추천한다. 공식 발매 자료 및 DS판 전문·일본 이용자 리뷰에 근거한 편집 평가로 직접 플레이하지 않았다. 한글패치 유무는 점수에 반영하지 않았다.",
+      "pros": [
+        "PS2 에피소드 I·II를 연결하고 특히 두 번째 이야기를 보강하여, 새 대화·시점 변경·인물 배경 설명으로 세계관과 캐릭터의 관계를 더 일관되게 전달한다.",
+        "5×6 격자에서의 위치·포메이션 보너스, AP 조절과 부스트 연계, 에테르·특수기 강화 및 E.S. 전투로 비교적 직관적인 전술 선택을 제공한다.",
+        "애니메이션풍 인물 그림과 DS용 도트 캐릭터·전투 동작이 개성적이고, 음악과 일부 인물 음성·짧은 영상이 작은 화면에서 분위기를 살린다.",
+        "대화 중 전문용어를 확인할 수 있는 사전, 서브스토리 회상, 장소에 구애받지 않는 저장으로 긴 이야기를 휴대용으로 따라가기 편하다."
+      ],
+      "cons": [
+        "설정 설명과 긴 대화가 플레이 대부분을 차지하고 전문용어도 방대해, 세계관에 익숙하지 않다면 사건의 흐름을 이해하기 어렵다.",
+        "PS2 원작의 많은 컷신·음성과 일부 플레이 구간·부가 콘텐츠가 삭제되거나 텍스트로 바뀌어 극적인 연출과 탐험 분량이 약해졌다.",
+        "강력한 진형과 기술을 익힌 이후 일반전·보스전이 지나치게 쉬워져 포메이션과 육성 체계의 전략성을 끝까지 살리기 어렵다.",
+        "던전과 길찾기가 거의 일직선이고 서브퀘스트·반복 플레이 콘텐츠가 빈약하며 일부 터치스크린 미니게임은 흐름을 끊는다."
+      ],
+      "sources": [
+        {
+          "label": "패미통 - 일본 Nintendo DS판 2006-03-30 발매, 남코, RPG 기본 정보",
+          "url": "https://www.famitsu.com/game/title/11228/reviews"
+        },
+        {
+          "label": "반다이남코 공식 - 원안·감수 타카하시 테츠야 및 시나리오 작가 인터뷰",
+          "url": "https://www.bandainamcoent.co.jp/cs/list/xenosaga1_2/interview/"
+        },
+        {
+          "label": "GAME Watch - DS판 20장 구성·신규 시나리오·전투 및 화면 소개",
+          "url": "https://game.watch.impress.co.jp/docs/20050916/xeno.htm"
+        },
+        {
+          "label": "RPGamer - Xenosaga I + II DS Retroview, 서사·전투·편의성 및 분량 평가",
+          "url": "https://archive.rpgamer.com/games/xeno/xenosagads/reviews/xenosagadsstrev1.html"
+        },
+        {
+          "label": "게임비망록 - 2024년 일본 DS판 플레이 리뷰, 전투 난도·도트·탐험 평가",
+          "url": "https://gamememorandum4649.blog.fc2.com/blog-entry-35.html"
+        },
+        {
+          "label": "GameSpot - DS 일본판 임포트 플레이, 조작·전투·시청각 연출",
+          "url": "https://www.gamespot.com/articles/xenosaga-episode-i-and-ii-import-hands-on/1100-6146974/"
+        },
+        {
+          "label": "LaunchBox - Nintendo DS 일본판 실제 앞표지 Box - Front (Japan)",
+          "url": "https://gamesdb.launchbox-app.com/games/images/81812-xenosaga-i-ii"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/4905",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 게임 평가는 2006-03-30 일본 Nintendo DS판 《ゼノサーガ I・II》(NTR-AXSJ-JPN) 기준이며 PS2 에피소드 I·II 개별판과 구분한다. 제공 주소의 실제 지원 ROM 리비전·번역 범위(대화·메뉴·사전·이미지·영상)·미번역 구간, 적용 방법과 실기 및 에뮬레이터 호환성은 확인하지 않았다. 패치 파일 다운로드·설치·구동 검증을 하지 않았다."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com/f559159f-6f12-42fa-a2c6-fb3bfb018439.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/81812-xenosaga-i-ii",
+        "platform": "ds",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-10-30",
+      "reviewer": "WebGPT"
     }
   ]
 }
