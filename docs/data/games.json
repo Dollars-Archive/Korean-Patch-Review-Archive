@@ -18611,6 +18611,73 @@
       },
       "reviewedAt": "2026-10-30",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "saiyuki-journey-west-ps1",
+      "title": "서유기 (Saiyuki: Journey West)",
+      "original": "西遊記 (Saiyuki)",
+      "platforms": [
+        "ps1"
+      ],
+      "genres": [
+        "SRPG",
+        "턴제 전술 RPG",
+        "동양 판타지"
+      ],
+      "score": 8,
+      "summary": "1999년 11월 11일 코에이가 발매한 일본 PS1 오리지널판 《西遊記》(SLPM-86339)를 평가했다. 고전 《서유기》를 바탕으로 삼장법사의 성별을 고르고 손오공 일행과 천축으로 향하는 판타지 전술 RPG다. 신수 변신의 지속 자원, 삼장만 사용하는 신장 소환, 중국 오행의 상성, 마법 두루마리·장신구 편성으로 경쾌하면서도 개성 있는 전투를 구현한다. 매력적인 인물화·중국풍 음악·가벼운 인물극과 이벤트가 돋보이지만 전투 목표의 반복, 비교적 쉬운 난도, 제한적인 탐험과 낡은 3D 표현이 감점 요인으로 8.0점. 복잡한 육성보다 이야기와 아기자기한 전술을 즐기는 SRPG 팬에게 추천한다. 당시 PS1판 전문 리뷰와 일본판 제품 정보를 근거로 한 편집 평가이며 직접 플레이한 점수가 아니다. 한국어 패치 여부는 점수에 반영하지 않았다.",
+      "pros": [
+        "서유기의 친숙한 인물과 여정을 재해석한 모험에 삼장법사의 남녀 선택과 일부 달라지는 대화·관계 이벤트가 더해져 이야기를 따라갈 재미가 크다.",
+        "손오공 일행의 신수 변신은 게이지 소모와 전투당 활용 기회를 관리해야 하고, 삼장의 신장 소환은 일정 턴 동안 파티 강화와 고유 마법을 제공해 전술적인 선택을 만든다.",
+        "목·화·토·금·수의 오행 상성, 방향·고저차의 공격 유불리, 마법 두루마리와 장신구 여섯 칸의 조합 등으로 이해하기 쉬우면서도 개성적인 부대 편성이 가능하다.",
+        "야마다 아키히로의 인상적인 캐릭터 일러스트와 중국 신화를 떠올리게 하는 음악·애니메이션 이벤트가 세계관의 정서를 살리며, 의뢰·도장·카드 놀이 등 부가 활동도 제공한다."
+      ],
+      "cons": [
+        "《파이널 판타지 택틱스》에 비하면 직업과 성장 선택이 단순하고 적의 행동도 예측하기 쉬워, 전술 RPG 숙련자에게는 게임 전체 난도가 낮게 느껴질 수 있다.",
+        "본편 전투의 승리 조건이 적 전멸·보스 격파에 몰리고 소규모 지형과 적 배치가 반복되어 긴 여정에서 신선함이 줄어든다.",
+        "신수 변신·신장 소환과 주문 연출이 반복되면 전투 흐름이 느려지고 오래된 3D 배경의 거친 텍스처·제한된 스프라이트 애니메이션이 눈에 띈다.",
+        "도시에서 직접 이동하는 탐험이 없고 세계 지도 경로가 선형적이며, 행동 순서 전체를 한눈에 보기 어려운 UI가 전투 준비의 편의를 떨어뜨린다."
+      ],
+      "sources": [
+        {
+          "label": "패미통 - 일본 PS1 《西遊記》 발매일·장르·제작사",
+          "url": "https://www.famitsu.com/game/title/18917/reviews"
+        },
+        {
+          "label": "피코피코 대백과 - 일본 초판 SLPM-86339 및 신장 소환·장비 시스템",
+          "url": "https://www.gavas.jp/products/detail.php?product_id=7944"
+        },
+        {
+          "label": "RPGFan - 2001 PS1 리뷰: 전투·서사·변신·장비·음악",
+          "url": "https://www.rpgfan.com/review/saiyuki-journey-west/"
+        },
+        {
+          "label": "RPGFan - 2001 독립 리뷰: 난도·시각 표현·오행 시스템",
+          "url": "https://www.rpgfan.com/review/saiyuki-journey-west-2/"
+        },
+        {
+          "label": "GameSpot - PS1 전문 리뷰: 전투 방식·맵 반복·서사와 그래픽",
+          "url": "https://www.gamespot.com/reviews/saiyuki-journey-west-review/1900-2807793/"
+        },
+        {
+          "label": "일본 원판 실물 패키지 앞표지 - Yahoo! Auctions Japan",
+          "url": "https://auctions.yahoo.co.jp/jp/auction/m1080325178"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/3393",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 일본 PS1 초판 《西遊記》(1999-11-11, SLPM-86339)이며 2000년 KOEI the Best판(SLPM-86704), 2002년 정번판(SLPM-87127), 북미판 《Saiyuki: Journey West》(SLUS-01381) 및 별개 작품 《환상마전 최유기》와 구별한다. 제공 주소의 실제 대응 디스크 지역·리비전, 대사·메뉴·전투·영상·이미지의 번역 범위와 미번역 요소, 적용 방법, PS1 실기 및 에뮬레이터 동작은 확인하지 않았다. 패치 설치·구동 시험은 실시하지 않았다."
+      },
+      "reviewedAt": "2026-10-30",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0401/users/2559f67a352243558e721391b6a9f757c2a725fe/i-img1200x1200-1675143514lzatiq826954.jpg",
+        "source": "https://auctions.yahoo.co.jp/jp/auction/m1080325178",
+        "platform": "ps1",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
