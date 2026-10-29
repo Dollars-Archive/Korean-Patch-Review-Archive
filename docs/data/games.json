@@ -19850,6 +19850,69 @@
       },
       "reviewedAt": "2026-10-30",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "kindaichi-shounen-no-jikenbo-3-seiryuu-densetsu-ps1",
+      "title": "긴다이치 소년의 사건부 3: 청룡전설 살인사건",
+      "original": "金田一少年の事件簿3 青龍伝説殺人事件 (Kindaichi Shounen no Jikenbo 3: Shouryuu Densetsu Satsujin Jiken)",
+      "platforms": [
+        "ps1"
+      ],
+      "genres": [
+        "추리 ADV",
+        "미스터리",
+        "어드벤처"
+      ],
+      "score": 7,
+      "summary": "1999년 8월 5일 강담사(講談社)에서 출시한 일본 PlayStation용 『金田一少年の事件簿3 青龍伝説殺人事件』(SLPS-02223/02224, 2장 구성)을 평가한다. 용가사키 온천 지역의 청룡호텔을 중심으로 서로 연결되는 네 가지 사건을 금전일(긴다이치 하지메) 시점에서 조사하고 추리하는 PS1 시리즈의 세 번째 작품. 360도 시점 조사와 단서 수집, 인물 대화, 추리 직전 저장 기능 및 애니메이션·성우 연출은 원작 팬의 몰입을 돕는다. 반면 중간 사건에서 이동·현장 조사가 줄고 글 중심의 사운드노벨 진행이 늘어 게임으로서의 밀도가 떨어지며, 전작 대비 낮아진 난도와 고르지 않은 사건 서사가 아쉽다. 시리즈식 범인 추리와 원작 분위기를 좋아하는 이용자에게 추천하며 7.0점. 공식에 가까운 발매 정보·PS1 사양 데이터 및 독립적인 일본어 회고·감상 자료를 기반으로 한 편집 평가로 직접 플레이하지 않았고 한글패치 유무는 점수에 반영하지 않았다.",
+      "pros": [
+        "청룡호텔·등산열차·유람선 등 연계된 네 사건을 따라 단서를 정리하고 범행의 모순을 짚는 구조가 긴다이치 시리즈 특유의 미스터리 몰입감을 살린다.",
+        "조사형 파트의 360도 시점 이동과 현장 물증 수집, 인물 대화 등 탐정 역할을 직접 수행하는 과정이 매력적이다.",
+        "추리 직전 저장과 재시도 구조 등 PS1 전작들의 지나치게 가혹했던 실패 부담을 낮춘 편의성이 접근성을 높인다.",
+        "Production I.G가 참여한 애니메이션, 일본어 캐릭터 음성, HATAKE가 담당한 음악이 드라마틱한 사건의 분위기를 돕는다."
+      ],
+      "cons": [
+        "두 번째·세 번째 사건에서 이동과 현장 조사 비중이 줄고 정적인 텍스트·사운드노벨식 진행이 늘어 도입부의 탐색 재미가 약해진다.",
+        "추리 난도가 시리즈 전작보다 전반적으로 낮아 숙련된 추리 ADV 이용자에게는 정답을 도출하는 성취감이 다소 부족하다.",
+        "사건별 이야기의 완성도와 몰입감에 편차가 있고 일부 전개는 PS1 첫 작품의 긴장감과 치밀함에 못 미친다는 감상이 있다.",
+        "좁은 3D 공간에서 시점을 바꿔 장소를 탐색하거나 조사 지점을 찾아야 해 현재 기준으로 이동·조사 UI가 답답하고, 일부 상황은 높은 평가 점수 달성을 위해 세심한 반복 확인을 요구한다."
+      ],
+      "sources": [
+        {
+          "label": "패미통 - 일본 PlayStation판 『金田一少年の事件簿3 青龍伝説殺人事件』 발매일·기종·장르·발매사",
+          "url": "https://www.famitsu.com/game/title/18814/reviews"
+        },
+        {
+          "label": "PSX Data Center - 일본판 SLPS-02223/02224 2장 구성, 개발·발매 및 360도 조사 시스템",
+          "url": "https://psxdatacenter.com/games/SLPS-02223.html"
+        },
+        {
+          "label": "コンシューマーゲーム大辞典 - PS1 시리즈 3편의 시나리오 구조·난도·조사·저장 편의 및 단점",
+          "url": "https://consoledictionary.com/games/21662"
+        },
+        {
+          "label": "no-value TSS #13-3 - 시리즈 비교·추리 체험·애니메이션·음악·조작에 관한 일본 이용자 심층 감상",
+          "url": "https://no-value.jp/column/38157/"
+        },
+        {
+          "label": "LaunchBox - 일본 PS1판 실제 Box - Front 이미지",
+          "url": "https://gamesdb.launchbox-app.com/games/images/135365-kindaichi-shounen-no-jikenbo-3-seiryuu-densetsu-satsujin-jiken"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/3025",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 1999년 8월 5일 출시 일본 PS1 『金田一少年の事件簿3 青龍伝説殺人事件』(디스크 SLPS-02223/SLPS-02224)이며 PS1 전작 『悲報島 新たなる惨劇』 및 『地獄遊園殺人事件』과 구분한다. 링크가 지원하는 실제 디스크 리비전, 대사·메뉴·추리·조사 UI 및 영상의 번역 범위, 미번역 내용, 패치 설치 방식·버전·배포 가능 여부는 확인하지 않았다. 링크 접속·미리보기·리다이렉트 추적과 실기 또는 에뮬레이터에서의 패치 적용·구동 테스트를 하지 않았다."
+      },
+      "reviewedAt": "2026-10-30",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/4677212b-2448-4d78-8810-c47c516ba012.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/135365-kindaichi-shounen-no-jikenbo-3-seiryuu-densetsu-satsujin-jiken",
+        "platform": "ps1",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
