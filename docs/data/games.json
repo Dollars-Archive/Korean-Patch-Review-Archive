@@ -17135,6 +17135,69 @@
       },
       "reviewedAt": "2026-10-30",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "sega-ages-2500-vol-12-puyo-puyo-tsuu-perfect-set-ps2",
+      "title": "뿌요뿌요 2 퍼펙트 셋 (SEGA AGES 2500 Vol.12)",
+      "original": "SEGA AGES 2500シリーズ Vol.12 ぷよぷよ通 パーフェクト・セット",
+      "platforms": [
+        "ps2"
+      ],
+      "genres": [
+        "퍼즐",
+        "대전 퍼즐",
+        "낙하형 퍼즐"
+      ],
+      "score": 7.2,
+      "summary": "1994년 고전 《뿌요뿌요 통》의 대전·연쇄·상쇄 규칙을 PS2로 되살리고 슈퍼 퀘스트, 나조뿌요와 문제 에디터를 더한 강화 이식판이다. 2인 대전의 탁월한 전략성과 풍성한 퍼즐 모드는 지금도 매력적이지만, 새 녹음 음성의 연기·편곡 음악에 대한 혹평, 로딩과 조작·시인성 문제로 이식 완성도가 부족해 7.2점. 클래식 《뿌요뿌요 통》과 퍼즐 대전을 즐기는 팬에게 추천한다. 공식 소개와 공개 리뷰를 바탕으로 한 편집 평가이며 직접 플레이하지 않았고 한글패치 여부는 점수에 반영하지 않았다.",
+      "pros": [
+        "연쇄를 만들고 상대의 방해 뿌요를 상쇄하는 《뿌요뿌요 통》의 핵심 규칙과 대전 심리전은 여전히 깊고 짧은 판마다 손맛이 뚜렷하다.",
+        "혼자 즐기는 일반 모드와 36명 상대의 슈퍼 퀘스트, 2인 대전 등 원작의 반복 대전 재미에 폭넓은 플레이 선택지를 제공한다.",
+        "나조뿌요 도전과 나조뿌요 에디트로 정해진 조건을 푸는 퍼즐과 사용자 제작 문제를 즐길 수 있다.",
+        "만담 데모 풀보이스화와 고해상도 화면 정리, 오리지널 아케이드 BGM 선택 등 클래식 작품을 재해석한 요소가 있다."
+      ],
+      "cons": [
+        "새 성우의 대사 연기와 캐릭터 음성에 대한 기존 팬들의 불만이 커 만담과 연쇄 연출의 호불호가 크다.",
+        "모드 선택 및 화면 전환 로딩이 매끄럽지 않고, 빠른 연쇄를 쌓을 때 조작감이 이전 이식판보다 떨어진다는 지적이 있다.",
+        "뿌요 색의 판별과 밝은 화면 처리 등 시인성에 아쉬움이 있으며 일부 편곡 음악의 평가도 좋지 않다.",
+        "고해상도화와 부가 모드 외의 근본적인 개선은 적어 PS1·새턴 등 기존 판본 보유자에게 차별화된 가치는 제한적이다."
+      ],
+      "sources": [
+        {
+          "label": "SEGA AGES 공식 - Vol.12 ぷよぷよ通 パーフェクトセット 발매 목록",
+          "url": "https://ages.sega.jp/onsale.html"
+        },
+        {
+          "label": "Joko PS2 - 일본 이용자 리뷰 (성우·연출·음악·이식)",
+          "url": "https://www.joko.jp/ps2/review/ti1031.html"
+        },
+        {
+          "label": "Hardcore Gaming 101 - SEGA AGES 2500 Vol.12 판본 분석",
+          "url": "https://www.hardcoregaming101.net/segaages/segaages3.htm"
+        },
+        {
+          "label": "GameFAQs - 일본 PS2 초기판 및 재발매판 제품 코드 구별",
+          "url": "https://gamefaqs.gamespot.com/ps2/921038-sega-ages-2500-series-vol-12-puyo-puyo-tsuu-perfect-set/data"
+        },
+        {
+          "label": "LaunchBox - 일본 PS2 Box - Front",
+          "url": "https://gamesdb.launchbox-app.com/games/images/74608-sega-ages-2500-series-vol-12-puyo-puyo-tsuu-perfect-set"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/3454",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 일본 PS2판 《SEGA AGES 2500シリーズ Vol.12 ぷよぷよ通 パーフェクト・セット》이며 2004-05-24 초판(SLPM-62400)을 기준으로 삼는다. 2005-06-10 재발매판(SLPM-62656), 1994년 아케이드 원작 및 PS1·새턴 이식판과 구별한다. 해당 주소의 지원 원본 디스크 코드·리비전, 대사·메뉴·나조뿌요의 실제 번역 범위와 미번역, 적용 방법, 실기·PCSX2 호환성은 확인하지 않았다. 패치를 설치하거나 실행하지 않았다."
+      },
+      "reviewedAt": "2026-10-30",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/0839a2d2-f142-4658-87bf-19dff6b5c0eb.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/74608-sega-ages-2500-series-vol-12-puyo-puyo-tsuu-perfect-set",
+        "platform": "ps2",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
