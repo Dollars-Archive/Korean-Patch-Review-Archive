@@ -17983,6 +17983,65 @@
       },
       "reviewedAt": "2026-10-30",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "moon-remix-rpg-adventure-ps1",
+      "title": "문: 리믹스 RPG 어드벤처",
+      "original": "moon (ムーン) - Remix RPG Adventure",
+      "platforms": [
+        "ps1"
+      ],
+      "genres": [
+        "어드벤처",
+        "안티 RPG",
+        "퍼즐"
+      ],
+      "score": 8.5,
+      "summary": "1997년 10월 16일 Love-de-Lic이 개발하고 ASCII가 발매한 일본 PS1 초판(일반판 SLPS-01031)을 기준으로 한 공개 자료 기반 편집 평가. 직접 플레이하지 않았으며 한글패치 유무는 점수에 반영하지 않았다. 전통적인 RPG의 몬스터 사냥과 약탈을 풍자해 전투 대신 사람을 돕고 쓰러진 몬스터 영혼을 구출하여 '러브'를 모으는 독창적인 어드벤처로, NPC의 요일·시간별 생활과 비선형 탐색, 다채로운 클레이풍 캐릭터와 자유롭게 선곡하는 MD 음악 시스템이 강렬한 개성을 만든다. 그러나 애매한 힌트와 높은 퍼즐 난도, 특정 시간에 맞춰야 하는 이벤트, 초기 활동 시간 제한과 수면 저장, 오래된 인터페이스 때문에 접근성이 낮다. 참신한 주제·세계와 감성적인 연출을 높이 평가하면서 불친절한 진행에 감점을 반영해 8.5/10. 전투보다 인물 관찰·추리·기묘한 세계관과 RPG 풍자를 즐기는 플레이어에게 강력 추천하며, 즉각적인 보상과 직관적인 퀘스트 안내가 필요하면 주의가 필요하다. 2019년 이후의 Switch·PC·PS4 이식판과 구분하고 PS1 원작의 특징을 우선 평가했다.",
+      "pros": [
+        "적을 처치해 경험치를 얻는 일반 RPG의 관습을 뒤집고, 몬스터 영혼 구조와 마을 사람들의 부탁 해결로 '러브'를 모아 활동 시간을 늘리는 구조가 주제와 게임 플레이를 일치시킨다.",
+        "요일·낮밤·시간대에 따라 이동하는 다양한 주민을 관찰하고 단서를 모아 문제를 해결하는 비선형 모험은 작은 세계를 살아 있는 장소처럼 느끼게 한다.",
+        "괴짜 주민과 초현실적인 생물, 클레이 애니메이션을 연상시키는 캐릭터와 독특한 배경 미술, RPG를 바라보는 유머와 따뜻한 시선이 기억에 남는 분위기를 만든다.",
+        "게임 속 MD(MoonDisk)를 수집해 다양한 장르의 곡을 자유롭게 배치하는 음악 시스템과 독특한 음성 연출이 개성과 탐색 동기를 더한다."
+      ],
+      "cons": [
+        "일부 영혼 구출·심부름·미니게임의 힌트가 지나치게 간접적이거나 불공평해 시행착오가 크며, 다른 지역과 시간대를 반복해서 확인해야 한다.",
+        "초반에는 제한된 활동 시간이 짧고 정해진 잠자리에서만 저장할 수 있어 이동·귀환을 자주 반복하며, 시간을 넘기면 그날의 진행이 사라질 수 있다.",
+        "목표·조건과 아이템 활용법을 명확히 안내하지 않는 1990년대식 인터페이스 때문에 이야기의 매력을 접하기 전에 진입 장벽을 느끼기 쉽다.",
+        "전통적인 전투나 직선적인 레벨업이 없고 이벤트를 기다리는 시간이 많아 속도감 있는 RPG나 액션을 기대하는 플레이어와는 궁합이 다를 수 있다."
+      ],
+      "sources": [
+        {
+          "label": "立命館大学 게임연구센터 RCGS - 1997년 PS1 일본판 실물 패키지, 출시일 및 SLPS-01031",
+          "url": "https://collection.rcgs.jp/page/PACKAGE0010484"
+        },
+        {
+          "label": "RPGamer - Moon: RPG Remix Adventure PS1 일본판 직접 리뷰 (Michael Baker, 2012-02-01)",
+          "url": "https://rpgamer.com/review/moon-rpg-remix-adventure-import-review/"
+        },
+        {
+          "label": "Nintendo World Report - 원작의 구조를 유지한 Switch 이식판 리뷰 (Neal Ronaghan, 2020-09-10), 원작 편의성 평가 참고",
+          "url": "https://nintendoworldreport.com/review/54873/moon-remix-rpg-adventure-switch-review"
+        },
+        {
+          "label": "LaunchBox - PS1 일본판 Box - Front 표지 자료",
+          "url": "https://gamesdb.launchbox-app.com/games/images/79051-moon-remix-rpg-adventure"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/3324",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 1997-10-16 일본 PS1 일반판 『moon』(SLPS-01031)이며 PS1 PlayStation the Best 염가판, Switch·PC·PS4 이식판과 구별한다. 이 주소의 실제 배포 버전·지원 CD 리비전·번역 범위·미번역 사항·적용 방법은 확인하지 않았다. 실기·에뮬레이터에서 패치를 설치하거나 테스트하지 않았다."
+      },
+      "reviewedAt": "2026-10-30",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://gamesdb-images.launchbox.gg/r2_7c02fe15-9248-477d-bb0a-2e497968cb8c.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/79051-moon-remix-rpg-adventure",
+        "platform": "ps1",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
