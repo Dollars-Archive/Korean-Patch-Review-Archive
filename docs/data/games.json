@@ -18232,6 +18232,66 @@
       },
       "reviewedAt": "2026-10-30",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "cardcaptor-sakura-tomoeda-shougakkou-daiundoukai-gbc",
+      "title": "카드캡터 체리: 우수초등학교 대운동회",
+      "original": "カードキャプターさくら ～友枝小学校大運動会～ (Cardcaptor Sakura: Tomoeda Shougakkou Daiundoukai)",
+      "platforms": [
+        "other"
+      ],
+      "genres": [
+        "스포츠 미니게임",
+        "파티 게임",
+        "캐릭터 게임"
+      ],
+      "score": 6.8,
+      "summary": "2000년 10월 6일 일본 게임보이 컬러(GBC) 전용으로 출시된 MTO의 『カードキャプターさくら ～友枝小学校大運動会～』에 대한 자료 기반 편집 평가로, 직접 플레이하지 않았고 한글패치 여부는 점수에 반영하지 않았다. 크로우 카드와 마법 배틀 대신 토모에다 초등학교의 운동회를 무대로 사쿠라와 친구들이 빨강·하양팀으로 나뉘어 종목별 승부를 겨룬다. 달리기, 릴레이, 장애물 경주, 기마전, 공 넣기 퍼즐, 바통 댄스 등 다양한 미니게임과 스태미나를 고려한 출전자 선택, 귀여운 SD 애니메이션, 짧은 PCM 음성, 경기별 음악, 통신 대전·연습·자동 저장 등 팬을 위한 요소가 충실하다. 반면 일부 종목은 반복되는 필승 패턴 때문에 경쟁성이 무너지고 캐릭터 능력치의 실효성이 제한적이며, 원작 본편의 이야기·마법 요소도 거의 없다. 재미있는 종목과 캐릭터 재현을 인정하지만 장기적 깊이와 밸런스에 감점해 6.8/10. 카드캡터 사쿠라 팬과 가벼운 단편 미니게임을 좋아하는 이용자에게 추천한다. 본 아카이브에 GBC 전용 플랫폼 ID가 없어 'other'로 등록했으며 GBA판이 아닌 실제 GBC 카트리지 게임이다.",
+      "pros": [
+        "사쿠라·토모요·샤오랑 등 원작 인물들이 넘어지고 달리고 환호하는 귀여운 SD 애니메이션과 캐릭터 음성, 경기별 음악이 운동회 분위기를 살린다.",
+        "100m 달리기·2인 3각·릴레이·장애물 경주·기마전·공 넣기·바통 댄스 등 순발력, 타이밍, 퍼즐을 넘나드는 종목으로 짧고 다채로운 플레이가 가능하다.",
+        "빨강팀·하양팀의 서로 다른 선수 구성과 개인별 스태미나·속도 등을 고려한 출전자 선택, 종목 사이 체력 회복이 단순한 버튼 연타 이상의 작은 전략성을 제공한다.",
+        "게임보이 컬러 통신 케이블을 이용한 2인 대전, 경기 연습 모드, 운세·앨범·프린터 부가 기능과 경기 종료 시 자동 저장이 캐릭터 게임으로서의 편의성과 소장 재미를 높인다."
+      ],
+      "cons": [
+        "줄다리기·기마전·일부 퍼즐형 경기에는 AI가 대응하지 못하는 반복 가능한 필승법이 있어 승부의 긴장감이 크게 떨어진다.",
+        "캐릭터별 힘·점프·기교 등의 능력치 차이가 실제 경기에서 체감하기 어려워 전략적으로 다른 선수를 고르는 보상이 제한적이다.",
+        "일부 인물은 두 팀에서 중복으로 등장하고 후반 원작 에피소드의 주요 인물이 빠져 있어, 캐릭터 수와 조합의 다양성이 기대보다 적다.",
+        "크로우 카드·마법을 이용한 모험이나 밀도 있는 스토리 없이 운동회 경기 중심으로 진행되어 장시간 즐길 본편 콘텐츠가 부족하다.",
+        "게임보이 어드밴스 등 일부 후방 호환 하드웨어에서는 사쿠라의 PCM 음성이 정상 재생되지 않는다는 실사용 보고가 있다."
+      ],
+      "sources": [
+        {
+          "label": "LaunchBox - Nintendo Game Boy Color 일본판 출시 정보 및 Box - Front (Japan)",
+          "url": "https://gamesdb.launchbox-app.com/games/images/106441-cardcaptor-sakura-tomoeda-shougakkou-daiundoukai"
+        },
+        {
+          "label": "게임카탈로그@Wiki - GBC판 게임 시스템·미니게임별 장단점·자동 저장·GBA 음성 문제",
+          "url": "https://w.atwiki.jp/gcmatome/pages/6935.html"
+        },
+        {
+          "label": "MobyGames - GBC판 출시·MTO 배급·게임 방식·통신 대전 정보",
+          "url": "https://www.mobygames.com/game/259118/cardcaptor-sakura-tomoeda-shogakkou-daiundokai/"
+        },
+        {
+          "label": "Vysethedetermined2 - GBC 실물 보유 플레이 샘플·종목·음성 호환 문제 상세 설명 (2011-10-26)",
+          "url": "https://www.youtube.com/watch?v=Cac2kPOXwRo"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/3350",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2000년 일본 게임보이 컬러(GBC) 전용 『カードキャプターさくら ～友枝小学校大運動会～』 카트리지(CGB-BS7J-JPN)이며 PS1 카드캡터 사쿠라 게임이나 GBA 전용 작품과 구분한다. 아카이브 플랫폼 ID에 GBC가 없어 platforms 및 cover.platform은 other로 기록한다. 사용자 제공 링크의 실제 배포 여부·지원 롬 리비전, 게임 메뉴·대사·미니게임의 번역 범위, 미번역 항목·적용 방법·실기 및 에뮬레이터 호환성은 확인하지 않았고 설치 테스트도 하지 않았다."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com/717de7f2-d458-41d1-8ad2-7b382ab52063.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/106441-cardcaptor-sakura-tomoeda-shougakkou-daiundoukai",
+        "platform": "other",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-10-30",
+      "reviewer": "WebGPT"
     }
   ]
 }
