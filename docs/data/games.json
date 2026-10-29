@@ -15615,6 +15615,69 @@
       },
       "reviewedAt": "2026-10-30",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "cowboy-bebop-tsuioku-no-serenade-ps2",
+      "title": "카우보이 비밥: 추억의 세레나데",
+      "original": "カウボーイビバップ 追憶の夜曲 (Cowboy Bebop: Tsuioku no Serenade)",
+      "platforms": [
+        "ps2"
+      ],
+      "genres": [
+        "액션 어드벤처",
+        "3D 격투 액션",
+        "슈팅"
+      ],
+      "score": 6.5,
+      "summary": "2005년 8월 25일 일본 발매된 PS2 일반판 《カウボーイビバップ 追憶の夜曲》(SLPS-25551)을 평가한다. 원작 TV 애니메이션의 스파이크·제트·페이를 번갈아 조작하면서 새로운 현상금 사냥과 수수께끼를 따라가는 액션 어드벤처. 오리지널 성우진의 연기와 칸노 요코의 음악, 셀 셰이딩 인물과 특유의 하드보일드한 대사가 팬 서비스로서 돋보인다. 리듬을 맞춰 잇는 격투 콤보, 총격과 비행 등 장면 변화도 있다. 그러나 근접 전투의 둔한 반응과 반복, 총격 구간의 제한적인 시점·조준, 일부 불합리한 난이도와 영상 스킵 제한 때문에 순수 게임 완성도는 평범해 6.5점. 카우보이 비밥의 새로운 에피소드와 분위기를 즐길 팬에게 조건부 추천하며, 세련된 액션이나 자유도 높은 슈팅을 기대한다면 보류가 낫다. 게임 원판 소개, 실제 PS2판 리뷰 및 일본 이용자 평가를 바탕으로 한 편집 평가로 직접 플레이하지 않았으며 한글패치 존재는 점수에 반영하지 않았다.",
+      "pros": [
+        "원작 출연진의 캐릭터 연기와 칸노 요코의 익숙한 음악, 비밥호 내부 탐색 등으로 TV 애니메이션의 공기와 인물 간의 호흡을 재현한다.",
+        "현상금 사냥을 둘러싼 별도 사건과 원작다운 대사·장면 연출이 애니메이션 팬에게 새로운 에피소드 같은 감상을 준다.",
+        "스파이크의 균형형, 제트의 강력하지만 느린 기술, 페이의 빠른 움직임을 활용할 수 있고, 타격 타이밍에 맞춰 이어가는 콤보와 반격·특수기에는 전술적 여지가 있다.",
+        "셀 셰이딩 캐릭터와 애니메이션 분위기의 배경, 근접 격투·FPS 시점 총격·비행·탐색을 섞은 구성으로 장면 전환의 재미를 노렸다."
+      ],
+      "cons": [
+        "격투 조작이 익숙해지기 전에는 경직되고 적 처리도 반복적이며, 여러 캐릭터의 체감 차이도 충분히 깊지 않다는 평가가 있다.",
+        "총격 구간의 조준이 예민하고 시점을 자유롭게 돌리기 어려워 지나친 적에게 대응하려면 뒤로 이동해야 하는 등 통제가 답답하다.",
+        "잠입·폭탄 해제 같은 일부 구간의 난도와 실패 시 재시도가 불합리하게 느껴지고, 비행 구간은 직접 경로를 조종하지 못해 자유도가 제한적이다.",
+        "일부 이벤트 영상은 스킵이 어렵고 입 모양과 대사 싱크가 어색하며, 풍부한 원작 음악에도 실제 반복 재생되는 곡 수가 적다는 지적이 있다."
+      ],
+      "sources": [
+        {
+          "label": "GameFAQs - 일본 PS2판 제품번호·2005-08-25 발매 정보",
+          "url": "https://gamefaqs.gamespot.com/ps2/919660-cowboy-bebop-tsuioku-no-serenade/data"
+        },
+        {
+          "label": "GameFAQs - Nemuren의 PS2판 리뷰 (2007-03-02, 7/10)",
+          "url": "https://gamefaqs.gamespot.com/ps2/919660-cowboy-bebop-tsuioku-no-serenade/reviews/111237"
+        },
+        {
+          "label": "PS2ゲームどうなの？ - 일본 PS2판 이용자 평가 (2005~2010)",
+          "url": "https://www.joko.jp/ps2/review/ti1627-2.html"
+        },
+        {
+          "label": "피코피코 대백과 - PS2 일본 일반판 발매·게임 구성·패키지 정보",
+          "url": "https://www.gavas.jp/products/detail.php?product_id=11653"
+        },
+        {
+          "label": "LaunchBox - PS2판 일반 패키지 앞표지 이미지 확인",
+          "url": "https://gamesdb.launchbox-app.com/games/details/55632-cowboy-bebop-tsuioku-no-serenade"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/3753",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 일본 PS2판 적용 여부, 번역 범위, 적용 방법 및 실기 작동 여부 미확인. 설치·실기 검증을 수행하지 않았다."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com//c4e17db4-db83-40f3-befd-0a42c74b8e87.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/details/55632-cowboy-bebop-tsuioku-no-serenade",
+        "platform": "ps2",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-10-30",
+      "reviewer": "WebGPT"
     }
   ]
 }
