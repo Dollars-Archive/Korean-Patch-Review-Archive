@@ -18876,6 +18876,69 @@
       },
       "reviewedAt": "2026-10-30",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "steambot-chronicles-battle-tournament-psp",
+      "title": "고물 낭만 대활극 범피트롯: 비클 배틀 토너먼트",
+      "original": "ポンコツ浪漫大活劇バンピートロット ビークルバトルトーナメント (Steambot Chronicles: Battle Tournament)",
+      "platforms": [
+        "psp"
+      ],
+      "genres": [
+        "액션 어드벤처",
+        "메카닉 커스터마이징",
+        "아레나 대전"
+      ],
+      "score": 6,
+      "summary": "2008년 7월 10일 발매된 일본 PSP판 《ポンコツ浪漫大活劇バンピートロット ビークルバトルトーナメント》 기준. 트롯 비클을 직접 개조하고 의뢰로 자금과 명성을 쌓아 배틀 토너먼트의 상위 랭크에 도전하는 로봇 액션 어드벤처다. 다양한 무장·부품으로 자신만의 이족보행 기체를 조립하는 재미와 독특한 산업혁명풍 세계관, 애드혹 대전이 매력적이다. 그러나 PS2 본편보다 축소된 자유도와 이야기, 단조로운 근접 전투, 반복적인 수집·운반 의뢰와 불편한 시점·록온 조작이 장점을 약화한다. 기체 개조의 매력을 인정하되 반복성과 조작의 결점을 반영해 6.0점. 메카닉 조립과 소규모 투기장 대전을 좋아하는 팬에게 제한적으로 추천한다. 일본판 공식 소개와 동시대 PSP 리뷰를 바탕으로 한 편집 평가이며 직접 플레이한 점수는 아니다. 한글패치 유무는 평점에 반영하지 않았다.",
+      "pros": [
+        "팔·무장 등 다양한 부품을 교체·강화하며 적재 한도를 고려해 자신만의 트롯 비클을 만드는 커스터마이징이 핵심 재미다.",
+        "의뢰로 자금·명성을 모아 기체를 강화하고 토너먼트의 높은 단계에 도전하는 성장 루프가 목표를 뚜렷하게 제시한다.",
+        "산업혁명풍 도시와 이족보행 기계라는 독특한 세계관, 소박한 캐릭터 디자인이 시리즈 특유의 매력을 이어간다.",
+        "PSP의 애드혹 통신 및 게임셰어링을 이용한 최대 4인 배틀로 다른 플레이어의 개조 기체와 경쟁할 수 있다."
+      ],
+      "cons": [
+        "의뢰 상당수가 물건 수집·운반이나 같은 장소 재방문으로 이뤄져 짧은 캠페인에도 반복 피로가 크다.",
+        "근접 공격 위주의 전투가 단순하고 적 종류와 패턴도 부족해 토너먼트 진행이 금방 비슷하게 느껴진다.",
+        "록온·시점 전환·지도 확인·승하차 등 PSP의 한정된 버튼으로 조작해야 할 기능이 많아 반응성과 편의성이 떨어진다.",
+        "PS2 원작보다 도시 탐험·생활 요소와 서사 분량이 대폭 줄었고 개별 의뢰와 핵심 줄거리의 연결도 느슨하다."
+      ],
+      "sources": [
+        {
+          "label": "패미통 - 일본 PSP판 2008-07-10 발매 정보 및 네 명의 동시대 리뷰",
+          "url": "https://www.famitsu.com/game/title/4368/reviews"
+        },
+        {
+          "label": "패미통 특집 - 일본 PSP판 공식 소개, 파츠 강화 및 애드혹 통신",
+          "url": "https://www.famitsu.com/sp/080523_bumpytrot/"
+        },
+        {
+          "label": "RPGamer - PSP판 리뷰, 기체 육성·조작·반복 의뢰·스토리 평가",
+          "url": "https://archive.rpgamer.com/games/steambot/scbt/reviews/scbtstrev1.html"
+        },
+        {
+          "label": "WorthPlaying - PSP판 리뷰(2009-08-03), 근접 전투·탐험 구조·의뢰 반복 평가",
+          "url": "https://worthplaying.com/article/2009/8/3/reviews/63944-psp-review-steambot-chronicles-battle-tournament/"
+        },
+        {
+          "label": "LaunchBox - PSP 일본판 Box - Front (Japan) 이미지",
+          "url": "https://gamesdb.launchbox-app.com/games/images/14548-steambot-chronicles-battle-tournament"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/3229",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 게임 평가는 2008년 일본 PSP판 기준이며 2009년 북미판 및 PS2 본편 《범피트롯》과 구분한다. 제공된 링크의 실제 대응 지역·UMD 리비전, 번역 범위·미번역 구간, 설치 방법 및 PSP 실기·PPSSPP 호환성은 확인하지 않았고 패치 다운로드·설치·구동 검증도 하지 않았다."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com/f4364fce-07aa-49d4-aa44-04b0cbe9a799.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/14548-steambot-chronicles-battle-tournament",
+        "platform": "psp",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-10-30",
+      "reviewer": "WebGPT"
     }
   ]
 }
