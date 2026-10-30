@@ -20804,6 +20804,79 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "dragon-quest-iv-michibikareshi-monotachi-ps1",
+      "title": "드래곤 퀘스트 4: 인도받은 자들",
+      "original": "ドラゴンクエストIV 導かれし者たち (Dragon Quest IV: Michibikareshi Mono-tachi)",
+      "platforms": [
+        "ps1"
+      ],
+      "genres": [
+        "RPG",
+        "턴제 JRPG",
+        "판타지"
+      ],
+      "score": 8.8,
+      "summary": "2001년 11월 22일 에닉스가 일본 PlayStation용으로 발매한 『ドラゴンクエストIV 導かれし者たち』(SLPM-86916)의 리메이크판 평가. 서로 다른 주인공의 여행을 1~4장에 나누어 보여준 뒤 5장에서 하나로 합치는 구성과 뚜렷한 동료 캐릭터, 호리이 유지의 왕도적인 서사가 여전히 강력하다. PS1판은 회전 가능한 3D 마을·던전, 정교해진 전투 연출, 동료 대화, 직접 명령 전투, 이민자의 마을·몬스터 도감 및 추가 후일담 6장으로 원작의 장점을 보강하고 로딩도 비교적 빠르다. 반면 랜덤 전투·레벨 육성의 반복, 『VII』 자산 재활용으로 생기는 낡은 화면, 6장 서사 해석에 관한 호불호와 일부 동료 AI·성장 밸런스 문제는 남는다. 8.8점. 인물마다 다른 시점이 모여 하나의 모험을 완성하는 고전 JRPG를 좋아한다면 강력 추천. 에닉스·스퀘어 에닉스 공식 및 PS1판 전문·이용자 리뷰에 근거한 편집 평가로 직접 플레이하지 않았고 한글패치 여부는 점수에 반영하지 않았다.",
+      "pros": [
+        "1~4장에서 각기 다른 인물과 게임 목표를 먼저 경험하고 5장에서 이야기가 합쳐지는 구성은 동료들의 개성을 자연스럽게 각인시키며 모험의 성취감을 높인다.",
+        "PS1 리메이크에서 추가된 동료 대화는 장소와 상황에 따라 다양한 반응을 들려줘 FC 원작에서는 드러나지 않던 인물 관계와 성격을 풍성하게 표현한다.",
+        "AI에 맡겨야 했던 FC판 5장 전투에 '명령해라'가 추가되고 조작·아이템 관리와 몬스터 도감 기능이 개선되어 전략을 직접 통제하기 쉬워졌다.",
+        "3D 배경의 회전 시점과 강화된 몬스터 애니메이션, 편곡된 스기야마 코이치 음악이 원작 분위기를 살리며 저장과 로딩도 비교적 빠른 편이다.",
+        "새로운 이민자의 마을, 추가 서장과 클리어 후 6장 및 숨겨진 던전은 초회차와 재플레이 모두에 탐험·수집 동기를 더한다."
+      ],
+      "cons": [
+        "전통적인 랜덤 인카운터와 몇몇 구간의 장비 마련·레벨 육성은 현재 기준으로 반복적이고 이동 템포가 끊길 수 있다.",
+        "전작 『드래곤 퀘스트 VII』의 엔진과 일부 맵·몬스터 자산을 재활용해 리메이크임에도 3D 배경이 투박하며 회전시켜야 찾을 수 있는 통로도 번거롭다.",
+        "클리어 후 추가 6장의 이야기 전개는 본편에서 구축한 등장인물 간 갈등과 주제에 관한 해석이 엇갈려 원작 팬 사이에서 호불호가 뚜렷하다.",
+        "특정 동료의 AI 행동 패턴과 높은 레벨·추가 콘텐츠에서의 캐릭터 능력 편차가 전투 밸런스를 고르지 않게 만들 수 있다.",
+        "PS1판 추가 던전 일부에 『VII』의 기존 구조와 몬스터를 재활용한 부분이 있고, 이민자 모집에는 같은 지역을 다시 방문하는 반복이 따른다."
+      ],
+      "sources": [
+        {
+          "label": "스퀘어 에닉스 공식 지원 - FC·PS1·DS 각 판본의 발매일",
+          "url": "https://support.jp.square-enix.com/faqarticle.php?id=114&kid=67164&la=0&ret=main"
+        },
+        {
+          "label": "에닉스·스퀘어 에닉스 공식 PS1판 소개",
+          "url": "https://www.jp.square-enix.com/dragonquest/psdq4/"
+        },
+        {
+          "label": "GameSpot - TGS 2001 PS1판 실기 시연, 3D 화면·동료 대화·로딩",
+          "url": "https://www.gamespot.com/articles/tgs-2001-fall-hands-on-dragon-quest-4/1100-2817916/"
+        },
+        {
+          "label": "120en.net - 일본 PS1판 감상: 장 구성·전투 난도·동료 대화·음악·로딩",
+          "url": "https://120en.net/dorakue4.html"
+        },
+        {
+          "label": "ゲームカタログ@Wiki - PS1판 리메이크 변경점·장단점·추가 6장 및 전투 밸런스",
+          "url": "https://w.atwiki.jp/gcmatome/pages/3984.html"
+        },
+        {
+          "label": "PSX Data Center - 2001 일본 PS1 초판 SLPM-86916의 기종·코드와 표지 확인",
+          "url": "https://psxdatacenter.com/games/SLPM-86916.html"
+        },
+        {
+          "label": "WINDCOLOR MUSIC - 일본 PS1 초판 SLPM-86916 실제 박스 앞표지",
+          "url": "https://store.shopping.yahoo.co.jp/windcolor-y-shopping/e20-slpm-86916.html"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/5805",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가·표지 대상은 2001-11-22 일본 PS1 일반판 『ドラゴンクエストIV 導かれし者たち』(SLPM-86916)이며 FC 원작, PS one Books (SLPM-87356), Ultimate Hits (SLPM-87377), DS·스마트폰판과 구분한다. 제공 링크의 실제 적용 대상 지역·디스크 리비전, 대사·메뉴·동료 대화·6장·도감·그래픽 번역 범위, 미번역 요소, 적용법과 배포 가능 여부는 확인하지 않았다. AI는 사용자 제공 패치 링크를 열지 않았으며 패치 설치 및 PS1 실기·에뮬레이터 구동 테스트를 하지 않았다."
+      },
+      "reviewedAt": "2026-10-30",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://item-shopping.c.yimg.jp/i/n/windcolor-y-shopping_e20-slpm-86916",
+        "source": "https://store.shopping.yahoo.co.jp/windcolor-y-shopping/e20-slpm-86916.html",
+        "platform": "ps1",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
