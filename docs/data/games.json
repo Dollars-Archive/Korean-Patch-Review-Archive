@@ -22467,6 +22467,68 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "initial-d-special-stage-ps2",
+      "title": "이니셜 D 스페셜 스테이지",
+      "original": "頭文字D Special Stage (Initial D: Special Stage)",
+      "platforms": [
+        "ps2"
+      ],
+      "genres": [
+        "레이싱",
+        "아케이드 레이싱"
+      ],
+      "score": 7.8,
+      "summary": "2003년 6월 26일 세가가 일본에서 발매한 PS2 일반판 『頭文字D Special Stage』(SLPM-65268)를 기준으로 평가한다. 세가 로쏘의 아케이드 레이싱 『頭文字D Arcade Stage Ver.2』를 바탕으로 공도최속전설·타임어택 외에 원작 만화의 대결을 미션 조건으로 재현한 가정용 전용 스토리 모드를 추가했다. 일본의 고갯길을 빠르게 달리는 아케이드식 주행, 실존 일본 차량과 부품 강화, 애니메이션판 성우 연기와 유로비트 음악이 강점이다. 총 11개 코스와 스토리 미션·차량 수집 등 즐길 거리가 상당하며 원작 팬의 만족감이 높다. 반면 시뮬레이션 레이싱과 다른 가벼운 조작 감각, 일부 까다로운 승리 조건과 반복 재도전, 모드 전환 로딩, 2인 대전 부재 및 아케이드판과 차이가 나는 그래픽은 단점이다. 원작 팬이나 고속의 산길 아케이드 레이싱과 기록 단축을 즐기는 이용자에게 추천하는 7.8점. GAME Watch와 Kikizo의 PS2판 리뷰 등 자료에 근거한 편집 평가이며 직접 플레이하지 않았고 한글패치 유무는 점수에 반영하지 않았다.",
+      "pros": [
+        "좁은 고갯길과 연속 헤어핀을 빠른 조작 감각으로 달리는 아케이드판의 속도감과 주요 코스 구성을 PS2로 충실하게 옮겼다.",
+        "가정용 전용 스토리 모드는 원작 주요 대결에 제각기 다른 주행 미션과 승리 조건을 부여해 단순히 레이스를 반복하는 것보다 변화가 많다.",
+        "원작 만화 컷과 애니메이션풍 연출, 애니메이션판 성우진의 상황별 음성, 풍부한 유로비트 곡이 『이니셜 D』 특유의 분위기를 잘 살린다.",
+        "다수의 일본제 차량 선택과 튜닝, 공도최속전설·타임어택, 아케이드판보다 확장된 코스·스토리 요소가 플레이와 기록 갱신의 동기를 준다."
+      ],
+      "cons": [
+        "시뮬레이션 레이싱과 비교하면 차량 움직임이 가볍고 민감하며, 벽에 충돌했을 때의 반응과 드리프트가 비현실적으로 느껴질 수 있다.",
+        "스토리 모드 일부 과제는 까다로운 특별 조건과 연속 주행을 요구하고, 실패 시 구간을 다시 반복해야 해 좌절감을 줄 수 있다.",
+        "모드와 이벤트를 이동할 때 로딩이 자주 발생해 재도전을 반복하면 흐름이 끊긴다.",
+        "아케이드판의 대전 중심 재미와 달리 PS2판에는 2인 대전이 없어 친구와 경쟁할 수 없고, 일부 그래픽 질감도 NAOMI 2 아케이드판과 차이가 난다."
+      ],
+      "sources": [
+        {
+          "label": "패미통 - PS2판 2003-06-26 발매·레이싱 장르·세가 기본 정보",
+          "url": "https://www.famitsu.com/game/title/10049/reviews"
+        },
+        {
+          "label": "피코피코 대백과 - 일본 PS2 일반판 제품 번호 SLPM-65268·2003-06-26 발매",
+          "url": "https://www.gavas.jp/products/detail.php?product_id=12608"
+        },
+        {
+          "label": "GAME Watch - PS2판 전문 리뷰: 스토리 미션·주행·성우·유로비트·로딩·대전 부재 (2003-07-03)",
+          "url": "https://game.watch.impress.co.jp/docs/20030703/inid.htm"
+        },
+        {
+          "label": "Kikizo - PS2판 전문 리뷰: 아케이드 이식·조작감·추가 코스·콘텐츠·2인 대전 부재 (2003-08-12)",
+          "url": "https://games.kikizo.com/reviews/ps2/initiald.asp"
+        },
+        {
+          "label": "LaunchBox - 『Initial D: Special Stage』 PS2 일본 Box - Front (1425×2034)",
+          "url": "https://gamesdb.launchbox-app.com/games/images/18107-initial-d-special-stage"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/4799",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2003년 일본 PS2 일반판 『頭文字D Special Stage』(SLPM-65268)이다. 제공 주소가 실제로 지원하는 게임 지역·디스크 리비전, 스토리 대사·미션 조건·메뉴·차량 및 튜닝 항목·영상 그래픽의 번역 범위와 미번역 요소, 적용 방식, PS2 실기·에뮬레이터에서의 구동 여부는 확인하지 않았다. 사용자 제공 링크에 접속하거나 미리보기·리다이렉트 추적·설치·구동 검증을 실시하지 않았다."
+      },
+      "reviewedAt": "2026-10-30",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/aef0def2-f123-452e-adba-41c2ec054c1c.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/18107-initial-d-special-stage",
+        "platform": "ps2",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
