@@ -21927,6 +21927,73 @@
       },
       "reviewedAt": "2026-10-30",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "machi-unmei-no-kousaten-ps1",
+      "title": "거리: 운명의 교차점",
+      "original": "街 ～運命の交差点～ (Sound Novel Evolution 3: Machi - Unmei no Kousaten)",
+      "platforms": [
+        "ps1"
+      ],
+      "genres": [
+        "ADV",
+        "사운드 노벨",
+        "군상극"
+      ],
+      "score": 9.1,
+      "summary": "1999년 1월 28일 일본 PS1 일반판 《街 ～運命の交差点～》(Sound Novel Evolution 3, SLPS-01845)을 기준으로 한 평가. 시부야를 무대로 8명의 인물이 5일간 겪는 코미디·서스펜스·휴먼 드라마를 실사 사진과 음악으로 엮는다. 한 주인공의 작은 선택이 다른 주인공의 운명을 바꾸는 '재핑(Zapping)' 구조가 이야기 자체를 퍼즐처럼 탐색하게 하며, 개성 강한 인물극과 현장감 있는 연출, 풍부하고 기발한 TIPS가 강점이다. PS1판은 세가 새턴 원작 대비 이동·시간 차트, 배드 엔딩 목록, 난이도 선택과 실루엣 모드를 추가하여 진행 편의성을 높였다. 그러나 8개 이야기를 계속 오가야 하는 흐름과 복잡한 배드 엔딩 조건, 모든 엔딩 회수에 필요한 하드 난이도·반복 작업, 작품별 서사의 취향 차이와 실루엣 모드의 인물 가독성 문제 때문에 9.1점. 미스터리와 다중 시점 군상극을 좋아하고 긴 글 읽기를 즐기는 플레이어에게 강력 추천한다. PS1판 제품 자료와 전문 리뷰를 종합한 자료 기반 편집 평가이며 직접 플레이하지 않았고 한글패치 존재 여부를 점수에 반영하지 않았다.",
+      "pros": [
+        "연애 코미디·범죄극·심리 스릴러·휴먼 드라마처럼 분위기가 다른 8명의 시나리오가 한 도시와 같은 시간 속에서 서로 연결되며, 인물별 대화와 서사 완성도가 뛰어나다.",
+        "한 인물의 선택과 행동이 다른 주인공에게 예상 밖의 배드 엔딩이나 돌파구가 되는 재핑 시스템이 소설 읽기를 인과관계 추리와 선택의 퍼즐로 발전시킨다.",
+        "실제 시부야 거리와 배우들을 촬영한 방대한 실사 사진, 장면에 어울리는 음악·효과음, 유머러스한 용어 해설(TIPS)이 인물의 표정과 당시 도시의 공기를 생생하게 전한다.",
+        "PS1판은 시간·인물별 위치를 보여주는 이동 차트, 배드 엔딩 목록, 3단계 난이도와 수동 저장을 갖추어 원작 세가 새턴판보다 시나리오를 추적하고 진행하기 편리해졌다."
+      ],
+      "cons": [
+        "개별 이야기가 흥미로워져도 진행을 위해 다른 인물의 같은 시간대 사건으로 자주 이동해야 하므로 특정 인물극에 대한 몰입이 자주 끊긴다.",
+        "배드 엔딩 원인이 전혀 다른 주인공의 오래전 선택에 있는 경우가 있어 재핑과 선택지 재탐색이 반복되고, 배드 엔딩을 대량으로 수집하는 숨은 요소 해금은 상당한 노동을 요구한다.",
+        "시나리오마다 코미디·스릴러 등 소재와 감성이 크게 달라 모든 인물의 이야기가 똑같이 마음에 들기 어렵고 일부 장면은 다소 과장되거나 취향을 탄다.",
+        "PS1판의 추가 실루엣 모드는 많은 등장인물을 시각적으로 구분하기 어렵게 하고 실사 배우들의 표정 연출을 훼손한다. 모든 엔딩을 보기 위해서는 하드 난이도의 선택이 필요해 초심자에게 불친절하다."
+      ],
+      "sources": [
+        {
+          "label": "피코피코대백과 - PS1 일본 일반판 발매일·품번 SLPS-01845",
+          "url": "https://www.gavas.jp/products/detail.php?product_id=10205"
+        },
+        {
+          "label": "GAME Watch - 20주년 회고, PS1판 차트·배드엔딩·난이도·실루엣 차이",
+          "url": "https://game.watch.impress.co.jp/docs/news/1147962.html"
+        },
+        {
+          "label": "縮緬遊戯堂 - 플레이스테이션판 리뷰 2건: 군상극·음악·연출·배드엔딩 평가",
+          "url": "https://chirimenzeyo.ari-jigoku.com/review/ps/ps_machi.html"
+        },
+        {
+          "label": "gamingRareGroove - PS1판 리뷰: 재핑 구조와 실루엣 모드 분석",
+          "url": "https://gamingraregroove.com/review-machi/"
+        },
+        {
+          "label": "게임라인 - PS1판과 세가 새턴·PSP판 기능 차이 비교",
+          "url": "https://gameline.jp/machi/hardware/"
+        },
+        {
+          "label": "LaunchBox - 일본 PS1판 Box - Front (500×491)",
+          "url": "https://gamesdb.launchbox-app.com/games/images/30098-sound-novel-evolution-3-machi-unmei-no-kousaten"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/2569",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 1999-01-28 일본 PS1 일반판 《街 ～運命の交差点～》(SLPS-01845)으로 1998년 세가 새턴 원작, 2002년 PS1 염가판, 2006년 PSP 《特別篇》과 구분한다. 링크의 실제 지원 디스크 리비전·지역판, 본편 8명 시나리오·보너스 시나리오·TIPS·메뉴·실루엣 모드의 번역 범위와 미번역 요소, 적용 방법, PS1 실기·에뮬레이터 구동 여부는 확인하지 않았고 설치·검증하지 않았다."
+      },
+      "reviewedAt": "2026-10-30",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/ff0d1cde-a368-481a-a975-2fa0aaebd749.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/30098-sound-novel-evolution-3-machi-unmei-no-kousaten",
+        "platform": "ps1",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
