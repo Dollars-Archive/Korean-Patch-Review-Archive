@@ -22529,6 +22529,71 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "marl-oukoku-no-ningyou-hime-ps1",
+      "title": "마알 왕국의 인형공주",
+      "original": "マール王国の人形姫 ～The Adventure of Puppet Princess～ (Rhapsody: A Musical Adventure)",
+      "platforms": [
+        "ps1"
+      ],
+      "genres": [
+        "뮤지컬 RPG",
+        "전략 RPG",
+        "판타지"
+      ],
+      "score": 7.4,
+      "summary": "1998년 12월 17일 일본에서 니폰이치 소프트웨어가 발매한 PlayStation 일반판 『マール王国の人形姫』(SLPS-01734)를 평가한다. 북미 발매명은 『Rhapsody: A Musical Adventure』. 인형과 대화하는 소녀 코르넷과 친구 쿠루루의 왕자 구출 모험을 유쾌한 대사, 사랑스러운 2D 도트 그래픽, 사토 텐페이의 음악과 성우가 직접 부르는 뮤지컬 이벤트로 펼치는 동화풍 RPG다. 인형과 몬스터를 동료로 모아 좁은 격자 위에서 이동·공격·마법을 사용하는 전술 전투가 독특하지만, 난도가 낮고 자동 전투가 유효해 파고들 깊이는 부족하다. 서로 비슷한 던전 구조의 반복, 다음 목적지를 짚기 어려운 이벤트 진행, 약 10~15시간 안팎의 짧은 본편도 단점이다. 강렬한 음악과 귀여운 캐릭터극, 따뜻한 이야기의 개성을 높게 평가해 7.4점. 어려운 전투나 대규모 탐험보다는 음악과 동화 분위기를 즐기는 플레이어에게 추천한다. 니폰이치 공식 작품 정보, 일본판 리뷰와 PS1판 전문 평론을 근거로 작성한 자료 기반 편집 평가이며 직접 플레이하지 않았고 한글패치 여부는 점수에 반영하지 않았다. 1999년 『マール王国の人形姫+1』, 북미판, NDS 리메이크 및 후속작과 구별한다.",
+      "pros": [
+        "음성 연기와 노래·춤이 결합된 뮤지컬 이벤트는 보통 RPG의 대화 장면과 뚜렷이 구별되며 작품의 동화적인 감정을 잘 전한다.",
+        "코르넷과 쿠루루, 마조리 일행 등 개성 있는 등장인물과 가벼운 유머가 짧은 이야기의 매력을 높인다.",
+        "따뜻한 색감의 2D 도트 캐릭터·상세한 마을 배경·표정 일러스트가 이야기책을 읽는 듯한 화면 분위기를 형성한다.",
+        "인형과 몬스터를 아군으로 모으고 코르넷의 나팔 보조·특수 공격을 활용하는 격자 기반 전투가 독특한 테마와 수집 동기를 준다.",
+        "사토 텐페이의 경쾌하고 서정적인 음악, 접근하기 쉬운 난도와 원하는 곳에서의 저장 기능은 가볍게 즐기는 RPG에 잘 어울린다."
+      ],
+      "cons": [
+        "격자형 전술 전투는 전장이 작고 적의 행동이 단순하며 자동 조작도 강력해 전략성·난도가 낮고 반복될수록 지루해질 수 있다.",
+        "여러 던전이 거의 같은 지형과 구조를 색만 바꿔 재사용하여 탐험의 신선함이 떨어지고 길을 헷갈리기 쉽다.",
+        "다음 사건을 열기 위해 특정 인물과 대화하거나 다른 던전을 먼저 방문해야 하는 조건을 분명하게 알려주지 않아 헤맬 수 있다.",
+        "본편이 약 10~15시간으로 짧고 줄거리의 큰 틀도 익숙한 동화 문법이라 장대한 RPG와 깊이 있는 서사를 기대하면 아쉽다.",
+        "새 인형 동료를 초반 레벨부터 다시 키워야 하며 일부 몬스터는 쓰러지면 복구할 수 없어 캐릭터 교체와 육성이 번거롭다."
+      ],
+      "sources": [
+        {
+          "label": "니폰이치 소프트웨어 20주년 공식 자료: 일본 PS1 첫 작품 1998-12-17, 뮤지컬 RPG 소개",
+          "url": "https://nippon1.jp/event/marl_20th/"
+        },
+        {
+          "label": "스루가야: 일본 PS1 일반판 SLPS-01734·1998-12-17 발매와 패키지 정보",
+          "url": "https://www.suruga-ya.jp/product/detail/140001687"
+        },
+        {
+          "label": "RPGFan: 2000-07-02 일본 PS1판 리뷰 (Eve C.) 음악·그래픽·던전·전투·분량 분석",
+          "url": "https://www.rpgfan.com/review/rhapsody-a-musical-adventure/"
+        },
+        {
+          "label": "GameSpot: Miguel Lopez의 PlayStation 리뷰, 음악·전략 전투·난도·분량 분석",
+          "url": "https://www.gamespot.com/reviews/rhapsody-a-musical-adventure-review/1900-2595465/"
+        },
+        {
+          "label": "LaunchBox: Sony PlayStation 일본판 Box - Front (501×512)",
+          "url": "https://gamesdb.launchbox-app.com/games/details/581-rhapsody-a-musical-adventure"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/7072",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 1998-12-17 발매 일본 PS1 일반판 『マール王国の人形姫』(SLPS-01734)이며 1999년 『マール王国の人形姫+1』(SLPS-02286~7), 북미 『Rhapsody: A Musical Adventure』, NDS판 및 후속작과 구분한다. 사용자 제공 URL이 실제 지원하는 게임 지역·디스크 리비전, 대사·메뉴·전투 UI·뮤지컬 가사의 번역 범위와 미번역 부분, 적용 방법·PS1 실기 및 에뮬레이터 동작 여부는 검증하지 않았다. 링크 GET·HEAD·미리보기·리다이렉트 추적, 패치 설치 및 실행을 하지 않았다."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com//4e78330f-213b-41f2-8983-242f1edb5714.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/details/581-rhapsody-a-musical-adventure",
+        "platform": "ps1",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-10-30",
+      "reviewer": "WebGPT"
     }
   ]
 }
