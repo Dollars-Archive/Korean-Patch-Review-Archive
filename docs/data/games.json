@@ -20039,6 +20039,69 @@
       },
       "reviewedAt": "2026-10-30",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "farland-story-yottsu-no-fuuin-ps1",
+      "title": "파랜드 스토리: 4개의 봉인",
+      "original": "ファーランドストーリー 四つの封印 (Farland Story: The Four Seal)",
+      "platforms": [
+        "ps1"
+      ],
+      "genres": [
+        "SRPG",
+        "전술 RPG",
+        "판타지"
+      ],
+      "score": 7,
+      "summary": "1997년 11월 27일 TGL이 일본 PlayStation으로 발매한 『ファーランドストーリー 四つの封印』(SLPS-00797) 평가. 초기 파랜드 스토리 1·2편의 흐름을 하나로 묶어 PC-FX판 『파랜드 스토리 FX』를 바탕으로 재구성한 25스테이지 정통 판타지 SRPG다. 아크와 동료들의 왕도적 모험, 풍부한 성우 연기와 애니메이션, 쉬운 턴제 전투, 빠른 적 사고 시간과 간편한 저장이 매력적이다. 하지만 넓은 맵의 긴 이동, 기다리는 적 AI와 반복적인 전투 목표, 평면적인 필드 그래픽·사운드 밸런스가 약점이라 7.0점. 복잡한 시스템보다 캐릭터와 이야기 중심의 고전 전략 RPG를 찾는 플레이어에게 추천한다. 공식 게임 정보 및 PS1판 회고·이용자 리뷰 기반 편집 평가이며 직접 플레이하지 않았고 한글패치 존재 여부는 점수에 반영하지 않았다.",
+      "pros": [
+        "초기 파랜드 스토리 두 편의 이야기를 하나로 엮어 아크와 동료들이 마족과 맞서는 정통 판타지 모험을 25개 스테이지에 걸쳐 즐길 수 있다.",
+        "성우진의 음성 연기와 다수의 애니메이션 이벤트가 인물의 개성과 사건의 분위기를 살려 이전 버전보다 극적인 감상 경험을 제공한다.",
+        "격자형 맵에서 유닛을 이동시키고 공격·마법을 활용하는 전투 규칙이 직관적이며 난도가 높지 않아 SRPG 초심자도 접근하기 쉽다.",
+        "적 유닛의 사고 시간이 비교적 짧고 로딩·저장이 빠르며, 간편한 이동과 연출 간소화 설정 등 당시 기준으로 편의성이 무난하다."
+      ],
+      "cons": [
+        "초반부를 비롯한 일부 스테이지가 지나치게 넓어 적을 향해 부대를 오래 이동시키는 시간이 길고, 한 전투를 끝내는 데 많은 시간이 든다.",
+        "적들이 접근을 기다리는 식으로 행동하고 목표가 주로 적장 격파로 반복되어 중반 이후의 전술적 변화와 긴장감이 약해진다.",
+        "캐릭터별 전술 역할이 뚜렷하지 않은 구간이 있고 왕도적 이야기 전개도 다소 단조로워 후반까지 몰입이 일정하지 않다.",
+        "전투 맵과 필드 그래픽이 PS1치고 수수하고 음성·BGM의 음량 밸런스 및 일부 음악 반복도 아쉬운 요소다."
+      ],
+      "sources": [
+        {
+          "label": "패미통 - PS1 일본판 출시일·장르·발매사",
+          "url": "https://www.famitsu.com/game/title/8813/reviews"
+        },
+        {
+          "label": "피코피코대백과 - PS1판 사양·게임 소개와 이용자 리뷰 4건",
+          "url": "https://www.gavas.jp/products/detail.php?product_id=9511"
+        },
+        {
+          "label": "コンシューマーゲーム大辞典 - PS1판 시나리오·시스템·맵·이식 구성·평가",
+          "url": "https://consoledictionary.com/games/21007"
+        },
+        {
+          "label": "일본 공식 가이드북 출판 정보 - 전 25스테이지 구성",
+          "url": "https://books.rakuten.co.jp/rb/9051443/"
+        },
+        {
+          "label": "LaunchBox - 일본 PS1판 앞표지 Box - Front 원본",
+          "url": "https://gamesdb.launchbox-app.com/games/images/108242-farland-story-yottsu-no-fuuin"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/3122",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 1997-11-27 출시 일본 PlayStation판 『ファーランドストーリー 四つの封印』(SLPS-00797)이며 PC판·PC-FX판 『파랜드 스토리 FX』, 세가 새턴판 『파망의 춤』과 구별한다. 제공된 한글패치 URL이 실제로 어느 지역·디스크 리비전에 대응하는지, 대사·메뉴·이벤트 애니메이션·음성 등의 번역 범위, 미번역 및 적용법은 확인하지 않았다. 패치 설치, PS1 실기·에뮬레이터 구동 검증을 하지 않았다."
+      },
+      "reviewedAt": "2026-10-30",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/46e88488-9871-4952-99a0-14e52dc0de44.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/108242-farland-story-yottsu-no-fuuin",
+        "platform": "ps1",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
