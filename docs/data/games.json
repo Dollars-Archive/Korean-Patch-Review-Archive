@@ -21141,6 +21141,73 @@
       },
       "reviewedAt": "2026-10-30",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "ys-v-lost-kefin-kingdom-of-sand-ps2",
+      "title": "이스 V: 잃어버린 케핀, 모래의 왕국",
+      "original": "イースV -Lost Kefin, Kingdom of Sand- (Ys V: Lost Kefin, Kingdom of Sand)",
+      "platforms": [
+        "ps2"
+      ],
+      "genres": [
+        "액션 RPG",
+        "판타지 RPG",
+        "탐험"
+      ],
+      "score": 6.8,
+      "summary": "2006년 3월 30일 일본에서 타이토가 발매한 PS2 《イースV -Lost Kefin, Kingdom of Sand-》(SLPM-66360) 평가. 1995년 SFC 《イースV 失われた砂の都ケフィン》을 3D 쿼터뷰와 음성 이벤트, 수정된 시나리오 및 전투 방식으로 재구성한 리메이크다. 도기의 합류와 유익인 설정으로 시리즈와의 연결성을 보강하고, 점프·방패 방어와 검격에 4속성 연금 마법을 잇는 '연석 콤보'로 전투 선택지를 확장했다. 그러나 PS2판 이용자 리뷰에서는 뻣뻣한 공격·이동, 혼란스러운 카메라·비슷한 던전 지형과 반복 이동, 당시 기준으로 부족한 그래픽 완성도에 비판이 크다. 원작의 이야기와 분위기를 다른 방식으로 접해보고 싶은 이스 팬에게는 볼거리가 있지만, 시리즈 특유의 경쾌하고 정교한 액션을 가장 중시한다면 신중히 추천하는 6.8점. PS2판 공식 소개·일본 PS2 사용자 리뷰·4Gamer 시리즈 회고에 근거한 편집 평가로 직접 플레이한 결과가 아니며 한글패치 여부는 점수에 반영하지 않았다.",
+      "pros": [
+        "SFC판의 기본 줄기를 유지하면서 도기의 동행과 유익인에 관한 설정을 추가해 다른 이스 작품과 세계관의 연결을 강화했다.",
+        "3D 폴리곤 지형과 비스듬한 쿼터뷰 시점으로 원작에서 애매했던 지형 고저차와 위치 관계를 더 명확하게 드러내려 했다.",
+        "검 연속 공격·점프·방패 방어와 4속성 36종의 연금 마법을 조합하는 '연석 콤보'가 원작보다 다양한 공격 수단을 제공한다.",
+        "주요 대사 음성, 캐릭터 일러스트와 원곡 분위기를 살린 음악이 고전 이스 특유의 판타지 모험과 인물 서사를 뒷받침한다."
+      ],
+      "cons": [
+        "PS2판 이용자 리뷰에서는 공격 판정과 움직임이 뻣뻣하고 조작 반응이 매끄럽지 않아 이스 특유의 경쾌한 전투 맛이 부족하다는 비판이 반복된다.",
+        "넓고 외형이 비슷한 던전·탑에서 이동 경로를 파악하기 어렵고, 특정 구역에서 시점이 바뀌어 길 찾기와 전투가 불편해지는 구간이 있다.",
+        "대화·이벤트가 길어지고 퍼즐 진행을 위해 같은 장소를 오가는 구간이 많아 모험의 흐름이 늘어질 수 있다.",
+        "적의 모습·애니메이션과 일부 환경 그래픽이 동시대 PS2 액션 RPG에 비해 투박하며, 타이토의 이전 PS2 이스 이식작과 유사한 구조에 대한 호불호가 크다."
+      ],
+      "sources": [
+        {
+          "label": "GAME Watch (2006-02-02) - 타이토 PS2 리메이크 공식 공개 정보: 3D 지형·콤보·36종 연금 마법",
+          "url": "https://game.watch.impress.co.jp/docs/20060202/ys.htm"
+        },
+        {
+          "label": "패미통 - PS2판 일본 발매 2006-03-30, 타이토, 액션 RPG",
+          "url": "https://www.famitsu.com/game/title/3062/reviews"
+        },
+        {
+          "label": "Joko - PS2판 실제 이용자 리뷰: 조작·던전·그래픽과 시리즈 팬의 상반된 평가",
+          "url": "https://www.joko.jp/ps2/review/ti1889.html"
+        },
+        {
+          "label": "가격.com - PS2판 이용자 평가(2024-12-29 수정): 시나리오·그래픽과 방패 조작",
+          "url": "https://review.kakaku.com/review/41107111984/"
+        },
+        {
+          "label": "4Gamer - 이스 25주년 시리즈 회고: PS2판 스토리 변경·도기·유익인 세계관 연계",
+          "url": "https://www.4gamer.net/games/140/G014055/20121005088/"
+        },
+        {
+          "label": "LaunchBox - Sony PlayStation 2 일본판 실제 앞표지 Box - Front (800×1122)",
+          "url": "https://gamesdb.launchbox-app.com/games/details/81968-ys-v-lost-kefin-kingdom-of-sand"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/7114",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2006년 3월 30일 발매된 일본 PS2 《イースV -Lost Kefin, Kingdom of Sand-》(SLPM-66360, 타이토)이다. 1995년 SFC 원작 《イースV 失われた砂の都ケフィン》 및 SFC 《イースV エキスパート》와는 내용·시스템이 다른 판본이다. 제공한 한글패치 주소의 지원 지역·디스크 리비전, 본편 대사·메뉴·이미지·음성의 번역 범위와 미번역 부분, 적용 방법·버전·현재 배포 상태는 확인하지 않았다. PS2 실기·에뮬레이터의 패치 적용·구동 시험도 하지 않았다."
+      },
+      "reviewedAt": "2026-10-30",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com//f1fceab1-0088-437b-9757-9fc002647ff5.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/details/81968-ys-v-lost-kefin-kingdom-of-sand",
+        "platform": "ps2",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
