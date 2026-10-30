@@ -22399,6 +22399,74 @@
       },
       "reviewedAt": "2026-10-30",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "growlanser-iv-over-reloaded-psp",
+      "title": "그로우랜서 4 오버리로디드",
+      "original": "グローランサーIV オーバーリローデッド (Growlanser IV: Over Reloaded)",
+      "platforms": [
+        "psp"
+      ],
+      "genres": [
+        "SRPG",
+        "전략 RPG",
+        "판타지 RPG"
+      ],
+      "score": 8.4,
+      "summary": "2011년 8월 18일 아틀라스가 일본에서 발매한 PSP 일반 UMD판 『グローランサーIV オーバーリローデッド』(ULJM-05896)를 대상으로 한다. 2003년 PS2 『グローランサーIV』를 확장 리메이크한 작품으로, 용병 크레바닐을 중심으로 천사와 국가 간 분쟁이 얽힌 이야기를 풀어 간다. 빠르게 전개되는 정치·인물 서사와 선택에 따라 바뀌는 운명, 전략적인 실시간 전투, 링 무기·마석을 이용한 스킬과 캐릭터 성장의 조합이 강점이다. PSP판은 새로운 인물·루트·이벤트·애니메이션, 연애 대상과 휴가 이벤트를 확대하고 40종 이상의 엔딩 및 데이터 설치에 따른 빠른 로딩을 제공한다. 그러나 구식 그래픽과 작은 전투 표현, 까다로운 이벤트 전투 및 재도전·저장 편의성의 부족, 복잡한 분기 조건이 아쉽다. 캐릭터 중심의 다중 루트 스토리와 전술 전투를 모두 즐기는 이용자에게 추천하는 8.4점. 아틀라스 공식 소개와 패미통·GAME Watch·4Gamer의 PSP판 리뷰를 종합한 자료 기반 편집 평가이며 직접 플레이하지 않았고 한글패치 유무는 점수에 반영하지 않았다. 북미 PSP판 『Growlanser: Wayfarer of Time』 및 2003년 PS2 원작과 판본을 구분한다.",
+      "pros": [
+        "국가 간 갈등과 인물들의 운명이 연결되는 빠른 스토리 전개, 선택에 따라 달라지는 사건과 강화된 페이트 시스템이 몰입도를 높인다.",
+        "전황을 확인하며 행동과 공격 대상을 지시하는 실시간 전술 전투에 링 무기·마석을 통한 기술 획득과 마법 영창을 결합해 전투와 육성의 선택 폭이 크다.",
+        "PS2 원작에서 캐릭터·시나리오 분기·이벤트·새 애니메이션을 추가하고 40종 이상의 엔딩과 새로운 관계 이벤트로 방대한 플레이 분량을 제공한다.",
+        "동료와의 휴가·대화·연애, 운명을 바꾸는 선택이 캐릭터에 대한 애착과 재플레이 동기를 만든다.",
+        "PSP판 데이터 인스톨 지원으로 로딩 부담을 줄였고 튜토리얼과 이야기 진행 안내가 비교적 친절하다."
+      ],
+      "cons": [
+        "원작을 기반으로 한 캐릭터·배경 표현이 구식이며 PSP의 좁은 화면에서는 전투 인물과 목표 위치를 보기 어렵거나 어두워 시인성이 떨어지는 구간이 있다.",
+        "일부 이벤트 전투는 사전 대응법을 모르면 높은 난도를 보이며, 전투 직전 저장 지점이나 즉시 재도전 기능이 부족해 실패 시 진행을 되풀이할 수 있다.",
+        "엔딩과 호감도·페이트 이벤트에 영향을 주는 조건이 복잡하여 원하는 분기를 모두 회수하려면 다회차와 세밀한 관리가 필요하다.",
+        "전투 시스템의 성장·보석 조합과 연애·휴가 스케줄을 동시에 관리해야 하므로 긴 플레이 시간과 반복 진행이 부담될 수 있다."
+      ],
+      "sources": [
+        {
+          "label": "아틀라스 공식 타이틀 아카이브 - PSP 『그로우랜서 IV OVER RELOADED』 공식 소개",
+          "url": "https://www.atlus.co.jp/title-archive/gl4ol/"
+        },
+        {
+          "label": "스루가야 - 일본 PSP 일반판 ULJM-05896, 발매일 2011-08-18",
+          "url": "https://www.suruga-ya.jp/product/detail/177002225"
+        },
+        {
+          "label": "패미통 - 일본 PSP판 크로스 리뷰 4인, 이야기·육성·시인성·새 루트",
+          "url": "https://www.famitsu.com/game/title/21273/reviews"
+        },
+        {
+          "label": "GAME Watch - PSP판 전문 리뷰, 전투·추가 루트·40종 이상 엔딩·데이터 설치·재도전",
+          "url": "https://game.watch.impress.co.jp/docs/review/467463.html"
+        },
+        {
+          "label": "4Gamer - 일본 PSP판 플레이 리포트, 페이트·신규 캐릭터·휴가·전투",
+          "url": "https://www.4gamer.net/games/132/G013234/20110817077/"
+        },
+        {
+          "label": "LaunchBox - PSP 일본판 Box - Front, 2480×4262",
+          "url": "https://gamesdb.launchbox-app.com/games/images/12872-growlanser-wayfarer-of-time"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/2522",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2011-08-18 일본 PSP 일반 UMD판 『グローランサーIV オーバーリローデッド』(ULJM-05896)이며, 2003년 PS2 원작 및 2012년 북미판 『Growlanser: Wayfarer of Time』(ULUS-10593)과 구분한다. 제공 링크가 실제로 지원하는 지역·디스크 리비전·업데이트 버전, 신규 분기·대사·휴가 이벤트·엔딩·마석/메뉴·영상 자막의 번역 범위와 미번역 부분, 설치 방법, 실기·PPSSPP 구동 가능 여부는 확인하지 않았다. 패치 URL에 접속하거나 링크 미리보기·리다이렉트 추적·설치·구동 검증을 수행하지 않았다."
+      },
+      "reviewedAt": "2026-10-30",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/r2_a23fc8e4-3831-4e46-a2fc-0bb5a0de40e1.png",
+        "source": "https://gamesdb.launchbox-app.com/games/images/12872-growlanser-wayfarer-of-time",
+        "platform": "psp",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
