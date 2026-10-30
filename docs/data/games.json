@@ -20549,6 +20549,73 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "musashiden-ii-blade-master-ps2",
+      "title": "무사시전 2",
+      "original": "武蔵伝II ブレイドマスター (Musashi: Samurai Legend / Musashiden II: Blade Master)",
+      "platforms": [
+        "ps2"
+      ],
+      "genres": [
+        "액션 RPG",
+        "3D 액션 어드벤처"
+      ],
+      "score": 6.8,
+      "summary": "2005년 7월 7일 일본에서 스퀘어 에닉스가 발매한 PlayStation 2용 『武蔵伝II ブレイドマスター』(SLPM-66008, 해외명 Musashi: Samurai Legend)를 평가한다. PS1 『브레이브 팬서 무사시전』의 후속 작품이지만 별개의 세계와 캐릭터를 사용하며, 젊은 검객 무사시가 침략당한 세계의 사람들을 구출하는 경쾌한 액션 RPG다. 일본도와 대검을 교차해 쓰는 액션, 적을 주시해 기술을 배우는 간파 시스템, 노무라 테츠야의 개성적인 인물과 만화 셰이딩, 가이낙스 오프닝이 인상적이다. 그러나 일반 적과 임무의 반복, 간파의 번거로운 조건과 제한된 활용, 이동·카메라·프레임 저하의 불편, 단순한 서사가 발목을 잡아 6.8점. 원작 같은 탐험보다 만화풍 검술 액션과 거대 보스전을 좋아하는 이용자에게 추천한다. 일본판 제품 정보와 PS2판 전문 리뷰들을 바탕으로 한 편집 평가이며 직접 플레이하지 않았고 한글패치 유무는 점수에 반영하지 않았다.",
+      "pros": [
+        "일본도의 빠른 콤보와 대검의 강력한 공격·특수기를 오가며 적 다수를 베는 이도류 전투가 간결하고 경쾌하다.",
+        "적에게 집중하여 공격 순간의 타이밍을 잡으면 기술을 배울 수 있는 '간파(見切り)'가 적의 패턴을 관찰하게 만드는 특색 있는 성장 요소다.",
+        "노무라 테츠야의 강렬한 캐릭터 디자인과 윤곽선을 강조한 만화 셰이딩, 가이낙스가 맡은 오프닝 애니메이션이 인상적인 시각적 정체성을 만든다.",
+        "구출한 사람들로 거점의 가게와 기능이 열리고, 대형 보스와 이동·탈것 미니게임이 전투 일변도의 흐름에 변화를 준다."
+      ],
+      "cons": [
+        "던전마다 유사한 적 모델과 반복되는 전투·구출 임무가 이어져 초반의 신선함이 빠르게 약해진다.",
+        "간파 기술 습득 중 공격에 노출되기 쉽고 배운 기술 상당수는 실전 활용이 제한적이라 시스템의 잠재력이 충분히 발휘되지 않는다.",
+        "무사시의 이동 자체가 느리게 느껴지고 좁은 장소·보스전에서 카메라가 시야를 방해하며 적이 많은 구간에는 프레임 저하가 생긴다.",
+        "주요 갈등과 인물 서사가 단순하며 PS1 전작에 비해 탐험·발견 요소와 전투 외 활동의 밀도가 낮다.",
+        "본편 분량이 길지 않고 1회차에 주요 콘텐츠를 대부분 보게 되어 도전 난도 외의 반복 플레이 동기가 약한 편이다."
+      ],
+      "sources": [
+        {
+          "label": "GAME Watch - 스퀘어 에닉스 발표 및 일본판 이도류·간파·구출 시스템 소개 (2004-12-22)",
+          "url": "https://game.watch.impress.co.jp/docs/20041222/musashi.htm"
+        },
+        {
+          "label": "駿河屋 - 일본 PS2 일반판 발매일·제품 코드 SLPM-66008·제작진",
+          "url": "https://www.suruga-ya.jp/product/detail/144002756"
+        },
+        {
+          "label": "GameSpot - Musashi Samurai Legend PS2 리뷰 (2005-03-22): 전투·간파·반복·카메라·프레임",
+          "url": "https://www.gamespot.com/reviews/musashi-samurai-legend-review/1900-6120917/"
+        },
+        {
+          "label": "WorthPlaying - Musashi: Samurai Legend PS2 리뷰 (2005-03-08): 조작·보스·스테이지·분량",
+          "url": "https://worthplaying.com/article/2005/3/8/reviews/23002-ps2-review-musashi-samurai-legend/"
+        },
+        {
+          "label": "GameFAQs - PS2 이용자 리뷰 'Live the legend once again' (2005-03-21)",
+          "url": "https://gamefaqs.gamespot.com/ps2/920761-musashi-samurai-legend/reviews/85923"
+        },
+        {
+          "label": "LaunchBox - PS2 일본판 Box - Front 확인 (640×910)",
+          "url": "https://gamesdb.launchbox-app.com/games/images/12656-musashi-samurai-legend"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/2732",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가·표지 기준은 2005-07-07 일본 PS2 『武蔵伝II ブレイドマスター』(SLPM-66008)이며, 2005-03-15 북미 『Musashi: Samurai Legend』 및 PS1 『ブレイヴフェンサー 武蔵伝』과 구분한다. 사용자 제공 링크의 실제 대상 지역·디스크 리비전, 대사·메뉴·영상·그래픽 번역 범위, 미번역 요소, 적용 절차, 배포 상태 및 버전은 확인하지 않았다. 패치 설치·PS2 실기·에뮬레이터 구동 시험도 하지 않았다."
+      },
+      "reviewedAt": "2026-10-30",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/39507a3a-57a2-4987-a448-9d4861698562.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/12656-musashi-samurai-legend",
+        "platform": "ps2",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
