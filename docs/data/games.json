@@ -22659,6 +22659,71 @@
       },
       "reviewedAt": "2026-10-30",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "dragon-quest-ix-ds",
+      "title": "드래곤 퀘스트 9: 별하늘의 수호자",
+      "original": "ドラゴンクエストIX 星空の守り人 (Dragon Quest IX: Sentinels of the Starry Skies)",
+      "platforms": [
+        "ds"
+      ],
+      "genres": [
+        "JRPG",
+        "턴제 RPG",
+        "판타지 RPG"
+      ],
+      "score": 8.5,
+      "summary": "2009년 7월 11일 일본 Nintendo DS 일반판 《ドラゴンクエストIX 星空の守り人》을 대상으로 한 평가. 천사와 인간 세계를 오가는 정통 판타지 모험에 전직·스킬 포인트·장비 외형 변경 및 파티 커스터마이즈를 결합했다. 몬스터가 필드에 보여 회피할 수 있고, 연금술·서브 퀘스트·자동 생성 보물지도·최대 4인 DS 로컬 협력 플레이가 방대한 육성과 탐험을 뒷받침한다. 토리야마 아키라의 인물·몬스터 디자인과 스기야마 코이치의 음악도 매력적이다. 반면 동료들의 고유 대사가 없어 인물극이 약하고, 전직 후 새 직업을 처음부터 육성해야 하며, 낡은 아이템 메뉴·한 개뿐인 저장 슬롯·반복 수집 과제가 불편하다. 직업 육성과 클리어 후 콘텐츠가 풍부한 정통 JRPG로 8.5점. 자유로운 파티 설계와 오랜 파고들기를 좋아하는 이용자에게 추천한다. 공식 일본판 정보와 일본판 전문 리뷰·DS판 리뷰에 기초한 자료 기반 편집 평가로 직접 플레이하지 않았으며 한글패치 유무를 점수에 반영하지 않았다. 정식 닌텐도 Wi-Fi Connection 서비스는 2014년 5월 20일 종료되어 Wi-Fi 쇼핑·모험의 서 전송 기능은 이용할 수 없지만 본편 오프라인과 로컬 무선 협력 기능과는 별개다.",
+      "pros": [
+        "직업마다 고유한 기술과 무기 적성이 있고 스킬 포인트를 전직 후에도 활용할 수 있어 탱커·회복·공격 중심의 자신만의 파티와 장기 육성 목표를 만들 수 있다.",
+        "주인공과 동료의 외모를 정하고 장비가 실제 외형에 반영되어 장비 수집에 성능 이상의 재미가 있다. 토리야마 아키라의 몬스터·인물 디자인과 DS의 3D 표현도 뛰어나다.",
+        "보물지도·무작위 던전·추가 보스, 수많은 퀘스트와 연금술·아이템 제작이 메인 스토리 후에도 탐험·전투·수집 목표를 풍부하게 제공한다.",
+        "필드 몬스터를 보고 회피하거나 먼저 접촉할 수 있어 고전 랜덤 인카운터의 불편함을 줄였고 최대 4명의 DS 로컬 무선 협력으로 모험을 함께 즐길 수 있다.",
+        "마을마다 개성 있는 사건과 전통적인 드래곤 퀘스트식 전투·음악·유머가 어우러져 휴대기에서도 넓은 판타지 여행의 분위기가 살아 있다."
+      ],
+      "cons": [
+        "직접 만든 동료들이 독립적인 대사와 인물 서사를 거의 갖지 않아 파티 구성의 자유 대신 동료들 사이의 관계·드라마가 약해졌다.",
+        "새 직업으로 바꾸면 그 직업 레벨을 1부터 다시 올려야 하므로 여러 직업의 기술을 얻는 데 반복 전투·경험치 파밍이 길어질 수 있다.",
+        "아이템의 동료별 이동과 상점에서 한 번에 한 개씩 구매하는 흐름, 오래된 메뉴 구조가 장비·가방 관리에 번거로움을 준다.",
+        "저장 파일이 한 개뿐이고 메인 진행 구조가 다소 선형적이며 일부 서브 퀘스트와 보물지도 파밍은 비슷한 행동을 반복하게 한다.",
+        "2014년 닌텐도 Wi-Fi Connection 종료로 공식 Wi-Fi 쇼핑과 일부 온라인 연계 기능을 현재 이용할 수 없어 당시의 전체 부가 경험을 복원하기 어렵다."
+      ],
+      "sources": [
+        {
+          "label": "닌텐도 일본 공식 - 2009년 7월 11일 일본 DS 발매·직업 육성·보물지도·4인 로컬 무선",
+          "url": "https://www.nintendo.co.jp/ds/software/ydqj/index.html"
+        },
+        {
+          "label": "RPGFan - 일본판 기준 DS 전문 리뷰(2009), 직업·캐릭터·전개·저장 슬롯 분석",
+          "url": "https://www.rpgfan.com/review/dragon-quest-ix-sentinels-of-the-starry-skies/"
+        },
+        {
+          "label": "GameSpot - DS판 리뷰(2010), 전직·메뉴·수집·협력 플레이 분석",
+          "url": "https://www.gamespot.com/reviews/dragon-quest-ix-sentinels-of-the-starry-skies-revi/1900-6268986/"
+        },
+        {
+          "label": "스퀘어에닉스 공식 - 2014년 드래곤 퀘스트 IX 정식 Wi-Fi 서비스 종료 항목",
+          "url": "https://www.dragonquest.jp/news/detail/1098/"
+        },
+        {
+          "label": "LaunchBox - 일본 Nintendo DS Box - Front (500×447)",
+          "url": "https://gamesdb.launchbox-app.com/games/images/10628-dragon-quest-ix-sentinels-of-the-starry-skies"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/3006",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2009-07-11 일본 Nintendo DS 일반판 《ドラゴンクエストIX 星空の守り人》이며 해외판과 일본 얼티밋 히츠판은 구분한다. 제공된 링크의 실제 지원 지역·게임 리비전, 메인 대사·메뉴·퀘스트·보물지도·연금술·온라인 관련 콘텐츠의 번역 범위 및 미번역 부분, 적용 절차와 DS 실기·에뮬레이터 호환성은 확인하지 않았다. 패치를 직접 설치·구동하지 않았으며 링크를 열거나 리다이렉트 추적하지 않았다."
+      },
+      "reviewedAt": "2026-10-30",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/a8e0a0d2-04dc-47f3-acbd-107a33860538.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/10628-dragon-quest-ix-sentinels-of-the-starry-skies",
+        "platform": "ds",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
