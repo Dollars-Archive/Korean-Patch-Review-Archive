@@ -20102,6 +20102,69 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "corpse-party-book-of-shadows-psp",
+      "title": "콥스 파티: 북 오브 섀도즈",
+      "original": "コープスパーティー Book of Shadows (Corpse Party: Book of Shadows)",
+      "platforms": [
+        "psp"
+      ],
+      "genres": [
+        "호러 ADV",
+        "비주얼 노벨",
+        "미스터리 어드벤처"
+      ],
+      "score": 7.6,
+      "summary": "2011년 9월 1일 발매된 일본 PSP판 『コープスパーティー Book of Shadows』(통상판 ULJM-05909) 평가. 전작 『Blood Covered: Repeated Fear』의 등장인물과 사건 주변을 여러 개의 단편으로 재조명하는 호러 ADV로, 인물 심리와 관계를 파고드는 서사, 풀보이스와 더미헤드 마이크를 활용한 입체 음향·효과음이 공포 몰입감을 높인다. 전작의 캐릭터와 사건을 알고 있을수록 가치가 커지지만, 장시간 텍스트·정적인 화면, 반복적 장소 탐색 및 단편마다 다른 전개 속도가 약점이다. 잔혹한 표현을 감당할 수 있고 전작을 마친 스토리·심리 호러 팬에게 추천하는 7.6점. 제작사 공식 자료 및 PSP판 전문 리뷰에 근거한 편집 평가이며 직접 플레이하지 않았고 한글패치 여부는 점수에 반영하지 않았다.",
+      "pros": [
+        "전작에서 충분히 설명되지 않았던 인물들의 관점과 심리·관계를 여러 단편으로 보완하여 시리즈 팬의 몰입과 캐릭터 이해를 높인다.",
+        "일본어 풀보이스 및 일부 더미헤드 마이크를 이용한 3D 음성, 공간감 있는 효과음이 이어폰으로 듣는 심리적 공포를 효과적으로 살린다.",
+        "차분한 일상과 충격적인 호러 장면의 대비, 섬세한 인물 일러스트와 음향 연출이 긴장감과 정서적 충격을 만든다.",
+        "선택에 따라 다른 결말을 확인하고 필요한 시점에 저장할 수 있어 분기와 호러 단편을 다시 살펴보기 수월하다."
+      ],
+      "cons": [
+        "전작 사건과 등장인물에 대한 설명이 충분하지 않아 『Blood Covered: Repeated Fear』를 모르는 신규 플레이어는 이야기의 맥락과 감정선을 따라가기 어렵다.",
+        "비주얼 노벨 중심으로 전환되며 직접 이동·도주하는 플레이가 줄고, 같은 장소를 반복 조사하는 포인트 앤 클릭 탐색은 단조롭다.",
+        "대사 분량이 많고 일부 에피소드는 도입과 전개가 늘어져 단편마다 이야기의 완성도와 속도에 편차가 있다.",
+        "강한 유혈·신체 훼손 묘사와 비극적인 분위기가 취향을 크게 가르며, 정적인 이미지 위주 표현은 액션형 공포를 기대하면 심심할 수 있다."
+      ],
+      "sources": [
+        {
+          "label": "5pb. 공식 PSP 제품 정보·일본 발매일·풀보이스 및 3D 음향",
+          "url": "https://corpse.jp/bs/?pg=1"
+        },
+        {
+          "label": "GameSpot - Corpse Party: Book of Shadows PSP 리뷰 (2013-01-24), 분기·3D 음향·탐색",
+          "url": "https://www.gamespot.com/reviews/corpse-party-book-of-shadows-review/1900-6402751/"
+        },
+        {
+          "label": "Game Informer - PSP 리뷰 (2013-01-30), 에피소드 완성도·연출·플레이",
+          "url": "https://gameinformer.com/games/corpse_party_book_of_shadows/b/psp/archive/2013/01/30/corpse-party-book-of-shadows-review"
+        },
+        {
+          "label": "Push Square - PSP 리뷰 (2013-02-04), 텍스트 중심 구성·조작·전개",
+          "url": "https://www.pushsquare.com/reviews/psp/corpse_party_book_of_shadows"
+        },
+        {
+          "label": "스루가야 - 일본 PSP 통상판 ULJM-05909 앞표지 및 발매 정보",
+          "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/177002083"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/3003",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2011년 9월 1일 출시된 일본 PSP판 『コープスパーティー Book of Shadows』(통상판 ULJM-05909)이다. 북미/유럽 PSN판과 다른 플랫폼 이식작은 별도 판본이다. 제공 주소의 한글패치가 실제로 지원하는 지역·게임 ID·리비전·번역 범위(대사·메뉴·이미지·음성)·미번역 요소·버전 및 설치 방법을 검증하지 않았고, PSP 실기와 PPSSPP 적용·구동 테스트도 하지 않았다."
+      },
+      "reviewedAt": "2026-10-30",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://www.suruga-ya.jp/database/pics/game/177002083.jpg",
+        "source": "https://www.suruga-ya.jp/kaitori/kaitori_detail/177002083",
+        "platform": "psp",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
