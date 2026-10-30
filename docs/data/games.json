@@ -22937,6 +22937,75 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "growlanser-iv-return-ps2",
+      "title": "그로우랜서 4 리턴",
+      "original": "グローランサーIV Return ～Wayfarer of the time～ (Growlanser IV: Wayfarer of the Time - Return)",
+      "platforms": [
+        "ps2"
+      ],
+      "genres": [
+        "ADV",
+        "비주얼 노벨",
+        "판타지"
+      ],
+      "score": 7.2,
+      "summary": "2005년 3월 10일 아틀라스가 일본 PS2로 발매한 『グローランサーIV Return』(SLPM-62560)은 『그로우랜서 IV』의 후일담과 외전을 그린 팬디스크다. RPG였던 본편과 달리 세 편의 이야기 중심 ADV로 진행하며, 인물의 과거와 본편의 공백, 시리즈 전작과의 연결을 보완한다. 별도 OVA DVD와 시리즈 퀴즈는 팬에게 즐거운 보너스다. 그러나 분량이 짧고 본편 및 전작에 대한 사전 지식이 중요하며, 일부 후일담에는 PS2 본편 클리어 데이터가 필요하다. 선택지의 불친절함도 단점이므로 7.2/10. 본편을 마친 뒤 캐릭터 서사를 더 즐기려는 팬에게 추천한다. 공개된 일본판 제품 정보와 일본 이용자 후기·평론에 기초한 편집 평가로 직접 플레이하지 않았으며 한글패치 여부는 점수에 반영하지 않았다. 2003년 PS2 원작과 2011년 PSP판 오버리로디드는 별개.",
+      "pros": [
+        "세 편의 외전 ADV가 본편에서 비워둔 인물의 이야기와 사건을 보완하고 후일담을 제공한다.",
+        "『I』~『III』의 세계관 및 등장인물과 연결되면서 시리즈를 따라온 팬에게 특별한 의미를 준다.",
+        "캐릭터 디자인과 이야기 중심 연출이 주요 인물의 관계와 감정에 집중하게 한다.",
+        "별도 OVA DVD에 실린 오리지널 애니메이션은 팬디스크다운 특별한 보너스다.",
+        "시리즈 팬을 위한 100문제 퀴즈와 부가 콘텐츠로 감상 이외의 즐길거리를 마련했다."
+      ],
+      "cons": [
+        "RPG 전투와 육성 대신 텍스트 ADV 중심이므로 본편 같은 전술적 게임성을 기대하면 아쉽다.",
+        "세 시나리오의 분량이 짧아 일반적인 독립 게임으로서는 콘텐츠가 적다.",
+        "특정 후일담은 PS2 본편 클리어 데이터가 필요해 PSP판만 접한 이용자의 접근성이 나쁘다.",
+        "이전 시리즈의 인물과 설정도 참조하므로 『IV』 본편을 플레이했어도 이해하기 어려운 부분이 있다.",
+        "일부 좋은 결말 조건이 까다롭고 선택지 실수 후 반복 진행해야 하는 불편이 있다."
+      ],
+      "sources": [
+        {
+          "label": "패미통: PS2 일본판 발매일·제작사·장르",
+          "url": "https://www.famitsu.com/game/title/3519/reviews"
+        },
+        {
+          "label": "GameFAQs: 일본판 SLPM-62560, 2005년 3월 10일 발매",
+          "url": "https://gamefaqs.gamespot.com/ps2/924505-growlanser-iv-wayfarer-of-the-time-return/data"
+        },
+        {
+          "label": "GAME Watch: 도쿄게임쇼 2004 세 시나리오·OVA 소개",
+          "url": "https://game.watch.impress.co.jp/docs/20040926/at2.htm"
+        },
+        {
+          "label": "게임 카탈로그@Wiki: 외전 구성, 후일담 요구 사항과 평가",
+          "url": "https://w.atwiki.jp/gcmatome/pages/8116.html"
+        },
+        {
+          "label": "Joko: 일본 PS2 이용자 리뷰",
+          "url": "https://www.joko.jp/ps2/review/ti1409.html"
+        },
+        {
+          "label": "LaunchBox: PS2 일본판 Box - Front",
+          "url": "https://gamesdb.launchbox-app.com/games/images/129574-growlanser-iv-wayfarer-of-the-time-return"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/1795",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 일본 PS2 『グローランサーIV Return』(SLPM-62560)이며 PS2 본편과 PSP판 『오버리로디드』와 구분한다. 지원 지역·리비전, 세 ADV 시나리오·메뉴·퀴즈·별도 OVA DVD의 번역 범위·미번역 요소와 적용 방법, 실기·에뮬레이터 동작은 검증하지 않았다. 일부 후일담에는 PS2 본편 클리어 데이터가 필요하며 PSP판 세이브와의 호환성은 확인하지 않았다."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com/af347114-d9d2-4733-9ae1-697ae0750abb.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/129574-growlanser-iv-wayfarer-of-the-time-return",
+        "platform": "ps2",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-10-30",
+      "reviewer": "WebGPT"
     }
   ]
 }
