@@ -20741,6 +20741,69 @@
       },
       "reviewedAt": "2026-10-30",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "tokyo-xtreme-racer-zero-ps2",
+      "title": "수도고 배틀 제로",
+      "original": "首都高バトル0 (Tokyo Xtreme Racer: Zero)",
+      "platforms": [
+        "ps2"
+      ],
+      "genres": [
+        "레이싱",
+        "아케이드 레이싱",
+        "차량 튜닝"
+      ],
+      "score": 8,
+      "summary": "2001년 3월 15일 일본 PS2로 발매된 《首都高バトル0》(SLPS-25028) 초판 평가. 도쿄 수도고에서 만난 라이벌과 1대1로 달리며 뒤처진 쪽의 SP(정신력) 게이지를 소진시키는 대결 방식이 독특하고, 실제 도로를 바탕으로 구축한 심야 고속도로망과 다양한 라이벌을 정복하는 진행이 몰입감을 준다. 165종에 이르는 차종과 세밀한 파츠 튜닝, 주행 성적에 따라 변하는 이명·리플레이 연출 등 차량 애호가를 위한 콘텐츠가 두텁다. 다만 DC 《首都高バトル2》의 영역과 구조를 많이 재사용하며 경주·풍경이 반복되고, 일부 라이벌의 과도한 속도 보정과 까다로운 등장 조건, 장거리 주행을 요구하는 LPS 튜닝이 진도를 늦춘다. 사실적인 서킷 시뮬레이션보다는 심야 도심 주행·차량 개조·라이벌 수집을 즐기는 사람에게 추천하는 8.0점. 패미통 제품 정보와 PS2 전문 리뷰, 일본판 상세 평가를 종합한 편집 평가이며 직접 플레이한 점수가 아니고 한글패치 여부는 점수에 반영하지 않았다.",
+      "pros": [
+        "정해진 랩 타임 대신 라이벌을 추월하고 일정 거리를 앞서 SP 게이지를 깎는 1대1 배틀이 긴장감을 만들며, 일반 차량을 피해 달리는 순간순간에 승부가 걸린다.",
+        "수도고 순환선·완간선 등 180km 이상의 도로망과 밤의 도시·톨게이트·차량 흐름을 재현해 독특한 심야 주행 분위기가 살아 있다.",
+        "165종의 차량과 다양한 튜닝 부품·외관 변경, 라이벌 전용 커스텀카 및 차종별 세팅이 장기 육성·수집 동기를 제공한다.",
+        "개성적인 팀·보스·WANDERER와 플레이 성적에 따라 바뀌는 이명(B.A.D.), 개선된 리플레이 카메라 덕에 라이벌을 정복하는 과정이 즐겁다."
+      ],
+      "cons": [
+        "기본 도로 구간과 대결 방식이 계속 반복되고 전작 《首都高バトル2》와 구성이 비슷해 장시간 플레이 시 풍경·과제의 변화가 부족하다.",
+        "일부 상위 라이벌은 차량 성능보다 과도하게 빠른 직선 속도를 내도록 보정되어, 후반에는 차량 업그레이드와 블로킹 운용에 지나치게 의존하게 된다.",
+        "일부 WANDERER의 특수 등장·대결 조건과 특정 차량 누적 3,000km를 요구하는 LPS 고급 튜닝은 완전 제패를 위해 큰 반복 작업을 요구한다.",
+        "차량 조작과 드리프트가 시뮬레이터보다 아케이드에 가깝고, 거친 계단 현상·어두운 야간 배경 등 PS2 초기작의 시각적 한계가 남아 있다."
+      ],
+      "sources": [
+        {
+          "label": "패미통 - 일본 PS2 《首都高バトル0》 발매일·제작사·장르",
+          "url": "https://www.famitsu.com/game/title/9481/reviews"
+        },
+        {
+          "label": "Media World - 일본 PS2 초판 SLPS-25028 · 2001-03-15 출시 · 수도고 180km 이상 및 튜닝 소개",
+          "url": "https://mediaworld.co.jp/products/10400161001"
+        },
+        {
+          "label": "GameSpot - Tokyo Xtreme Racer: Zero PS2 리뷰, SP 배틀·조작·AI·연출의 장단점",
+          "url": "https://www.gamespot.com/reviews/tokyo-xtreme-racer-zero-review/1900-2717994/"
+        },
+        {
+          "label": "게임카탈로그@Wiki - 일본 PS2판 평가, 165 차종·B.A.D.·LPS·라이벌 조건·기술적 단점",
+          "url": "https://w.atwiki.jp/gcmatome/pages/6532.html"
+        },
+        {
+          "label": "LaunchBox - Sony PlayStation 2 일본판 실제 Box - Front",
+          "url": "https://gamesdb.launchbox-app.com/games/details/61219-tokyo-xtreme-racer-zero"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/2734",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2001년 3월 15일 발매된 일본 PS2 초판 《首都高バトル0》(SLPS-25028)이다. 2002·2005년 베스트 재발매판, 북미판 《Tokyo Xtreme Racer: Zero》 및 2003년 속편 《首都高バトル01》과 구분한다. 제공한 패치가 지원하는 지역·디스크 리비전 및 게임 내 메뉴·텍스트·이미지 번역 범위, 미번역 요소, 버전·설치 방식·다운로드 가능 여부는 확인하지 않았다. PS2 실기·에뮬레이터에서 패치 설치·구동 테스트를 하지 않았다."
+      },
+      "reviewedAt": "2026-10-30",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com//1a19fd08-9788-4bed-ad9f-8475ea91d7d0.png",
+        "source": "https://gamesdb.launchbox-app.com/games/details/61219-tokyo-xtreme-racer-zero",
+        "platform": "ps2",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
