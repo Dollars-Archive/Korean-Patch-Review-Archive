@@ -20297,6 +20297,65 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "dragon-ball-z-supersonic-warriors-2-ds",
+      "title": "드래곤볼 Z 무공열전",
+      "original": "ドラゴンボールZ 舞空烈戦 (Dragon Ball Z: Supersonic Warriors 2)",
+      "platforms": [
+        "ds"
+      ],
+      "genres": [
+        "대전 격투",
+        "2D 액션",
+        "태그 팀 격투"
+      ],
+      "score": 7.4,
+      "summary": "2005년 12월 1일 일본 닌텐도 DS로 발매된 《ドラゴンボールZ 舞空烈戦》, 해외명 《Dragon Ball Z: Supersonic Warriors 2》 평가. 초고속 공중 이동과 기공파·궁극기, 3인 태그 교대와 팀 필살기가 드래곤볼의 과장된 대결을 휴대용 기기에서 경쾌하게 재현한다. 2D 캐릭터 스프라이트와 3D 배경, 정규 이야기와 가상 분기(IF) 시나리오, 캐릭터·모드 해금은 팬에게 즐길 거리를 제공한다. 반면 기본 콤보와 전술의 깊이가 얕고, 급박한 전투 중 터치스크린 조작이 불편하며, GBA 전작 대비 새로움이 제한적이다. 빠르고 접근성 높은 드래곤볼 캐릭터 대전과 IF 스토리를 좋아하는 팬에게 추천하는 7.4점. 공식 게임 목록과 Nintendo DS판 전문 리뷰를 종합한 자료 기반 편집 평가이며 직접 플레이한 결과가 아니고 한글패치 여부는 점수에 반영하지 않았다.",
+      "pros": [
+        "공중 비행·대시·기공파·초필살기를 빠르게 주고받는 전투가 드래곤볼 특유의 속도감과 과장된 액션을 잘 살린다.",
+        "3인 팀을 짜서 전투 도중 교대하고 지원·팀 필살기를 활용할 수 있어 캐릭터 조합과 연계 공격의 재미가 있다.",
+        "스토리 모드의 정규 전개 외에 원작과 다른 IF 분기 시나리오, Z 배틀·맥시멈 모드와 캐릭터 해금 요소가 반복 플레이 동기를 준다.",
+        "표정과 필살기 연출이 살아 있는 2D 스프라이트, 3D 전장 배경과 음성·효과음이 휴대용 드래곤볼 게임의 분위기를 뒷받침한다."
+      ],
+      "cons": [
+        "캐릭터별 기본 공격과 콤보 구조의 차이가 충분하지 않고 기공파 중심의 반복 전개가 쉬워 격투 게임으로서 깊이가 제한적이다.",
+        "전투는 위 화면에서 빠르게 진행되는데 캐릭터 교대·팀 기술은 아래 터치스크린을 눌러야 해서 시선 이동과 입력이 어색하다.",
+        "GBA의 전작 《Supersonic Warriors》에서 발전한 부분은 주로 태그 기능·배경과 콘텐츠 확장으로, 근본적인 전투 구조는 비슷하다.",
+        "일부 스토리 전투의 난도가 낮고 해금용 모드에서는 비슷한 상대와 장면을 반복해야 하므로 숙련자에게 단조롭게 느껴질 수 있다."
+      ],
+      "sources": [
+        {
+          "label": "반다이남코 드래곤볼 게임 공식 목록 - 《ドラゴンボールZ 舞空烈戦》 NDS 일본판, 2005-12-01 발매",
+          "url": "https://dbgame.bn-ent.net/lineup/"
+        },
+        {
+          "label": "GameSpot - Dragon Ball Z: Supersonic Warriors 2 DS 리뷰 (2005-12-09), 빠른 액션·교대 터치 조작과 전작 비교",
+          "url": "https://www.gamespot.com/reviews/dragon-ball-z-supersonic-warriors-2-review/1900-6141050/"
+        },
+        {
+          "label": "WorthPlaying - NDS 리뷰 (2006-01-11), 태그 팀·IF 분기·액션·연출과 반복 요소",
+          "url": "https://worthplaying.com/article/2006/1/11/reviews/30136-nds-review-dragon-ball-z-supersonic-warriors-2/"
+        },
+        {
+          "label": "LaunchBox - Nintendo DS 일본판 실제 패키지 Box - Front",
+          "url": "https://gamesdb.launchbox-app.com/games/details/18700"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/2842",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2005년 12월 1일 일본 NDS판 《ドラゴンボールZ 舞空烈戦》(해외명 《Dragon Ball Z: Supersonic Warriors 2》)이며, GBA 전작 《ドラゴンボールZ 舞空闘劇》과 구분한다. 제공한 패치의 지원 지역·게임 코드·리비전, 스토리·메뉴·이미지 번역 범위 및 미번역 부분, 버전·적용 방식·배포 가능 여부를 확인하지 않았다. NDS 실기나 에뮬레이터에서 패치 설치·구동 시험을 하지 않았다."
+      },
+      "reviewedAt": "2026-10-30",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com//8dbf43e8-3b2b-4d2f-9737-a5fb1678833f.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/details/18700",
+        "platform": "ds",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
