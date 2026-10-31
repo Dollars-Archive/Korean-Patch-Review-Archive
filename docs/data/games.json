@@ -23006,6 +23006,79 @@
       },
       "reviewedAt": "2026-10-30",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "mahoujin-guruguru-sfc",
+      "title": "마법진 구루구루",
+      "original": "魔法陣グルグル (Mahoujin GuruGuru)",
+      "platforms": [
+        "snes"
+      ],
+      "genres": [
+        "RPG",
+        "던전 탐험",
+        "판타지"
+      ],
+      "score": 7.2,
+      "summary": "1995년 4월 21일 에닉스가 발매한 일본 SFC판 『魔法陣グルグル』(SHVC-P-AGUJ)은 동명 만화·TV 애니메이션을 바탕으로 한 던전 탐험 RPG다. 니케와 쿠쿠리가 한 마을을 거점으로 구조가 매번 달라지는 12개+마지막 탑에 도전하는 오리지널 이야기로, 니케가 자동으로 싸우는 동안 쿠쿠리의 마법진·함정으로 지원하는 독특한 전투가 가장 큰 매력이다. 원작의 장난스러운 유머와 캐릭터 표현도 잘 어울린다. 그러나 전투의 기본 패턴과 탑 탐험이 반복되고 마법진 간 실용성 차이가 크며 쉬운 난도와 집으로 돌아와야 하는 저장 방식이 아쉬워 7.2점. 구루구루 원작 팬과 가벼운 변칙 던전 RPG를 좋아하는 이용자에게 추천한다. 후속작 『魔法陣グルグル2』(1996) 및 게임보이판과 구별한 일본 SFC 원판 공개 자료 기반 편집 평가이며 직접 플레이하거나 한글패치를 실행한 결과는 아니고 패치 여부는 점수에 반영하지 않았다.",
+      "pros": [
+        "쿠쿠리가 십자키와 버튼 조합으로 그리는 마법진을 적의 위치·행동에 맞춰 선택하며, 자동으로 움직이는 니케를 돕는 변칙 전투가 독특하다.",
+        "탑에 들어갈 때마다 구조가 바뀌는 던전과 선택적으로 공략 가능한 탑이 탐험에 소소한 변화를 준다.",
+        "적의 동선을 이용해 마법진 함정을 설치하는 방식으로 보통의 메뉴식 턴제 RPG와 다른 전술적 재미를 제공한다.",
+        "니케·쿠쿠리와 키타키타 아저씨 등 원작 캐릭터의 개성, 소규모 음성 연출, 우스꽝스러운 마법 표현으로 원작의 코미디 분위기를 살린다.",
+        "탑을 돌파하면서 마법진과 상점의 물품이 늘어나 성장을 확인할 수 있고 조작법도 비교적 배우기 쉽다."
+      ],
+      "cons": [
+        "탑과 전투에서 비슷한 행동을 거듭하게 되어 장시간 플레이할수록 던전 탐험이 단조로워진다.",
+        "마법진별 효율 차이가 크고 강력한 기술·언제든 사용할 수 있는 아이템 때문에 전투 균형과 난도가 고르지 않다.",
+        "소환에 쓰이는 소모성 아이템을 구하기 어려워 일부 재미있는 기술을 자유롭게 활용하기 힘들다.",
+        "기본적으로 귀환한 집에서 저장해야 하므로 던전 중간에 짧게 끊어 즐기기 불편하다.",
+        "오리지널 스토리는 원작의 분위기를 살리지만 큰 줄거리와 진행 구조가 단순해 깊은 서사를 원하는 RPG 팬에게는 약하다."
+      ],
+      "sources": [
+        {
+          "label": "스퀘어에닉스 작품 아카이브 - SFC 『魔法陣グルグル』",
+          "url": "https://www.jp.square-enix.com/archive/guruguru/"
+        },
+        {
+          "label": "패미통 - 1995-04-21 SFC판 발매 및 RPG 장르",
+          "url": "https://www.famitsu.com/game/title/17103/reviews"
+        },
+        {
+          "label": "GameFAQs - 일본판 발매일·개발사 TamTam·제품 번호 SHVC-AGUJ-JPN",
+          "url": "https://gamefaqs.gamespot.com/snes/581911-mahoujin-guruguru/data"
+        },
+        {
+          "label": "Gavas 피코피코 대백과 - SFC 게임 소개 및 일본 플레이어 후기 5건",
+          "url": "https://www.gavas.jp/products/detail.php?product_id=2188"
+        },
+        {
+          "label": "GLOM - SFC판 플레이 평가: 마법진 전투·원작 재현·난도·반복성",
+          "url": "https://gamelifeofme.com/guruguru/"
+        },
+        {
+          "label": "레트로 게임 설명서 보관고 - 시스템·소환 아이템·마법진 균형",
+          "url": "https://gamemanual.midnightmeattrain.com/entry/%E9%AD%94%E6%96%B9%E9%99%A3%E3%82%B0%E3%83%AB%E3%82%B0%E3%83%ABSFC"
+        },
+        {
+          "label": "LaunchBox - SFC 일본판 Box - Front",
+          "url": "https://gamesdb.launchbox-app.com/games/details/34196-mahoujin-guruguru"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/2479",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 1995년 4월 21일 발매된 일본 SFC 『魔法陣グルグル』(SHVC-P-AGUJ, SHVC-AGUJ-JPN)이다. 후속작 『魔法陣グルグル2』 및 게임보이판과 구별한다. 사용자 링크의 배포 여부, 실제 지원하는 원본 지역·리비전, 대사·메뉴·마법진·이미지의 번역 범위 및 미번역 요소, 패치 적용 절차와 실기·에뮬레이터 동작 여부는 확인하지 않았다."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com//dd118bb4-5d91-4bae-abb5-ef70c74796eb.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/details/34196-mahoujin-guruguru",
+        "platform": "snes",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "WebGPT"
     }
   ]
 }
