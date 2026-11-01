@@ -33168,6 +33168,71 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "pokemon-mystery-dungeon-explorers-of-sky-ds",
+      "title": "포켓몬 불가사의 던전: 하늘의 탐험대",
+      "original": "ポケモン不思議のダンジョン 空の探検隊 (Pokémon Mystery Dungeon: Explorers of Sky)",
+      "platforms": [
+        "ds"
+      ],
+      "genres": [
+        "던전 RPG",
+        "로그라이크",
+        "턴제 RPG"
+      ],
+      "score": 8.7,
+      "summary": "2009년 4월 18일 발매된 일본 닌텐도 DS판 『ポケモン不思議のダンジョン 空の探検隊』를 평가한다. 인간에서 포켓몬으로 변한 주인공과 파트너가 탐험대 길드에서 성장하는 이야기가 핵심이며, 『시간의 탐험대·어둠의 탐험대』를 바탕으로 5개의 스페셜 에피소드, 새로운 주인공 후보, 던전·아이템과 편의 요소를 추가한 확장판이다. 우정과 모험을 그리는 감정적인 서사, 개성 있는 포켓몬, 기억에 남는 음악과 엔딩 이후 풍부한 도전이 강점이다. 반면 비슷한 구조의 자동 생성 던전과 의뢰 반복, 난도 급등·동료 행동 관리 및 전작과의 높은 내용 중복 때문에 8.7/10. 캐릭터와 스토리를 중심으로 한 던전 RPG를 좋아하는 사람에게 강력 추천하며 단순 반복을 싫어하는 플레이어는 신중히 선택할 만하다. 포켓몬·닌텐도 공식 소개와 닌텐도 DS판 전문 리뷰를 바탕으로 작성한 편집 평가이며 직접 플레이하거나 한글패치를 적용해 본 평가는 아니다.",
+      "pros": [
+        "기억을 잃은 주인공과 파트너, 탐험대 길드의 동료들이 맺는 관계를 통해 우정과 신뢰, 희생을 다루는 서사가 포켓몬 외전 중에서도 특히 인상적이다.",
+        "기존 『시간·어둠의 탐험대』에 없던 5개의 스페셜 에피소드가 조연들의 배경과 감정을 보강해 본편의 이야기를 더욱 입체적으로 만든다.",
+        "장면별 감정의 상승과 전투의 긴박감을 뒷받침하는 다채로운 음악과 친근한 포켓몬 스프라이트가 NDS의 제한된 표현력 안에서 매력적인 분위기를 형성한다.",
+        "자동 생성 던전에서 타입·기술·아이템·동료 조합을 운용해야 하며, 본편 이후의 장대한 탐험·포켓몬 모집·고난도 던전이 오래 즐길 목표를 제공한다.",
+        "새로운 주인공 포켓몬 후보, 쉐이미 관련 지역·추가 요소 및 탐험·아이템 관리 개선으로 이전 두 작품보다 내용과 선택지가 풍부하다."
+      ],
+      "cons": [
+        "자동 생성된 층을 돌파하고 구조·물품 회수 의뢰를 수행하는 흐름이 긴 시간 반복돼 던전 지형과 적 배치의 체감 변화가 충분하지 않다.",
+        "상태이상·함정·아이템 수급 등 운과 준비에 영향을 받는 고난도 상황이 있어 실수 한 번으로 긴 던전 공략이 무너질 수 있고 입문자가 익히기 어렵다.",
+        "동료의 기술·이동 행동을 관리해야 하며 좁은 복도와 단순한 공격 교환 때문에 전투가 때로 답답하고 전략의 폭이 제한된다고 느낄 수 있다.",
+        "기본적인 메인 시나리오와 진행 구조는 『시간·어둠의 탐험대』와 상당 부분 같아 이전 두 작품을 이미 완료했다면 새 에피소드까지 가는 과정이 중복으로 느껴진다.",
+        "닌텐도 Wi-Fi 커넥션 서비스가 종료되어 당시의 온라인 구조·의뢰 기능을 원형 그대로 이용할 수 없다."
+      ],
+      "sources": [
+        {
+          "label": "포켓몬 공식 『空の探検隊』 특설 사이트: 2009-04-18 일본 NDS 발매, 확장판·기종·통신 기능",
+          "url": "https://www.pokemon.co.jp/special/dungeon_sora/"
+        },
+        {
+          "label": "닌텐도 일본 공식 게임 소개: 기존 두 작품을 확장한 새로운 에피소드·포켓몬·모험",
+          "url": "https://www.nintendo.co.jp/ds/c2sj/index.html"
+        },
+        {
+          "label": "RPGFan, Patrick Gann (2022): NDS판 스페셜 에피소드·스토리·음악·후반 콘텐츠·반복성 평가",
+          "url": "https://www.rpgfan.com/review/pokemon-mystery-dungeon-explorers-of-sky/"
+        },
+        {
+          "label": "Nintendo Life, Mitch Vogel (2016): DS판 스토리·랜덤 던전·구조 의뢰 반복·전투 및 그래픽 평가",
+          "url": "https://www.nintendolife.com/reviews/wiiu-eshop/pokemon_mystery_dungeon_explorers_of_sky_ds"
+        },
+        {
+          "label": "LaunchBox: Pokémon Mystery Dungeon: Explorers of Sky 닌텐도 DS 일본판 앞표지 Box - Front (Japan)",
+          "url": "https://gamesdb.launchbox-app.com/games/images/20818-pokmon-mystery-dungeon-explorers-of-sky"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/167",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2009년 4월 18일 발매 일본 닌텐도 DS판 『ポケモン不思議のダンジョン 空の探検隊』이며, 『시간의 탐험대』·『어둠의 탐험대』 및 Wii U 버추얼 콘솔판과 구분한다. 제공 주소의 실제 지원 지역·카트리지 리비전, 게임 내 대사·메뉴·아이템·이미지의 번역 범위, 미번역 여부와 적용법, 닌텐도 DS 실기·에뮬레이터 호환성은 확인하지 않았다. 패치 주소 접속·미리보기·리다이렉트 확인·다운로드·설치·구동 검증을 하지 않았다."
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/r2_8a69407a-ad7c-4b32-bcb7-e605594cd877.png",
+        "source": "https://gamesdb.launchbox-app.com/games/images/20818-pokmon-mystery-dungeon-explorers-of-sky",
+        "platform": "ds",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
