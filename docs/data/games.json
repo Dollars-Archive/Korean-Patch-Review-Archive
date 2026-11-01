@@ -24513,6 +24513,71 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "shinseiki-gpx-cyber-formula-road-to-the-infinity-3-ps2",
+      "title": "사이버 포뮬러 Road to the INFINITY 3",
+      "original": "新世紀GPXサイバーフォーミュラ Road To The INFINITY 3 (Shinseiki GPX Cyber Formula: Road to the Infinity 3)",
+      "platforms": [
+        "ps2"
+      ],
+      "genres": [
+        "레이싱",
+        "3D 레이싱",
+        "애니메이션 원작"
+      ],
+      "score": 6.5,
+      "summary": "2006년 10월 26일 일본에서 선라이즈 인터랙티브가 발매한 PS2 『新世紀GPXサイバーフォーミュラ Road To The INFINITY 3』(SLPS-25695) 평가. 제19회 GPX 대회를 배경으로 신규 2개 팀·드라이버·머신을 추가하고, 기존 9개 코스를 재설계하며 신규 3개 코스를 보탰다. 역주행 변형, 8대 동시 레이스, 개선된 컷인·리플레이, 타임어택·갤러리, 자동 운전 모드 등 콘텐츠와 팬서비스는 향상됐다. 그러나 게임 엔진과 조작을 바꾸며 전작보다 속도감·차량 반응이 떨어졌다는 이용자 지적이 많고, 차량이 몰릴 때 프레임 저하, 무리한 CPU 주행, 의도치 않은 피트인 및 밋밋한 난이도도 단점이다. 종합 6.5점. 원작 캐릭터·신규 머신·레이스 분위기를 즐기는 팬이라면 해볼 만하지만 순수 레이싱 완성도를 최우선으로 생각한다면 신중히 추천한다. 일본 PS2 3편의 제품 정보·당시 리뷰를 토대로 한 편집 평가이며 직접 플레이한 결과가 아니다. 한글패치 유무는 점수에 가산하지 않았다.",
+      "pros": [
+        "제19회 GPX에 피닉스 재팬과 그랜드 등 새로운 팀, 드라이버와 가와모리 쇼지 디자인 신규 머신을 추가해 시리즈 팬에게 새로운 볼거리를 준다.",
+        "기존 9개 코스의 재설계와 신규 3개 코스, 역방향 변형을 통해 경주 선택지가 늘고 출전 차량도 6대에서 8대로 증가했다.",
+        "부스트의 회수·속도 설정, 코너링·미라주 턴 숙련, 날씨 변화 등으로 캐주얼한 캐릭터 게임 이상으로 운전 스타일을 시험할 수 있다.",
+        "레이스 중 캐릭터 대화·컷인·블러·스파크·리플레이 영상 연출이 강화되어 원작 특유의 미래형 그랑프리 분위기를 살린다.",
+        "스토리·대전·프리런·타임어택·프리배틀, 갤러리와 오토드라이브 기능이 팬서비스와 반복 플레이 선택지를 늘린다."
+      ],
+      "cons": [
+        "엔진 변경으로 차 움직임과 드리프트 감각이 전작들과 달라졌고, 과장된 롤링과 둔한 반응에 불만을 표한 PS2판 이용자가 있다.",
+        "8대 레이스에서 경쟁 차량이 화면에 몰릴 때 처리 지연과 조작 응답 저하가 나타났다는 이용자 보고가 있어 속도감을 해친다.",
+        "CPU 차량이 지나치게 앞을 가로막거나 코너에서 어색하게 움직이고, 차량 접촉 시 플레이어가 크게 불리해지는 등 경주의 공정성이 떨어진다.",
+        "피트 입구가 넓어 의도치 않은 진입이 생길 수 있고, 자동 주행의 실용성·난이도·튜닝 폭도 기대에 못 미친다는 평가가 있다.",
+        "신규 주인공 서사에 호불호가 크며, 기존 팬이 기대한 질주 쾌감과 주제가가 부족하고 일부 이벤트 소재는 반복 사용된다."
+      ],
+      "sources": [
+        {
+          "label": "Neowing - PS2 일본판 SLPS-25695 제품 사양·신규 팀·코스·부스트·주행·모드 공식 소개",
+          "url": "https://www.neowing.co.jp/product/SLPS-25695"
+        },
+        {
+          "label": "패미통 - PS2 일본판 2006-10-26 발매·제조사·레이싱 장르",
+          "url": "https://www.famitsu.com/game/title/2121/reviews"
+        },
+        {
+          "label": "Joko - PS2판 이용자 리뷰 7건 (2006~2009), 조작감·속도·프레임·CPU·팬서비스",
+          "url": "https://www.joko.jp/ps2/review/ti2066.html"
+        },
+        {
+          "label": "콘솔게임 대사전 - PS2 3편 평가 개관·기능 변경·주요 문제점",
+          "url": "https://consoledictionary.com/games/14932"
+        },
+        {
+          "label": "LaunchBox - PS2 일본판 실제 Box - Front 이미지 (500×709)",
+          "url": "https://gamesdb.launchbox-app.com/games/images/136857-shinseiki-gpx-cyber-formula-road-to-the-infinity-3"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/1696",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 일본 PS2 『新世紀GPXサイバーフォーミュラ Road To The INFINITY 3』(2006-10-26, SLPS-25695)으로, PS2 『Road To The INFINITY』 초대작·2편·4편, GC 『Road To The EVOLUTION』, PSP 『VS』와 구분한다. 제공 링크의 정확한 대상 디스크 지역·리비전, 대사·메뉴·이벤트 이미지 및 음성 자막 번역 범위, 잔여 미번역, 적용 방법, 배포 상태·버전과 실기·에뮬레이터 호환성을 확인하지 않았다. 패치를 다운로드·설치·실행하지 않았고 링크에 접속하거나 미리보기·리다이렉트 추적하지 않았다."
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/9dd1f9fe-0772-4b7e-9af2-728f96670996.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/136857-shinseiki-gpx-cyber-formula-road-to-the-infinity-3",
+        "platform": "ps2",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
