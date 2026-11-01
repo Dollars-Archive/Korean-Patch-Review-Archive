@@ -28374,6 +28374,74 @@
       },
       "reviewedAt": "2026-11-01",
       "reviewer": "ChatGPT (공개 자료 기반 편집 평가)"
+    },
+    {
+      "id": "yu-gi-oh-5ds-tag-force-5-psp",
+      "title": "유희왕 5D's 태그포스 5",
+      "original": "遊戯王ファイブディーズ TAG FORCE 5 (Yu-Gi-Oh! 5D's Tag Force 5)",
+      "platforms": [
+        "psp"
+      ],
+      "genres": [
+        "카드 배틀",
+        "턴제 전략",
+        "트레이딩 카드 게임",
+        "어드벤처"
+      ],
+      "score": 7.8,
+      "summary": "자료 기반 편집 평가. 2010년 일본 PSP판은 4,500장 이상 수록된 카드와 싱크로 소환, 5D's 등장인물별 파트너 스토리 및 2대2 태그 듀얼의 깊이가 뛰어나다. 전작보다 편리해진 인물 추적·상점 할인과 데이터 설치가 매력적이나 반복적인 친밀도 진행, 복잡한 필드에서 길어지는 CPU 판단, 제한적인 그래픽 변화와 초심자에게 부족한 설명은 단점이다. 유희왕 5D's와 다양한 덱 실험을 즐기는 사람에게 추천한다.",
+      "pros": [
+        "4,500장 이상의 방대한 카드와 싱크로 소환 중심의 덱 조합이 장기적인 수집·전략 실험을 뒷받침한다.",
+        "유세이·크로우 등 5D's 캐릭터별 스토리와 파트너를 선택하는 태그 듀얼이 팬 서비스와 반복 플레이 동기를 제공한다.",
+        "파트너 추적 장치와 조건형 상점 할인 시스템으로 전작의 동료 찾기·아이템 수집 부담을 개선했다.",
+        "메모리스틱 데이터 설치 기능으로 UMD 접근에 따른 대기 시간이 일부 줄고, 간결한 PSP 조작과 멀티플레이 선택지가 유지된다."
+      ],
+      "cons": [
+        "친밀도를 채우고 일정을 반복해 캐릭터 시나리오를 개방하는 구조가 길어져 스토리 전개의 속도가 느리다.",
+        "필드의 카드와 효과가 많아지면 CPU의 판단 시간이 길어져 듀얼 흐름이 자주 끊긴다.",
+        "일부 배경·그래픽과 전개 방식이 전작과 비슷해 시리즈 연속 플레이 시 신선함이 약하다.",
+        "카드 규칙과 복잡한 효과의 설명·튜토리얼이 부족해 신규 플레이어는 진입 장벽을 느낄 수 있다."
+      ],
+      "sources": [
+        {
+          "label": "코나미 공식 - 일본 PSP판 『遊戯王ファイブディーズ TAG FORCE 5』 제품 정보·발매일(2010-09-16)",
+          "url": "https://www.konami.com/games/jp/ja/products/yugioh_tf5_psp/"
+        },
+        {
+          "label": "GameFAQs - 일본 PSP판 ULJM-05734 및 지역별 발매 데이터",
+          "url": "https://gamefaqs.gamespot.com/psp/997448-yu-gi-oh-5ds-tag-force-5/data"
+        },
+        {
+          "label": "GameFAQs - PSP판 이용자 상세 리뷰(2011-08): 설치 데이터·AI 판단·카드·캐릭터 추적 및 상점 개선",
+          "url": "https://gamefaqs.gamespot.com/psp/997448-yu-gi-oh-5ds-tag-force-5/reviews/147749"
+        },
+        {
+          "label": "TheSixthAxis - PSP판 전문 리뷰(2010-12): 캐릭터 교류·조작·멀티플레이·튜토리얼·그래픽 평가",
+          "url": "https://www.thesixthaxis.com/2010/12/07/review-yi-gi-oh-5d%E2%80%99s-tag-force-5/"
+        },
+        {
+          "label": "Indy's Blog - PSP판 이용자 리뷰(2010-11): 스토리 진행·미니게임·상대 AI·카드 임대",
+          "url": "https://ikkideol.wordpress.com/2010/11/29/review-yugioh-5ds-tag-force-5/"
+        },
+        {
+          "label": "LaunchBox Games Database - 2010년 일본 PSP판 정품 Box - Front 앞표지",
+          "url": "https://gamesdb.launchbox-app.com/games/images/14750-yu-gi-oh-5ds-tag-force-5"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/889",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 게임 평가는 2010년 일본 PSP 일반판(ULJM-05734)을 대상으로 함. 제공된 패치 URL이 지원하는 지역·리비전, 카드명·효과·메뉴·스토리 번역 범위, 미번역 항목·설치 방법·실기 및 에뮬레이터 구동 여부는 확인하지 않음."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com/d90d9299-1e3e-493c-920d-2a92c752d16d.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/14750-yu-gi-oh-5ds-tag-force-5",
+        "platform": "psp",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "ChatGPT (자료 기반 편집 평가)"
     }
   ]
 }
