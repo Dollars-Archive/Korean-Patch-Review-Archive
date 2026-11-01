@@ -30368,6 +30368,62 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "first-queen-iv-varcia-senki-ps1",
+      "title": "퍼스트 퀸 4: 바르시아 전기",
+      "original": "ファーストクイーンIV ～バルシア戦記～",
+      "platforms": [
+        "ps1"
+      ],
+      "genres": [
+        "전략 RPG",
+        "실시간 시뮬레이션 RPG"
+      ],
+      "score": 7.7,
+      "summary": "1996년 PS1 일본판(SLPS-00604) 기준. 수십~100명 이상의 병사가 한꺼번에 싸우는 '고차캐라' 난전과 부대 편성·외교·증원 시스템이 차별화된 재미를 준다. 자유롭게 행동하는 병사를 지켜보고 필요한 순간 직접 개입하는 맛이 독특하지만, AI의 비효율적인 이동, 제한된 세부 지시, 느린 저장은 단점이다. 대규모 군세 운영과 고전 실시간 전략 RPG를 좋아한다면 추천할 만한 7.7점. 공개 자료 기반 편집 평가이며 직접 플레이한 점수는 아님.",
+      "pros": [
+        "여러 부대의 병사와 적·증원군이 한꺼번에 몰려드는 대규모 실시간 난전이 시리즈만의 강렬한 개성을 만든다.",
+        "부대 구성·동료 영입·국가 간 외교와 동맹·다방면 진군 등 전투 바깥의 전략적 선택지가 풍부하다.",
+        "성격에 따라 움직이는 병사들을 관찰하다가 특정 캐릭터를 직접 조종하거나 지원해 전세를 바꾸는 손맛이 있다."
+      ],
+      "cons": [
+        "아군 AI가 장애물에 걸리거나 엉뚱한 방향으로 움직여 전투 중 수동 개입이 잦아진다.",
+        "세부 전술 지시와 진형의 영향력이 제한적이고 병종별 역할이 직관적이지 않아 정통 전술 시뮬레이션을 기대하면 아쉽다.",
+        "PS1판은 세이브·로드가 다소 느리며 저장 데이터 하나에 메모리 카드 4블록을 사용해 편의성이 떨어진다."
+      ],
+      "sources": [
+        {
+          "label": "패미통 PS판 기본 정보 및 발매일",
+          "url": "https://www.famitsu.com/game/title/16508/page/1"
+        },
+        {
+          "label": "ピコピコ大百科 PS1판 제품 정보 및 사용자 평가",
+          "url": "https://www.gavas.jp/products/detail.php?product_id=10396"
+        },
+        {
+          "label": "PS 게임 아카이브스 Wiki 이용자 플레이 소감",
+          "url": "https://w.atwiki.jp/psparchives/pages/591.html"
+        },
+        {
+          "label": "LaunchBox PS1 일본판 패키지 앞표지",
+          "url": "https://gamesdb.launchbox-app.com/games/images/122891-first-queen-iv-varcia-senki"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/482",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 1996년 PlayStation 일본판 《ファーストクイーンIV ～バルシア戦記～》(SLPS-00604)이며 PC-98·DOS판, 슈퍼패미컴의 《オルニック戦記》와 구분한다. 패치 지원 버전·번역 범위·적용 방법·실기 구동은 확인하지 않았다."
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "ChatGPT (공개 자료 기반 편집 평가)",
+      "cover": {
+        "url": "https://images.launchbox-app.com/322d116f-0491-4f7c-88cd-0f51a0853aee.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/122891-first-queen-iv-varcia-senki",
+        "platform": "ps1",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
