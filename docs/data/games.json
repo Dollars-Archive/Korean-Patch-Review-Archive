@@ -25047,6 +25047,75 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "prince-of-persia-warrior-within-ps2",
+      "title": "페르시아의 왕자: 전사의 길",
+      "original": "Prince of Persia: Warrior Within (プリンス・オブ・ペルシャ ケンシノココロ)",
+      "platforms": [
+        "ps2"
+      ],
+      "genres": [
+        "액션 어드벤처",
+        "3D 플랫포머",
+        "퍼즐 액션"
+      ],
+      "score": 8.2,
+      "summary": "2005년 10월 13일 일본 발매 PlayStation 2판 『プリンス・オブ・ペルシャ ケンシノココロ』(SLPM-66002)를 기준으로 한 자료 기반 편집 평가. 『시간의 모래』의 후속작으로, 죽음의 운명에서 벗어나려는 왕자가 시간의 섬에서 과거와 현재를 오가며 펼치는 액션 어드벤처다. 벽 달리기·봉 이동·함정 회피의 입체적인 플랫포밍을 유지하면서 이도류, 다양한 무기·콤보, 시간 되감기와 시간 지연 능력으로 전투 선택지를 확장했다. 같은 공간이 두 시대에 다르게 변화하는 퍼즐과 다하카의 추격, 길어진 캠페인이 강점이다. 다만 성 내부의 빈번한 재방문과 상세하지 않은 지도, 카메라 전환 및 일부 PS2판 프레임 저하는 진행을 방해한다. 잔혹하고 어두운 분위기와 강한 음악은 뚜렷한 개성이지만 전작의 동화적 매력을 좋아했다면 호불호가 갈릴 수 있다. 전투·탐험 설계의 완성도는 높으나 반복 동선과 기술적 아쉬움을 반영해 8.2/10점. 아크로바틱 3D 액션과 도전적인 탐색을 좋아하는 플레이어에게 추천한다. 일본 PSP판이 아닌 PS2판의 제품 정보와 PS2판 당시 전문 리뷰를 종합한 편집 평가이며 직접 플레이하거나 패치를 검증하지 않았고 한글패치는 점수에 반영하지 않았다.",
+      "pros": [
+        "한 손 무기와 이도류, 무기 종류에 따른 콤보, 적을 뛰어넘거나 벽·기둥을 활용하는 동작이 결합해 전작보다 전투의 선택 폭과 시각적 타격감을 크게 늘렸다.",
+        "벽 달리기·기둥 이동·로프·천막 등 공간을 활용하는 정교한 플랫포밍과 톱날·가시·낙하 함정이 촘촘하게 결합되어 돌파의 성취감이 있다.",
+        "과거와 현재에서 구조가 달라지는 성을 탐험하고 시간 되감기·시간 지연 능력으로 실수나 전투 상황을 바꿀 수 있어 퍼즐과 액션이 유기적으로 이어진다.",
+        "다하카의 추격전이 강한 긴장감을 주고, 전작보다 길어진 캠페인 및 다양한 전투·탐험 구간이 풍부한 플레이 시간을 제공한다.",
+        "어두운 미술 디자인, 음산한 유적과 헤비메탈 성향의 음악이 거칠고 강렬한 작품 고유의 분위기를 만든다."
+      ],
+      "cons": [
+        "같은 지역을 과거와 현재에 걸쳐 반복 방문하는 과정이 길고 지도에 경로가 자세히 나오지 않아 중반 이후 길 찾기가 번거로워진다.",
+        "카메라가 갑자기 이동하거나 불리한 각도로 전환되어 점프 방향과 함정까지의 거리를 판단하기 어려운 구간이 있다.",
+        "PS2판은 동시대 타 기종에 비해 프레임이 다소 불안정해 화면 움직임이 거칠어 보일 수 있다.",
+        "전작의 친근하고 동화적인 분위기에서 잔혹성·거친 대사·무거운 음악으로 크게 방향을 틀어 인물과 서사의 매력이 호불호를 탄다.",
+        "확장된 전투 콤보가 많아도 반복되는 적 전투에서는 효율적인 소수의 기술만 사용하게 되고 일부 구간은 적을 반복 상대해야 한다."
+      ],
+      "sources": [
+        {
+          "label": "스루가야 - 일본 PS2 일반판 『ケンシノココロ』 2005-10-13, SLPM-66002",
+          "url": "https://www.suruga-ya.jp/product/detail/144002947"
+        },
+        {
+          "label": "GAME Watch - 일본판 발매 및 PS2·Xbox 동시 발매 안내 (2005-09-20)",
+          "url": "https://game.watch.impress.co.jp/docs/20050920/pop.htm"
+        },
+        {
+          "label": "GameSpot - Bob Colayco의 콘솔판 리뷰 (2004-12-01), 시공간 탐색·전투·PS2 프레임·서사",
+          "url": "https://www.gamespot.com/reviews/prince-of-persia-warrior-within-review/1900-6114298/"
+        },
+        {
+          "label": "WorthPlaying - PS2판 전문 리뷰 (2004-12-30), 시간 능력·전투·카메라",
+          "url": "https://worthplaying.com/article/2004/12/30/reviews/21469-ps2-review-prince-of-persia-warrior-within/"
+        },
+        {
+          "label": "PSX Extreme - PS2판 리뷰, 카메라·백트래킹·전투 반복",
+          "url": "https://psxextreme.com/archive/ps2-reviews-358/"
+        },
+        {
+          "label": "Solaris Japan - 일본 PS2판 실물 앞표지 및 SLPM-66002 확인",
+          "url": "https://solarisjapan.com/products/prince-of-persia-warrior-within"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/7149",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가와 표지는 2005년 10월 13일 일본 PlayStation 2판 『プリンス・オブ・ペルシャ ケンシノココロ』(SLPM-66002) 기준이며 북미·유럽 PS2판과 PSP 이식작 『Prince of Persia: Revelations』, PS3 리마스터판 등과 구분한다. 제공된 패치 주소가 어느 지역·빌드·디스크 리비전에 대응하는지, 대사·자막·메뉴·영상 번역 범위 및 미번역 요소, 적용 방식·배포 상태·버전은 확인하지 않았다. 링크 접속·미리보기·리다이렉트 추적 또는 PS2 실기·에뮬레이터 설치·동작 검증을 수행하지 않았다."
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://solarisjapan.com/cdn/shop/products/65700_original_0e454d3d-0290-4461-94f9-d6aa3e1d3e8a.jpeg?v=1571439228&width=900",
+        "source": "https://solarisjapan.com/products/prince-of-persia-warrior-within",
+        "platform": "ps2",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
