@@ -30178,6 +30178,62 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "saenai-heroine-no-sodatekata-blessing-flowers-psvita",
+      "title": "시원찮은 그녀를 위한 육성방법",
+      "original": "冴えない彼女の育てかた -blessing flowers-",
+      "platforms": [
+        "psvita"
+      ],
+      "genres": [
+        "연애 ADV",
+        "비주얼 노벨"
+      ],
+      "score": 7.3,
+      "summary": "동인 게임 제작을 무대로 원작 캐릭터들의 교류와 새로운 전개를 즐기는 팬서비스형 연애 ADV. Live2D 연출과 오타쿠 포교·취재·대화 개입 시스템이 재미를 더하지만, 불투명한 엔딩 분기 조건과 짧은 본편, 부족한 반복 편의성이 아쉬워 7.3점. 원작 인물과 히로인별 IF 전개를 좋아하는 팬에게 추천한다. 공개 자료 기반 편집 평가이며 직접 플레이한 점수는 아님.",
+      "pros": [
+        "Live2D로 살아 움직이는 히로인들의 표정과 몸짓, 성우 연기가 캐릭터 중심의 대화 장면을 생동감 있게 만든다.",
+        "라이트노벨·애니메이션·게임을 추천하는 오타쿠 포교, 취재 중 키워드 대화, 히로인 간 대립에 개입하는 시스템이 일반적인 선택지형 ADV에 변화를 준다.",
+        "원작 세계관과 인물 관계를 유지하면서도 히로인별 게임 오리지널 대화와 분기 전개를 제공해 팬에게 새로운 장면을 보여준다."
+      ],
+      "cons": [
+        "선택지와 호감도, 엔딩 플래그의 관계를 알기 어려워 원하는 히로인의 결말에 도달하려면 시행착오가 필요하다.",
+        "본편 전체 분량이 다소 짧고 게임 제작 진행 자체는 대체로 직선적이라 깊은 제작 시뮬레이션을 기대하면 아쉽다.",
+        "반복 플레이에서 다음 선택지까지 빠르게 이동하는 기능이 부족해 여러 루트를 다시 볼 때 번거롭다."
+      ],
+      "sources": [
+        {
+          "label": "MAGES./5pb. 공식 게임 소개·시스템",
+          "url": "https://game.mages.co.jp/saekano/system/"
+        },
+        {
+          "label": "패미통 PS Vita판 크로스 리뷰",
+          "url": "https://www.famitsu.com/game/title/31717/reviews"
+        },
+        {
+          "label": "Gamer 게임 플레이 리뷰 (2015-05-26)",
+          "url": "https://www.gamer.ne.jp/news/201505260004/"
+        },
+        {
+          "label": "라쿠텐북스 PS Vita 일본판 일반판 패키지",
+          "url": "https://books.rakuten.co.jp/rb/13104573/"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/589",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. PS Vita판 적용 범위와 설치·실기 구동은 확인하지 않음."
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "ChatGPT (공개 자료 기반 편집 평가)",
+      "cover": {
+        "url": "https://tshop.r10s.jp/book/cabinet/9352/4582325379352.jpg",
+        "source": "https://books.rakuten.co.jp/rb/13104573/",
+        "platform": "psvita",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
