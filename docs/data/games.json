@@ -25859,6 +25859,75 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "ys-the-oath-in-felghana-psp",
+      "title": "이스 3: 페르가나의 맹세",
+      "original": "イース -フェルガナの誓い- (Ys: The Oath in Felghana)",
+      "platforms": [
+        "psp"
+      ],
+      "genres": [
+        "액션 RPG",
+        "JRPG",
+        "판타지"
+      ],
+      "score": 8.6,
+      "summary": "2010년 4월 22일 일본에서 발매된 PSP 일반판 『イース -フェルガナの誓い-』(ULJM-05626) 기준 자료 기반 편집 평가. 1989년 『이스 III: Wanderers from Ys』를 2005년 PC용으로 재구성한 『페르가나의 맹세』의 PSP 이식판이다. 아돌과 도기가 도기의 고향 페르가나에서 벌어진 변고를 조사한다. 속도감 있는 검술, 불·바람·땅의 마법, 연속 전투에 보상을 주는 시스템과 정확한 회피·패턴 학습을 요구하는 보스전이 높은 완성도를 보인다. jdk의 강렬한 록·오케스트라 음악, PSP판 이벤트 장면 풀보이스와 세 가지 음악 버전 선택, 여러 난도와 보스 타임어택·뉴 게임 플러스도 매력적이다. 그러나 휴대기의 작은 화면에서는 적·높낮이 구별이 어렵고 아날로그 스틱과 일부 버튼 조합이 정밀 조작에 불리하다. 낙하 시 먼 구간을 다시 돌아가야 하는 점프도 답답하며 캠페인은 비교적 짧다. 그래도 전투와 음악의 뛰어난 응집력을 인정해 8.6/10점. 도전적인 실시간 전투와 보스 패턴 공략을 즐기는 액션 RPG 팬에게 강력 추천한다. 팔콤 공식 자료와 당시 PSP판 전문 리뷰를 바탕으로 정리했으며 직접 플레이하지 않았고 한글패치 유무는 게임 점수에 반영하지 않았다. 2005년 PC 원판 및 2023년 이후 『이스 메모와르』 리마스터와 구분한다.",
+      "pros": [
+        "공격·점프·하강 공격과 화염·회오리·돌진 계열 세 속성 마법을 조합하는 전투가 빠르고 직관적이며 공격을 이어 갈수록 경험치 보상이 커진다.",
+        "보스마다 동작과 약점을 파악해야 하는 패턴 중심 설계가 뛰어나며 난도를 높이면 공격 패턴까지 달라져 재도전의 가치가 크다.",
+        "Falcom Sound Team jdk의 록·오케스트라·피아노를 아우르는 음악과 구작 음악을 선택할 수 있는 PSP판 사운드 모드가 인상적이다.",
+        "도기·엘레나·체스터 등 등장인물을 보강한 서사와 PSP판 이벤트 장면 풀보이스화로 캐릭터의 감정과 지역의 갈등이 더 잘 전달된다.",
+        "폭넓은 난도 조절과 보스전 재도전 보정, 클리어 후 타임어택·인페르노·뉴 게임 플러스·갤러리가 다양한 숙련도의 이용자와 재회차를 지원한다."
+      ],
+      "cons": [
+        "PSP의 작은 화면과 낮은 해상도에서 빠르게 움직이는 적·전경과 배경의 깊이 차이가 흐릿하게 보여 정확한 위치를 판단하기 어려울 때가 있다.",
+        "PSP 아날로그 스틱으로 세밀하게 방향을 잡기 어렵고 일부 공격·이동 버튼 조합이 어색해 PC판에 비해 정밀 조작에서 손해를 본다.",
+        "높낮이를 파악하기 어려운 발판 점프를 실패하면 여러 화면 아래로 떨어지고 지도도 없어 이전 구간을 길게 다시 올라와야 한다.",
+        "전투에 초점을 맞춰 주요 시나리오가 비교적 짧고 장비·성장 시스템의 복잡성이 낮아 방대한 이야기나 세밀한 RPG 육성을 기대하면 아쉬울 수 있다.",
+        "풀보이스 이벤트의 일부 배역은 연기 톤이 고르지 않고, PSP로 옮긴 캐릭터와 배경의 시각적 표현도 원작 PC판만큼 선명하지 않다."
+      ],
+      "sources": [
+        {
+          "label": "일본 팔콤 공식 - PSP판 2010-04-22 발매·이벤트 풀보이스·세 가지 사운드 모드",
+          "url": "https://www.falcom.co.jp/games-data/ysf-psp"
+        },
+        {
+          "label": "스루가야 - 일본 PSP 일반판 ULJM-05626·2010-04-22 제품 정보",
+          "url": "https://www.suruga-ya.jp/product/detail/177001487"
+        },
+        {
+          "label": "RPGFan - Damian Thomas의 PSP판 리뷰 (2010-11-01), 전투·마법·음악·조작·영상",
+          "url": "https://www.rpgfan.com/review/ys-the-oath-in-felghana/"
+        },
+        {
+          "label": "GameSpot - Bethany Massimilla의 PSP판 리뷰 (2010-12-08), 점프·지형 시인성·난도·보스전",
+          "url": "https://www.gamespot.com/reviews/ys-the-oath-in-felghana-review/1900-6285033/"
+        },
+        {
+          "label": "PlayStation LifeStyle - PSP판 리뷰 (2010-11-03), 음악·전투·짧은 진행·발판 점프",
+          "url": "https://www.playstationlifestyle.net/2010/11/03/psp-review-ys-the-oath-in-felghana/"
+        },
+        {
+          "label": "LaunchBox - Sony PSP 일본판 Box - Front 500×857 실제 앞표지",
+          "url": "https://gamesdb.launchbox-app.com/games/images/12770-ys-the-oath-in-felghana"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/1548",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 게임 평가·표지는 2010년 4월 22일 발매된 일본 PSP 일반판 『イース -フェルガナの誓い-』(ULJM-05626)을 기준으로 하며 2005년 PC 원판, 2010년 북미 PSP판과 『이스 메모와르 -페르가나의 맹세-』 등의 후속 리마스터와 구분한다. 제공 주소가 지원하는 국가·지역·UMD/다운로드판 리비전, 대사·메뉴·아이템·영상의 번역 범위와 미번역 부분, 설치 방법 및 실제 배포 상태·버전은 확인하지 않았다. 해당 URL의 접속·미리보기·리다이렉트 추적·다운로드 및 PSP 실기·에뮬레이터 패치 적용·구동 시험을 하지 않았다."
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/fa1d7874-60d9-4757-888c-f8ed65ae8909.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/12770-ys-the-oath-in-felghana",
+        "platform": "psp",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
