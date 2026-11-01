@@ -32581,6 +32581,75 @@
       },
       "reviewedAt": "2026-11-01",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "genso-suikoden-i-and-ii-psp",
+      "title": "환상수호전 1 & 2",
+      "original": "幻想水滸伝 I＆II (Genso Suikoden I & II)",
+      "platforms": [
+        "psp"
+      ],
+      "genres": [
+        "JRPG",
+        "턴제 RPG",
+        "동료 수집",
+        "판타지 정치극"
+      ],
+      "score": 8.8,
+      "summary": "2006년 2월 23일 일본 PSP 일반판 《幻想水滸伝 I＆II》(ULJM-05086) 기준 자료 기반 편집 평가. 1995년의 《환상수호전》과 1998년의 《환상수호전 II》를 하나에 담은 합본이다. 두 편에 걸쳐 108명의 동료를 모집하고 본거지를 키우며 정치적 격변 속의 인물과 관계를 그리는 군상극이 가장 큰 강점이다. 특히 II의 서사는 감정적 밀도가 높고, 최대 6인 명령식 전투·협력 공격·문장 시스템과 풍성한 음악은 여전히 매력적이다. PSP판은 와이드 화면에 맞춘 그래픽 조정과 대각선 이동, 음악·영상·이벤트 갤러리로 휴대용 합본의 가치를 더했다. 그러나 1편의 낡은 조작과 편의성, 완전 수집을 어렵게 하는 놓치기 쉬운 조건, 일부 잔존 버그 및 와이드 화면 확장으로 생긴 장면 연출상의 문제는 아쉽다. 두 고전 JRPG의 높은 이야기·수집 가치를 인정하되 구식 편의와 이식상의 결점을 고려해 8.8점. 전쟁 판타지·동료 수집형 JRPG 팬에게 강력 추천한다. 공개 제품 정보·평론·개발진 인터뷰를 종합한 편집 평가이며 직접 플레이하지 않았고 한글패치 유무를 점수에 반영하지 않았다. 2009년 KONAMI the BEST 등 재발매판, 2025년 HD 리마스터와 구분한다.",
+      "pros": [
+        "1편의 독립적인 정치적 봉기와 2편의 인물 관계·전쟁 서사가 서로 이어지며, 두 게임을 순서대로 즐길수록 세계관과 동료들의 선택에 깊이가 생긴다.",
+        "각 작품의 108명 동료 모집과 거점 시설 확장, 숨겨진 만남과 상호작용이 탐험에 뚜렷한 목적과 수집의 보람을 준다.",
+        "최대 6명 편성의 빠른 명령식 전투에 문장 마법·협력 공격, 전쟁 이벤트와 일대일 결투가 어우러져 단순한 RPG 전투 이상으로 변주된다.",
+        "2D 도트 그래픽과 지역·인물의 정서를 살리는 음악이 인상적이며, 휴대용 UMD 한 장으로 두 게임을 이어 즐길 수 있다.",
+        "PSP판의 화면 확장과 대각선 이동, 160곡 이상 수록된 사운드 감상·무비·이벤트 갤러리는 원작을 다시 돌아보는 즐거움을 더한다."
+      ],
+      "cons": [
+        "특히 1편은 달리기·인벤토리·메뉴 등 1990년대식 제한이 남아 있으며, 현대적인 지도·로그·자동 저장 등 편의 기능이 부족하다.",
+        "108명 완전 모집에는 시기를 놓치면 사라지는 조건이나 공략 정보가 필요한 요소가 있어 초회 플레이의 자유로운 탐험과 충돌할 수 있다.",
+        "PSP 화면 비율에 맞춰 좌우를 확장하면서 원래 가려져야 할 대상이 보이는 등 일부 주요 장면의 구도와 연출 의도가 흐트러지는 문제가 있다.",
+        "PSP판에서 원작의 일부 버그가 남아 있고, 2025년 HD 리마스터에 추가된 배속·로그·오토세이브 같은 현대적 편의 기능은 제공되지 않는다."
+      ],
+      "sources": [
+        {
+          "label": "패미통 - 일본 PSP판 발매일·제작사·장르",
+          "url": "https://www.famitsu.com/game/title/8419/reviews"
+        },
+        {
+          "label": "GameFAQs - 일본 PSP 일반판 ULJM-05086 및 코나미 제품 설명·와이드 화면·갤러리",
+          "url": "https://gamefaqs.gamespot.com/psp/930093-gensou-suikoden-i-and-ii/data"
+        },
+        {
+          "label": "가격.com - 일본 PSP판 사용자 평가, 108명 모집·전투·음악·수집 부담",
+          "url": "https://review.kakaku.com/review/41374010152/"
+        },
+        {
+          "label": "패미통 - 2024년 개발진 인터뷰: PSP판 화면 확장에 따른 장면 연출 문제와 기존 버그",
+          "url": "https://www.famitsu.com/article/202410/19415"
+        },
+        {
+          "label": "PC Gamer - 원 PSP판 대각선 이동·와이드 맵·갤러리를 비교한 2025년 회고",
+          "url": "https://www.pcgamer.com/games/rpg/suikoden-1-and-2-hd-remaster-review/"
+        },
+        {
+          "label": "LaunchBox - PSP 일본판 일반 패키지 Box - Front(640×1112)",
+          "url": "https://gamesdb.launchbox-app.com/games/images/96981-genso-suikoden-i-ii"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/259",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2006-02-23 발매 일본 PSP 일반판 《幻想水滸伝 I＆II》(ULJM-05086)이며, 2009년 KONAMI the BEST 재발매 및 2025년 HD 리마스터와 구분한다. 링크가 실제 지원하는 UMD·PS Store 판본/리비전과 1편·2편 각각의 대사·메뉴·영상·갤러리 번역 범위, 미번역 항목, 적용 방법, 실기·PPSSPP 호환 여부는 확인하지 않았다. 링크 접속·다운로드·설치·구동 검증을 하지 않았다."
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/8da3a6ba-4cf3-45f3-ae1a-abdad4cbc40d.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/96981-genso-suikoden-i-ii",
+        "platform": "psp",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
