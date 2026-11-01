@@ -36111,6 +36111,63 @@
       },
       "reviewedAt": "2026-11-02",
       "reviewer": "ChatGPT (공개 자료 기반 편집 평가)"
+    },
+    {
+      "id": "nekketsu-tairiku-burning-heroes-snes",
+      "title": "열혈대륙: 버닝 히어로즈",
+      "original": "熱血大陸 バーニングヒーローズ",
+      "platforms": [
+        "snes"
+      ],
+      "genres": [
+        "RPG",
+        "JRPG",
+        "다중 주인공 옴니버스"
+      ],
+      "score": 6.7,
+      "summary": "8명의 주인공이 서로 다른 시점에서 세계관과 인물 관계를 드러내는 옴니버스 RPG. 진형과 열혈 게이지의 착상, 활기찬 필살기 연출은 매력적이지만 잦은 전투와 낮은 명중률, 동료 자동 행동과 시나리오 간 반복이 완성도를 깎아 6.7점. 다중 시점 서사를 좋아하고 옛 JRPG의 느린 진행을 감수할 수 있는 플레이어에게 추천한다. 공개 자료 기반 편집 평가이며 직접 플레이한 평가는 아니다.",
+      "pros": [
+        "처음 선택하는 4명과 진행에 따라 추가되는 주인공을 합쳐 8개의 시점으로 인물 관계와 세계의 배경을 재해석하게 하는 구성이 독특하다.",
+        "최대 5인 파티의 진형 활용과 피격으로 차오르는 열혈 게이지의 강력한 기술이 전투에 구분되는 개성을 부여한다.",
+        "애니메이션풍 캐릭터 디자인과 주인공별 필살기 연출이 1990년대 SFC 판타지 RPG의 활기를 살린다."
+      ],
+      "cons": [
+        "랜덤 인카운트가 잦고 적과 아군의 공격 명중률이 낮다는 평가가 있어 전투가 불필요하게 길어지기 쉽다.",
+        "주인공을 제외한 파티원은 자동 행동해 명령의 자유도가 낮고, 일부 동료의 활용도 차이도 크다.",
+        "시나리오별 전개가 상당 부분 정해진 경로를 따르고 여러 주인공을 반복해서 클리어해야 전체 관계가 보이므로 완주 피로가 크다."
+      ],
+      "sources": [
+        {
+          "label": "패미통 SFC판 기본 정보",
+          "url": "https://www.famitsu.com/game/title/17104/reviews"
+        },
+        {
+          "label": "레트로게임 설명서 보관고의 게임 회고·시스템 평가 (2024)",
+          "url": "https://gamemanual.midnightmeattrain.com/entry/%E7%86%B1%E8%A1%80%E5%A4%A7%E9%99%B8%E3%83%90%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%BA"
+        },
+        {
+          "label": "피코피코 대백과 SFC판 작품 소개·독자 리뷰",
+          "url": "https://www.gavas.jp/products/detail.php?product_id=2183"
+        },
+        {
+          "label": "LaunchBox Games Database SFC 일본판 앞표지",
+          "url": "https://gamesdb.launchbox-app.com/games/images/14316-nekketsu-tairiku-burning-heroes"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/7436",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 1995년 3월 17일 발매한 일본 슈퍼패미컴판(熱血大陸 バーニングヒーローズ, SHVC-AEBJ-JPN)이다. 해당 링크가 지원하는 게임 리비전·번역 범위·미번역 요소·설치 방법·실기 및 에뮬레이터 구동 여부는 확인하지 않았고 패치를 직접 적용하지 않았다."
+      },
+      "reviewedAt": "2026-11-02",
+      "reviewer": "ChatGPT (공개 자료 기반 편집 평가)",
+      "cover": {
+        "url": "https://images.launchbox-app.com/4c260fc4-32cf-4edc-9384-015ec0d969a4.png",
+        "source": "https://gamesdb.launchbox-app.com/games/images/14316-nekketsu-tairiku-burning-heroes",
+        "platform": "snes",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
