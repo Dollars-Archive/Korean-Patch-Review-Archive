@@ -34645,6 +34645,64 @@
       },
       "reviewedAt": "2026-11-01",
       "reviewer": "ChatGPT (공개 자료 기반 편집 평가)"
+    },
+    {
+      "id": "touhou-gensoukyou-lotus-land-story-pc98",
+      "title": "동방환상향",
+      "original": "東方幻想郷 ～ Lotus Land Story (Touhou Gensoukyou: Lotus Land Story)",
+      "platforms": [
+        "pc98"
+      ],
+      "genres": [
+        "STG",
+        "종스크롤 탄막 슈팅"
+      ],
+      "score": 8.3,
+      "summary": "1998년 ZUN Soft가 제작한 NEC PC-9801용 동방 프로젝트 제4작의 공개 자료 기반 편집 평가(직접 플레이하지 않음). 레이무·마리사의 서로 다른 무장, 저속 이동, 그레이즈와 드림 보너스 점수 체계, 밀도 높은 보스 탄막으로 초기 시리즈의 슈팅 완성도를 크게 끌어올렸다. 귀에 남는 FM 음원 음악과 추가 스테이지의 반복 도전 가치도 높다. 반면 16색 화면에서 일부 탄막 가독성이 떨어지고, 까다로운 난도·클리어 조건 및 PC-98 실행 환경은 진입 장벽이다. 탄막 패턴 공략과 레트로 FM 사운드를 좋아하는 플레이어에게 추천하는 8.3/10. 한글패치의 배포 여부는 점수에 반영하지 않았다.",
+      "pros": [
+        "레이무와 마리사를 선택하고 각각 2종의 발사 방식을 고를 수 있어 공격 범위·화력에 맞춘 전략과 반복 플레이가 가능하다.",
+        "저속 이동과 탄막 근접 회피(그레이즈), 드림 아이템 보너스 등으로 정밀 회피와 점수 경쟁을 함께 즐길 수 있다.",
+        "다채롭고 밀도 높은 보스 패턴, 익스트라 스테이지가 장르 숙련자에게 풍부한 도전과 재도전 동기를 준다.",
+        "PC-98의 FM 사운드를 살린 개성적인 음악과 캐릭터 연출이 초기 동방 특유의 분위기를 선명하게 만든다."
+      ],
+      "cons": [
+        "적탄이 많아지는 보스전과 높은 난도에서 반복 연습이 요구되며, 초심자에게는 진입 장벽이 높다.",
+        "16색 그래픽의 한계로 탄막·아군 탄환·배경이 겹칠 때 적탄 구분이 어려운 구간이 있다.",
+        "Easy는 스테이지 5에서 끝나고 특정 조건에서는 최종 스테이지에 진입할 수 없어 모든 내용을 보려면 추가 도전이 필요하다.",
+        "NEC PC-98 원판 특성상 현대 PC에서의 실행과 입력·음원 환경 준비가 번거로울 수 있다."
+      ],
+      "sources": [
+        {
+          "label": "LaunchBox - NEC PC-9801 출시 정보 및 일본판 Box - Front",
+          "url": "https://gamesdb.launchbox-app.com/games/images/75782-touhou-04-lotus-land-story"
+        },
+        {
+          "label": "GameFAQs - PC-98판 리뷰(16-BITTER, 2018년 작성·2024년 갱신)",
+          "url": "https://gamefaqs.gamespot.com/pc98/944662-touhou-gensokyo-lotus-land-story/reviews/166477"
+        },
+        {
+          "label": "Touhou Wiki - Lotus Land Story Gameplay(원판 조작·점수·진행 조건)",
+          "url": "https://touhou.fandom.com/wiki/Lotus_Land_Story/Gameplay"
+        },
+        {
+          "label": "AlammoFM - Touhou 4 PC-98 작품·기술·시스템 소개(2026)",
+          "url": "https://alammofm.com/posts/touhou4/"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/61",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 1998년 일본 NEC PC-9801판 《東方幻想郷 ～ Lotus Land Story》이다. 해당 패치가 지원하는 원본 디스크·버전, 메뉴·대사 번역 범위와 미번역 부분, 적용 방법 및 실행 호환성은 확인하지 않았다. 실기·에뮬레이터 설치 및 적용 시험도 하지 않았다."
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "ChatGPT (공개 자료 기반 편집 평가)",
+      "cover": {
+        "url": "https://images.launchbox-app.com/r2_f608adb9-dfb3-403a-801d-36dd076b3e25.png",
+        "source": "https://gamesdb.launchbox-app.com/games/images/75782-touhou-04-lotus-land-story",
+        "platform": "pc98",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
