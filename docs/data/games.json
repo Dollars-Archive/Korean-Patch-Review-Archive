@@ -31372,6 +31372,69 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "yu-gi-oh-arc-v-tag-force-special-psp",
+      "title": "유희왕 ARC-V 태그포스 스페셜",
+      "original": "遊☆戯☆王アーク・ファイブ TAG FORCE SPECIAL (Yu-Gi-Oh! ARC-V Tag Force Special)",
+      "platforms": [
+        "psp"
+      ],
+      "genres": [
+        "카드 배틀",
+        "덱 구축",
+        "전략 시뮬레이션"
+      ],
+      "score": 7.4,
+      "summary": "2015년 1월 22일 발매된 일본 PSP 다운로드 전용판(NPJH-00142) 기준. 원작 애니메이션 5세대의 캐릭터와 7,000장 이상의 카드, 다양한 덱 구축과 태그 듀얼의 재미는 확실하다. 그러나 전작의 3D 소환 연출과 자유 이동·캐릭터 교류 요소가 축소되고 개별 스토리 파트너가 25명에 그쳐 팬서비스의 깊이는 줄었다. 듀얼 AI와 일부 토너먼트 난도도 아쉽다. 애니메이션 전 시대의 덱을 시험하고 싶은 유희왕 팬에게 추천하는 7.4점. 공개 자료 기반 편집 평가이며 직접 플레이한 점수는 아님.",
+      "pros": [
+        "7,000장 이상의 수록 카드와 192명에 이르는 대전 상대를 바탕으로 다양한 덱을 구성하고 시험할 수 있다.",
+        "듀얼 몬스터즈·GX·5D's·ZEXAL·ARC-V의 다섯 시대를 다루며 원작 주요 인물들과 파트너를 맺고 각 시리즈의 이야기를 경험할 수 있다.",
+        "파트너 덱을 일찍부터 편집할 수 있고, 혼자 하는 듀얼과 태그 듀얼 모두 카드 상성·연계 전략을 깊게 시험할 수 있다.",
+        "역대 태그포스 작품의 인기 음악과 신규 곡이 함께 수록되어 시리즈 팬에게 반가움을 준다."
+      ],
+      "cons": [
+        "기존 시리즈의 3D 몬스터 소환·공격 연출과 자유 이동식 탐험을 삭제하여 대화와 전투의 현장감이 떨어진다.",
+        "등장하는 상대는 많지만 개별 스토리와 음성이 제공되는 핵심 파트너가 25명뿐이고, 동료 이벤트도 전작보다 간소하다.",
+        "태그 파트너의 판단 AI가 자주 비효율적이며 초반 태그 토너먼트부터 강력한 상대가 등장하는 등 난도 균형이 고르지 않다.",
+        "입문자를 위한 규칙 설명이 충분하지 않아 기존 유희왕 OCG 지식 없이 시작하면 진입 장벽이 있다."
+      ],
+      "sources": [
+        {
+          "label": "코나미 공식 작품 정보: PSP 다운로드 전용 및 판매 종료 안내",
+          "url": "https://www.konami.com/games/jp/ja/products/yugioh_tfsp_psp/"
+        },
+        {
+          "label": "4Gamer 2015-01-22 출시 정보: 5개 시리즈와 카드·캐릭터 수록 내용",
+          "url": "https://www.4gamer.net/games/288/G028851/20150122006/"
+        },
+        {
+          "label": "さぶかるちゃん 2015-02-01 플레이 리뷰: 이벤트·3D 연출 축소와 듀얼 평가",
+          "url": "https://subculchan.com/game-review/tagforce-sp/"
+        },
+        {
+          "label": "GameFAQs 2015-10-09 PSP판 이용자 리뷰: 스토리·듀얼·난도·음악",
+          "url": "https://gamefaqs.gamespot.com/psp/864147-yu-gi-oh-arc-v-tag-force-special/reviews/161307"
+        },
+        {
+          "label": "LaunchBox 일본 PSP 디지털판 타이틀 아트",
+          "url": "https://gamesdb.launchbox-app.com/games/images/26499-yu-gi-oh-arc-v-tag-force-special"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/863",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2015-01-22 일본 PSP 다운로드 전용판 《遊☆戯☆王アーク・ファイブ TAG FORCE SPECIAL》(NPJH-00142)이다. 다운로드 판매는 2022-05-31 종료되었으며, 기존 구매자의 재다운로드 안내는 코나미 공식 사이트를 참조. 한글패치 링크의 실제 지원 게임 버전·지역·번역 범위·미번역 요소·적용 절차·PSP 실기 또는 에뮬레이터 동작 여부는 검증하지 않았다."
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "ChatGPT (공개 자료 기반 편집 평가)",
+      "cover": {
+        "url": "https://images.launchbox-app.com/563a405f-a202-4347-a574-2672116c81be.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/26499-yu-gi-oh-arc-v-tag-force-special",
+        "platform": "psp",
+        "type": "Official store artwork",
+        "region": "Japan"
+      }
     }
   ]
 }
