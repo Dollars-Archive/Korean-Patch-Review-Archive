@@ -35772,6 +35772,61 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "asuka-120-final-burning-fest-ps1",
+      "title": "아스카 120% 파이널 버닝 페스티벌 파이널",
+      "original": "あすか120％ファイナル BURNING Fest. FINAL (Asuka 120% Final: BURNING Fest.)",
+      "platforms": [
+        "ps1"
+      ],
+      "genres": [
+        "2D 대전 격투"
+      ],
+      "score": 8.3,
+      "summary": "1999년 일본 PS1판(SLPS-02074)의 2D 대전 격투 게임. 쉬운 필살기 입력, 빠른 연속기, 공격끼리 충돌해 상쇄되는 전투와 120% 게이지가 독특한 공방을 만든다. 캐릭터별 개성과 음악도 강점이지만 빈번한 상쇄와 공격 위주의 흐름이 피로할 수 있고, 낮은 한 방 화력으로 타임업도 잦아 8.3점. 정통 수비전보다 속도감과 콤보 실험을 좋아하는 격투 게임 팬에게 추천한다. 공개 자료 기반 편집 평가로 직접 플레이한 점수가 아니며 한글패치 유무는 점수에 반영하지 않았다.",
+      "pros": [
+        "간단한 방향 입력과 4버튼 조작으로 필살기 진입 장벽이 낮고, 기본기 캔슬과 연속기가 자연스럽게 이어져 손맛이 빠르다.",
+        "투사체까지 상쇄할 수 있는 독특한 공격 충돌 시스템과 120% 게이지 필살기로 거침없는 공방과 콤보 연구의 재미가 있다.",
+        "개성적인 학원 캐릭터와 전작보다 다듬어진 스프라이트·동작, 경쾌한 BGM이 활기찬 분위기를 만든다."
+      ],
+      "cons": [
+        "공격 상쇄가 빈번하고 수비보다 공격에 치우친 흐름으로 난전이 정신없고 플레이 피로도가 높아질 수 있다.",
+        "기술의 피해량이 낮아 격렬하게 싸워도 시간 종료로 승부가 결정되는 경우가 있으며 공방의 무게감이 약하게 느껴질 수 있다.",
+        "전작의 회피 중심 감각이나 스토리형 구성과 달라 기존 팬의 취향이 갈리고, 단순 대전 중심 콘텐츠의 장기 몰입은 플레이어에 따라 제한적이다."
+      ],
+      "sources": [
+        {
+          "label": "패미통 - PS1 일본판 제품 정보·발매일(1999-05-27)",
+          "url": "https://www.famitsu.com/game/title/3963/reviews"
+        },
+        {
+          "label": "nate's garden - Review: Asuka 120% Final (실제 게임 플레이 평가)",
+          "url": "https://www.boiledpudding.com/posts/asuka-120-final/"
+        },
+        {
+          "label": "게임 아카이브스 위키 - PS1 Final 플레이 소감과 전작 비교",
+          "url": "https://w.atwiki.jp/psparchives/pages/16.html"
+        },
+        {
+          "label": "LaunchBox - Sony PlayStation 일본판 Box - Front (1100×1100)",
+          "url": "https://gamesdb.launchbox-app.com/games/images/24376-asuka-120-burning-fest-final"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/7451",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 게임 평가와 표지는 1999년 일본 PS1 일반판(SLPS-02074) 기준이며 2002년 SuperLite 재발매판과 구분함. 제공 링크의 패치 적용 대상 디스크 리비전·번역 범위·미번역 요소·설치 방식·실기 호환성은 검증하지 않았고 설치나 구동 테스트도 실시하지 않음."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com/712a7006-7786-48b4-88bd-8eb5f60db999.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/24376-asuka-120-burning-fest-final",
+        "platform": "ps1",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-11-02",
+      "reviewer": "WebGPT"
     }
   ]
 }
