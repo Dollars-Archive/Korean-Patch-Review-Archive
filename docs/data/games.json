@@ -31863,6 +31863,73 @@
       },
       "reviewedAt": "2026-11-01",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "mana-khemia-alchemists-of-al-revis-ps2",
+      "title": "마나케미아: 학원의 연금술사들",
+      "original": "マナケミア ～学園の錬金術士たち～ (Mana Khemia: Alchemists of Al-Revis)",
+      "platforms": [
+        "ps2"
+      ],
+      "genres": [
+        "연금술 RPG",
+        "JRPG",
+        "학원 RPG"
+      ],
+      "score": 8.2,
+      "summary": "2007년 6월 21일 일본에서 발매된 PS2 일반판 『マナケミア ～学園の錬金術士たち～』(SLPM-66748) 평가. 주인공 베인과 친구들이 알레비스 연금술 학원에서 수업·과제·탐험과 교류를 이어가는 학원 JRPG다. 학기별 수업과 성적, 자유 시간 및 친구별 이벤트가 진행에 변화를 주고, 수집한 재료로 연금술 아이템을 만들면 그로우 북을 열어 전투 AP로 능력과 기술을 육성할 수 있다. 전후열 교대·지원 공격과 버스트 모드는 활기찬 전투를 완성한다. 반면 초반 전개와 수업이 느리고 합성 공간을 오가는 동선과 반복적인 재료 수집이 번거롭다. 시스템을 숙달하면 일반 전투가 쉬워지고 일부 캐릭터 설정과 서사는 전형적인 학원 판타지에 머문다. 조합과 성장, 캐릭터 교류가 자연스럽게 이어지는 매력을 높이 평가해 8.2점. 아틀리에 계열의 제작·수집과 경쾌한 JRPG를 좋아한다면 추천한다. 일본 PS2판 기본 정보와 PS2 전문 리뷰에 근거한 자료 기반 편집 평가이며 직접 플레이하지 않았고 한글패치 여부는 점수에 반영하지 않았다.",
+      "pros": [
+        "합성 레시피를 완성할수록 각 캐릭터의 그로우 북이 열리며 AP로 능력치와 기술을 익히는 방식이 재료 탐색·조합·전투 성장의 선순환을 만든다.",
+        "전열·지원열 교대와 타이밍에 맞춘 지원 공격·방어, 버스트·피니시 버스트가 턴제 전투에 속도감과 전술적 선택을 더한다.",
+        "학기 단위의 수업·학점·자유 시간·동료별 캐릭터 퀘스트가 학원생활이라는 주제를 실제 게임 진행과 연결한다.",
+        "밝은 2D 캐릭터 표현, 개성적인 동료들의 유머와 신나는 전투 음악이 경쾌한 학원 판타지 분위기를 만든다."
+      ],
+      "cons": [
+        "초반에는 수업과 시스템 소개에 시간을 많이 쓰며, 본격적인 조합·육성과 교우 이벤트가 열리기까지 진행 호흡이 느리다.",
+        "아이템·재료와 장비를 서로 다른 시설에서 조합해야 하므로 여러 단계의 합성에 같은 동선을 왕복하는 번거로움이 있다.",
+        "지원 교대와 버스트를 숙달하고 그로우 북을 성장시키면 일반 전투가 과하게 쉬워질 수 있으며, 채집과 과제의 반복이 쌓인다.",
+        "몇몇 인물과 이야기 전개는 전형적이고 시각적 표현·메뉴 편의성은 당시 PS2 기준으로도 다소 옛스럽다."
+      ],
+      "sources": [
+        {
+          "label": "패미통 - 일본 PS2판 마나케미아 발매일·장르·제작사",
+          "url": "https://www.famitsu.com/game/title/6956/page/1"
+        },
+        {
+          "label": "GAME Watch - 일본 PS2판 게임 시스템·학원 과제·조합·전투 소개 (2007)",
+          "url": "https://game.watch.impress.co.jp/docs/20070223/mana.htm"
+        },
+        {
+          "label": "RPGFan - Mana Khemia PS2 리뷰 (2008), 학기제·성장·전투 평가",
+          "url": "https://www.rpgfan.com/review/mana-khemia-alchemists-of-al-revis/"
+        },
+        {
+          "label": "GameSpot - Mana Khemia PS2 리뷰 (2008), 캐릭터·전투·진행 평가",
+          "url": "https://www.gamespot.com/reviews/mana-khemia-alchemists-of-al-revis-review/1900-6190772/"
+        },
+        {
+          "label": "WorthPlaying - Mana Khemia PS2 리뷰, 전후열 교대·버스트·그로우 북",
+          "url": "https://worthplaying.com/article/2008/4/2/reviews/50094-ps2-review-mana-khemia-alchemists-of-al-revis/"
+        },
+        {
+          "label": "LaunchBox - PS2 일본 일반판 Box - Front (700×1000)",
+          "url": "https://gamesdb.launchbox-app.com/games/images/8972-mana-khemia-alchemists-of-al-revis"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/445",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가와 표지의 대상은 2007-06-21 발매 일본 PS2 일반판 『マナケミア ～学園の錬金術士たち～』(SLPM-66748)이다. PSP판 『マナケミア ポータブル＋』 및 PS2 후속작 『マナケミア2』는 제외한다. 링크의 실제 배포 상태·지원 게임 지역/리비전, 메뉴·대사·영상 텍스트 번역 범위·미번역·적용 방법·버전은 확인하지 않았다. 제공 주소 접속, 파일 다운로드, 적용 및 PS2 실기·에뮬레이터 구동 검증을 하지 않았다."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com/17a003c9-ced1-4e5c-960a-503a8c045890.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/8972-mana-khemia-alchemists-of-al-revis",
+        "platform": "ps2",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "WebGPT"
     }
   ]
 }
