@@ -31495,68 +31495,64 @@
       }
     },
     {
-      "id": "devil-summoner-soul-hackers-3ds",
-      "title": "데빌 서머너 소울 해커즈",
-      "original": "デビルサマナー ソウルハッカーズ (Shin Megami Tensei: Devil Summoner - Soul Hackers)",
+      "id": "super-robot-taisen-og-original-generations-ps2",
+      "title": "슈퍼로봇대전 OG 오리지널 제너레이션즈",
+      "original": "スーパーロボット大戦OG ORIGINAL GENERATIONS (Super Robot Taisen OG: Original Generations)",
       "platforms": [
-        "3ds"
+        "ps2"
       ],
       "genres": [
-        "던전 RPG",
-        "턴제 RPG",
-        "악마 수집·육성"
+        "SRPG",
+        "턴제 전략 시뮬레이션",
+        "메카닉"
       ],
       "score": 8.4,
-      "summary": "2012년 8월 30일 일본 닌텐도 3DS 일반판 『デビルサマナー ソウルハッカーズ』(CTR-P-AHQJ) 기준. 1997년 세가 새턴 작품을 휴대용으로 이식해, 천해시와 가상도시 패러다임 X를 무대로 한 사이버펑크 미스터리와 악마 소환을 결합한다. 네미사 등 개성적인 인물, 악마와의 교섭·합체·충성도·성향을 활용하는 파티 구성, 기묘하고 다양한 던전이 강점이다. 3DS판의 풀보이스, 하단 화면 지도, 난이도 조정 등 편의 개선은 환영할 만하다. 다만 랜덤 전투와 왕복 탐색, 낡은 조작·메뉴의 진입 장벽 및 제한적인 시각적 개선은 아쉽다. 고전 1인칭 던전 RPG와 악마 육성을 즐기는 플레이어에게 추천하는 8.4점. 공식 정보와 3DS판 전문 리뷰에 근거한 편집 평가로, 직접 플레이한 점수가 아니며 한글패치 여부는 점수에 반영하지 않았다.",
+      "summary": "2007년 6월 28일 일본 PS2 일반판 『スーパーロボット大戦OG ORIGINAL GENERATIONS』(SLPS-25733) 기준. GBA판 OG1·OG2를 PS2용으로 재구성하고 후일담 OG2.5를 더한 방대한 턴제 로봇 전략 RPG. 강렬하게 움직이는 전투 애니메이션과 각 파일럿의 전용 음악, 트윈 배틀·무기 환장·유연한 기체 및 파일럿 육성이 특히 매력적이다. OG1과 OG2를 자유롭게 시작할 수 있어 시리즈의 원작 설정을 접하기도 좋다. 다만 후반 보스의 과도한 체력, 길고 반복적인 스테이지, 전투 난도의 편차, 일부 작위적인 인물 묘사가 한계라 8.4점. 크로스오버 판권 캐릭터보다 오리지널 로봇과 인물의 성장에 관심 있는 SRPG 팬에게 강력 추천. 공식 제품 정보와 PS2판 리뷰를 참고한 자료 기반 편집 평가로 직접 플레이하지 않았으며 한국어 패치 여부는 평점에 반영하지 않았다.",
       "pros": [
-        "90년대 말의 네트워크 사회를 상상한 천해시·패러다임 X의 사이버펑크 분위기와 네미사, 스푸키즈를 중심으로 전개되는 미스터리가 독특한 정체성을 만든다.",
-        "악마 교섭·합체뿐 아니라 성향과 성격별 충성도, 전투 명령, 월령 등의 규칙이 파티 편성과 턴제 전투에 깊이를 더한다.",
-        "미술관·플라네타륨 등 개성적인 장소와 수수께끼를 활용한 1인칭 던전 탐색이 탐험의 변주를 제공한다.",
-        "3DS판은 주요 장면의 음성 연기, 하단 화면 자동 지도, 난이도·지도 표시를 바꾸는 COMP 해킹, 추가 악마와 콘텐츠 등으로 원작보다 접근성을 높였다."
+        "GBA판 『ORIGINAL GENERATION』과 『ORIGINAL GENERATION2』의 이야기를 PS2용으로 확장하고 OG2.5를 수록해 풍성한 시나리오와 장시간 플레이 분량을 제공한다.",
+        "전투 중 세밀하게 움직이는 2D 기체 애니메이션, 전용 대사·캐릭터 컷인과 인물별 음악이 필살기의 타격감과 로봇 연출을 크게 높인다.",
+        "두 유닛을 조합하는 트윈 배틀, 유닛별 무기 선택과 환장, 파일럿 스킬 및 기체 개조를 이용해 자신만의 부대를 구성할 자유도가 높다.",
+        "OG1·OG2의 시작 순서를 선택할 수 있고 숙련도 조건과 다양한 부대 편성이 다회차 및 목표 달성에 동기를 부여한다."
       ],
       "cons": [
-        "악마 충성도와 성향·교섭 규칙을 이해하기까지 설명과 학습이 필요하고, 오래된 메뉴·인터페이스는 처음 접하는 플레이어에게 불친절하다.",
-        "랜덤 전투가 잦고 퍼즐 해결을 위해 던전을 여러 번 왕복할 수 있어 탐색의 리듬이 끊기거나 피로감이 쌓인다.",
-        "원작 기반 그래픽과 제한적인 애니메이션, 일부 동영상의 압축 흔적 등으로 3DS의 시각적 성능을 충분히 활용하지 못한다.",
-        "악마 교체와 합체를 반복해야 하는 구조, 특정 전투·던전의 돌발 난도 상승으로 빠른 진행을 선호하는 사람에게 호불호가 갈린다."
+        "보스의 HP가 지나치게 높고 특정 장면에서 높은 회피율·명중률 변수까지 겹쳐, 대형 적과의 전투가 오래 늘어지는 구간이 있다.",
+        "일부 구간은 강화한 아군과 트윈 배틀 때문에 쉬워지는 반면 OG2 중반 등은 갑자기 어려워져 난도 곡선이 일정하지 않다.",
+        "시나리오가 길고 일부 전개와 연애·인물 대화가 과장되어 느껴진다는 이용자 평가가 있으며, 동일한 적과의 반복 교전이 피로해질 수 있다.",
+        "OG 오리지널 인물과 기체만 등장하므로 건담 등 기존 애니메이션의 크로스오버를 기대하는 플레이어와는 취향이 갈린다. OG2.5의 사건은 본작만으로 완전히 마무리되지 않는다."
       ],
       "sources": [
         {
-          "label": "ATLUS 공식 - 일본 3DS판 데빌 서머너 소울 해커즈 소개",
-          "url": "https://dssh.atlusnet.jp/"
+          "label": "패미통 - 2007년 일본 PS2 일반판 발매 정보",
+          "url": "https://www.famitsu.com/game/title/26/reviews"
         },
         {
-          "label": "Nintendo 일본 - 3DS판 2012-08-30 발매 정보",
-          "url": "https://www.nintendo.co.jp/software/3ds/index.html?sfq=%E3%82%A2%E3%83%88%E3%83%A9%E3%82%B9&sftab=all"
+          "label": "120en.net - PS2 일본판 플레이 리뷰, OG1·OG2·OG2.5 시스템·난도·연출",
+          "url": "https://120en.net/suparoboogs.html"
         },
         {
-          "label": "Nintendo Life - 3DS판 리뷰, COMP 해킹·시스템·연출 평가",
-          "url": "https://www.nintendolife.com/reviews/3ds/shin_megami_tensei_devil_summoner_soul_hackers"
+          "label": "Joko - 일본 PS2판 이용자 리뷰, 음악·시나리오·전투 및 반복 구간 평가",
+          "url": "https://www.joko.jp/ps2/review/ti2240.html"
         },
         {
-          "label": "RPGFan - 3DS판 리뷰, 전투·이식·사운드 평가",
-          "url": "https://www.rpgfan.com/review/shin-megami-tensei-devil-summoner-soul-hackers/"
+          "label": "피코피코 대백과 - 일본 일반판 SLPS-25733 발매 정보",
+          "url": "https://www.gavas.jp/products/detail.php?product_id=13493"
         },
         {
-          "label": "GameSpot - 3DS판 리뷰, 진입 장벽·조작 및 던전 평가",
-          "url": "https://www.gamespot.com/reviews/devil-summoner-soul-hackers-review/1900-6407296/"
-        },
-        {
-          "label": "LaunchBox - Nintendo 3DS 일본판 Box - Front",
-          "url": "https://gamesdb.launchbox-app.com/games/images/16222-shin-megami-tensei-devil-summoner-soul-hackers"
+          "label": "LaunchBox - PS2 일본판 Box - Front (640×919) 확인",
+          "url": "https://gamesdb.launchbox-app.com/games/images/51864-super-robot-taisen-og-original-generations"
         }
       ],
       "patch": {
         "status": "unconfirmed",
-        "url": "https://redb.me/kr/476",
-        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2012-08-30 발매 일본 닌텐도 3DS 일반판 『デビルサマナー ソウルハッカーズ』(CTR-P-AHQJ)이다. 해당 URL의 실제 지원 지역·게임 리비전·업데이트 버전, 대사/메뉴/영상 번역 범위·잔존 미번역·설치 방법은 확인하지 않았다. 패치 다운로드·설치 및 실기·에뮬레이터 구동 시험을 하지 않았다."
+        "url": "https://redb.me/kr/1185",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가와 표지는 일본 PS2 일반판 『スーパーロボット大戦OG ORIGINAL GENERATIONS』(2007-06-28, SLPS-25733) 기준이며 2008년 PlayStation 2 the Best 재발매판, 별도 작품 『スーパーロボット大戦OG外伝』, GBA판 OG1·OG2와 구분한다. 제공된 패치가 지원하는 지역·판본 및 디스크 리비전, 시나리오·메뉴·전투 대사·이미지 번역 범위, 미번역 요소와 적용 방법, PS2 실기·PCSX2 호환성은 확인하지 않았다. 패치 설치·구동 검증도 수행하지 않았다."
       },
       "reviewedAt": "2026-11-01",
       "reviewer": "WebGPT",
       "cover": {
-        "url": "https://images.launchbox-app.com/39696728-5c11-4751-96a3-844d2b75def7.jpg",
-        "source": "https://gamesdb.launchbox-app.com/games/images/16222-shin-megami-tensei-devil-summoner-soul-hackers",
-        "platform": "3ds",
+        "url": "https://images.launchbox-app.com/f3536c2a-1e81-4fa9-a74e-a9fd24d09265.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/51864-super-robot-taisen-og-original-generations",
+        "platform": "ps2",
         "type": "Box - Front",
         "region": "Japan"
       }
