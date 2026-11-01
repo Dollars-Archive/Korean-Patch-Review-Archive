@@ -34994,6 +34994,70 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "fuurai-no-shiren-5-ds",
+      "title": "풍래의 시렌 5: 포츈타워와 운명의 다이스",
+      "original": "不思議のダンジョン 風来のシレン5 フォーチュンタワーと運命のダイス (Shiren the Wanderer: The Tower of Fortune and the Dice of Fate)",
+      "platforms": [
+        "ds"
+      ],
+      "genres": [
+        "로그라이크",
+        "던전 RPG",
+        "턴제 전략"
+      ],
+      "score": 8.8,
+      "summary": "2010년 12월 9일 일본 발매 Nintendo DS 원판(NTR-B5FJ-JPN)에 대한 자료 기반 편집 평가. 던전의 무작위 지형과 적 배치, 도구 식별·합성·성장 및 위험 관리가 매 회차 의미 있는 판단을 만들고, 다양한 규칙의 던전과 수집·도전 콘텐츠가 뛰어난 반복 플레이 가치를 제공한다. 전작의 낮·밤 전환과 기술 시스템을 계승하면서 새 도구·편의 기능과 초심자를 위한 완충 장치를 도입했다. 그러나 야간 기술의 효율 차이와 불시의 치명적인 몬스터, 사망 시 큰 손실 및 일부 수집 노가다는 아쉽다. 8.8/10점으로 전략적 생존과 반복 도전을 좋아하는 로그라이크 팬에게 특히 추천한다. PSVita·Switch·PC의 5 plus 추가 콘텐츠는 DS판 평가에 포함하지 않았으며, 직접 플레이하지 않았고 한글패치 여부는 점수에 반영하지 않았다.",
+      "pros": [
+        "무작위로 바뀌는 던전에서 아이템 식별·지팡이·두루마리·함정과 몬스터 능력을 조합하는 턴제 생존 전략이 깊고 재도전마다 상황이 달라진다.",
+        "장비 성장·합성·새로운 도구 제작과 포인트 교환 등으로 수집과 장기 육성의 동기를 제공하고, 어려운 던전에 앞서 준비할 방법이 늘었다.",
+        "서로 다른 제약과 난도의 풍부한 도전 던전이 초보자의 진입과 숙련자의 고난도 공략을 폭넓게 지원한다.",
+        "낮·밤 전환과 야간 전용 기술은 시야와 전투 규칙을 바꿔 자원 관리·탈출 동선 등 새로운 전략적 판단을 요구한다.",
+        "아이템 정리·창고 물품 판매·반입 불가 던전의 빠른 재도전 등 전작 대비 편의성이 개선되어 반복 플레이의 마찰이 줄었다."
+      ],
+      "cons": [
+        "야간에는 기술과 횃불에 지나치게 의존하며, 기술을 충분히 갖추기 전의 돌발사와 갖춘 뒤의 지나친 안전성이 공존해 난도 곡선이 고르지 못하다.",
+        "일부 강력한 적의 특수 능력과 예상하지 못한 적 배치가 누적된 장비와 소지품을 한 번에 잃게 만들어 초기 진입 장벽이 높다.",
+        "재도전과 장비 재수집, 일부 특수 아이템을 모으는 과정이 길어져 반복 플레이에 익숙하지 않으면 피로할 수 있다.",
+        "DS 원판은 이후 5 plus 이식판의 추가 던전과 기능이 빠져 있고, 당시의 닌텐도 Wi-Fi 연동 기능을 오늘날 정상 이용할 수 있다고 보장하기 어렵다."
+      ],
+      "sources": [
+        {
+          "label": "닌텐도 공식 - 일본 NDS 원판 발매일과 기본 시스템",
+          "url": "https://www.nintendo.co.jp/ds/software/b5fj/index.html"
+        },
+        {
+          "label": "패미통 - NDS 원판 크로스 리뷰 (9·9·8·9), 편의성·도전 난도",
+          "url": "https://www.famitsu.com/game/title/15888/reviews"
+        },
+        {
+          "label": "4Gamer - NDS판 이용자 리뷰, 콘텐츠·진행과 반복 요소",
+          "url": "https://www.4gamer.net/games/119/G011901/index_userreview.html"
+        },
+        {
+          "label": "게임 카탈로그@Wiki - NDS 원판과 5 plus의 차이·야간 시스템·밸런스",
+          "url": "https://w.atwiki.jp/gcmatome/pages/4524.html"
+        },
+        {
+          "label": "LaunchBox - 일본 Nintendo DS판 실제 Box - Front 표지",
+          "url": "https://gamesdb.launchbox-app.com/games/details/131486-fushigi-no-dungeon-fuurai-no-shiren-5-fortune-tower-to-unmei-no-dice"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/2283",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2010년 12월 9일 일본 발매 Nintendo DS 원판(NTR-B5FJ-JPN)이다. 제공한 패치가 지원하는 지역·게임 리비전, 번역 범위와 미번역 요소, 적용 방법 및 실기·에뮬레이터 호환성은 확인하지 않았으며 설치·실행 시험도 하지 않았다. PS Vita·Switch·PC의 5 plus 판과 구분한다."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com//3546572d-536d-48c9-9a23-114668cf76b1.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/details/131486-fushigi-no-dungeon-fuurai-no-shiren-5-fortune-tower-to-unmei-no-dice",
+        "platform": "ds",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "ChatGPT (공개 자료 기반 편집 평가)"
     }
   ]
 }
