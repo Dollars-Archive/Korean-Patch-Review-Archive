@@ -26644,6 +26644,64 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "berwick-saga-ps2",
+      "title": "베르위크 사가",
+      "original": "ティアリングサーガシリーズ ベルウィックサーガ ～Lazberia chronicle chapter 174～",
+      "platforms": [
+        "ps2"
+      ],
+      "genres": [
+        "SRPG",
+        "턴제 전략"
+      ],
+      "score": 8.5,
+      "summary": "일본 PS2 통상판(2005-05-26, SLPS-25497)을 대상으로 한 자료 기반 편집 평가. 육각형 맵과 아군·적군이 번갈아 움직이는 동시 턴제, 개성 강한 유닛과 여러 승리 조건이 어우러져 전술적 완성도가 높다. 전쟁 서사, 용병 영입과 장비·자금 관리도 깊이를 더한다. 높은 난도와 확률적 장비 파손, 5턴마다 가능한 전투 저장, 복잡한 규칙과 불편한 진행 때문에 입문 장벽은 크다. 정교한 전략을 즐기는 숙련자에게 추천하며 8.5/10으로 평가한다. 직접 플레이한 것이 아닌 공개 자료 기반 편집 평가이며 한글패치 유무는 점수에 반영하지 않았다.",
+      "pros": [
+        "육각형 지형과 적·아군이 섞여 행동하는 동시 턴제로 매 행동의 위치와 순서가 중요하다.",
+        "호위·탈출·거점 공략 등 다양한 임무와 유닛별 고유 기술이 깊이 있는 전술을 만든다.",
+        "용병 모집, 무기와 말의 상태, 자금 관리가 장기적인 부대 운용의 재미로 연결된다.",
+        "진지한 전쟁 이야기와 섬세한 2D 전투 연출, 음악의 분위기가 뛰어나다."
+      ],
+      "cons": [
+        "높은 기본 난도와 복잡한 규칙 때문에 입문자의 접근성이 낮다.",
+        "명중률과 장비 파손의 확률 변수가 긴 전투 계획을 흔들 수 있다.",
+        "5턴 간격 전투 저장 제약과 긴 임무 때문에 실패 시 재도전 부담이 크다.",
+        "한정된 자금과 엄격한 장비 관리, 부족한 편의성이 플레이 속도를 늦춘다."
+      ],
+      "sources": [
+        {
+          "label": "Famitsu 2025년 20주년 회고",
+          "url": "https://www.famitsu.com/article/202505/42458"
+        },
+        {
+          "label": "GameFAQs PS2 이용자 상세 리뷰",
+          "url": "https://gamefaqs.gamespot.com/ps2/925983-tearring-saga-series-berwick-saga/reviews/162123"
+        },
+        {
+          "label": "일본 PS2판 비평 (縮緬遊戯堂)",
+          "url": "https://chirimenzeyo.ari-jigoku.com/review/ps2/ps2_berwick_saga.html"
+        },
+        {
+          "label": "LaunchBox 일본판 PS2 앞표지",
+          "url": "https://gamesdb.launchbox-app.com/games/images/110507-tearring-saga-berwick-saga"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/1293",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 일본 PS2 통상판(SLPS-25497) 평가이며 실제 패치 지원 지역판과 버전, 번역 범위, 적용 방법 및 실기 동작은 확인하지 않았다."
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "ChatGPT (자료 기반 편집 평가)",
+      "cover": {
+        "url": "https://images.launchbox-app.com/r2_d397c3c6-e14b-44cd-b524-3c6f4d6743b9.png",
+        "source": "https://gamesdb.launchbox-app.com/games/images/110507-tearring-saga-berwick-saga",
+        "platform": "ps2",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
