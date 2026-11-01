@@ -36761,6 +36761,68 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "remember11-the-age-of-infinity-psp",
+      "title": "리멤버 11: 더 에이지 오브 인피니티",
+      "original": "Remember11 -the age of infinity-",
+      "platforms": [
+        "psp"
+      ],
+      "genres": [
+        "ADV",
+        "비주얼 노벨",
+        "서스펜스",
+        "미스터리"
+      ],
+      "score": 8.3,
+      "summary": "설산의 생존자와 격리 시설의 인물이 시점을 넘나드는 심리 서스펜스 ADV. 두 주인공의 시점 전환, 촘촘한 복선과 긴박한 전개가 뛰어나지만 핵심 의문 일부가 명쾌하게 해소되지 않는 결말 때문에 8.3점. 미스터리 추리와 열린 해석을 즐기는 독자에게 추천하며, 깔끔하게 닫힌 결말을 원하는 독자에게는 주의가 필요하다. 공개 자료 기반 편집 평가이며 직접 플레이한 점수는 아님.",
+      "pros": [
+        "설산 조난과 외딴 격리 시설이라는 두 극한 상황을 오가며 시종 긴장감을 유지한다.",
+        "코코로와 사토루의 시점 교차·인격 교환을 미스터리 구조에 엮어 사건을 재해석하는 재미가 크다.",
+        "PSP 이식판은 신규 오프닝 영상과 추가 악곡, 용어 해설, Infinity 연표를 제공한다."
+      ],
+      "cons": [
+        "두 시점의 이야기를 마쳐도 중요 수수께끼 상당수가 명시적으로 해소되지 않아 결말에 대한 호불호가 크다.",
+        "여러 실패 분기와 배드 엔딩, 관점별 정보 확인 때문에 반복 독서와 재시도의 부담이 있다.",
+        "친절한 해설보다 단서 조합과 독자 해석에 의존하는 성격이 강해 명확한 정답을 기대하면 답답하다."
+      ],
+      "sources": [
+        {
+          "label": "레지스타 PSP 제품 목록·발매 정보",
+          "url": "https://regista.co.jp/game_model/playstation_portable/page/2/"
+        },
+        {
+          "label": "전격 온라인 PSP판 추가 요소 안내 (2009)",
+          "url": "https://dengekionline.com/elem/000/000/153/153166/"
+        },
+        {
+          "label": "게임 카탈로그 일본어판 평가·시나리오 분석",
+          "url": "https://w.atwiki.jp/gcmatome/pages/2523.html"
+        },
+        {
+          "label": "Remember11 비평 (개인 상세 리뷰)",
+          "url": "https://kid-game.sakura.ne.jp/remember11review.html"
+        },
+        {
+          "label": "LaunchBox PSP판 일본 패키지 앞표지",
+          "url": "https://gamesdb.launchbox-app.com/games/images/111961-remember-11-the-age-of-infinity"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/7454",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. PSP 일본판을 대상으로 평가했으며 한글패치의 번역 범위, 미번역 부분, 대응 버전, 적용 방법, 실기·에뮬레이터 작동은 확인하지 않음. PSP판 추가 요소인 Infinity 연표의 완전 개방은 전작 Never7·Ever17 PSP판 세이브 데이터가 필요하다는 판매점 설명이 있으나 한글패치 호환 여부는 미검증."
+      },
+      "reviewedAt": "2026-11-02",
+      "reviewer": "웹GPT (공개 자료 기반 편집 평가)",
+      "cover": {
+        "url": "https://images.launchbox-app.com/62e1150e-85d1-438b-9d07-519d0bcedef3.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/111961-remember-11-the-age-of-infinity",
+        "platform": "psp",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
