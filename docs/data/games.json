@@ -34155,6 +34155,65 @@
       },
       "reviewedAt": "2026-11-01",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "tactics-ogre-let-us-cling-together-snes",
+      "title": "택틱스 오우거",
+      "original": "タクティクスオウガ",
+      "platforms": [
+        "snes"
+      ],
+      "genres": [
+        "SRPG",
+        "전략 RPG",
+        "턴제 전략"
+      ],
+      "score": 9.2,
+      "summary": "1995년 일본 슈퍼패미컴 원작 기준. 발레리아의 내전을 무대로 선택의 윤리적 대가와 정치적 갈등을 깊이 있게 풀어내며, 고저차·유닛 방향·클래스·장비·행동 순서를 활용한 전술과 분기 서사가 탁월하다. 독창적인 구성과 음악, 높은 재플레이 가치로 9.2점. 반면 영구 사망과 고난도, 경험치 관리·훈련 반복, 느리고 낡은 메뉴는 진입 장벽이다. 진중한 군상극과 깊은 턴제 전투를 선호하는 SRPG 팬에게 강력 추천. SFC 일본판 관련 공개 자료 기반 편집 평가이며 직접 플레이한 점수가 아니고 한글패치 존재는 점수에 반영하지 않았다.",
+      "pros": [
+        "주요 선택이 동료의 입장과 세력 관계, 이야기의 분기와 결말에까지 영향을 미쳐 전쟁의 책임을 다루는 정치극에 높은 몰입감과 반복 플레이 가치를 부여한다.",
+        "입체적인 지형의 높낮이·이동 경로·행동 순서와 개별 장비·직업·마법 운용을 결합한 전술 전투가 깊고 각 전장에서 다양한 해법을 고민하게 한다.",
+        "인간 외의 다양한 유닛과 클래스 편성, 성장·전직·동료 영입이 군대 육성의 폭넓은 선택지를 제공한다.",
+        "요시다 아키히코의 캐릭터 디자인과 사키모토 히토시·이와타 마사하루의 음악이 중후한 분위기를 강화하며 SFC 후기작다운 세밀한 화면 연출이 돋보인다."
+      ],
+      "cons": [
+        "전사한 동료를 잃을 수 있는 가혹한 전투 규칙과 상당한 난도, 주인공 전사 시 즉시 패배하는 조건 때문에 초보자에게 시행착오 부담이 크다.",
+        "성장과 전직을 위한 경험치 배분·훈련이 번거롭고 일부 상황에서 반복 전투가 진행 속도를 늦춘다.",
+        "유닛마다 장비와 행동을 일일이 관리해야 하며 원작의 메뉴와 정보 확인 동선은 최신 리메이크에 비해 불편하다.",
+        "한 판의 전투가 길고 유사한 전투가 누적되기 쉬워 짧은 플레이를 선호하는 이용자에게 피로감을 줄 수 있다."
+      ],
+      "sources": [
+        {
+          "label": "LaunchBox - 1995년 일본 SFC판 기본 정보·Box - Front (Japan)",
+          "url": "https://gamesdb.launchbox-app.com/games/details/14309-tactics-ogre-let-us-cling-together"
+        },
+        {
+          "label": "Nintendo Life - SFC 일본판 전문 리뷰 (2016)",
+          "url": "https://www.nintendolife.com/reviews/snes/tactics_ogre_let_us_cling_together"
+        },
+        {
+          "label": "GameFAQs - SFC 이용자 장문 리뷰",
+          "url": "https://gamefaqs.gamespot.com/snes/588770-tactics-ogre-let-us-cling-together/reviews/42453"
+        },
+        {
+          "label": "MobyGames - 1995년 원작 시스템과 육성에 관한 이용자 비평",
+          "url": "https://www.mobygames.com/game/8367/tactics-ogre/"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/36",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 1995년 일본 SFC 원작 『タクティクスオウガ』로, PSP 『운명의 수레바퀴』 및 이후 리메이크와 다르다. 제공 링크의 번역 범위·미번역·지원 원본 리비전·적용 도구·실기/에뮬레이터 호환성은 확인하지 않았다. 설치·실행 시험을 수행하지 않았다."
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "ChatGPT (공개 자료 기반 편집 평가)",
+      "cover": {
+        "url": "https://images.launchbox-app.com/e939befe-d46d-4c7f-a02e-4bcb138c925f.png",
+        "source": "https://gamesdb.launchbox-app.com/games/details/14309-tactics-ogre-let-us-cling-together",
+        "platform": "snes",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
