@@ -35180,6 +35180,65 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "spice-and-wolf-umi-wo-wataru-kaze-ds",
+      "title": "늑대와 향신료 2: 바다를 건너는 바람",
+      "original": "狼と香辛料 海を渡る風 (Spice and Wolf: The Wind that Spans the Sea)",
+      "platforms": [
+        "ds"
+      ],
+      "genres": [
+        "ADV",
+        "연애 시뮬레이션",
+        "행상 시뮬레이션"
+      ],
+      "score": 7.3,
+      "summary": "2009년 9월 17일 일본 발매 Nintendo DS판에 대한 공개 자료 기반 편집 평가. 로렌스와 호로의 행상 여행, 원작의 분위기를 살린 대화와 풍부한 성우 연기·연애 이벤트가 강점이다. 전작 대비 거래 조작과 동행자 이벤트가 개선되었으나 시세와 수익 구조가 비교적 단순해 교역 시뮬레이션의 전략적 깊이는 부족하고, 기간 제한·주회 중 반복 구간과 느린 스킵도 아쉽다. 7.3/10점. 정교한 경영 게임보다 원작의 인물과 여행 분위기를 즐기려는 팬에게 추천한다. 직접 플레이한 평가가 아니며 한글패치 유무는 점수에 반영하지 않았다.",
+      "pros": [
+        "로렌스와 호로의 관계와 중세풍 행상 세계를 설득력 있게 재현하고, 원작에 어울리는 오리지널 등장인물과 이야기를 제공한다.",
+        "주요 인물 외 이벤트에도 폭넓게 적용된 음성 연기와 신규 일러스트, 연애 이벤트가 캐릭터 감상의 만족도를 높인다.",
+        "전작보다 물품 매매 조작이 편해졌으며 상품 부피·적재량 개념이 더해져 여행 중의 거래를 보다 직관적으로 즐길 수 있다.",
+        "호로 외의 동행 인물과 다양한 호감도 이벤트, 회상 및 CG·BGM 감상 요소가 팬을 위한 반복 플레이 동기를 제공한다."
+      ],
+      "cons": [
+        "물품을 실어 다른 도시에서 파는 기본 이익 구조가 단순하고 시세 급등락을 활용할 유인이 약해 경제 전략의 깊이가 아쉽다.",
+        "목표 달성을 위한 기간 제한이 넉넉한 교역 실험을 방해할 수 있고, 수익을 내는 과정 자체의 난도가 낮아 숙련자에게 심심하다.",
+        "인물별 결말을 보려면 재주행해야 하지만 초반 정보 수집과 중복되는 이벤트, 충분히 빠르지 않은 대사 스킵으로 피로도가 쌓인다.",
+        "연애 이벤트 발생에 무작위성이 있어 원하는 장면을 놓치거나 같은 장면을 여러 번 볼 수 있다."
+      ],
+      "sources": [
+        {
+          "label": "KADOKAWA 공식 - DS판 장르, 발매일, 제작사",
+          "url": "https://www.kadokawa.co.jp/product/game1648/"
+        },
+        {
+          "label": "패미통 - DS판 크로스 리뷰: 거래 조작 개선, 성우 연기, 반복 플레이 평가",
+          "url": "https://www.famitsu.com/game/title/5471/reviews"
+        },
+        {
+          "label": "게임 카탈로그@Wiki - DS판 원작 재현도, 연애 이벤트, 행상 시스템과 주회 편의성",
+          "url": "https://w.atwiki.jp/gcmatome/pages/5258.html"
+        },
+        {
+          "label": "LaunchBox - 일본 Nintendo DS판 Box - Front",
+          "url": "https://gamesdb.launchbox-app.com/games/images/129138-ookami-to-koushinryou-umi-wo-wataru-kaze"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/2280",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 대상은 2009년 발매 일본 Nintendo DS판이다. 지원 게임 리비전, 번역 범위·미번역 요소, 적용 방법과 실기·에뮬레이터 호환성은 검증하지 않았고 패치 설치·실행 시험도 하지 않았다."
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "ChatGPT (공개 자료 기반 편집 평가)",
+      "cover": {
+        "url": "https://images.launchbox-app.com/01236a0c-8fcc-47fa-b21b-c03565586d09.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/129138-ookami-to-koushinryou-umi-wo-wataru-kaze",
+        "platform": "ds",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
