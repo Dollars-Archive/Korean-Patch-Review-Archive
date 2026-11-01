@@ -24848,6 +24848,78 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "super-robot-taisen-og-infinite-battle-ps3",
+      "title": "슈퍼로봇대전 OG 인피니트 배틀",
+      "original": "スーパーロボット大戦OG INFINITE BATTLE (Super Robot Taisen OG: Infinite Battle)",
+      "platforms": [
+        "ps3"
+      ],
+      "genres": [
+        "3D 로봇 대전 액션",
+        "메카 액션"
+      ],
+      "score": 6.2,
+      "summary": "2013년 11월 28일 일본에서 발매된 PS3 일반판 『スーパーロボット大戦OG INFINITE BATTLE』(BLJS-10248)의 자료 기반 편집 평가. 기존 턴제 SRPG가 아닌 3D 메카 대전 액션으로, OG 계열의 기체 40종 이상을 직접 조종하고 최대 3기 소대를 구성해 미션을 수행하며 파츠·무장을 강화한다. 기체별 고유 능력과 음성, 익숙한 OG 음악을 즐기고 간단한 조작으로 짧은 미션에 도전하는 재미가 있다. 그러나 느리고 둔한 근접전과 무장 명중·성능의 불균형, 적은 모드와 훈련 기능 부재, 읽기 어려운 HUD, 별다른 독립 시나리오가 없는 구성으로 메카 액션 자체의 완성도는 낮다. OG 팬이 좋아하는 기체를 직접 움직여 보고 싶다면 조건부 추천하지만, 완성도 높은 대전 액션이나 본격 슈퍼로봇대전의 서사를 기대한다면 권하기 어렵다는 의미에서 6.2점. 반다이남코 관련 공식·제품 자료와 PS3판 전문·이용자 리뷰 기반 편집 평가로 직접 플레이하지 않았으며 한글패치 여부는 점수에 반영하지 않았다. 기간 한정판에 제공된 별도 SRPG 『OG 다크 프리즌』과는 별개 게임이다.",
+      "pros": [
+        "알트아이젠 리제·사이버스터 등 OG 인기 로봇 40종 이상을 3D로 직접 조종하고 원작의 무장과 필살기를 실시간으로 펼칠 수 있어 팬서비스의 핵심 매력이 확실하다.",
+        "최대 3기로 소대를 구성하면서 기체별 비용·고유 능력·역할을 고려하고 교대 및 AI 아군과의 조합을 시험하는 전술 요소가 있다.",
+        "부스트와 긴급 회피, 사격·근접·특수 공격을 비교적 간단한 공통 버튼 조작으로 사용할 수 있어 기존 시뮬레이션 게임 팬도 접근하기 쉽다.",
+        "짧은 미션을 반복해 강화 파츠와 신규 기체를 얻고 무장과 기체 능력을 성장시키는 수집·강화 과정이 동기를 부여한다.",
+        "원작 OG 계열의 친숙한 기체 테마곡과 새로 녹음된 파일럿 음성이 좋아하는 로봇과 인물을 조작하는 만족감을 높인다."
+      ],
+      "cons": [
+        "기체 움직임과 공격의 준비 동작이 둔하고 근접 공격의 판정과 명중 안정성이 나빠, 강력한 원거리 공격 기체와의 밸런스가 흔들린다.",
+        "대전 액션임에도 연습·트레이닝 모드가 없으며 온라인에서는 각자 한 기체를 조작하는 방식으로 3대3 전원 조작 대전을 즐길 수 없다.",
+        "별도의 본격 스토리 모드가 없어 미션 사이 대화가 드물고, OG 본편에 익숙한 이용자도 서사적 보상을 기대하기 어렵다.",
+        "대전 무대와 미션의 반복 및 적은 플레이 모드로 기체 수에 비해 즐길 거리의 깊이와 장기적인 재도전 동기가 부족하다.",
+        "상대 기체 체력 등 전투 HUD의 글씨가 작고 화면 정보가 읽기 어려우며, 일부 그래픽·기체 크기·컷인 생략이 원작 팬에게 밋밋할 수 있다."
+      ],
+      "sources": [
+        {
+          "label": "반다이남코 포지디지털즈 공식 개발 실적 - 2013년 PS3 OG INFINITE BATTLE 제작",
+          "url": "https://fd.bandainamco.jp/works/"
+        },
+        {
+          "label": "스루가야 - 일본 PS3 일반판 BLJS-10248, 2013-11-28 발매·패키지 사양",
+          "url": "https://www.suruga-ya.jp/product/detail/103002578"
+        },
+        {
+          "label": "주간 패미통 1303호 - PS3판 전문가 4인 리뷰, 소대·기체 강화·조작·밸런스",
+          "url": "https://www.famitsu.com/game/title/29797/reviews"
+        },
+        {
+          "label": "120en.net - PS3판 플레이 리뷰 (2017-01-17), 전투 감각·스토리·HUD·훈련 부재",
+          "url": "https://120en.net/suparoboogib.html"
+        },
+        {
+          "label": "게임 카탈로그@Wiki - PS3판 기체 수·무장·모드·난도·연출 장단점 분석",
+          "url": "https://w.atwiki.jp/gcmatome/pages/4780.html"
+        },
+        {
+          "label": "GameFAQs - 이용자 PS3판 리뷰 (2017-06-12), 대전 구조·전투 감각·균형",
+          "url": "https://gamefaqs.gamespot.com/ps3/729323-super-robot-taisen-og-infinite-battle/reviews/164482"
+        },
+        {
+          "label": "LaunchBox - 일본 PS3판 Box - Front (640×743) 확인",
+          "url": "https://gamesdb.launchbox-app.com/games/details/413086-super-robot-taisen-og-infinite-battle"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/1871",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가와 표지는 2013년 11월 28일 일본 PS3 일반판 『スーパーロボット大戦OG INFINITE BATTLE』(BLJS-10248) 기준이며, 기간 한정판 및 별도 게임 『スーパーロボット大戦OG ダークプリズン』과 구분한다. 제공된 패치가 지원하는 지역·품번·게임 업데이트 버전, 메뉴·미션·대사·전투 UI의 한국어 번역 범위와 미번역, 적용 방법·배포 여부·버전은 확인하지 않았다. 패치 링크를 열거나 미리보기·리다이렉트 조회를 하지 않았으며 PS3 실기·에뮬레이터 설치·구동 시험도 하지 않았다."
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com//ee6d0a65-31bd-4b2b-9851-73302f071762.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/details/413086-super-robot-taisen-og-infinite-battle",
+        "platform": "ps3",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
