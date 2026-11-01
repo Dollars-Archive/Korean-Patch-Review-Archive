@@ -30424,6 +30424,73 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "the-legend-of-heroes-iii-shiroki-majo-psp",
+      "title": "영웅전설 3: 하얀 마녀",
+      "original": "英雄伝説 ガガーブトリロジー 白き魔女 (The Legend of Heroes II: Prophecy of the Moonlight Witch)",
+      "platforms": [
+        "psp"
+      ],
+      "genres": [
+        "턴제 RPG",
+        "스토리 중심 JRPG",
+        "모험 RPG"
+      ],
+      "score": 7.5,
+      "summary": "2004년 12월 16일 일본 PSP로 발매된 반다이·마이크로비전 제작 『英雄伝説 ガガーブトリロジー 白き魔女』(ULJS-00004)를 대상으로 한다. 팔콤의 『영웅전설 III 하얀 마녀』를 PSP로 새로 구성한 작품으로, 소년 쥬리오와 소녀 크리스가 성년 의식인 순례를 떠나며 만나는 사람들과 사건을 중심으로 따뜻하고 서정적인 성장 이야기를 들려준다. 정감 있는 인물·마을 대화, 팔콤의 선율을 새롭게 편곡한 음악, PSP판의 3D 필드·캐릭터 일러스트와 영상, 휴대기용 자유 저장이 강점이다. 반면 리뉴얼된 반자동 전투는 쉽고 반복적이며, 진행에 필요한 NPC 이벤트 찾기와 왕복 심부름이 자주 발생하고 로딩·이동 판정도 아쉽다. 이야기와 음악을 음미하는 고전식 JRPG 팬에게 7.5점으로 추천하지만 전투·속도감을 최우선한다면 비추천한다. GAME Watch의 일본 PSP판 소개, 일본 PSP판 리뷰 및 같은 PSP 이식판의 해외 리뷰를 대조한 자료 기반 편집 평가이며 직접 플레이하지 않았다. 북미 영어판 『The Legend of Heroes II』의 번역 품질은 일본판 점수에 반영하지 않았고, 한글패치 존재 여부도 점수와 무관하다.",
+      "pros": [
+        "쥬리오와 크리스의 순례, 각 지역 주민의 사연과 천천히 쌓이는 우정이 잔잔한 성장 이야기와 가가브 세계관의 정서를 매력적으로 전한다.",
+        "팔콤 원작 음악의 PSP판 편곡이 마을과 여정의 정취를 살리고, 새 캐릭터 초상화·3D 필드·이벤트 영상이 장면 연출을 보강한다.",
+        "필드에서 적이 보이는 심볼 인카운터 방식이므로 불필요한 전투를 일부 피할 수 있고, 대부분의 이동 중 자유롭게 저장할 수 있어 휴대용 플레이에 편하다.",
+        "9개 장에 걸쳐 여러 지역을 순례하며 작은 사건이 더 큰 이야기와 연결되는 긴 여정을 제공해 스토리 중심 JRPG를 좋아하는 플레이어에게 만족도가 높다."
+      ],
+      "cons": [
+        "PSP에서 재구성한 반자동 전투는 직접 내릴 수 있는 판단이 적고 대체로 쉬워 전투 전략을 파고드는 재미가 제한적이다.",
+        "특정 인물과 대화해야 사건이 진행되므로 마을을 반복해서 돌아다니는 이벤트 찾기와 심부름이 자주 전개를 끊는다.",
+        "전투 진입 시 로딩, 둔한 메뉴 반응과 캐릭터·사물과의 충돌 판정 때문에 이동과 상호작용이 매끄럽지 않은 부분이 있다.",
+        "잔잔한 전반부와 많은 대사, 반복적인 단순 던전은 빠르게 전개되는 서사나 전투 중심 RPG를 선호하는 사람에게 지루하게 느껴질 수 있다."
+      ],
+      "sources": [
+        {
+          "label": "GAME Watch - 일본 PSP판 『英雄伝説 ガガーブトリロジー 白き魔女』 2004-12-11 소개, 스토리·3D 필드·펫 시스템",
+          "url": "https://game.watch.impress.co.jp/docs/20041211/p_ei.htm"
+        },
+        {
+          "label": "패미통 - 일본 PSP판 『英雄伝説 ガガーブトリロジー 白き魔女』 발매일 2004-12-16 및 반다이 발매",
+          "url": "https://www.famitsu.com/game/title/2814/page/1"
+        },
+        {
+          "label": "-Vision- 일본 PSP판 전문 리뷰(2015): 반자동 전투, 로딩, 자유 저장, 장단점",
+          "url": "https://codevis.nobody.jp/review-psp/loh3_white_witch.html"
+        },
+        {
+          "label": "RPGFan - PSP 『The Legend of Heroes II: Prophecy of the Moonlight Witch』 리뷰(2007): 이야기, 음악, 인터페이스와 반복 퀘스트; 북미판 현지화 비판은 평가에서 제외",
+          "url": "https://www.rpgfan.com/review/the-legend-of-heroes-ii-prophecy-of-the-moonlight-witch/"
+        },
+        {
+          "label": "GameSpot - PSP 『The Legend of Heroes II』 리뷰(2006): 단조로운 턴제 전투, 이벤트 동선, 자유 저장",
+          "url": "https://www.gamespot.com/reviews/the-legend-of-heroes-ii-prophecy-of-the-moonlight-/1900-6152964/"
+        },
+        {
+          "label": "LaunchBox - 동일 PSP 작품의 일본 Box - Front 패키지 표지 (1000×1708)",
+          "url": "https://gamesdb.launchbox-app.com/games/images/6797-the-legend-of-heroes-ii-prophecy-of-the-moonlight-witch"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/499",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2004-12-16 일본 PSP 통상판 『英雄伝説 ガガーブトリロジー 白き魔女』(ULJS-00004)이다. 북미 발매명은 『The Legend of Heroes II: Prophecy of the Moonlight Witch』(2006)이며 원래 『영웅전설 III』에 해당한다. 제공 링크의 실제 대응 지역·리비전, 스토리·메뉴·그래픽 번역 범위와 미번역, 적용 절차 및 PSP 실기·에뮬레이터 호환성은 확인하지 않았으며 패치 설치·구동 시험도 수행하지 않았다."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com/d8beb758-47de-4bfc-b359-e67b58879126.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/6797-the-legend-of-heroes-ii-prophecy-of-the-moonlight-witch",
+        "platform": "psp",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "WebGPT"
     }
   ]
 }
