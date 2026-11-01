@@ -36230,6 +36230,61 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "sugobencha-dragon-master-silk-gaiden-saturn",
+      "title": "드래곤 마스터 실크 외전",
+      "original": "すごべんちゃー ～ドラゴンマスターシルク外伝～ (Sugobencha: Dragon Master Silk Gaiden)",
+      "platforms": [
+        "saturn"
+      ],
+      "genres": [
+        "보드게임",
+        "파티게임",
+        "캐릭터 어드벤처"
+      ],
+      "score": 7,
+      "summary": "1998년 2월 19일 일본 세가 새턴으로 발매된 『すごべんちゃー ～ドラゴンマスターシルク外伝～』(T-19505G)의 공개 자료 기반 편집 평가. 원작의 인기 캐릭터들과 새 주인공이 등장하는 주사위 보드게임으로, 카드와 주사위 수치로 승부하는 전투, 필드의 보물 탐색, 캐릭터별 대화 선택과 호감도 변화가 색다른 재미를 만든다. 세밀한 캐릭터 애니메이션과 개성 있는 행동 패턴, 최대 5인 대전이 장점이나 한 명으로 진행하면 매력이 약해지고 운의 영향과 긴 판 진행, 중간 저장의 불편함이 아쉽다. 7.0/10점. 원작 캐릭터를 좋아하고 친구들과 보드게임을 즐길 사람에게 추천한다. 직접 플레이한 평가는 아니며 한글패치 유무는 점수에 반영하지 않았다.",
+      "pros": [
+        "아카·아오·키·루리 등 원작 인물과 새 주인공이 등장하며, 세밀한 2D 캐릭터 모션과 개성 있는 전투 연출이 팬서비스의 재미를 높인다.",
+        "주사위로 이동하며 카드와 레벨별 주사위 수치를 조합해 전투하고, 보물상자·제단·방해 카드 등을 활용하는 보드게임 규칙이 단순한 운 시험 이상으로 선택지를 만든다.",
+        "차례 전의 대화 선택으로 캐릭터와의 호감도가 달라지는 시스템이 경쟁 게임에 가벼운 캐릭터 어드벤처의 맛을 더한다.",
+        "멀티탭을 이용해 최대 5명이 함께 참여할 수 있고 캐릭터 성격을 반영한 CPU 행동도 관전의 재미를 보탠다."
+      ],
+      "cons": [
+        "혼자 플레이하면 다른 참가자와의 심리전·소란스러운 파티 분위기가 부족해 시스템의 매력이 크게 줄어든다는 플레이 후기가 있다.",
+        "주사위와 카드 숫자에 따라 유불리가 갈리고, 패배 후 시작 지점으로 돌아가는 등의 페널티가 있어 운과 반복 이동이 답답하게 느껴질 수 있다.",
+        "한 스테이지를 진행하는 데도 시간이 걸리는데 중간 저장을 할 수 없다는 이용자 후기가 있어 짧게 끊어 즐기기 불편하다.",
+        "특수 칸·속성별 카드·호감도 조건 등 익힐 규칙이 적지 않아 첫 플레이의 진입 장벽이 있고, 보드게임 자체를 싫어한다면 즐길 거리가 한정된다."
+      ],
+      "sources": [
+        {
+          "label": "LaunchBox Games Database - 일본 세가 새턴판 게임 소개, 캐릭터·멀티플레이, Box - Front",
+          "url": "https://gamesdb.launchbox-app.com/games/details/125730-sugoventure-dragon-master-silk-gaiden"
+        },
+        {
+          "label": "Satakore - 세가 새턴 일본판 품번 T-19505G·발매 정보·이용자 평점",
+          "url": "https://www.satakore.com/sega-saturn-game,,T-19505G,,Sugobencha-Dragon-Master-Silk-Gaiden-JPN.html"
+        },
+        {
+          "label": "だんぼーるはうすinブログ - 실제 플레이 소개 및 댓글(2015-01-01)",
+          "url": "https://lunchbox360.livedoor.biz/archives/7720161.html"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/7435",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 1998년 일본 세가 새턴판 『すごべんちゃー ～ドラゴンマスターシルク外伝～』(T-19505G)으로 1997년 본편 『ドラゴンマスターシルク』와 구분한다. 제공 링크의 대응 디스크·리비전, 번역 범위·미번역 부분, 적용 방법과 실기·에뮬레이터 호환성은 확인하지 않았고 패치를 설치하거나 실행하지 않았다."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com//8d4d10c4-093a-4ad0-82fd-59ae593b11e8.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/details/125730-sugoventure-dragon-master-silk-gaiden",
+        "platform": "saturn",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-11-02",
+      "reviewer": "ChatGPT (공개 자료 기반 편집 평가)"
     }
   ]
 }
