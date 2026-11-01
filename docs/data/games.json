@@ -35715,6 +35715,63 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "tales-of-vs-psp",
+      "title": "테일즈 오브 버서스",
+      "original": "テイルズ オブ バーサス (Tales of VS.)",
+      "platforms": [
+        "psp"
+      ],
+      "genres": [
+        "대전 액션",
+        "격투"
+      ],
+      "score": 6.5,
+      "summary": "자료 기반 편집 평가. 시리즈 13작품의 35명 캐릭터가 만나는 크로스오버와 원작 기술·캐릭터 육성의 재미가 돋보인다. 반면 대전 액션의 조작 흐름과 밸런스가 거칠고 잦은 로딩이 템포를 끊는다. 테일즈 시리즈 팬과 캐릭터 수집·육성을 즐기는 사람에게 추천하며, 순수 격투 게임을 기대한다면 아쉽다. 직접 플레이한 평가는 아니다.",
+      "pros": [
+        "테일즈 시리즈 13작품의 35명이 등장하며 작품을 넘나드는 인물 조합과 팬서비스를 즐길 수 있다.",
+        "간단한 기본 조작에 원작의 술기와 기술 설정, GP를 이용한 능력·기술 강화 등 육성의 선택지가 있다.",
+        "스토리·퀵 배틀·서바이벌·월 브레이커 등 다양한 규칙과 최대 4인 애드혹 대전으로 놀거리를 제공한다."
+      ],
+      "cons": [
+        "기술 연결과 점프·층간 이동이 다소 둔하고 전투의 흐름이 매끄럽지 않아 대전 액션으로서 손맛이 떨어진다.",
+        "육성에 따른 성능 차이가 커져 대전 밸런스가 불균형해지고 반복적인 GP 수집이 부담이 될 수 있다.",
+        "전투마다 10초 이상 걸리는 사례가 있는 로딩이 반복 플레이와 휴대용 플레이의 템포를 해친다.",
+        "핵심 매력이 시리즈 캐릭터에 의존해 테일즈를 잘 모르는 유저에게는 지속적인 동기 부여가 약하다."
+      ],
+      "sources": [
+        {
+          "label": "패미통 PSP판 리뷰 (주간 패미통 1078호)",
+          "url": "https://www.famitsu.com/game/title/5306/reviews"
+        },
+        {
+          "label": "GAME Watch PSP 리뷰 (전투 시스템·육성·로드 시간)",
+          "url": "https://game.watch.impress.co.jp/docs/review/307581.html"
+        },
+        {
+          "label": "PlayStation LifeStyle PSP 수입판 리뷰 (조작·전투 템포·대전)",
+          "url": "https://www.playstationlifestyle.net/2011/08/18/psp-import-review-tales-of-vs/"
+        },
+        {
+          "label": "LaunchBox PSP 일본판 패키지 앞표지 (박스 이미지 확인)",
+          "url": "https://gamesdb.launchbox-app.com/games/details/84452-tales-of-vs"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/7467",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 게임 평가는 일본 PSP판 《テイルズ オブ バーサス》(ULJS-00209) 기준이며, 제공 링크의 적용 버전·번역 범위·미번역 요소·설치 방식·실기 호환성은 확인하지 않았고 패치 적용 테스트도 하지 않음."
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "ChatGPT (공개 자료 기반 편집 평가)",
+      "cover": {
+        "url": "https://www.japanzon.com/137536-product_large/bandai-namco-tales-of-vs-for-sony-psp.jpg",
+        "source": "https://www.japanzon.com/en/playstation/35302-bandai-namco-tales-of-vs-for-sony-psp-4582224497058.html",
+        "platform": "psp",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
