@@ -25253,6 +25253,69 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "super-puyo-puyo-2-snes",
+      "title": "슈퍼 뿌요뿌요 2",
+      "original": "す～ぱ～ぷよぷよ通 (Super Puyo Puyo 2)",
+      "platforms": [
+        "snes"
+      ],
+      "genres": [
+        "퍼즐",
+        "대전 퍼즐",
+        "낙하형 퍼즐"
+      ],
+      "score": 8.7,
+      "summary": "1995년 12월 8일 일본 슈퍼패미컴 통상판 『す～ぱ～ぷよぷよ通』(SHVC-P-AXPJ)의 공개 자료 기반 편집 평가. 전작의 단순한 연쇄 경쟁에 방해 뿌요 상쇄, 퀵 턴, 다음 뿌요 2개 표시와 전부 지우기 보상을 더해 상대 공격을 읽고 되받아치는 대전 퍼즐의 전략성을 완성했다. 코믹한 캐릭터·만담, 스토리 및 무한 모드, 멀티탭을 이용한 최대 4인 대전까지 당시 SFC판의 완성도와 반복 플레이성이 매우 높아 8.7/10. 반면 단독 캠페인의 이야기와 상대 구성은 단순하고 CPU 행동이 들쭉날쭉하며, 고급 연쇄 학습에는 진입 장벽이 있다. 1996년 확장판 『REMIX』보다 모드·편의 기능이 적고 4인용에는 별도 멀티탭이 필요하다. 간결하지만 깊이 있는 로컬 대전 퍼즐을 좋아하는 이용자에게 추천한다. 직접 플레이한 평가가 아니며 한글패치 유무는 점수에 반영하지 않았다.",
+      "pros": [
+        "같은 색 뿌요 4개를 연결하는 단순한 규칙에 방해 뿌요 상쇄·연쇄 역공을 결합해 공격 시점과 방어 판단의 전략적 깊이가 크다.",
+        "퀵 턴, 다음 뿌요 2개 표시, 전부 지우기 보상 등으로 수싸움과 빠른 템포를 강화했으며 짧은 대전을 반복해도 성장과 역전의 재미가 있다.",
+        "알르와 개성 강한 마도물어 캐릭터들의 만담·코믹한 도트 표현, 음악·효과음이 16비트 세대만의 활기를 더한다.",
+        "탑을 오르며 상대를 선택하는 1인 모드, 끝없이 플레이하는 모드, 2인 대전과 멀티탭 지원 최대 4인 대전으로 혼자서도 여럿이서도 즐기기 좋다."
+      ],
+      "cons": [
+        "스토리의 사건과 진행 방식이 단순하며 층별 반복 대전이 중심이어서 장편 싱글플레이 콘텐츠를 기대하면 부족하다.",
+        "상대 CPU가 연쇄를 지나치게 쌓다가 자멸하는 등 반응에 편차가 있고, 후반의 빠른 낙하와 고급 연쇄 설계는 초보자에게 갑작스러운 장벽이 된다.",
+        "4인 동시 대전을 하려면 별도 멀티탭이 필요하고 네 명의 게임판을 나눠 보므로 개별 필드가 작다.",
+        "이듬해 발매된 『す～ぱ～ぷよぷよ通 REMIX』는 추가 통 모드, 확장된 초보자 모드와 각종 옵션을 갖추어 원래 통상판의 콘텐츠·편의성 열세가 뚜렷하다."
+      ],
+      "sources": [
+        {
+          "label": "패미통 - 1995년 SFC판 발매일·장르·컴파일 기본 정보",
+          "url": "https://www.famitsu.com/game/title/4830/reviews"
+        },
+        {
+          "label": "右脳式ぷよぷよルーム - SFC 통상판·REMIX 판본 및 수록 모드 비교",
+          "url": "https://www.ne.jp/asahi/root/inoue/p04_204.htm"
+        },
+        {
+          "label": "ゲーム＊やおよろず Retro - SFC 실기 기반 플레이 후기, 상쇄·CPU·4인 대전",
+          "url": "https://mimora.mimoza.jp/yao_game/retro/contents/ctg_main/memorandum/SFC/detail/gmr_SFC-0035.php"
+        },
+        {
+          "label": "Nintendo Life - SFC판 규칙·스토리·다인 대전 소개",
+          "url": "https://www.nintendolife.com/games/snes/super_puyo_puyo_2"
+        },
+        {
+          "label": "LaunchBox Games Database - 일본 SFC 통상판 Box - Front 실물 앞표지",
+          "url": "https://gamesdb.launchbox-app.com/games/images/5528-super-puyo-puyo-2"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/1536",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 1995-12-08 발매된 일본 SFC 통상판 『す～ぱ～ぷよぷよ通』(SHVC-P-AXPJ)으로, 1996-03-08 발매된 『す～ぱ～ぷよぷよ通 REMIX』 및 아케이드·다른 기종 이식판과 구별한다. 제공 주소에는 접속·미리보기·리다이렉트 추적을 하지 않았고 대응 롬 리비전, 번역 범위, 미번역 요소, 설치 절차 및 실기·에뮬레이터 구동을 확인하지 않았다."
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/275d2b9e-ed85-4d28-a75c-ac7999315d8f.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/5528-super-puyo-puyo-2",
+        "platform": "snes",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
