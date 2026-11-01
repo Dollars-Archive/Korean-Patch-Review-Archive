@@ -23475,6 +23475,65 @@
       },
       "reviewedAt": "2026-11-01",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "disgaea-infinite-psp",
+      "title": "디스가이아 인피니트",
+      "original": "ディスガイア インフィニット",
+      "platforms": [
+        "psp"
+      ],
+      "genres": [
+        "ADV",
+        "비주얼 노벨",
+        "루프형 추리 어드벤처"
+      ],
+      "score": 7.1,
+      "summary": "PSP 『디스가이아 인피니트』는 프리니가 시간 루프·빙의·사고 개입을 활용해 라하르 암살 미수 사건을 추적하는 분기형 텍스트 어드벤처다. 시리즈 고유의 개그와 캐릭터 대화, 여러 시점을 연결하는 발상 및 편리한 기독 대사 건너뛰기가 강점이다. 반면 분기 해법이 불명확할 때 반복 관람이 길어지고 개별 전개가 짧아, 전략 RPG의 깊이를 기대하면 실망하기 쉽다. 7.1점. 디스가이아 인물과 유머를 좋아하는 비주얼 노벨 팬에게 추천한다. 일본 PSP 다운로드판(2009)과 UMD판(2010)이 발매된 작품을 평가했다. 공개 자료 기반 편집 평가이며 직접 플레이한 결과는 아니다. 패치 여부는 점수에 반영하지 않았다.",
+      "pros": [
+        "다른 등장인물에게 빙의해 동일한 사건을 다양한 시점으로 살피고, 생각에 개입해 행동을 바꾸는 독특한 루프형 추리 시스템이 흥미롭다.",
+        "라하르·에트나·플론·프리니 등의 과장된 대화와 상황극이 디스가이아 특유의 코미디를 충실히 살린다.",
+        "다양한 분기와 결말, 시간표·수집 기록, 이미 읽은 대사를 건너뛰는 기능이 여러 경로를 탐색할 동기를 준다.",
+        "음성 연기와 움직이는 2D 캐릭터 연출이 작은 PSP 화면에서도 인물의 익살스러운 반응을 잘 전달한다."
+      ],
+      "cons": [
+        "사고 개입 가능한 시점과 빙의 대상의 조합을 놓치면 같은 사건·대사를 여러 번 확인해야 하며 진행 방식이 시행착오에 의존한다.",
+        "시간표와 힌트가 있어도 복잡하게 분기된 사건의 인과관계를 한눈에 정리하기 어렵다.",
+        "짧은 개별 플레이 흐름과 제한된 배경·인물 표현 때문에 장편 ADV 수준의 서사 밀도나 연출 다양성을 기대하면 아쉽다.",
+        "본편의 전술 전투·육성은 아예 없는 텍스트 어드벤처라 디스가이아를 SRPG로만 즐기는 플레이어와 맞지 않는다."
+      ],
+      "sources": [
+        {
+          "label": "4Gamer - 일본 PSP 다운로드판 발표와 시스템 소개 (2009-09-17)",
+          "url": "https://www.4gamer.net/games/098/G009855/20090914045/"
+        },
+        {
+          "label": "RPGFan - Disgaea Infinite PSP 리뷰 (2010-06-13)",
+          "url": "https://www.rpgfan.com/review/disgaea-infinite/"
+        },
+        {
+          "label": "Game Informer - Disgaea Infinite PSP 리뷰 (2010-06-08)",
+          "url": "https://gameinformer.com/games/disgaea_infinite/b/psp/archive/2010/06/08/review"
+        },
+        {
+          "label": "LaunchBox - Disgaea Infinite PSP 일본판 Box - Front 이미지",
+          "url": "https://gamesdb.launchbox-app.com/games/images/16415-disgaea-infinite"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/2363",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 대상은 PSP 『ディスガイア インフィニット』이며, 일본 PSN 다운로드판(2009-11-01)과 일본 UMD판(2010-04-22)의 어느 버전에 대응하는지 미확인. 번역 범위·미번역 대사/메뉴·적용 방법·패치 버전·실기/에뮬레이터 동작 여부를 확인하지 않았다. 패치 주소 접속·미리보기·다운로드·리다이렉트 확인은 하지 않았다."
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/c5379e2d-c7d7-4db5-9b89-42fed443e0a4.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/16415-disgaea-infinite",
+        "platform": "psp",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
