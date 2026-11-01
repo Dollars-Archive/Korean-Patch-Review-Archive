@@ -30688,6 +30688,72 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "first-queen-iii-pc98",
+      "title": "퍼스트 퀸 3",
+      "original": "ファーストクィーンIII (First Queen III)",
+      "platforms": [
+        "pc98"
+      ],
+      "genres": [
+        "전략 RPG",
+        "실시간 전략",
+        "시뮬레이션 RPG"
+      ],
+      "score": 8.3,
+      "summary": "1993년 일본 PC-9801판을 기준으로 한 자료 기반 편집 평가. 고차캐라(ゴチャキャラ) 방식의 대규모 자율 실시간 전투, 넓은 전역 지도, 부대 운용과 전쟁 서사의 규모가 돋보인다. 이전 시리즈의 시인성을 개선한 멀티윈도 조작도 장점이다. 다만 자율 전투 AI 때문에 세밀한 통제가 어렵고, 복잡한 부대 관리·높은 전투 난도·고전 PC 특유의 진입 장벽은 단점이다. 군세 운용과 고전 실시간 전략 RPG를 좋아한다면 추천할 만한 8.3점. 직접 플레이한 평점은 아님.",
+      "pros": [
+        "수많은 작은 병사가 각자 움직이며 부딪히는 고차캐라(ゴチャキャラ) 실시간 전투가 병력의 생동감과 독특한 전장 분위기를 만든다.",
+        "유라시아를 연상시키는 광범위한 세계에서 부대를 운용하고 지역을 이동하며 규모 큰 전쟁과 서사를 체험하는 재미가 있다.",
+        "기존 시리즈의 전장 파악 문제를 개선한 PC-98판 멀티윈도 방식 덕분에 여러 부대와 전황을 확인하기가 수월하다.",
+        "병사 개개인의 능력과 행동 차이, 동료 관리가 대규모 전투에 RPG 특유의 성장과 애착을 더한다."
+      ],
+      "cons": [
+        "아군이 자율적으로 행동하기 때문에 집중 공격이나 퇴각을 원하는 대로 통제하기 어렵고 위기 대응에 손이 많이 간다.",
+        "여러 부대와 넓은 전선, 개별 병사 상태를 함께 관리해야 하므로 전투가 복잡하고 익숙해지기까지 시간이 걸린다.",
+        "난도 높은 구간의 반복 전투와 고전 PC-98판의 키보드·윈도 조작 방식은 현대적인 전략 RPG보다 접근성이 떨어진다."
+      ],
+      "sources": [
+        {
+          "label": "呉ソフトウエア工房 공식 작품 연혁: 1993년 7월 PC-98 발매",
+          "url": "https://www.kuresoft.net/service.html"
+        },
+        {
+          "label": "게임보존협회: PC-98 일본판 실물 패키지 및 디스크 사양",
+          "url": "https://www.gamepres.org/en/catalog/?id=8811004884006"
+        },
+        {
+          "label": "MobyGames: First Queen III PC-98 게임 기본 정보와 특징",
+          "url": "https://www.mobygames.com/game/44089/first-queen-iii/"
+        },
+        {
+          "label": "가토마이오 게임 플레이 리뷰: 고차캐라와 PC-98 멀티윈도 시스템",
+          "url": "https://retorohide.blog.fc2.com/blog-entry-948.html"
+        },
+        {
+          "label": "IndieG.G.C.: First Queen III PC-98판 플레이 소감",
+          "url": "https://indieggc.com/?p=14414"
+        },
+        {
+          "label": "LaunchBox: NEC PC-9801 일본판 Box - Front",
+          "url": "https://gamesdb.launchbox-app.com/games/images/133342-first-queen-iii"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/2318",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 1993년 일본 PC-9801판 《ファーストクィーンIII》이며 2004년 Windows 합본·리뉴얼판 및 전후속작과 구분한다. 패치 지원 디스크·게임 버전, 번역 범위·미번역 구간, 설치·실기·에뮬레이터 구동 여부는 확인하지 않았다."
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "ChatGPT (공개 자료 기반 편집 평가)",
+      "cover": {
+        "url": "https://images.launchbox-app.com/3459a444-0561-4ea0-8cc0-82c2776404d8.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/133342-first-queen-iii",
+        "platform": "pc98",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
