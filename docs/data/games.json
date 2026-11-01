@@ -30046,6 +30046,69 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "shining-force-resurrection-of-the-dark-dragon-gba",
+      "title": "샤이닝 포스: 어둠의 용의 부활",
+      "original": "シャイニング・フォース ～黒き竜の復活～ (Shining Force: Resurrection of the Dark Dragon)",
+      "platforms": [
+        "gba"
+      ],
+      "genres": [
+        "전략 RPG",
+        "턴제 SRPG",
+        "파티 육성 RPG"
+      ],
+      "score": 8.5,
+      "summary": "2004년 8월 5일 일본 GBA로 출시된 『シャイニング・フォース ～黒き竜の復活～』을 대상으로 한다. 메가드라이브판 『샤이닝 포스: 신들의 유산』의 전술 전투와 마을 탐험을 살리면서 새로운 동료와 보조 시나리오, 수집형 카드 전술, 캐릭터 대화와 리메이크된 그래픽을 추가한 작품이다. 최대 12명을 출전시키는 전투에서 직업별 이동·공격 범위와 지형을 활용하고, 전직과 부대 편성을 연구하는 재미가 뛰어나다. 다만 원작에 뿌리를 둔 장비·아이템 교환과 화면 조작은 불편하고, 일부 카드의 강력한 효과는 전투 균형을 무너뜨릴 수 있다. 왕도적인 서사와 GBA 특유의 다소 거친 음질도 약점이다. 고전식 SRPG와 파티 육성을 좋아한다면 8.5점으로 추천한다. 일본판 공식 정보와 동일 GBA판 GameSpot·RPGFan 리뷰를 바탕으로 한 자료 기반 편집 평가이며 직접 플레이한 점수는 아니고 한글패치 유무는 점수에 반영하지 않았다.",
+      "pros": [
+        "최대 12명을 출전시키고 기사·궁수·마법사·회복역 등 다양한 직업의 이동 범위와 지형을 고려하는 전술 전투가 단순하면서도 깊이가 있다.",
+        "30명 이상의 동료 모집과 개별 성장·전직, 마을 탐험 및 대화가 이어져 전투 사이에도 RPG 특유의 모험과 부대 육성 재미를 제공한다.",
+        "메가드라이브 원작 대비 새로운 동료 세 명과 추가 시나리오, 캐릭터별 대화, 카드 수집과 이를 이용한 새로운 전술 등 리메이크만의 콘텐츠가 충실하다.",
+        "새로 그린 캐릭터 초상화와 전투 애니메이션, 편리해진 전투 전 부대 편성과 재도전 요소가 GBA판의 매력을 높인다."
+      ],
+      "cons": [
+        "캐릭터별 개별 인벤토리와 장비 교환·아이템 이동이 여러 메뉴를 거치게 하므로 부대 규모가 커질수록 관리가 번거롭다.",
+        "카드 기술 중 추가 행동 부여 등 일부 효과가 매우 강력해 난도와 유닛 간 균형이 쉽게 무너질 수 있다.",
+        "선악 대립을 중심으로 하는 왕도적 이야기 전개는 흡인력은 있으나 복잡한 인물 서사를 기대하면 다소 평이하다.",
+        "GBA 특유의 압축된 음색과 일부 단조로운 필드·마을 그래픽이 새로 단장한 전투 연출에 비해 낡게 느껴지며, 고전적인 전투 템포도 취향을 탄다."
+      ],
+      "sources": [
+        {
+          "label": "세가 공식 샤이닝 월드 - 일본 GBA판 2004년 8월 5일 발매, 원작 리메이크 및 30명 이상 동료",
+          "url": "https://shining-world.jp/portal/game/gba.shtml"
+        },
+        {
+          "label": "GameSpot - Shining Force: Resurrection of the Dark Dragon GBA 리뷰(2004-07-06), 전술·추가 캐릭터·카드·영상·음향",
+          "url": "https://www.gamespot.com/reviews/shining-force-resurrection-of-the-dark-dragon-revi/1900-6102026/"
+        },
+        {
+          "label": "RPGFan - Shining Force: Resurrection of the Dark Dragon GBA 리뷰(2024-08-17), 원작 대비 추가 요소·난도·연출",
+          "url": "https://www.rpgfan.com/review/shining-force-resurrection-of-the-dark-dragon-3/"
+        },
+        {
+          "label": "RPGFan - Shining Force: Resurrection of the Dark Dragon GBA 리뷰(2007-02-28), 전직·카드·아이템 관리",
+          "url": "https://www.rpgfan.com/review/shining-force-resurrection-of-the-dark-dragon-2/"
+        },
+        {
+          "label": "LaunchBox Games Database - GBA 일본판 Box - Front(500×316) 표지 확인",
+          "url": "https://gamesdb.launchbox-app.com/games/images/3507-shining-force-resurrection-of-the-dark-dragon"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/525",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2004년 일본 GBA판 『シャイニング・フォース ～黒き竜の復活～』이며, 메가드라이브 원작 『神々の遺産』이나 다른 지역판과 구분한다. 제공 링크의 지원 카트리지·ROM 리비전과 지역, 시나리오·메뉴·이미지 번역 범위와 미번역 부분, 적용 방법 및 GBA 실기·에뮬레이터 호환성은 확인하지 않았다. 설치·구동 검증도 진행하지 않았다."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com/a87b51ea-e1fb-410a-8383-48b095440be6.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/3507-shining-force-resurrection-of-the-dark-dragon",
+        "platform": "gba",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "WebGPT"
     }
   ]
 }
