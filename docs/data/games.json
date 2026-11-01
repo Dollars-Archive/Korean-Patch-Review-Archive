@@ -36528,6 +36528,65 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "shining-blade-psp",
+      "title": "샤이닝 블레이드",
+      "original": "シャイニング・ブレイド (Shining Blade)",
+      "platforms": [
+        "psp"
+      ],
+      "genres": [
+        "RPG",
+        "SRPG",
+        "전술 RPG"
+      ],
+      "score": 7.1,
+      "summary": "2012년 3월 15일 일본 발매 PSP판에 대한 공개 자료 기반 편집 평가. Tony의 인상적인 캐릭터 디자인, 성우 연기와 노래, 듀오·링크 어택·포스송을 조합하는 전투가 매력적이다. 캐릭터별 호감도 이벤트도 즐겁지만 메인 서사는 전형적이고 적이 지나치게 약해 전술적 고민이 줄어든다. 일부 반복 연출과 PSP 로딩도 단점이어서 7.1/10점. 캐릭터 중심의 판타지 RPG나 비교적 부담 없는 전술 전투를 좋아하는 사람에게 추천하며, 고난도 전략 RPG를 기대한다면 아쉬울 수 있다. 직접 플레이한 점수가 아니며 한글패치 유무는 평가에 반영하지 않았다.",
+      "pros": [
+        "Tony의 섬세한 캐릭터 디자인과 풍부한 성우 연기, 노래를 핵심 소재로 활용한 음악 연출이 캐릭터와 세계의 매력을 높인다.",
+        "행동 포인트를 활용한 이동과 공격, 동료를 데리고 움직이는 듀오, 근처 아군과의 링크 어택, 적의 방어 장벽을 무너뜨리는 포스송을 조합해 다채로운 전술을 펼칠 수 있다.",
+        "캐릭터별 개성과 관계를 확장하는 호감도·교류 이벤트가 동료를 모으고 성장시키는 동기를 제공한다.",
+        "개별 동료 육성·무기 속성·포스 강화 등 성장 선택지가 있으며 기본 난도가 낮아 전술 RPG 초보자도 비교적 편하게 즐길 수 있다."
+      ],
+      "cons": [
+        "적과 보스가 대체로 약하고 필살기의 화력이 높아, 다양한 전술 장치를 갖췄어도 세밀한 위치 선정이나 전략적 고민이 필수가 되기 어렵다.",
+        "제국에 맞서 세계를 구하는 메인 서사가 전형적이고 일부 중요한 위기 장면에서도 긴장감이 충분히 살아나지 않는다.",
+        "퀘스트 구조의 반복과 전투 중 노래 등 일부 연출의 재생이 호불호를 만들며, 세밀한 전투 반복을 원하는 플레이어에게는 단조로울 수 있다.",
+        "PSP판은 임무 시작·종료 시 약 10초 안팎의 로딩이 보고되어 진행 흐름이 끊기며, 데이터 인스톨 사용에도 별도 저장 공간이 필요하다."
+      ],
+      "sources": [
+        {
+          "label": "GAME Watch - PSP 샤이닝 블레이드 상세 리뷰 (2012-04-19)",
+          "url": "https://game.watch.impress.co.jp/docs/review/527599.html"
+        },
+        {
+          "label": "GameSpot - PSP Shining Blade 이용자 리뷰 (2013-02-24)",
+          "url": "https://www.gamespot.com/shining-blade-2012/user-reviews/2200-143587/"
+        },
+        {
+          "label": "GameFAQs - PSP 일본판 발매일·제품 정보",
+          "url": "https://gamefaqs.gamespot.com/psp/647590-shining-blade/data"
+        },
+        {
+          "label": "LaunchBox Games Database - PSP 일본판 Box - Front",
+          "url": "https://gamesdb.launchbox-app.com/games/images/44571-shining-blade"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/7378",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2012년 3월 15일 발매 PSP 일본판(シャイニング・ブレイド / ULJM-06020)이다. 링크가 지원하는 판본·리비전, 번역 범위, 미번역 부분, 적용 방법과 PSP 실기·에뮬레이터 호환성은 확인하지 않았다. 패치 적용·실행 검증 미실시."
+      },
+      "reviewedAt": "2026-11-02",
+      "reviewer": "ChatGPT (공개 자료 기반 편집 평가)",
+      "cover": {
+        "url": "https://images.launchbox-app.com/a32c6d07-1a25-41d5-acda-4028395937e6.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/44571-shining-blade",
+        "platform": "psp",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
