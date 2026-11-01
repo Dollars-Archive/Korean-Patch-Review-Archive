@@ -27922,6 +27922,74 @@
       },
       "reviewedAt": "2026-11-01",
       "reviewer": "ChatGPT (자료 기반 편집 평가)"
+    },
+    {
+      "id": "yu-gi-oh-gx-tag-force-3-psp",
+      "title": "유희왕 GX 태그포스 3",
+      "original": "遊戯王デュエルモンスターズGX タッグフォース3 (Yu-Gi-Oh! GX Tag Force 3)",
+      "platforms": [
+        "psp"
+      ],
+      "genres": [
+        "카드 배틀",
+        "턴제 전략",
+        "트레이딩 카드 게임",
+        "학원 생활"
+      ],
+      "score": 7.7,
+      "summary": "자료 기반 편집 평가. 2008년 일본 PSP판은 약 3,500장의 카드와 싱크로 몬스터, GX 애니메이션 3·4기 등장인물 및 파트너별 이야기를 갖춘 카드 배틀 게임이다. 태그 듀얼과 다양한 덱 구축의 재미, 이전보다 간결해진 교류 진행이 장점이지만 파트너 AI의 실책, 필드에 카드가 많을 때의 처리 지연, 전작에서 답습한 맵과 미니게임은 아쉽다. GX 캐릭터와 덱 실험을 즐기는 팬에게 특히 추천한다.",
+      "pros": [
+        "약 3,500장의 수록 카드와 싱크로 소환, 다양한 덱 테마 덕분에 카드 수집과 전술 조합의 폭이 넓다.",
+        "GX 3·4기 등장인물 및 파트너별 스토리와 이벤트로 애니메이션 팬의 몰입감과 반복 플레이 동기를 높인다.",
+        "파트너와 함께하는 태그 듀얼, 관전 모드와 미니게임이 학원 생활과 카드 배틀을 다채롭게 엮는다.",
+        "이전 작품보다 짧아진 파트너 친밀도 진행과 듀얼 인터페이스의 개선이 반복 플레이의 부담을 일부 줄인다."
+      ],
+      "cons": [
+        "태그 파트너 AI가 상황에 맞지 않는 카드 사용과 무리한 전개를 선택해 전략적인 덱 조합을 방해할 수 있다.",
+        "필드에 카드가 많이 쌓일 때 PSP판에서 처리 지연이 발생해 듀얼 템포가 떨어진다.",
+        "전작과 유사한 맵·음악·미니게임을 재사용해 신작으로서의 변화가 제한적이다.",
+        "초심자는 규칙과 덱 구성을 익혀야 하고 파트너의 덱에 맞춘 구성이 요구돼 진입장벽이 있다."
+      ],
+      "sources": [
+        {
+          "label": "코나미 공식 - 일본 PSP판 발매일(2008-11-27), 장르, 플레이 인원 및 공식 DLC 종료 공지",
+          "url": "https://www.konami.com/games/jp/ja/products/yugioh_tf3_psp/"
+        },
+        {
+          "label": "MediaWorld - 일본 PSP판 ULJM-05373, 약 3,500장·싱크로·GX 후반 캐릭터·미니게임 등 제품 설명",
+          "url": "https://mediaworld.co.jp/products/10210510003"
+        },
+        {
+          "label": "GameFAQs - 일본판과 동시기 유럽 PSP판 상세 이용자 리뷰 (2008-12-22, 카드 전투·파트너·AI·시나리오)",
+          "url": "https://gamefaqs.gamespot.com/psp/945981-yu-gi-oh-duel-monsters-gx-tag-force-3/reviews/130790"
+        },
+        {
+          "label": "GameFAQs - PSP 유럽판 상세 이용자 리뷰 (2008-12-26, 카드·덱 궁합·처리 지연·파트너 육성)",
+          "url": "https://gamefaqs.gamespot.com/psp/945981-yu-gi-oh-duel-monsters-gx-tag-force-3/reviews/130902"
+        },
+        {
+          "label": "가격닷컴 - 일본 PSP판 이용자 후기 (2008-12-30, 카드 수·스토리 길이·재사용·AI·프레임 저하)",
+          "url": "https://review.kakaku.com/review/41374010676/"
+        },
+        {
+          "label": "LaunchBox Games Database - PSP 일본판 정품 Box - Front (500×869)",
+          "url": "https://gamesdb.launchbox-app.com/games/images/26501-yu-gi-oh-gx-tag-force-3"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/1992",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 게임 평가는 2008년 일본 PSP 일반판 『遊戯王デュエルモンスターズGX タッグフォース3』(ULJM-05373)을 대상으로 하며, 제공 주소의 적용 대상 지역·리비전, 카드명·효과·메뉴·시나리오 번역 범위, 설치 방법과 실기·에뮬레이터 구동 여부는 확인하지 않음."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com/2d20e913-3d6f-4df7-b035-b3fa532113b2.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/26501-yu-gi-oh-gx-tag-force-3",
+        "platform": "psp",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "ChatGPT (자료 기반 편집 평가)"
     }
   ]
 }
