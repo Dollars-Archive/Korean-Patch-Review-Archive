@@ -35479,6 +35479,63 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "twilight-syndrome-kyuumei-hen-ps1",
+      "title": "트와일라잇 신드롬 구명편",
+      "original": "トワイライトシンドローム ～究明編～ (Twilight Syndrome: Kyuumei-hen)",
+      "platforms": [
+        "ps1"
+      ],
+      "genres": [
+        "ADV",
+        "호러",
+        "미스터리"
+      ],
+      "score": 8.2,
+      "summary": "도시괴담의 불안과 평범한 여고생들의 감정·성장을 결합한 1996년 PS1 호러 어드벤처. 소리·배경 연출과 인물 묘사, 직접 촬영·녹음하는 조사 요소가 특히 좋지만 느린 이동, 엄격한 입력 타이밍과 중간 저장 제약으로 8.2점. 분위기와 서사를 중시하는 미스터리 팬에게 추천하며 전편 《탐색편》부터 이어서 즐기는 편이 좋다. 공개 자료 기반 편집 평가이며 직접 플레이한 점수는 아니다.",
+      "pros": [
+        "일본 학원 도시괴담의 생활감과 은근한 공포를 결합해, 큰 자극 없이도 서서히 긴장을 쌓는다.",
+        "유카리·치사토·미카의 관계와 사춘기 심리 변화를 섬세하게 다뤄 사건 이상의 여운을 남긴다.",
+        "직접 녹음·사진 촬영을 시도하는 조사 요소와 다양한 괴이 수집 요소가 탐색의 현장감을 높인다."
+      ],
+      "cons": [
+        "기본적으로 달리기 어려운 느린 이동과 구식 탐색 조작이 반복 구간의 답답함을 키운다.",
+        "녹음·촬영 입력 가능 시간이 짧고 특정 시나리오의 난도가 높아 시행착오가 잦다.",
+        "한 시나리오 진행 중 자유로운 중간 저장이 어려워 긴 구간을 다시 해야 할 수 있고, 일부 시나리오·숨김 요소의 완성도 편차도 있다."
+      ],
+      "sources": [
+        {
+          "label": "RCGS Collection: 1996년 PS1 일본 실물 패키지 정보",
+          "url": "https://collection.rcgs.jp/page/PACKAGE0002722"
+        },
+        {
+          "label": "게임 리뷰를 소소하게: 트와일라잇 신드롬 구명편 심층 평가",
+          "url": "https://w.atwiki.jp/advr/pages/16.html"
+        },
+        {
+          "label": "MobyGames: Twilight Syndrome Kyūmei-hen 게임 설명 및 시스템",
+          "url": "https://www.mobygames.com/game/49540/twilight-syndrome-kyumei-hen/"
+        },
+        {
+          "label": "LaunchBox Games Database: PS1 Box - Front (Japan)",
+          "url": "https://gamesdb.launchbox-app.com/games/images/93813-twilight-syndrome-kyuumeihen"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/7481",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 게임 평가는 1996년 일본 PS1 단독판 《トワイライトシンドローム ～究明編～》(SLPS-00405) 기준이며 《探索編》과 합본 《スペシャル》을 구분한다. 제공 링크의 지원 디스크·리비전, 대사·UI·영상 번역 범위, 미번역 요소, 적용 절차와 실기·에뮬레이터 호환성은 확인하지 않았다. 패치 설치 및 구동 시험을 실시하지 않았다."
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "ChatGPT (공개 자료 기반 편집 평가)",
+      "cover": {
+        "url": "https://images.launchbox-app.com/edfd244b-a8b1-4b4c-944c-547d3c628fc6.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/93813-twilight-syndrome-kyuumeihen",
+        "platform": "ps1",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
