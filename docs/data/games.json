@@ -31310,6 +31310,68 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "kimikiss-ebikore-plus-ps2",
+      "title": "에비코레+ 키미키스",
+      "original": "エビコレ+ キミキス (eb!コレ エビコレ+キミキス)",
+      "platforms": [
+        "ps2"
+      ],
+      "genres": [
+        "연애 시뮬레이션",
+        "학원 ADV"
+      ],
+      "score": 7.6,
+      "summary": "2008년 2월 14일 일본 PS2 염가 개량판 『エビコレ+ キミキス』(SLPS-25850) 기준. 학원제까지 약 한 달 동안 개성 있는 여섯 히로인과 만남·대화·데이트를 거쳐 관계를 발전시키는 연애 시뮬레이션. 타카야마 키사이의 매력적인 캐릭터 디자인과 취향·관심사에 따라 화제를 고르는 매칭 회화가 장점이다. 오리지널판의 약점이던 대화 힌트, 백로그, 출현율 및 화제 편집이 개선돼 접근성이 좋아졌다. 다만 루트별 짧은 이야기와 반복되는 회화·이벤트, 불편한 반복 회차의 건너뛰기, 신규 시나리오가 없는 개량판이라는 한계로 7.6점. 일본 학원 연애물과 직접 호감도를 올리는 대화형 시뮬레이션을 좋아하는 사람에게 추천하지만 긴 서사 위주의 비주얼 노벨 팬이라면 호불호가 있다. 공식 판본 소개와 PS2 이용자 리뷰를 참고한 자료 기반 편집 평가이며 직접 플레이하지 않았다. 한글패치 유무는 점수에 반영하지 않았다.",
+      "pros": [
+        "타카야마 키사이 특유의 부드러운 그림과 각기 다른 성격·취향의 히로인, 성우 연기가 짧은 학교생활 속 교류와 설렘을 생생하게 만든다.",
+        "상대의 선호 화제를 추리하고 대화 주제를 배열하는 매칭 회화 시스템이 단순한 선택지형 ADV와 다른 참여감과 연애 시뮬레이션의 재미를 준다.",
+        "에비코레+에서 회화 힌트, 히로인 출현 빈도 증가, 화제 삭제·편집, 최대 100개 창의 백로그 및 음성 정지·문자 속도 설정 등 편의성이 향상됐다.",
+        "약 한 달의 학교 축제 전 일정에 각자 다른 인물별 이벤트가 펼쳐져 선호 캐릭터를 골라 여러 경로로 즐기기 좋다."
+      ],
+      "cons": [
+        "대화·화제 선택 과정이 루트 공략과 반복 회차에서 작업처럼 느껴질 수 있고, 동일한 말이나 공통 이벤트를 여러 번 다시 보게 된다.",
+        "루트의 서사와 개별 이벤트가 비교적 짧고 장면 사이가 단편적으로 이어져 무게감 있는 긴 스토리를 기대하면 아쉬움이 남는다.",
+        "반복 회차에서 불필요한 이벤트를 완전히 넘기기 어렵다는 이용자 지적이 있으며, 매칭 회화 자체가 취향에 맞지 않으면 단조롭다.",
+        "에비코레+는 원판의 편의성 개선에 집중한 판본으로 신규 이벤트 CG나 시나리오가 추가된 확장판은 아니다."
+      ],
+      "sources": [
+        {
+          "label": "GAME Watch - 에비코레+ 키미키스 2008 개량판 특징과 신규 CG·시나리오 부재",
+          "url": "https://game.watch.impress.co.jp/docs/20071116/kimi.htm"
+        },
+        {
+          "label": "Joko - 키미키스 PS2 이용자 리뷰, 에비코레+ 출시 이후의 회차 반복·서사·편의 평가",
+          "url": "https://www.joko.jp/ps2/review/ti1927.html"
+        },
+        {
+          "label": "Joko - 키미키스 이용자 리뷰 2페이지, 회화 시스템·분량에 관한 평가",
+          "url": "https://www.joko.jp/ps2/review/ti1927-2.html"
+        },
+        {
+          "label": "스루가야 - 일본 PS2 에비코레+판 제품번호 SLPS-25850·발매일",
+          "url": "https://www.suruga-ya.jp/product/detail/144004667"
+        },
+        {
+          "label": "Japanzon - 해당 PS2 에비코레+ 일본판 패키지 앞표지",
+          "url": "https://www.japanzon.com/en/game/34321-enterbrain-kimikiss-ebkore-for-playstation-2-4541993014156.html?srsltid=AfmBOooRQrOiiEtMLVDikvgYE5SXqk6ffksyVDZzju29VFk909Guyb6V"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/1480",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2008-02-14 일본 PS2 에비코레+ 개량판 『エビコレ+ キミキス』(SLPS-25850)이며 2006년 오리지널 일반판 『キミキス』(SLPS-25643)와 다르다. 사용자 제공 URL에 게시된 파일의 실제 지원 디스크 리비전·지역·번역 범위·미번역 요소·적용 방법·PS2 실기 및 PCSX2 구동 호환성은 미확인. 한글패치 설치·실기·에뮬레이터 검증을 하지 않았다."
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://www.japanzon.com/132546-product_small/enterbrain-kimikiss-ebkore-for-playstation-2.jpg",
+        "source": "https://www.japanzon.com/en/game/34321-enterbrain-kimikiss-ebkore-for-playstation-2-4541993014156.html?srsltid=AfmBOooRQrOiiEtMLVDikvgYE5SXqk6ffksyVDZzju29VFk909Guyb6V",
+        "platform": "ps2",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
