@@ -24715,6 +24715,70 @@
         "type": "Official store artwork",
         "region": "North America"
       }
+    },
+    {
+      "id": "gensou-no-artemis-actress-school-mystery-adventure-ps1",
+      "title": "환상의 아르테미스",
+      "original": "幻想のアルテミス ～Actress School Mystery Adventure～ (Gensou no Artemis)",
+      "platforms": [
+        "ps1"
+      ],
+      "genres": [
+        "미스터리 ADV",
+        "연애 ADV",
+        "비주얼 노벨"
+      ],
+      "score": 6.5,
+      "summary": "2000년 1월 27일 일본에서 쇼에이샤(翔泳社)가 발매하고 아스트로비전이 개발한 PlayStation 초판 『幻想のアルテミス ～Actress School Mystery Adventure～』(SLPS-02563) 기준 자료 기반 편집 평가. 신참 탐정 쿠사카베 교이치가 연예인 양성 학교에 임시 교사로 들어가 여학생의 의문사를 조사한다. 첫날 고른 히로인에 따라 사건의 정황·등장인물 관계·범인이 크게 바뀌는 다중 시나리오, 개성적인 캐릭터와 풍부한 성우 연기, 이벤트 CG, 후반의 서스펜스가 매력이다. 반면 범행을 논리적으로 추리하는 것보다 장소를 샅샅이 돌아다니며 이벤트 플래그를 찾는 비중이 크고, 일부 루트에서는 연애 관계가 급격히 진전되어 설득력이 약하다. 하루 종료 시점에만 저장 가능하고 메시지 전환과 스킵 속도가 느려 반복 플레이도 번거롭다. 분기의 독창성과 분위기를 인정하되 시스템·서사·편의성의 한계를 반영해 6.5/10점. 2000년대 초반 일본 학원 미스터리와 캐릭터 중심 연애 ADV를 좋아하는 사람에게 조건부 추천하고, 정교한 추리 퍼즐이나 충실한 연애 과정을 기대하면 추천도가 낮다. 공식 발매 자료와 일본어 리뷰 및 전 루트 플레이 감상에 근거한 편집 평가로 직접 플레이하거나 패치를 설치하지 않았으며 한글패치 유무는 가산하지 않았다. 일본 PS1 일반판을 평가했으며 게임 아카이브스 디지털 재발매와 구별한다.",
+      "pros": [
+        "외딴 연예인 양성 학교를 배경으로 연기·예능계 진출을 꿈꾸는 여학생들의 갈등과 경쟁을 미스터리 사건에 연결해 평범한 학원 연애물과 구분되는 분위기를 만든다.",
+        "히로인 선택에 따라 사건의 전제·등장인물의 역할·진상까지 달라지는 독립적인 시나리오로, 각 루트를 돌아보는 재미와 의외성이 있다.",
+        "서로 다른 성격을 가진 히로인들, 다수의 2D 이벤트 CG와 주요 인물의 풍부한 성우 연기가 이야기와 인물에 애착을 준다.",
+        "후반부에는 수집한 단서로 상황을 판단하고 위기에 처한 인물을 구해야 하는 선택지가 등장해 가벼운 연애물과는 다른 서스펜스를 제공한다."
+      ],
+      "cons": [
+        "여러 장소를 계속 방문해 등장인물을 찾아야 하는 반복 탐색이 많고, 조사·심문·증거 검토 시스템을 주도적으로 활용할 기회는 적다.",
+        "논리 추리보다 이벤트 플래그 수집이 중심이고, 결정적인 사건 추리는 후반에 집중되어 본격 탐정 게임으로는 얕은 편이다.",
+        "관계가 충분히 쌓이기 전에 히로인과 가까워지고 일부 공통 이벤트가 재활용되어 연애 전개의 설득력과 감동이 부족하다.",
+        "저장은 하루 끝에만 가능해 잘못된 선택 뒤 긴 구간을 다시 봐야 하며 대화·인물 그림 전환과 텍스트 스킵도 느려 다회차에 불편하다.",
+        "섬세한 패키지 원화와 게임 내부 애니메이션풍 그림에 차이가 있고, 주요 배역에 비해 일부 조연 음성 연기의 완성도가 들쭉날쭉하다."
+      ],
+      "sources": [
+        {
+          "label": "GameFAQs - 일본 PlayStation 초판 2000-01-27, Astrovision·Shoeisha, SLPS-02563",
+          "url": "https://gamefaqs.gamespot.com/p/576822-/data"
+        },
+        {
+          "label": "피코피코 대백과 - PS1 일본판 작품 개요 및 이용자 리뷰",
+          "url": "https://www.gavas.jp/products/detail.php?product_id=9636"
+        },
+        {
+          "label": "게임 카탈로그@Wiki - PS1판 루트·탐색·연애·성우·저장 시스템 장단점",
+          "url": "https://w.atwiki.jp/gcmatome/pages/9616.html"
+        },
+        {
+          "label": "日常グラフィティ - PS1 원작의 게임 아카이브스판 전 루트 플레이 감상(2019), CG·분기·탐색·반복",
+          "url": "https://nichijou-graffiti.com/gensou-no-artemis-impression/"
+        },
+        {
+          "label": "LaunchBox - 일본 PlayStation Box - Front 800×794",
+          "url": "https://gamesdb.launchbox-app.com/games/images/108255-gensou-no-altemis-actress-school-mystery-adventure"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/1874",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 일본 PS1 일반판 『幻想のアルテミス ～Actress School Mystery Adventure～』(2000-01-27, SLPS-02563)이며 2008년 게임 아카이브스 디지털 재발매(NPJJ-00210)와 구분한다. 이 주소의 실제 대응 지역·디스크 리비전, 대사·메뉴·영상 번역 범위·미번역 요소, 적용 방법과 배포 버전을 확인하지 않았다. PS1 실기 또는 에뮬레이터에서 패치를 설치·동작 검증하지 않았다."
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/19c6e574-edd2-4b2e-8422-62f649d71c56.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/108255-gensou-no-altemis-actress-school-mystery-adventure",
+        "platform": "ps1",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
