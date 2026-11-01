@@ -34468,6 +34468,63 @@
       },
       "reviewedAt": "2026-11-01",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "tekken-6-psp",
+      "title": "철권 6",
+      "original": "鉄拳6",
+      "platforms": [
+        "psp"
+      ],
+      "genres": [
+        "3D 대전 격투",
+        "액션"
+      ],
+      "score": 8.5,
+      "summary": "2010년 1월 14일 발매된 일본 PSP판 『鉄拳6』(ULJS-00224) 기준. 약 40명의 개성 있는 파이터와 레이지·바운드 콤보 등 원작의 핵심 시스템, 매끄러운 조작과 휴대기 수준에서 뛰어난 그래픽·짧은 로딩을 보존해 8.5점. 그러나 거치형 콘솔판의 시나리오 캠페인이 빠지고 온라인 대전이 없어 플레이 모드와 장기적인 대전 환경은 제한적이다. 짧은 시간에도 완성도 높은 3D 격투를 즐기려는 PSP 이용자와 철권 팬에게 추천. 공식 출시 자료 및 PSP판 전문 리뷰를 바탕으로 한 편집 평가이며 직접 플레이한 점수가 아니고 한글패치 여부는 점수에 반영하지 않았다.",
+      "pros": [
+        "40명에 이르는 다양한 파이터와 각자의 풍부한 기술·콤보가 캐릭터 학습과 대전의 깊이를 제공한다.",
+        "레이지 시스템, 바운드 콤보, 무너지는 지형 등 철권 6의 핵심 전투 요소를 유지하고 PSP의 십자키와 버튼 배치에 맞춰 정확하고 빠르게 조작할 수 있다.",
+        "PSP 하드웨어를 고려하면 캐릭터 모델과 동작이 인상적이며, 박력 있는 타격 효과음과 안정적인 전투 흐름이 몰입을 돕는다.",
+        "짧은 대전 로딩과 연습 모드, 아케이드형 진행, 로컬 애드혹 대전으로 휴대하면서 틈틈이 즐기기 좋다."
+      ],
+      "cons": [
+        "PS3·Xbox 360판의 시나리오 캠페인이 없어 1인용 콘텐츠의 규모와 형태가 줄어들었다.",
+        "인터넷을 통한 실시간 온라인 대전을 지원하지 않고 근거리 애드혹 대전 중심이라 상대를 구하기 어렵다면 반복 플레이 동기가 제한된다.",
+        "캐릭터 커스터마이징과 게임 모드 종류가 거치형 버전보다 축소되었고, 캐릭터 텍스처 및 배경 표현에도 간소화가 있다."
+      ],
+      "sources": [
+        {
+          "label": "Game Watch - 일본 PSP판 발매 및 고유 모드·40명·패키지 (2010-01-14)",
+          "url": "https://game.watch.impress.co.jp/docs/news/342270.html"
+        },
+        {
+          "label": "GameSpot - Tekken 6 PSP 리뷰 (2009-12-17)",
+          "url": "https://www.gamespot.com/reviews/tekken-6-review/1900-6243803/"
+        },
+        {
+          "label": "WorthPlaying - Tekken 6 PSP 리뷰 (2009-12-12)",
+          "url": "https://www.worthplaying.com/article/2009/12/12/reviews/70912-psp-review-tekken-6/"
+        },
+        {
+          "label": "LaunchBox - PSP 일본판 Box - Front 확인",
+          "url": "https://gamesdb.launchbox-app.com/games/images/16365-tekken-6"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/89",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 일본 PSP판 『鉄拳6』(ULJS-00224)이며 PS3·Xbox 360·아케이드판과 구분한다. 제공 주소의 패치 지원 원본 지역·리비전, 번역 범위, 미번역, 적용 방법, PSP 실기 및 에뮬레이터 호환성은 확인하지 않았고 설치·구동 시험도 하지 않았다."
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "ChatGPT (공개 자료 기반 편집 평가)",
+      "cover": {
+        "url": "https://images.launchbox-app.com/bb004339-8b73-4a65-a928-4193f4f7dabb.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/16365-tekken-6",
+        "platform": "psp",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
