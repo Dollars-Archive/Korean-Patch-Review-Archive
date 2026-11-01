@@ -29008,6 +29008,69 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "gundam-musou-2-ps3",
+      "title": "건담무쌍 2",
+      "original": "ガンダム無双2 (Dynasty Warriors: Gundam 2)",
+      "platforms": [
+        "ps3"
+      ],
+      "genres": [
+        "택티컬 액션",
+        "무쌍 액션",
+        "메카 액션"
+      ],
+      "score": 7.4,
+      "summary": "자료 기반 편집 평가. 2008년 12월 18일 일본 PS3 일반판 『ガンダム無双2』(BLJM-60111)는 전작의 다수 격파 무쌍 전투에 더 많은 기체와 파일럿, 거대 모빌아머전, 기체 부품·스킬 강화 및 방대한 미션 모드를 추가했다. 건담 시리즈 팬이 좋아할 크로스오버, 기체 수집과 강력한 공격의 손맛이 뛰어나지만 비슷한 대량 전투의 반복, 거대 보스전의 단조로움, 평범한 배경 그래픽과 원작 지식에 기대는 이야기가 약점이다. 7.4/10. 건담과 무쌍식 파고들기 액션을 모두 좋아하는 이용자에게 추천하며 단조로운 반복 전투를 싫어한다면 신중히 선택할 작품이다. 공개 리뷰 기반 편집 평가로 직접 플레이하지 않았고 한글패치 유무는 점수에 반영하지 않았다.",
+      "pros": [
+        "전작보다 폭넓어진 탑승 가능한 모빌슈트와 파일럿, 여러 건담 작품의 크로스오버가 팬서비스와 다양한 플레이 스타일을 제공한다.",
+        "수많은 적 기체를 한꺼번에 격파하는 무쌍식 콤보·차지 공격, 공중 기동과 SP 공격의 타격감이 시원하다.",
+        "오피셜 모드와 다양한 인물 중심의 미션 모드, 동료와의 관계 이벤트·라이선스·부품 수집 등 장기 육성 콘텐츠가 풍부하다.",
+        "사이코 건담과 빅 잠 같은 거대 모빌아머와의 전투, 모빌슈트 파츠·스킬 강화를 통해 전작보다 플레이 목표가 늘었다."
+      ],
+      "cons": [
+        "대다수 미션이 비슷한 일반 적 부대를 반복해서 격파하는 구조라 장시간 플레이 시 전투와 임무 구성이 단조롭게 느껴진다.",
+        "거대 모빌아머 전투의 규모는 인상적이지만 공격 기회를 기다리거나 같은 패턴을 반복하는 방식이라 전투 템포가 끊길 수 있다.",
+        "PS3판도 배경과 전장의 디테일 및 공간적 규모감이 부족해 캐릭터·기체 모델에 비해 그래픽이 소박하게 느껴진다.",
+        "짧고 단편적인 인물별 대사와 이야기, 단순한 적 AI 탓에 건담 원작을 잘 모르는 이용자는 서사에 몰입하기 어렵다."
+      ],
+      "sources": [
+        {
+          "label": "GAME Watch - 일본 PS3/PS2/Xbox 360판 종합 리뷰(2009): 전투·시스템·모드 및 장단점",
+          "url": "https://game.watch.impress.co.jp/docs/review/080417.html"
+        },
+        {
+          "label": "Famitsu - 일본 PS3판 리뷰: 부품 수집·미션 모드·모빌아머전과 반복성",
+          "url": "https://www.famitsu.com/game/title/18/reviews"
+        },
+        {
+          "label": "GameSpot - PS3판 리뷰(2009-04-21): 반복 전투·미션·연출 및 그래픽의 한계",
+          "url": "https://www.gamespot.com/reviews/dynasty-warriors-gundam-2-review/1900-6208300/"
+        },
+        {
+          "label": "RCGS 일본 게임자료관 - PS3 일본 일반 패키지 발매일·BLJM60111",
+          "url": "https://collection.rcgs.jp/page/PACKAGE0007280"
+        },
+        {
+          "label": "LaunchBox - PS3 일본판 Box - Front",
+          "url": "https://gamesdb.launchbox-app.com/games/images/13428-dynasty-warriors-gundam-2"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/715",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 게임 평가는 2008-12-18 발매한 일본 PS3 일반판 『ガンダム無双2』(BLJM-60111)를 대상으로 하며 북미판 『Dynasty Warriors: Gundam 2』와 PS2·Xbox 360판은 별개다. 제공 주소의 지원 국가·게임 리비전, 대사·UI·미션 번역 범위, 미번역 항목·적용 방법과 PS3 실기·에뮬레이터 구동 여부는 확인하지 않았다."
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "ChatGPT (공개 자료 기반 편집 평가)",
+      "cover": {
+        "url": "https://images.launchbox-app.com/960c36d3-c159-4886-babd-4f9f19df3137.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/13428-dynasty-warriors-gundam-2",
+        "platform": "ps3",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
