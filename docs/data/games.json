@@ -34214,6 +34214,70 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "kirbys-dream-land-3-snes",
+      "title": "별의 커비 3",
+      "original": "星のカービィ3 (Kirby's Dream Land 3)",
+      "platforms": [
+        "snes"
+      ],
+      "genres": [
+        "액션",
+        "플랫포머",
+        "탐색"
+      ],
+      "score": 8.2,
+      "summary": "1998년 3월 27일 발매된 일본 슈퍼패미컴판 《星のカービィ3》(SHVC-P-AFJJ)의 자료 기반 편집 평가. 별의 커비 2의 동물 친구 시스템을 확장해 릭·쿠·카인과 새 동료 나고·츄츄·피치, 커비의 카피 능력을 조합하는 독창적인 탐험의 재미가 돋보인다. 색연필과 파스텔을 연상시키는 그래픽, 애교 있는 애니메이션, 구이(Gooey)를 활용한 2인 협력, 각 스테이지에서 주민의 부탁을 해결해 얻는 하트 스타가 개성을 더한다. 기본 스테이지는 쉽게 진행되지만 숨은 하트 스타 조건은 힌트가 부족해 반복 탐색을 요구할 수 있다. 이동과 전투의 템포가 느리고 《별의 커비 슈퍼 디럭스》처럼 액션 패턴과 모드의 폭이 넓지는 않다. 시청각적 개성과 동물 친구 조합을 높이 평가하되 속도와 난도, 수집 목표의 불친절함을 고려해 8.2/10점. 편안한 탐험·동물 친구·2인 협동을 좋아하는 플레이어에게 추천하며 빠르고 깊은 전투를 원하는 플레이어에겐 취향이 갈린다. HAL 연구소 공식 자료와 원작에 대한 리뷰를 바탕으로 한 편집 평가이며 직접 플레이하지 않았다. 한국어 패치 정보는 게임 점수에 반영하지 않았다.",
+      "pros": [
+        "릭·쿠·카인에 나고·츄츄·피치가 더해진 여섯 동물 친구와 카피 능력의 조합마다 이동 방식과 공격이 달라져 실험과 탐색의 재미가 크다.",
+        "색연필과 파스텔로 그린 듯한 SFC 말기의 독보적인 화면, 귀여운 캐릭터 동작과 다양한 배경 표현이 강한 개성을 만든다.",
+        "구이(Gooey)를 불러내거나 두 번째 플레이어가 조작하는 협동 플레이를 지원해 부담 없이 함께 즐길 수 있다.",
+        "스테이지마다 다른 조건으로 얻는 하트 스타가 단순한 출구 도달 외에 관찰·탐색·특정 능력 활용이라는 추가 목표를 제공한다.",
+        "온화한 분위기와 변화하는 동물 친구의 액션이 초보자와 가족 단위 플레이에 잘 어울린다."
+      ],
+      "cons": [
+        "이동과 공격이 전반적으로 느리며 일반 스테이지와 보스의 난도가 낮아 속도감이나 긴장감 있는 액션을 원하는 플레이어에게는 밋밋할 수 있다.",
+        "하트 스타 획득 조건 중 일부는 명확한 설명 없이 특정 동물·능력·행동을 요구해 반복 방문과 시행착오가 생긴다.",
+        "카피 능력 자체는 기본적으로 단순한 단일 공격 중심이라 《별의 커비 슈퍼 디럭스》의 복합 기술이나 다양한 게임 모드를 기대하면 깊이가 부족하다.",
+        "협력 파트너 구이의 자동 행동은 경우에 따라 길을 방해할 수 있어 2인 조작이 아닌 단독 플레이에서는 편차가 있다."
+      ],
+      "sources": [
+        {
+          "label": "HAL 연구소 공식 작품 소개 - 일본 SFC판 출시일·제작·발매사",
+          "url": "https://www.hallab.co.jp/works/detail/000740/"
+        },
+        {
+          "label": "Nintendo Life - SNES 원작의 Wii 버추얼 콘솔 리뷰 (2009), 진행 속도·동물 친구·난도",
+          "url": "https://www.nintendolife.com/reviews/vc/kirbys_dream_land_3_snes"
+        },
+        {
+          "label": "Nintendo Life - SNES 원작의 Wii U 버추얼 콘솔 리뷰 (2013), 동물 친구 조합·협동·하트 스타·그래픽",
+          "url": "https://www.nintendolife.com/reviews/wiiu-eshop/kirbys_dream_land_3_snes"
+        },
+        {
+          "label": "GameFAQs - SNES 게임 리뷰: 색연필풍 그래픽·느린 템포·음악·플랫폼 액션",
+          "url": "https://gamefaqs.gamespot.com/snes/562646-kirbys-dream-land-3/reviews/131370"
+        },
+        {
+          "label": "LaunchBox - SNES Box - Front (Japan), 실제 일본 SFC 패키지 앞표지",
+          "url": "https://gamesdb.launchbox-app.com/games/images/3048-kirbys-dream-land-3"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/128",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 게임 평가는 일본 SFC판 《星のカービィ3》(1998-03-27, SHVC-P-AFJJ)을 기준으로 한다. 북미 SNES판 및 Wii·Wii U·Switch 구동 서비스의 별도 제공판과 구분한다. 사용자 링크의 대응 지역·리비전, 메뉴·대사·그래픽의 번역 범위, 미번역 요소, 적용 방식, 실기·에뮬레이터 호환성은 확인하지 않았다. 링크 열람·미리보기·리다이렉트 조회·다운로드·설치·실행 검증을 수행하지 않았다."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com/b7271c25-2ea5-45d9-8096-f2cff935adea.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/3048-kirbys-dream-land-3",
+        "platform": "snes",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "WebGPT"
     }
   ]
 }
