@@ -23596,6 +23596,71 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "fatal-frame-iii-the-tormented-ps2",
+      "title": "제로: 문신의 소리",
+      "original": "零 ～刺青の聲～ (Fatal Frame III: The Tormented)",
+      "platforms": [
+        "ps2"
+      ],
+      "genres": [
+        "서바이벌 호러",
+        "액션 ADV",
+        "미스터리"
+      ],
+      "score": 8.2,
+      "summary": "2005년 7월 28일 일본에서 테크모가 발매한 PS2 일반판 『零 ～刺青の聲～』(SLPS-25544) 기준. 사진가 쿠로사와 레이가 반복해서 마주하는 기묘한 꿈과 현실의 균열을 따라가며 죄책감과 상실을 다루는 정통 일본식 심리 호러다. 레이·히나사키 미쿠·아마쿠라 케이의 서로 다른 역할을 교차시키고 전작과 이어지는 이야기를 펼친다. 영혼을 촬영해 물리치는 사영기 전투, 오래된 저택의 어두운 미술과 섬세한 음향은 특히 강렬하다. 반면 꿈과 현실 사이의 왕복이 반복되며 공포의 긴장과 진행 속도가 끊기고, 고정 시점 카메라·느린 이동 조작과 변칙적으로 순간이동하는 적이 전투를 답답하게 만들기도 한다. 서사·분위기·전투의 고유성을 높게 평가하면서 반복과 불편함을 감안해 8.2/10. 기묘한 분위기와 인물의 상처를 천천히 풀어가는 호러를 좋아하는 사람에게 추천한다. 일본 PS2판 기본 정보와 동시대 PS2판 리뷰에 근거한 편집 평가로 직접 플레이하거나 패치를 설치하지 않았으며 한글패치 여부는 점수에 반영하지 않았다. 북미 『Fatal Frame III』, 유럽 『Project Zero III』 및 일본 염가 재발매와 구분한다.",
+      "pros": [
+        "상실감과 죄책감이 꿈에 스며드는 심리 호러 서사, 전작 두 편과 연결되는 인물 관계가 이야기의 밀도를 높인다.",
+        "레이·미쿠·케이의 능력과 탐색 방식이 서로 달라 3인 시점 전환이 같은 저택 탐험에도 변화를 준다.",
+        "사영기로 적을 정면에서 겨누고 접근 순간을 기다려 강력한 사진을 찍는 '페이탈 프레임' 전투가 독특한 긴장과 손맛을 준다.",
+        "낡은 일본식 저택, 절제된 조명·색채, 속삭임·발자국·침묵을 활용한 음향 설계가 강한 불안감과 몰입을 만든다.",
+        "촬영 점수로 사영기를 강화하고 고급 필름 및 회복 아이템을 전략적으로 비축할 수 있어 탐험과 교전의 보상이 뚜렷하다."
+      ],
+      "cons": [
+        "꿈속 저택과 현실의 집을 여러 차례 오가는 구조가 중반 이후 반복적으로 느껴지고 긴장감을 끊는다.",
+        "고정 카메라 시점이 바뀔 때 이동 방향이 헷갈리고 캐릭터의 이동·회전이 느려 급박한 전투에서 불리하다.",
+        "순간적으로 사라졌다가 바로 뒤에서 공격하는 유령과 좁은 장소의 전투는 난도를 공정하지 않게 느끼게 한다.",
+        "서로 얽힌 여러 이야기와 단서가 한꺼번에 제시돼 전작을 모르면 일부 인물의 사정과 맥락을 따라가기 어렵다.",
+        "같은 공간을 재방문하며 단서와 물건을 찾아야 하는 탐색 방식은 호러보다 빠른 진행을 중시하면 지루할 수 있다."
+      ],
+      "sources": [
+        {
+          "label": "GAME Watch - 테크모 PS2 일본판 2005-07-28 발매 및 사영기·기본 설정 소개",
+          "url": "https://game.watch.impress.co.jp/docs/20050513/zero.htm"
+        },
+        {
+          "label": "스루가야 - 일본 PS2 초판 SLPS-25544 발매일 및 정식 패키지 정보",
+          "url": "https://www.suruga-ya.jp/product/detail/144002767"
+        },
+        {
+          "label": "GameSpot - Bethany Massimilla, PS2 Fatal Frame III 리뷰 (2005-11-18), 7.6/10",
+          "url": "https://www.gamespot.com/reviews/fatal-frame-iii-the-tormented-review/1900-6140116/"
+        },
+        {
+          "label": "WorthPlaying - Kris Graft, PS2 리뷰 (2006-01-02), 8.5/10",
+          "url": "https://worthplaying.com/article/2006/1/2/reviews/29960-ps2-review-fatal-frame-iii-the-tormented/"
+        },
+        {
+          "label": "LaunchBox - 일본 PS2 Box - Front, 640×914",
+          "url": "https://gamesdb.launchbox-app.com/games/images/6956-fatal-frame-iii-the-tormented"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/4213",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2005년 7월 28일 일본 PS2 초판 『零 ～刺青の聲～』(SLPS-25544)이다. 북미 SLUS-21244·유럽 SLES-53825·일본 염가판 SLPS-73245/SLPS-73257과 구별하며, 제공한 패치 링크의 실제 지원 국가·디스크 리비전, 본편 대사·UI·문서·영상의 번역 범위와 미번역 요소, 적용 방법 및 PS2 실기/에뮬레이터 호환성은 확인하지 않았다. 패치를 설치하거나 링크에 접속·미리보기·리다이렉트·배포 검증을 하지 않았다."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com/79bc6469-dd4a-42f9-8d44-27f0a03ca56c.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/6956-fatal-frame-iii-the-tormented",
+        "platform": "ps2",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "WebGPT"
     }
   ]
 }
