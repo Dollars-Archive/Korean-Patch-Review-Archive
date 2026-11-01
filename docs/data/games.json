@@ -35998,6 +35998,66 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "kuro-no-danshou-pc98",
+      "title": "흑의 단장",
+      "original": "黒の断章 The Literary Fragment (Kuro no Danshou)",
+      "platforms": [
+        "pc98"
+      ],
+      "genres": [
+        "미스터리 어드벤처",
+        "오컬트 호러",
+        "포인트 앤 클릭 ADV",
+        "성인용"
+      ],
+      "score": 7.8,
+      "summary": "1995년 7월 14일 아보가도 파워즈가 발매한 PC-9801 원작 『黒の断章 The Literary Fragment』를 평가한다. 탐정 스즈사키와 쿠사나기가 기괴한 사건을 파헤치는 이야기는 범죄 수사물의 긴장감과 크툴루 신화의 오컬트 공포를 효과적으로 결합하며, 16색 도트 그림과 음향도 음울한 분위기를 살린다. 다만 클릭 가능한 지점이 불분명하고 진행 플래그를 찾는 반복 조사가 자주 발생해 탐색 편의성은 부족하다. 전통적인 논리 추리보다 서사 중심의 기묘한 미스터리 호러를 좋아한다면 추천하며, 시스템의 불친절함을 감안해 7.8/10으로 평가한다. PC-98판을 다룬 공개 자료 기반의 편집 평가이며 직접 플레이·설치 검증은 하지 않았다. 성인 대상 성적·잔혹한 소재에 주의하며, 한글패치 유무는 점수에 반영하지 않았다.",
+      "pros": [
+        "탐정 사건의 단서와 주인공의 과거를 엮어 점차 불길함을 높이는 전개가 몰입감 있는 수사·호러 서사를 만든다.",
+        "범죄 미스터리와 크툴루 신화의 오컬트 요소를 결합한 개성이 강하며, 사건의 세부 사항이 하나의 큰 이야기로 모이는 구성이 인상적이다.",
+        "PC-98 특유의 16색 일러스트와 음향이 기괴한 분위기를 잘 받쳐 주며, 인물 묘사와 화면 구도에 개성이 있다.",
+        "마우스로 조사하는 원작의 포인트 앤 클릭 구조는 가정용 패드 이식판보다 조작 장치에 자연스럽게 맞는다."
+      ],
+      "cons": [
+        "조사 대상과 클릭 가능한 지점이 눈에 잘 띄지 않아 필요한 행동을 발견하지 못하면 진행이 멈추기 쉽다.",
+        "단서를 찾기 위해 같은 화면을 거듭 클릭하거나 숨은 진행 조건을 충족해야 해 퍼즐의 성취감보다 시행착오가 크게 느껴질 수 있다.",
+        "순수한 논리 추리 게임을 기대하면 오컬트 색채가 강해지는 전개와 일부 우연에 기대는 사건 해결 방식이 취향에 맞지 않을 수 있다.",
+        "후대 이식판과 비교하면 음성·시각 연출과 편의성이 제한적이며, 성인용 성적·잔혹 묘사는 호불호가 크다."
+      ],
+      "sources": [
+        {
+          "label": "LaunchBox - NEC PC-9801 원작 정보·1995년 발매일·일본판 Box - Front",
+          "url": "https://gamesdb.launchbox-app.com/games/details/137400"
+        },
+        {
+          "label": "ADVGAMER - PC-98판 흑의 단장 회고 리뷰 (서사·포인트 앤 클릭 평가)",
+          "url": "https://advgamer.com/kuro-no-dansyou-the-literary-fragment/"
+        },
+        {
+          "label": "廃虚碑文 - 흑의 단장 PC-98판 리뷰 (시나리오·그래픽·시스템 평가)",
+          "url": "https://kiisu.egono.com/main.php?key=kdansyo"
+        },
+        {
+          "label": "懐ゲー 思い出語り - PC-98 원작과 후대 이식판의 연출·편의성 비교",
+          "url": "https://gameflame.seesaa.net/article/201605article_31.html"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/7440",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 1995년 NEC PC-9801 원작 『黒の断章 The Literary Fragment』이며 세가 새턴 및 Windows 이식판과 구분한다. 실제 패치 대응 판본, 번역 범위·미번역 요소, 설치 방법, 적용 시 주의사항은 확인하지 않았으며 실기·에뮬레이터 구동도 검증하지 않았다."
+      },
+      "reviewedAt": "2026-11-02",
+      "reviewer": "ChatGPT (공개 자료 기반 편집 평가)",
+      "cover": {
+        "url": "https://gamesdb-images.launchbox.gg/r2_546c282d-886a-4a60-b865-aff9ea43396c.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/details/137400",
+        "platform": "pc98",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
