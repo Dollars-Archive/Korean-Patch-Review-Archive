@@ -30553,6 +30553,68 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "waku-waku-7-neo-geo-aes",
+      "title": "와쿠와쿠 7 (NG·AES)",
+      "original": "わくわく7 (Waku Waku 7)",
+      "platforms": [
+        "other"
+      ],
+      "genres": [
+        "대전 격투",
+        "2D 격투"
+      ],
+      "score": 8.2,
+      "summary": "1996년 12월 27일 일본 네오지오 AES 가정용 카트리지로 출시된 선소프트의 『わくわく7』(NGH-225)을 대상으로 한다. 일곱 개의 와쿠와쿠 볼을 모으려는 개성 넘치는 격투가들의 익살스러운 대전을 그린 2D 격투 게임으로, 일곱 기본 캐릭터의 뚜렷한 전투 스타일, 부드러운 손그림풍 도트 애니메이션과 활기찬 음악이 특히 매력적이다. 4버튼 대전, 빠르게 쌓이는 와쿠와쿠 게이지를 이용한 강화 기술·초필살기, 긴 준비 동작을 가진 가드 불가 '하라하라' 공격, 벽 튕김과 기상 반격 등 독자적인 시스템도 잘 어울린다. 반면 기본 선택 캐릭터가 일곱 명이라 규모가 작고 일부 기술·캐릭터 균형이 거칠며, 정교한 장기 콤보를 선호하면 제약이 느껴진다. 유쾌한 비주얼과 직관적인 대전을 좋아한다면 8.2점으로 추천한다. 같은 작품의 네오지오 MVS 아케이드판 및 1997년 세가 새턴판과 구분한다. LaunchBox의 AES 정보와 Neo-Geo.com·Bokujin's Room 전문 리뷰를 종합한 자료 기반 편집 평가로 직접 플레이하지 않았으며 한글패치 여부는 점수에 반영하지 않았다.",
+      "pros": [
+        "일곱 명의 기본 캐릭터가 외형·움직임·기술·유머에서 뚜렷하게 구별되고 거대한 캐릭터 스프라이트와 풍부한 애니메이션이 네오지오의 장점을 살린다.",
+        "게이지를 소비하는 강화 필살기와 초필살기, 경고 연출을 동반하는 가드 불가 '하라하라' 공격이 대전의 심리전과 볼거리를 동시에 만든다.",
+        "벽 튕김·추격 타격·기상 반격·슈퍼 모드 등 여러 특수 상황에서 반격과 압박 선택지가 있어 규칙은 친숙하면서도 독특한 손맛을 준다.",
+        "발랄한 무대 연출과 개성적인 배경음악·음성, 과장된 애니메이션·만화 패러디가 진지한 격투 게임과 차별화되는 분위기를 만든다."
+      ],
+      "cons": [
+        "기본 선택 캐릭터는 7명뿐이고 추가 대전 전용 캐릭터를 감안해도 선택 폭이 좁아 오래 플레이할수록 매치업 다양성이 부족하다.",
+        "캐릭터와 필살기 간 성능 편차가 있고 일부 큰 기술의 화력이 강해 치밀한 대전 균형을 중시하면 거칠게 느낄 수 있다.",
+        "대부분의 기본 연속기는 짧고 고급 콤보가 게이지·슈퍼 모드에 의존하므로 복잡한 콤보 루트를 원하는 이용자에게는 전투 자유도가 제한적이다.",
+        "혼자 즐길 때는 대전과 엔딩 위주의 단순한 아케이드 구성이라 별도의 장기 육성·풍부한 싱글플레이 콘텐츠를 기대하기 어렵다."
+      ],
+      "sources": [
+        {
+          "label": "LaunchBox Games Database - SNK Neo Geo AES, 1996-12-27 일본 발매 및 게임 시스템 정보",
+          "url": "https://gamesdb.launchbox-app.com/games/details/10094-waku-waku-7"
+        },
+        {
+          "label": "Neo-Geo.com - Waku Waku 7 AES/MVS 리뷰(Bobak!), 그래픽·음악·캐릭터 구성",
+          "url": "https://www.neo-geo.com/wiki/index.php?title=Waku_Waku_7_review_by_Bobak!"
+        },
+        {
+          "label": "Bokujin's Room - Waku Waku 7 Neo Geo AES/MVS 심층 리뷰, 4버튼·게이지·하라하라·대전 균형",
+          "url": "https://www.bokujinsroom.net/arcade-reviews/neo-geo-reviews-aesmvs/waku-waku-7-review"
+        },
+        {
+          "label": "The Fighters Generation - Waku Waku 7 리뷰 및 그래픽·등장인물·격투 시스템",
+          "url": "https://www.fightersgeneration.com/games/wakuwaku7.html"
+        },
+        {
+          "label": "LaunchBox - SNK Neo Geo AES 일본 Box - Front (1672×2498) 표지 확인",
+          "url": "https://gamesdb.launchbox-app.com/games/images/10094-waku-waku-7"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/521",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 1996-12-27 일본 네오지오 AES판 『わくわく7』(NGH-225)이며, 네오지오 MVS 아케이드판 및 세가 새턴판과 구분한다. 제공 링크가 정확히 AES판에 대응하는지 또는 MVS·다른 이식판용인지 확인하지 않았다. 번역 범위·미번역·지역·리비전·패치 적용 방법·실기·에뮬레이터 호환성도 검증하지 않았다. 사이트 기종 분류상 NG·AES는 'other'로 기록하고 제목·ID에 판본을 명시했다."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com//4a5aeb3a-54a8-42f7-9235-a34424a3fa06.png",
+        "source": "https://gamesdb.launchbox-app.com/games/images/10094-waku-waku-7",
+        "platform": "other",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "WebGPT"
     }
   ]
 }
