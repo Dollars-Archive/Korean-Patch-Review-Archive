@@ -33034,6 +33034,75 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "urusei-yatsura-lum-no-wedding-bell-fc",
+      "title": "시끌별 녀석들 라무의 웨딩벨",
+      "original": "うる星やつら ラムのウエディングベル (Urusei Yatsura: Lum no Wedding Bell)",
+      "platforms": [
+        "other"
+      ],
+      "genres": [
+        "액션",
+        "횡스크롤 플랫폼",
+        "아케이드 액션",
+        "애니메이션 원작"
+      ],
+      "score": 5.3,
+      "summary": "1986년 10월 23일 일본에서 발매한 패미컴 일반판 《うる星やつら ラムのウエディングベル》(JF-10) 기준 자료 기반 편집 평가. 아케이드 《모모코 120%》를 『시끌별 녀석들』의 라무로 바꾸어 이식한 횡스크롤 액션 게임. 유치원부터 학교·스튜디오·결혼식에 이르기까지 성장하는 라무가 불길이 밀려오는 건물의 옥상을 향해 탈출하고 전격 공격·변신·지원 아이템을 활용하는 구성은 참신하다. 원작 주제가 『라무의 러브송』을 활용한 음악과 라무·아타루·텐 등 익숙한 얼굴도 팬서비스다. 그러나 부정확한 충돌 판정과 어색한 점프, 둔한 반응·불규칙한 적 이동, 층을 오르는 유사한 구조의 반복과 원작 서사와 잘 맞지 않는 불길 설정이 액션 완성도를 떨어뜨린다. 기발한 아이디어와 1980년대 캐릭터 게임의 개성을 인정하되 조작·구성상의 약점을 감안해 5.3/10. 『시끌별 녀석들』 팬이나 기묘한 고전 액션을 좋아하는 사람에게 조건부 추천하며, 정교한 조작이나 다양한 스테이지를 중시한다면 비추천. 공개 제품 정보·당시 작품 소개 및 후대 리뷰를 종합했으며 직접 플레이하지 않았고 한글패치 존재는 점수에 반영하지 않았다.",
+      "pros": [
+        "유치원생 라무가 학교를 거쳐 어른으로 성장하고 결혼식에 도달한다는 6단계 구성은 단순한 점수 경쟁 액션에 독특한 진행 동기와 유머를 준다.",
+        "건물 아래에서 불길이 차오르는 동안 옥상까지 올라가 UFO로 탈출해야 하는 구조가 제한 시간과 수직 이동의 긴박감을 만든다.",
+        "전격 공격 외에도 텐의 화염 지원·레이 변신·보호복·워프·보너스 스테이지 등 다양한 아이템과 숨겨진 효과를 발견하는 재미가 있다.",
+        "『시끌별 녀석들』의 라무와 아타루 등 익숙한 등장인물, 원작 주제가 『라무의 러브송』을 이용한 배경음악이 팬에게 친숙한 인상을 남긴다."
+      ],
+      "cons": [
+        "피격 판정이 직관적이지 않고 점프 물리와 조작 반응이 어색해 작은 발판이나 적을 피할 때 실수와 불합리한 피해가 잦다.",
+        "각 단계가 건물의 층을 오르고 옥상으로 빠져나가는 비슷한 흐름을 반복해 시각적 배경과 진행 방식의 다양성이 부족하다.",
+        "적의 움직임과 장애물 배치가 불규칙해 패턴 학습보다 즉흥적인 피하기와 운에 의존하는 장면이 있으며, 난도 상승이 거칠다.",
+        "아케이드 《모모코 120%》의 구조를 라무로 바꾼 탓에 화재 탈출과 원작 세계관 사이의 연결이 억지스럽고, 독자적인 서사·이벤트의 깊이도 얕다.",
+        "결혼식 이후 뚜렷한 추가 콘텐츠 없이 다시 반복하는 아케이드식 구성이라 장기적인 성취감과 재플레이 보상이 제한적이다."
+      ],
+      "sources": [
+        {
+          "label": "GameFAQs - 일본 패미컴 JF-10, 1986-10-23 발매 및 게임 장르·개발사",
+          "url": "https://gamefaqs.gamespot.com/nes/578320-urusei-yatsura-lum-no-wedding-bell/data"
+        },
+        {
+          "label": "LaunchBox - 일본 FC판 Box - Front 및 게임 설명·발매 정보",
+          "url": "https://gamesdb.launchbox-app.com/games/details/26821-urusei-yatsura-lum-no-wedding-bell"
+        },
+        {
+          "label": "Newtype 1986년 12월 당시 작품 소개 번역 - 라무의 성장·무대·탈출 목표",
+          "url": "https://uruseiyatsura.furinkan.com/features/articles/newtype198612.html"
+        },
+        {
+          "label": "Bob's Retro Reviews - FC판 충돌 판정·점프 조작·적 행동·독특한 발상 평가",
+          "url": "https://www.bobsretroreviews.com/game/fc-urusei-yatsura-lum-no-wedding-bell"
+        },
+        {
+          "label": "레트로게임 설명서 보관고 - FC판 《모모코 120%》 기반·조작·진행·주제가 평가",
+          "url": "https://gamemanual.midnightmeattrain.com/entry/%E3%81%86%E3%82%8B%E6%98%9F%E3%82%84%E3%81%A4%E3%82%89_%E3%83%A9%E3%83%A0%E3%81%AE%E3%82%A6%E3%82%A8%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%99%E3%83%AB"
+        },
+        {
+          "label": "Anime Video Game Resource Center - FC판 조작·6단계·특수 아이템·결혼식",
+          "url": "https://www.lupinencyclopedia.com/avrc/game/234.php"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/208",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 1986-10-23 일본 패미컴 일반판 《うる星やつら ラムのウエディングベル》(JF-10)이며 아케이드 원작 《モモコ120%》, 다른 기종·개조판과 구분한다. 제공 링크가 실제 지원하는 일본 FC 카트리지/ROM 리비전, 대사·메뉴·그래픽·표제의 번역 범위와 미번역 부분, 패치 적용 방식, 실기·에뮬레이터 호환성은 확인하지 않았다. 링크 접속·다운로드·설치·실행 검증은 수행하지 않았다."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com//3f454e7e-0323-4f5f-8f68-07c312c45a5a.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/details/26821-urusei-yatsura-lum-no-wedding-bell",
+        "platform": "other",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "WebGPT"
     }
   ]
 }
