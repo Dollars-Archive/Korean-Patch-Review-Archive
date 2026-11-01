@@ -25717,6 +25717,79 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "blaze-and-blade-busters-ps1",
+      "title": "블레이즈 & 블레이드 버스터즈",
+      "original": "ブレイズ&ブレイド バスターズ (Blaze & Blade Busters)",
+      "platforms": [
+        "ps1"
+      ],
+      "genres": [
+        "액션 RPG",
+        "던전 탐험",
+        "협동 RPG"
+      ],
+      "score": 7,
+      "summary": "1998년 9월 23일 일본에서 T&E Soft가 출시한 PS1 『ブレイズ&ブレイド バスターズ』(SLPS-01576)의 자료 기반 편집 평가. 『Blaze & Blade: Eternal Quest』의 시스템을 이어받은 단독 실행 가능한 후속·추가 시나리오 성격의 액션 RPG로, 캐릭터를 새로 만들거나 전작 세이브를 계승해 8종 직업의 육성, 던전 공략과 전리품 수집, 멀티탭을 활용한 최대 4인 협동을 즐길 수 있다. 전작의 번거로운 장비 교환을 간소화하고 아이템 구매와 캐릭터 간 대전 모드, 퀘스트 직접 선택 기능을 추가해 편의성과 파티 플레이를 개선했다. 그러나 신규 퀘스트가 짧고 적·자산·기본 전투를 많이 재활용하며, 필드 탐험이 퀘스트 메뉴로 대체되어 장대한 새 모험을 기대하면 아쉽다. 상태 화면의 불편함과 얕은 서사도 단점이다. 게임 자체는 친구와 직업을 조합해 던전을 공략할 때 가장 빛나지만, 독립 신작보다 팬을 위한 확장편에 가까워 7.0/10점. 전작에 애착이 있는 협동 액션 RPG 팬에게 추천하며, 긴 이야기 중심 JRPG를 찾는 사람에게는 신중히 권한다. 일본판 제품 정보와 PS1판 플레이 후기 2~3곳을 종합한 편집 평가이며 직접 플레이하지 않았고 한글패치는 점수에 반영하지 않았다.",
+      "pros": [
+        "파이터·시프·프리스트·위저드 등 8종 직업과 성별·속성·능력치 배분을 통한 자유로운 캐릭터 제작 및 육성이 가능하다.",
+        "멀티탭을 활용한 최대 4인 동시 협동으로 역할을 나눠 던전을 공략하고 전리품을 수집하는 재미가 뚜렷하다.",
+        "『Eternal Quest』의 육성 데이터를 계승하거나 새 캐릭터로 시작할 수 있어 기존 플레이어와 신규 플레이어 모두 접근 가능하다.",
+        "전작에서 번거로웠던 아이템·장비 교환이 간단해지고 상점 구매, 리더 교체, 퀘스트 직접 선택 등 편의성이 향상됐다.",
+        "육성한 캐릭터끼리 맞붙는 배틀 로열과 추가 퀘스트가 본편 이후의 파티 플레이·수집 동기를 제공한다."
+      ],
+      "cons": [
+        "신규 퀘스트가 짧고 개수가 적어 장편 후속작이라기보다 추가 시나리오 묶음이라는 인상이 강하다.",
+        "이전 작품의 게임 엔진과 적·무기·기본 액션을 대부분 계승해 새로움이 제한적이고 일부 반복 탐험은 단조롭다.",
+        "필드 맵을 탐험하는 대신 거점에서 메뉴로 퀘스트를 선택하는 방식이 되어 모험 세계를 직접 돌아다니는 감각이 약해졌다.",
+        "던전 목표와 인물 이야기가 단편적이며 중심 서사가 얕아 스토리 중심 RPG를 기대하면 실망할 수 있다.",
+        "일부 상태·능력치 화면의 사용성이 나쁘고 전작에서 숙련된 캐릭터를 가져오면 퀘스트 난도와 육성 목표가 다소 싱거워질 수 있다."
+      ],
+      "sources": [
+        {
+          "label": "GameFAQs - PS1 일본판 1998-09-23 발매·SLPS-01576 제품 정보",
+          "url": "https://gamefaqs.gamespot.com/ps/572691-blaze-and-blade-busters/data"
+        },
+        {
+          "label": "Gematsu - 공식 PSone Classics 소개 번역, 전작 데이터 계승·신규 퀘스트·단독 시작 및 멀티플레이",
+          "url": "https://www.gematsu.com/2019/08/blaze-blade-eternal-quest-and-blaze-blade-busters-psone-classics-now-available-in-japan"
+        },
+        {
+          "label": "ピコピコ大百科 - PS1판 개요 및 이용자 리뷰 5건, 편의성·협동·신규 퀘스트 분량·화면 문제",
+          "url": "https://www.gavas.jp/products/detail.php?product_id=9916"
+        },
+        {
+          "label": "キャラメイクの自由度が高いRPGを語るスレ @Wiki - 전작과 버스터즈 판본 차이·캐릭터 생성",
+          "url": "https://w.atwiki.jp/orenorpg/pages/36.html"
+        },
+        {
+          "label": "女主人公一般ゲームの感想 @Wiki - PS1 버스터즈의 거점·퀘스트 선택·아이템 거래 개선·전작 계승",
+          "url": "https://w.atwiki.jp/ggame/pages/258.html"
+        },
+        {
+          "label": "(自称)試練のサブリガ王の迷走日記 - 버스터즈 실플레이 회고, 신규 퀘스트·물품 거래·대전·반복의 한계",
+          "url": "https://kingshuffle.blog.fc2.com/blog-entry-467.html"
+        },
+        {
+          "label": "LaunchBox - 일본 PS1판 Box - Front (640×644) 실제 패키지 이미지 확인",
+          "url": "https://gamesdb.launchbox-app.com/games/images/132741-blaze-blade-busters"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/1456",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 사용자 표기 한글패치 제작자: 산트하임(사용자 제공 정보, AI가 해당 페이지에서 확인한 사실이 아님). 평가 대상은 1998년 9월 23일 발매된 일본 PlayStation 『ブレイズ&ブレイド バスターズ』(SLPS-01576)이며, 전작 『Blaze & Blade: Eternal Quest』 및 2019년 일본 PSone Classics 재배포판과 구분한다. 제공 링크의 실제 대응 지역·디스크 리비전, 대사·메뉴·아이템·전투 UI 번역 범위와 미번역 부분, 적용 방식과 배포 상태·버전은 검증하지 않았다. PS1 실기 또는 에뮬레이터 패치 설치·구동 시험을 수행하지 않았으며 해당 주소를 열거나 미리보기·리다이렉트 추적을 하지 않았다."
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/3135a19a-f4d5-4854-9f97-b9250a62abbf.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/132741-blaze-blade-busters",
+        "platform": "ps1",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
