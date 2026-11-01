@@ -28442,6 +28442,64 @@
       },
       "reviewedAt": "2026-11-01",
       "reviewer": "ChatGPT (자료 기반 편집 평가)"
+    },
+    {
+      "id": "bakuretsu-soccer-ps1",
+      "title": "폭렬사커",
+      "original": "爆烈サッカー (Bakuretsu Soccer: Tecmo Super Shot Soccer)",
+      "platforms": [
+        "ps1"
+      ],
+      "genres": [
+        "스포츠",
+        "아케이드 축구"
+      ],
+      "score": 7.3,
+      "summary": "2002년 7월 25일 발매된 일본 PS1판 《爆烈サッカー》(SLPS-03437) 기준. 나라별 전용 필살 슛과 수비 기술, 경기장에 솟아나는 거대한 랜드마크 등 비현실적인 연출을 전면에 내세운 아케이드 축구 게임이다. 조작 장벽이 낮고 필살기 게이지 소모·발동 타이밍과 방어 수단 사이의 읽기 싸움이 살아 있어 특히 2인 대전에서 유쾌하다. 반면 당시 기준으로도 투박한 3D 화면, 제한적인 일반 축구 동작과 전술, 모드 완료 후 부족한 파고들기 요소가 아쉬워 7.3점. 사실적인 축구 시뮬레이션보다 과장된 필살기와 가벼운 로컬 대전을 즐기는 사람에게 추천한다. 공개된 게임 정보와 리뷰를 종합한 자료 기반 편집 평가이며 직접 플레이한 점수는 아니고 한국어 패치 존재는 평점에 반영하지 않았다.",
+      "pros": [
+        "일본판은 월드컵 참가국 32개 팀과 해금 팀을 제공하며, 국가별로 달라지는 필살 슛·태클·수비 기술과 랜드마크 소환 연출이 시각적 개성을 만든다.",
+        "기본 패스·슈팅이 간단하고 필살기를 활용하면 골 기회를 쉽게 만들 수 있어 축구 게임 초보자도 진입하기 좋다.",
+        "필살기 게이지를 언제 사용할지, 상대가 슛을 끊거나 막을 수 있는지 판단하는 공수 심리전이 있어 단순한 기술 구경에 그치지 않는다.",
+        "과장된 필살기 연출 덕분에 친구와의 2인 대전에서 웃음과 역전의 재미가 커진다."
+      ],
+      "cons": [
+        "선수 모델과 경기장 등 3D 그래픽이 투박하여 2002년 당시 PS1 후기 작품 기준으로도 시각적 완성도가 떨어진다는 평가가 있다.",
+        "기본 축구 조작과 전술 선택지가 비교적 제한적이고 코너킥 등 일부 상황의 선수 움직임이 단조로워 오래 익히면 깊이가 부족하다.",
+        "월드컵·토너먼트·리그 등 주요 모드를 마치고 나면 새로운 목표나 성장 요소가 부족해 싱글 플레이의 지속성이 낮다.",
+        "필살기 종류는 많지만 발동 조건과 궤도에 따라 실전 효율 차이가 있어 특정 기술 위주로 플레이가 편중될 수 있다."
+      ],
+      "sources": [
+        {
+          "label": "PlayStation Data Center - 일본판 SLPS-03437 발매 정보, 조작, 모드 및 기능",
+          "url": "https://psxdatacenter.com/games/J/B/SLPS-03437.html"
+        },
+        {
+          "label": "게임 카탈로그@Wiki - 일본판 시스템·필살기·장단점 평가",
+          "url": "https://w.atwiki.jp/gcmatome/pages/3247.html"
+        },
+        {
+          "label": "GameFAQs - Super Shot Soccer PS1 전문 리뷰 집계 및 평가",
+          "url": "https://gamefaqs.gamespot.com/ps/560445-super-shot-soccer/reviews"
+        },
+        {
+          "label": "LaunchBox Games Database - PS1 일본판 Box - Front 이미지",
+          "url": "https://gamesdb.launchbox-app.com/games/images/13112-super-shot-soccer"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/861",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 기준은 일본 PS1판 《爆烈サッカー》(SLPS-03437, 2002-07-25)이다. 한글패치의 실제 지원 지역·디스크 ID·버전, 메뉴·대사·UI 등 번역 범위, 적용 방법, 미번역 사항은 확인하지 않았고 설치·실기·에뮬레이터 검증도 하지 않았다."
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/faab9359-cadc-4b5d-b0b2-4de316a6ebcd.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/13112-super-shot-soccer",
+        "platform": "ps1",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
