@@ -35599,6 +35599,60 @@
       },
       "reviewedAt": "2026-11-01",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "new-game-the-challenge-stage-psvita",
+      "title": "뉴 게임! 더 챌린지 스테이지!",
+      "original": "NEW GAME! -THE CHALLENGE STAGE!-",
+      "platforms": [
+        "psvita"
+      ],
+      "genres": [
+        "ADV",
+        "육성 시뮬레이션"
+      ],
+      "score": 7.4,
+      "summary": "자료 기반 편집 평가. 원작의 분위기를 살린 오리지널 스토리와 캐릭터별 루트, 풍부한 음성·연출이 매력적이다. 반면 반복적인 육성과 느린 텍스트 스킵이 발목을 잡는다. NEW GAME! 애니메이션 팬과 편안한 캐릭터 중심 ADV를 좋아하는 사람에게 추천한다.",
+      "pros": [
+        "원작 캐릭터들의 매력을 살린 게임 오리지널 이야기와 직장 내 이벤트가 팬서비스로 충실하다.",
+        "동료와의 친밀도에 따른 개별 캐릭터 루트와 능력치에 따른 직종별 결말로 감상할 이야기가 다양하다.",
+        "다양한 캐릭터 의상과 귀여운 애니메이션, 풀보이스 대사가 원작 분위기를 잘 전달한다.",
+        "백로그·자동 진행·퀵 세이브 등 기본 ADV 편의 기능을 갖추고 휴대용 PS Vita 화면에서도 읽기 편하다."
+      ],
+      "cons": [
+        "전반부 능력치 육성 과정이 단조롭고 비슷한 행동을 반복해 시뮬레이션으로서 깊이가 약하다.",
+        "여러 루트를 재도전할 때 육성 구간을 다시 거치는 부담이 크다.",
+        "텍스트 스킵이 느려 반복 플레이의 템포를 해친다.",
+        "익숙한 캐릭터 ADV 구성이라 신선한 시스템이나 극적인 전개를 기대하면 심심할 수 있다."
+      ],
+      "sources": [
+        {
+          "label": "MAGES. 공식 게임 사이트 (제품 정보)",
+          "url": "https://game.mages.co.jp/newgame/spec/"
+        },
+        {
+          "label": "패미통 PS Vita 리뷰 (주간 패미통 1470호)",
+          "url": "https://www.famitsu.com/game/title/33905/reviews"
+        },
+        {
+          "label": "가격.com PS Vita 이용자·전문가 리뷰",
+          "url": "https://review.kakaku.com/review/K0000896458/"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/7475",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. PS Vita 일본판 대상 링크로 제공되었으나 적용 대상 빌드·번역 범위·실기 호환성은 별도로 검증하지 않음."
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "ChatGPT (자료 기반 편집 평가)",
+      "cover": {
+        "url": "https://www.suruga-ya.jp/database/pics/game/105001530.jpg",
+        "source": "https://www.suruga-ya.jp/kaitori/kaitori_detail/105001530",
+        "platform": "psvita",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
