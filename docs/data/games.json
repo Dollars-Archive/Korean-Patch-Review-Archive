@@ -36468,6 +36468,66 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "matsumoto-reiji-999-ps1",
+      "title": "마츠모토 레이지 999",
+      "original": "松本零士999 ～Story of Galaxy Express 999～ (Leiji Matsumoto 999: Story of Galaxy Express 999)",
+      "platforms": [
+        "ps1"
+      ],
+      "genres": [
+        "ADV",
+        "SF 어드벤처"
+      ],
+      "score": 6.8,
+      "summary": "《은하철도 999》를 중심으로 하록·에메랄다스 등 마츠모토 레이지 작품의 인물과 세계관을 결합한 일본 PS1판 어드벤처. 풍부한 애니메이션 영상과 원작 성우, 다채로운 이벤트가 팬 서비스를 살리지만, 반복되는 직선적 진행과 불편한 총격 조작, 긴 로딩·구식 3D 표현으로 게임 자체의 완성도는 제한된다. 6.8점. 레이지버스 캐릭터와 이야기 감상에 무게를 두는 원작 팬에게 추천하며 쾌적한 액션을 원하는 플레이어에게는 비추천. 공식 게임 정보와 관련 리뷰를 종합한 편집 평가로 직접 플레이한 점수가 아니며 한글패치 유무는 평가에 반영하지 않았다.",
+      "pros": [
+        "철이와 메텔을 중심으로 하록·에메랄다스·토치로 등 여러 마츠모토 작품 인물이 얽히며 원작 팬에게 특별한 크로스오버의 재미를 제공한다.",
+        "원작 성우진의 목소리와 풍부한 애니메이션 영상·음악이 캐릭터의 감정과 우주 여행 분위기를 살린다.",
+        "대화·탐색만이 아니라 총격전, 엄폐를 활용하는 교전, 함포 사격 등의 이벤트가 이야기 진행에 변주를 준다."
+      ],
+      "cons": [
+        "총격전의 시점 전환과 조준·엄폐 조작이 매끄럽지 않고 설명이 부족하다는 이용자 지적이 있어 전투 스트레스가 크다.",
+        "화면 전환과 장면 사이의 로딩이 길어 감상 흐름을 자주 끊으며 PS1 후반기 작품으로도 편의성이 떨어진다.",
+        "선형적인 이벤트 중심 진행과 제한적인 탐험·선택의 폭, 거친 3D 화면 때문에 원작에 익숙하지 않은 플레이어의 몰입도가 낮아질 수 있다."
+      ],
+      "sources": [
+        {
+          "label": "Leijiverse - 2001년 PS1 게임과 출연 성우 소개",
+          "url": "https://leijiverse.com/ja/matsumoto-leiji-999/"
+        },
+        {
+          "label": "피코피코대백과 - 일본 PS1판 게임 소개 및 사용자 평가",
+          "url": "https://www.gavas.jp/products/detail.php?product_id=9157"
+        },
+        {
+          "label": "GameFAQs - PS1판 사용자 리뷰 (2008)",
+          "url": "https://gamefaqs.gamespot.com/ps/581553-matsumoto-reiji-999-story-of-galaxy-express-999/reviews/129612"
+        },
+        {
+          "label": "Rakuten 게임 블로그 - PS1판 회고 리뷰 (2019)",
+          "url": "https://plaza.rakuten.co.jp/modokinisemono/diary/201906230001/"
+        },
+        {
+          "label": "LaunchBox Games Database - 일본 PS1 Box - Front 이미지",
+          "url": "https://gamesdb.launchbox-app.com/games/images/110228-matsumoto-reiji-999-story-of-galaxy-express-999"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/7394",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2001-06-28 발매 일본 PS1판 《松本零士999 ～Story of Galaxy Express 999～》(SLPS-03220)이다. 제공 주소에 있는 패치의 대응 디스크·리비전, 번역 범위, 미번역 부분, 적용 방법 및 실기·에뮬레이터 호환성은 검증하지 않았다. 설치·구동 시험도 하지 않았다."
+      },
+      "reviewedAt": "2026-11-02",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/afc32c35-18a1-4d0b-8ac5-d521bda45348.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/110228-matsumoto-reiji-999-story-of-galaxy-express-999",
+        "platform": "ps1",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
