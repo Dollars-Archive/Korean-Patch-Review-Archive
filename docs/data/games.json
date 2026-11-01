@@ -34818,6 +34818,64 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "touhou-kaikidan-mystic-square-pc98",
+      "title": "동방괴기담",
+      "original": "東方怪綺談 ～ Mystic Square (Touhou Kaikidan: Mystic Square)",
+      "platforms": [
+        "pc98"
+      ],
+      "genres": [
+        "STG",
+        "종스크롤 탄막 슈팅"
+      ],
+      "score": 8.4,
+      "summary": "1998년 ZUN Soft가 제작한 NEC PC-9801용 동방 프로젝트 제5작에 대한 공개 자료 기반 편집 평가(직접 플레이하지 않음). 서로 성능이 다른 4명의 주인공, 강화된 탄막 패턴과 보스전, 드림 게이지·그레이즈를 통한 점수 경쟁, 인상적인 FM 음원 사운드트랙이 PC-98 동방 슈팅의 완성도를 높였다. 6개 본편 스테이지와 익스트라 스테이지로 재도전 가치도 크다. 다만 높은 난도와 일부 거친 탄막 판정 및 구형 PC-98 실행 환경은 부담이다. 레트로 탄막 슈팅과 패턴 공략을 즐기는 플레이어에게 추천하는 8.4/10. 한글패치의 존재 여부는 점수에 반영하지 않았다.",
+      "pros": [
+        "레이무·마리사·미마·유카 4명의 이동 속도·공격 범위·화력이 달라 캐릭터별 공략과 반복 플레이의 재미가 뚜렷하다.",
+        "그레이즈·드림 게이지와 점수 아이템을 활용하는 위험 보상 구조, 발전한 보스 탄막이 슈팅의 손맛을 살린다.",
+        "PC-98 FM 음원을 활용한 강렬한 스테이지·보스 음악과 이전 시리즈의 곡까지 포함한 뮤직룸이 매력적이다.",
+        "6개 스테이지와 추가 도전용 익스트라 스테이지, 캐릭터별 대화·엔딩이 짧은 1회 플레이의 반복 가치를 높인다."
+      ],
+      "cons": [
+        "빠르고 밀도 높은 후반 탄막과 익스트라 스테이지는 반복 연습을 요구하며 초보자가 적응하기 어렵다.",
+        "일부 공격의 피격 판정과 급격한 탄속 때문에 현대 탄막 슈팅에 비해 불합리하게 느껴지는 구간이 있다.",
+        "전작 대비 그래픽의 도약 폭은 제한적이고 PC-98의 제한된 색 표현으로 탄막 가독성이 떨어지는 상황이 있다.",
+        "NEC PC-98 전용 원판이라 현대 환경에서의 실행·입력·음원 설정이 번거로울 수 있다."
+      ],
+      "sources": [
+        {
+          "label": "LaunchBox - NEC PC-9801 출시 정보 및 일본판 Box - Front",
+          "url": "https://gamesdb.launchbox-app.com/games/images/75783-touhou-05-mystic-square"
+        },
+        {
+          "label": "GameFAQs - PC-98판 리뷰 (MetroidvaniaFan, 2008)",
+          "url": "https://gamefaqs.gamespot.com/pc98/944663-touhou-kaikidan-mystic-square/reviews/125002"
+        },
+        {
+          "label": "GameFAQs - PC-98판 리뷰 (16-BITTER, 2018)",
+          "url": "https://gamefaqs.gamespot.com/pc98/944663-touhou-kaikidan-mystic-square/reviews/166478"
+        },
+        {
+          "label": "Touhou Wiki - Mystic Square 기본 정보와 시스템",
+          "url": "https://touhou.fandom.com/wiki/Mystic_Square"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/71",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 1998년 일본 NEC PC-9801판 《東方怪綺談 ～ Mystic Square》이다. 해당 패치의 원본 디스크·버전 호환성, 메뉴·대사 번역 범위와 미번역 요소, 적용 방법 및 실행 호환성은 확인하지 않았다. 실기·에뮬레이터 설치 및 적용 시험도 하지 않았다."
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "ChatGPT (공개 자료 기반 편집 평가)",
+      "cover": {
+        "url": "https://images.launchbox-app.com/r2_8ee1ca6d-38ce-4dfd-908d-bdf6fa8558ee.png",
+        "source": "https://gamesdb.launchbox-app.com/games/images/75783-touhou-05-mystic-square",
+        "platform": "pc98",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
