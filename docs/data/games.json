@@ -27990,6 +27990,64 @@
       },
       "reviewedAt": "2026-11-01",
       "reviewer": "ChatGPT (자료 기반 편집 평가)"
+    },
+    {
+      "id": "blood-the-last-vampire-psp",
+      "title": "블러드 더 라스트 뱀파이어",
+      "original": "やるドラ ポータブル BLOOD THE LAST VAMPIRE",
+      "platforms": [
+        "psp"
+      ],
+      "genres": [
+        "ADV",
+        "인터랙티브 애니메이션"
+      ],
+      "score": 7.4,
+      "summary": "2006년 1월 26일 발매된 일본 PSP판 『やるドラ ポータブル BLOOD THE LAST VAMPIRE』(UCJS-10025)를 기준으로 한 공개 자료 기반 편집 평가다. Production I.G의 풀 애니메이션과 음성 연기가 만드는 음울한 호러 분위기, 인물 심리 묘사와 선택에 따른 다중 전개가 돋보인다. PS2 상·하권을 한 장에 합치고 공략 흐름도·엔딩 재생·CG 갤러리·한 손 조작을 더해 원작보다 완성도가 높아졌다. 하지만 타이밍에 맞춰 숨은 분기를 찾아야 하는 BLOOD 서치 시스템은 놓치기 쉽고, 반복 감상과 엔딩 수집의 피로도가 커서 7.4점. 어두운 애니메이션 미스터리와 다회차 분기형 어드벤처를 좋아하는 사람에게 추천한다. 직접 플레이한 평가는 아니며 한글패치 유무는 점수에 반영하지 않았다.",
+      "pros": [
+        "Production I.G의 2시간 이상 분량의 풀 애니메이션, 캐릭터 표정과 성우 연기가 호러·미스터리의 긴장감을 밀도 있게 전달한다.",
+        "17세 주인공과 사야를 둘러싼 인물의 심리 변화, 불길한 세계관과 복선이 선택 분기형 서사에 흡인력을 준다.",
+        "일반 선택지 외에도 BLOOD 레벨과 서치 시스템으로 숨은 분기를 찾는 독특한 상호작용이 있다.",
+        "PSP판은 PS2 상·하권을 통합하고 공략 흐름도, 엔딩 리플레이, 확장된 CG 갤러리와 특별 영상, 한 손 조작을 제공한다."
+      ],
+      "cons": [
+        "BLOOD 서치 시스템의 입력 타이밍과 숨겨진 분기 조건이 불친절해 처음에는 원하는 전개를 찾기 어렵다.",
+        "애니메이션을 세밀히 확인하며 같은 장면을 재감상해야 하므로 반복 플레이와 엔딩 100% 수집의 부담이 크다.",
+        "후반부는 전반부보다 분기 다양성이 감소하고 유사한 결말이 반복돼 반복 공략의 보상이 약하다.",
+        "전반적으로 어둡고 무거운 분위기에 비해 주인공이 소극적으로 반응하는 장면은 호불호가 갈릴 수 있다."
+      ],
+      "sources": [
+        {
+          "label": "GAME Watch - PSP판 발매 및 상·하권 통합, 추가 기능·제작 정보 (2006-01-24)",
+          "url": "https://game.watch.impress.co.jp/docs/20060124/blood.htm"
+        },
+        {
+          "label": "게임 카탈로그@Wiki - 작품 평가, BLOOD 서치 시스템 및 PSP판 개선점",
+          "url": "https://w.atwiki.jp/gcmatome/pages/445.html"
+        },
+        {
+          "label": "GameFAQs - PSP 일본판 UCJS-10025 및 2006-01-26 출시 정보",
+          "url": "https://gamefaqs.gamespot.com/psp/930686-blood-the-last-vampire/data"
+        },
+        {
+          "label": "LaunchBox - PSP 일본판 Box - Front 이미지",
+          "url": "https://gamesdb.launchbox-app.com/games/images/123039-blood-the-last-vampire"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/897",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 대상은 PSP 일본판 『やるドラ ポータブル BLOOD THE LAST VAMPIRE』(UCJS-10025, 2006-01-26)이며 PS2 원작 상·하권이나 다른 『BLOOD』 작품과 구분한다. 패치의 적용 지역·게임 버전, 번역 범위·미번역 부분 및 설치 방법, PSP 실기·에뮬레이터 작동 여부는 확인하지 않았다."
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "ChatGPT (공개 자료 기반 편집 평가)",
+      "cover": {
+        "url": "https://images.launchbox-app.com/43d00f39-61c8-4de2-be98-52dae5cd9238.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/123039-blood-the-last-vampire",
+        "platform": "psp",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
