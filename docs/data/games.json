@@ -24578,6 +24578,79 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "brave-story-new-traveler-psp",
+      "title": "브레이브 스토리: 뉴 트래블러",
+      "original": "ブレイブ ストーリー 新たなる旅人 (Brave Story: New Traveler)",
+      "platforms": [
+        "psp"
+      ],
+      "genres": [
+        "JRPG",
+        "턴제 RPG",
+        "판타지"
+      ],
+      "score": 7.8,
+      "summary": "2006년 7월 6일 일본에 발매된 PSP 일반판 『ブレイブ ストーリー 新たなる旅人』(UCJS-10024)의 자료 기반 편집 평가. 게임 리퍼블릭이 미야베 미유키의 『브레이브 스토리』 세계관을 이용해 제작한 별도의 주인공 타츠야의 판타지 모험으로, 활기찬 동료와 정교한 3D 화면, 세 명의 동료가 사용하는 연계기, 적 종족·속성의 약점과 브레이브 파워를 활용하는 전투, 장신구 제작과 작은 새 수집 등의 부가 콘텐츠가 강점이다. PSP 성능을 잘 활용한 빠른 로딩도 인상적이다. 그러나 전형적이고 예측하기 쉬운 이야기, 높은 랜덤 인카운터 빈도, 반복적인 던전 탐색과 적 구성, 전반적으로 낮은 난도 때문에 7.8점. 새로운 시스템보다 안정적이고 밝은 정통 JRPG를 선호하는 플레이어에게 추천한다. 일본 PSP판 제품 정보와 당시 PSP판 전문 리뷰들을 종합했으며 직접 플레이하지 않았고 한국어 패치 여부는 점수에 반영하지 않았다. 같은 원작을 다룬 PS2판 『ワタルの冒険』 및 북미판 패키지와 구분한다.",
+      "pros": [
+        "미야베 미유키의 판타지 세계 『비전』을 별도 주인공 타츠야와 다채로운 종족의 동료들로 탐험하며 유쾌한 대화와 친근한 모험 분위기를 만든다.",
+        "삼인 파티의 연계 공격과 브라부라 특수기, 공격으로 다시 회복하는 브레이브 파워, 종족·속성 약점 및 강화된 적의 대응 등 익숙한 턴제 전투 안에 적절한 전술 요소가 있다.",
+        "PSP에서 인물 모델과 환경의 3D 묘사가 뛰어나고 마치 만화 같은 타격 연출이 전투의 볼거리를 더한다.",
+        "전투와 장면 전환의 로딩이 매우 짧아 당시 PSP RPG 중에서도 빠르고 쾌적한 진행을 보여준다.",
+        "재료를 모아 장신구를 제작·분해하고 골핀치 새를 수집·육성하는 미니게임과 서브 퀘스트가 모험에 선택적인 즐길 거리를 더한다."
+      ],
+      "cons": [
+        "친구를 구하기 위한 전형적인 소년 영웅 서사로 큰 갈등과 반전이 예측 가능한 편이며 주인공의 무언 설정 때문에 감정 표현이 제한된다.",
+        "랜덤 인카운터가 잦고 미로형 던전에 막다른 길과 비슷한 적들이 반복적으로 배치되어 탐험이 늘어질 수 있다.",
+        "공격으로 특수기 사용 자원이 쉽게 회복되고 기본적인 적이 강하지 않아 대부분의 전투가 쉬우며 심도 있는 전술을 요구하는 구간이 많지 않다.",
+        "많은 부가 퀘스트가 재료 수집·반복 사냥에 의존하고 새 수집 미니게임도 독립적인 깊이가 부족하다.",
+        "전체적인 게임 진행과 탐험·전투 구조가 전통적인 JRPG 관습을 크게 벗어나지 않으며 음악의 인상도 그래픽이나 전투에 비해 상대적으로 약하다."
+      ],
+      "sources": [
+        {
+          "label": "GAME Watch - SCEJ PSP판 발표·원작 세계관을 바탕으로 한 별도 스토리와 PS2판 구분 (2006-04-28)",
+          "url": "https://game.watch.impress.co.jp/docs/20060428/brave.htm"
+        },
+        {
+          "label": "스루가야 - 일본 PSP 일반판 2006-07-06 발매·UCJS-10024",
+          "url": "https://www.suruga-ya.jp/product/detail/177900038"
+        },
+        {
+          "label": "Marvelous USA/XSEED 공식 - Game Republic 개발, PSP판 특징과 북미 출시 정보",
+          "url": "https://marvelous-usa.com/games/brave-story-new-traveler/"
+        },
+        {
+          "label": "RPGFan - 2007년 PSP판 리뷰 (John McCarroll), 전투·제작·스토리·3D·로딩",
+          "url": "https://www.rpgfan.com/review/brave-story-new-traveler/"
+        },
+        {
+          "label": "GameSpot - 2007년 PSP판 리뷰 (Joe Dodson), 랜덤 인카운터·던전·평범한 진행",
+          "url": "https://www.gamespot.com/reviews/brave-story-new-traveler-review/1900-6176740/"
+        },
+        {
+          "label": "WorthPlaying - 2007년 PSP판 리뷰, 부가 콘텐츠·전투 난도·기술적 완성도",
+          "url": "https://worthplaying.com/article/2007/8/9/reviews/44132-psp-review-brave-story-new-traveler/"
+        },
+        {
+          "label": "LaunchBox - 일본 PSP판 Box - Front (1445×2500) 이미지 확인",
+          "url": "https://gamesdb.launchbox-app.com/games/images/14416-brave-story-new-traveler"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/1907",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가·표지는 2006년 7월 6일 일본 PSP 일반판 『ブレイブ ストーリー 新たなる旅人』(UCJS-10024) 기준이며 2007년 북미 PSP판 및 같은 원작의 PS2 『ワタルの冒険』과 구분한다. 제공한 패치가 지원하는 지역·게임 빌드·UMD 리비전, 대사·메뉴·전투 UI·영상 번역 범위 및 미번역 부분, 적용 방법과 배포 상태·버전은 확인하지 않았다. 패치 페이지를 열거나 미리보기·리다이렉트를 추적하지 않았으며 실기·에뮬레이터 설치·구동 시험도 수행하지 않았다."
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/22d9c0fe-87b9-4a97-8eb7-b1546ce1c7b5.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/14416-brave-story-new-traveler",
+        "platform": "psp",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
