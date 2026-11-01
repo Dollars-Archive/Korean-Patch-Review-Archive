@@ -31800,6 +31800,69 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "ebikore-plus-amagami-psvita",
+      "title": "에비코레+ 아마가미",
+      "original": "エビコレ+ アマガミ (EbiKore+ Amagami)",
+      "platforms": [
+        "psvita"
+      ],
+      "genres": [
+        "연애 시뮬레이션",
+        "ADV",
+        "비주얼 노벨"
+      ],
+      "score": 8.8,
+      "summary": "2014년 1월 30일 발매된 일본 PS Vita판 『에비코레+ 아마가미』. 크리스마스를 앞둔 약 한 달의 학원생활을 무대로 개성 있는 여섯 히로인과 관계를 쌓으며, 행동 맵과 대화 턴을 조합해 연애의 흐름을 직접 만드는 재미가 강하다. 생활감 있는 대사, 캐릭터 연기와 음악에 더해 Vita판의 고해상도 캐릭터 그래픽·음질·로딩 개선 및 200점 이상 수록한 일러스트 갤러리가 매력적이다. 다만 공통 일과와 이벤트 해금을 반복하는 다회차 구조가 다소 번거롭고, 후반부에는 대화 선택 폭과 연애의 긴장감이 줄어드는 점이 아쉽다. 8.8점. 일상형 캐릭터 교류와 여러 루트를 천천히 음미하는 연애 ADV 팬에게 추천한다. 공식 소개 및 실제 이용자 리뷰를 바탕으로 한 자료 기반 편집 평가이며 직접 플레이한 점수는 아니다. 한글패치 유무는 평점에 반영하지 않았다.",
+      "pros": [
+        "여섯 히로인이 성격과 관계의 결이 확연히 다르고, 일상 대화와 음성 연기가 캐릭터의 매력을 자연스럽게 살린다.",
+        "행동 맵에서 만남을 고르고 대화 턴에서 화제를 선택하는 구조가 단순한 텍스트 감상에 그치지 않는 연애 시뮬레이션의 손맛을 제공한다.",
+        "PS Vita판에서 인물 그래픽 해상도·음질과 로딩 환경이 개선되어 그림과 연출을 감상하기 편해졌다.",
+        "『아마가미』『키미키스』 관련 일러스트 200점 이상을 담은 갤러리와 미니게임 등 본편 밖의 볼거리도 풍부하다."
+      ],
+      "cons": [
+        "여러 캐릭터의 루트를 보려면 비슷한 날짜 진행과 행동 맵 방문을 반복해야 하므로 회차가 쌓이면 템포가 느려질 수 있다.",
+        "관계가 깊어지는 후반부에는 대화 선택지가 줄고 주인공의 대사가 주도하는 비중이 커져 자유로운 연애 시뮬레이션 감각이 약해질 수 있다.",
+        "후반에는 서로의 호감이 이미 확고해져 관계 진전의 긴장감과 고백 성공의 성취감이 옅어진다는 이용자 비평이 있다.",
+        "기존 작품을 고해상도로 개선한 이식판에 가까워 새로운 본편 루트나 시스템 혁신을 기대하는 기존 팬에게는 변화 폭이 제한적이다."
+      ],
+      "sources": [
+        {
+          "label": "KADOKAWA 공식 제품 정보 - 2014년 PS Vita판",
+          "url": "https://www.kadokawa.co.jp/product/game1531/"
+        },
+        {
+          "label": "4Gamer - PS Vita 이식 개선·갤러리 소개",
+          "url": "https://www.4gamer.net/games/238/G023825/20131101054/"
+        },
+        {
+          "label": "4Gamer - PS Vita판 이용자 리뷰 (2020-12-08), 대화 시스템 및 후반 단점",
+          "url": "https://www.4gamer.net/games/238/G023825/index_userreview.html"
+        },
+        {
+          "label": "가격.com - PS Vita판 실사용 리뷰 (2014-05-01), 화질과 미니게임",
+          "url": "https://review.kakaku.com/review/K0000594476/"
+        },
+        {
+          "label": "LaunchBox - PS Vita 일본판 Box - Front 표지",
+          "url": "https://gamesdb.launchbox-app.com/games/images/370202-amagami-ebkore"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/1479",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2014-01-30 발매된 일본 PS Vita판 『エビコレ+ アマガミ』이며, PS2/PSP판과 구분한다. 해당 한글패치 링크가 정확히 PS Vita판·해당 지역/게임 버전을 지원하는지, 번역 범위·미번역 부분·적용 방법 및 실기/에뮬레이터 호환성은 확인하지 않았다. 링크 접속·파일 다운로드·설치·구동 검증을 하지 않았다."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com/6dff0198-a7ee-46ab-b38c-3edb694af449.png",
+        "source": "https://gamesdb.launchbox-app.com/games/images/370202-amagami-ebkore",
+        "platform": "psvita",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "WebGPT"
     }
   ]
 }
