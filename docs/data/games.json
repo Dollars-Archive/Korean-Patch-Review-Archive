@@ -27597,6 +27597,69 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "valkyrie-profile-ps1",
+      "title": "발키리 프로파일",
+      "original": "ヴァルキリープロファイル (Valkyrie Profile, PlayStation 1999)",
+      "platforms": [
+        "ps1"
+      ],
+      "genres": [
+        "RPG",
+        "액션 요소가 있는 턴제 RPG",
+        "북유럽 신화 판타지"
+      ],
+      "score": 9.1,
+      "summary": "1999년 12월 22일 에닉스가 일본 PS1용으로 발매하고 트라이에이스가 개발한 『발키리 프로파일』 원판 평가. 전쟁을 앞둔 신들의 사자로서 발키리가 죽은 인간 영웅들의 영혼(에인페리아)을 모으며 그들의 사연을 듣는 독창적인 비선형 RPG다. 한 명씩 버튼을 맡는 4인 타이밍 연계 전투, 물리와 퍼즐을 결합한 횡스크롤 던전, 높은 완성도의 2D 캐릭터와 사쿠라바 모토이의 음악, 짧지만 강렬한 인물 에피소드가 특히 뛰어나다. 반면 챕터별 남은 활동 시간 관리, 신계로 전송할 인물 선택과 다층적인 육성 규칙은 이해하기 어렵고, 특정 결말 조건의 불친절함과 일부 까다로운 점프·퍼즐은 진입 장벽이다. 전형적인 마을 중심 JRPG보다 독특한 구조·전략적인 연계 전투·애잔한 이야기를 선호하는 사람에게 강력히 추천하여 9.1/10. 일본 PS1 오리지널판 공식 정보와 해당 판본 리뷰를 토대로 한 자료 기반 편집 평가이며 직접 플레이하지 않았고 한글패치 유무는 점수에 반영하지 않았다.",
+      "pros": [
+        "죽음을 앞둔 에인페리아들의 짧지만 정서적으로 강렬한 사연과 신계 전쟁이라는 큰 줄기를 엮어 비선형 모험에 독특한 서사적 밀도를 만든다.",
+        "캐릭터별로 버튼 하나씩을 배정하고 공격 타이밍·콤보 순서를 맞춰 특수 공격을 잇는 전투가 직관적이면서도 깊이 있고, 스킬·장비 조합이 전략을 넓힌다.",
+        "정교한 2D 캐릭터 도트, 인상적인 초상화와 다층 배경, 절제된 음성 연출이 PS1 후기에 걸맞은 뛰어난 미감을 선보인다.",
+        "사쿠라바 모토이의 음악과 북유럽 신화 소재가 세계관의 장엄함과 인물들의 비극적인 분위기를 잘 살리며, 던전별 이동·수정 활용 퍼즐이 탐험의 개성을 더한다."
+      ],
+      "cons": [
+        "각 챕터에서 소모 가능한 활동 시간과 보낼 영웅의 능력치·평가 기준 등이 복잡해 첫 플레이에서 시스템의 핵심을 놓치기 쉽다.",
+        "중요한 결말의 조건이 게임 안에서 충분히 안내되지 않아 공략 없이 목표를 맞추기 어렵고, 선택에 따른 전개 차이도 일부 플레이어에게 불친절하다.",
+        "정밀한 점프와 수정 발판·오브젝트를 요구하는 일부 횡스크롤 던전은 조작 반응과 시점 때문에 시행착오가 길어질 수 있다.",
+        "동료별 사연이 연속적으로 펼쳐지지만 전체 줄거리는 중간중간 느슨하게 이어져 인물별 에피소드 이후 교류가 부족하거나 진행 속도가 끊겨 보일 수 있다."
+      ],
+      "sources": [
+        {
+          "label": "tri-Ace 공식 작품 목록 - PlayStation 『ヴァルキリープロファイル』, 1999년 12월 22일",
+          "url": "https://www.tri-ace.co.jp/products/consumer.html"
+        },
+        {
+          "label": "RPGFan - Valkyrie Profile 일본 PS1판 리뷰 (Ken Chu, 2000-04-09)",
+          "url": "https://www.rpgfan.com/review/valkyrie-profile-2/"
+        },
+        {
+          "label": "RPGFan - Valkyrie Profile 일본 PS1판 리뷰 (Ryan Mattich, 2000-03-05)",
+          "url": "https://www.rpgfan.com/review/valkyrie-profile-3/"
+        },
+        {
+          "label": "GameSpot - Valkyrie Profile PS1 Import 리뷰 (Andrew Vestal, 2000-08-30)",
+          "url": "https://www.gamespot.com/reviews/valkyrie-profile-import-review/1900-2546102/"
+        },
+        {
+          "label": "LaunchBox - Valkyrie Profile Sony PlayStation 일본판 실제 Box - Front 이미지",
+          "url": "https://gamesdb.launchbox-app.com/games/images/11964-valkyrie-profile"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/1354",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 1999년 12월 22일 발매된 일본 PlayStation 일반판 『ヴァルキリープロファイル』(SLPM-86379~80, 2장 구성)이다. 2005년 PS one Books 재발매판, PSP 『Valkyrie Profile: Lenneth』, 후속작과 구분한다. 이 링크의 지원 판본과 디스크 리비전, 번역 범위·미번역 요소·적용 방식 및 패치 버전·배포 상태는 확인하지 않았고, 실기·에뮬레이터 실행 검증도 하지 않았다."
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "ChatGPT (공개 자료 기반 편집 평가)",
+      "cover": {
+        "url": "https://images.launchbox-app.com/92ddf03b-5314-4243-889a-6cea2963f8d4.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/11964-valkyrie-profile",
+        "platform": "ps1",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
