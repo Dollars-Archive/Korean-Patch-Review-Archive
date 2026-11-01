@@ -34399,6 +34399,75 @@
       },
       "reviewedAt": "2026-11-01",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "tenchi-wo-kurau-ii-shokatsu-koumei-den-fc",
+      "title": "천지를 먹다 Ⅱ: 제갈공명전",
+      "original": "天地を喰らうII 諸葛孔明伝 (Tenchi wo Kurau II: Shokatsu Koumei Den)",
+      "platforms": [
+        "other"
+      ],
+      "genres": [
+        "RPG",
+        "턴제 전략",
+        "역사"
+      ],
+      "score": 8.6,
+      "summary": "1991년 4월 5일 캡콤이 발매한 일본 패미컴(FC)판 『天地を喰らうII 諸葛孔明伝』(CAP-2V)의 자료 기반 편집 평가. 유비군의 삼국지연의 이야기를 따라가며 무장을 편성하는 장편 RPG로, 병사 수를 체력·공격력에 연동하고 군사의 책략·진형·지형·무장별 무기를 활용하는 독자적인 전투 설계가 돋보인다. 전작에 비해 전투·레벨 육성·상점 및 병량 관리 등의 편의성이 개선됐고 다양한 전투 BGM과 연속되는 장수 대결이 극적 긴장감을 살린다. 다만 먼 거리를 여러 번 오가는 심부름과 빠른 이동 수단의 부족, 편성 가능 무장과 진형의 실질적인 활용도 차이, 안내 없이 숨겨진 아이템 등의 구식 불편함을 감안해 8.6/10. 삼국지 영웅담과 고전 턴제 RPG·진형 전술을 좋아하는 플레이어에게 추천한다. 직접 플레이한 점수가 아니며 한글패치의 존재는 점수에 반영하지 않았다.",
+      "pros": [
+        "병사 수가 단순 체력 수치가 아니라 공격 화력과도 연결되어 부대의 소모·회복이 전투에 실질적인 영향을 주는 개성적인 RPG 시스템이다.",
+        "전열에 서는 최대 5명의 무장과 군사, 책략 포인트, 진형·지형 상성을 조합해 전투를 공략하는 전략적 선택지가 있다.",
+        "삼국지연의의 굵직한 사건과 무장들의 역할을 RPG 진행에 결합해 다양한 장수와 전투를 만나는 장대한 캠페인을 제공한다.",
+        "전투 상황에 따른 여러 종류의 곡과 후반 필드 음악 등 후지타 야스아키의 다채로운 BGM이 전투와 원정의 분위기를 살린다.",
+        "전작의 번거로운 병량 관리 삭제, 훈련소, 전원 육성 연동, 가게의 가독성 개선 등으로 진행 편의성과 완성도가 높아졌다."
+      ],
+      "cons": [
+        "빠르게 과거 지역으로 되돌아가는 수단이 부족한 상태에서 먼 거리를 왕복하는 심부름 이벤트가 많아 후반의 진행 템포가 느려진다.",
+        "많은 무장이 등장해도 고성능의 일부 무장 위주로 편성이 굳어지고 여러 진형의 성능차가 커서 육성과 파티 실험의 자유도가 제한된다.",
+        "필드와 마을 바닥의 중요한 보물·장비가 별다른 힌트 없이 숨겨진 경우가 있어 공략 정보에 의존하기 쉽다.",
+        "이벤트에 따라 파티가 강제로 재편성되고 장비 전달·세이브 가능 장소 등에서 오래된 패미컴 RPG 특유의 번거로움이 남는다.",
+        "전작에서 적 무장을 설득하거나 포획해 동료로 삼던 유연한 무장 영입 시스템이 축소되어 수집의 재미는 줄었다."
+      ],
+      "sources": [
+        {
+          "label": "패미통 - 일본 FC판 1991-04-05 발매·장르·제작사",
+          "url": "https://www.famitsu.com/game/title/20046/reviews"
+        },
+        {
+          "label": "피코피코 대백과 - FC판 CAP-2V 기본 정보·게임 소개·이용자 리뷰",
+          "url": "https://www.gavas.jp/products/detail.php?product_id=4174"
+        },
+        {
+          "label": "게임 카탈로그 명작·쿠소게 Wiki - FC판 시스템·음악·장단점 상세 분석",
+          "url": "https://w.atwiki.jp/gcmatome/pages/3437.html"
+        },
+        {
+          "label": "폐허비문 리뷰 (2022-08-28) - 전작 비교·훈련소·왕복 이동·숨겨진 아이템",
+          "url": "https://kiisu.egono.com/main.php?key=tk2"
+        },
+        {
+          "label": "레트로게임 리뷰 Gamei - FC판 평가 (2013), 진형과 전작의 무장 영입 비교",
+          "url": "https://retrogame.xrea.jp/1939"
+        },
+        {
+          "label": "LaunchBox - FC/NES 일본판 Box - Front (Japan) 1360×992 이미지 확인",
+          "url": "https://gamesdb.launchbox-app.com/games/details/20505-tenchi-o-kurau-ii-shokatsu-koumei-den"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/101",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 1991-04-05 일본 패미컴(FC) 『天地を喰らうII 諸葛孔明伝』(CAP-2V) RPG이며 아케이드/PS1/새턴의 벨트스크롤 액션 『天地を喰らうII 赤壁の戦い』와 다른 게임이다. 제공 링크의 지원 ROM 지역·리비전, 번역 범위·미번역 구간, 적용 방법·패치 버전과 실기·에뮬레이터 동작 여부는 확인하지 않았으며 다운로드·설치·실행 검증도 하지 않았다."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com//3016901e-bcf0-4f88-a830-16776e1f11e6.png",
+        "source": "https://gamesdb.launchbox-app.com/games/details/20505-tenchi-o-kurau-ii-shokatsu-koumei-den",
+        "platform": "other",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "WebGPT"
     }
   ]
 }
