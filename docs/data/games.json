@@ -30938,6 +30938,73 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "daikoukai-jidai-iv-rota-nova-psp",
+      "title": "대항해시대 4: ROTA NOVA",
+      "original": "大航海時代IV ～ROTA NOVA～",
+      "platforms": [
+        "psp"
+      ],
+      "genres": [
+        "해양 모험 시뮬레이션",
+        "전략 RPG",
+        "교역"
+      ],
+      "score": 8.2,
+      "summary": "2006년 3월 23일 발매된 일본 PSP판 《大航海時代IV ROTA NOVA》(ULJM-05096) 기준. 16세기 세계의 바다를 누비며 교역품의 시세를 파악하고 도시의 점유율을 늘리며 유적·보물을 탐색하고 해전을 벌이는 해양 모험 시뮬레이션이다. 서로 다른 주인공의 이야기와 '패자의 증표' 탐색이 장기 항해에 목표를 부여하며, PSP판에서는 수익성 높은 '황금 항로'와 새로운 탐색 요소를 더했다. 다만 거대 상단을 만든 뒤에는 재력이 지나치게 늘어나 긴장감이 떨어지고, 특정 이벤트의 조건이 모호하며 PSP 버튼식 메뉴 조작은 DS 터치 조작에 비해 불편할 수 있다. 탐험·무역·세력 확장에 몰입하고 싶은 플레이어에게 8.2/10으로 추천한다. 1999년 원작·닌텐도 DS판·후대 HD판과 구분한 PSP판 공개 자료 기반 편집 평가이며 직접 플레이한 점수는 아니다. 한글패치 유무는 점수에 반영하지 않았다.",
+      "pros": [
+        "항구별 교역품 가격과 유행, 점유율·계약을 살펴 새 항로를 개척하고 이익으로 함대와 세력을 키우는 성장 순환이 중독적이다.",
+        "각기 다른 배경과 목적을 지닌 주인공들, '패자의 증표' 탐색, 유적과 보물 조사로 교역·해전·모험을 하나의 항해담으로 묶는다.",
+        "함선의 개조와 선원 모집, 동맹·외교 및 라이벌 상단과의 해전 등 경제·모험·전투를 넘나드는 선택지가 풍부하다.",
+        "PSP판에 추가된 황금 항로 보상 및 고대 지도·탐색 요소가 휴대기로 즐기는 원작에 새 교역 목표와 수집 동기를 준다."
+      ],
+      "cons": [
+        "무역과 황금 항로 보상이 누적되면 후반 자금이 지나치게 풍부해져 해전과 상단 경쟁의 긴장감이 크게 줄어든다.",
+        "선행 조건을 알기 어려운 이벤트와 탐색 목표, 숨겨진 연동용 암호는 공략 정보 없이 진행할 때 시행착오를 부를 수 있다.",
+        "PSP의 버튼·메뉴 중심 조작은 익숙해지면 플레이할 만하지만 동시대 DS판의 터치 조작에 비해 여러 거래·관리 명령이 번거롭다.",
+        "주인공별 이야기와 지역 제패 목표가 강한 만큼 전작들의 보다 자유로운 항해·인생 시뮬레이션을 기대하면 다소 제한적으로 느껴질 수 있다."
+      ],
+      "sources": [
+        {
+          "label": "코에이테크모 대항해시대 시리즈 연혁 - ROTA NOVA 소개",
+          "url": "https://www.gamecity.ne.jp/uw35th/history.html"
+        },
+        {
+          "label": "패미통 - PSP판 발매일·기종·장르",
+          "url": "https://www.famitsu.com/game/title/8322/page/1"
+        },
+        {
+          "label": "가격.com - PSP판 플레이어 리뷰(교역·황금항로·후반 밸런스)",
+          "url": "https://review.kakaku.com/review/41373510164/"
+        },
+        {
+          "label": "サラネ - PSP판 플레이 후기 및 조작·밸런스 비교",
+          "url": "https://www.sara-net.jp/?p=933694"
+        },
+        {
+          "label": "대항해시대 시리즈 공략 위키 - ROTA NOVA PSP판 변경점",
+          "url": "https://w.atwiki.jp/offlinedaikoukai/pages/89.html"
+        },
+        {
+          "label": "LaunchBox - 일본 PSP판 Box - Front",
+          "url": "https://gamesdb.launchbox-app.com/games/images/120898-daikoukai-jidai-iv-rota-nova"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/492",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2006년 3월 23일 발매 PSP 일본판 《大航海時代IV ROTA NOVA》(ULJM-05096). 1999년 PlayStation판 《PORTO ESTADO》, 닌텐도 DS판 및 2021년 HD판과 구분한다. 제공된 패치의 실제 지원 리비전·번역 범위·미번역 요소·설치 방식 및 PSP 실기/에뮬레이터 작동 여부는 검증하지 않았다."
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "ChatGPT (공개 자료 기반 편집 평가)",
+      "cover": {
+        "url": "https://images.launchbox-app.com/d0233b66-425b-468a-a64c-516ee1b92b9a.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/120898-daikoukai-jidai-iv-rota-nova",
+        "platform": "psp",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
