@@ -32650,6 +32650,69 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "digimon-adventure-psp",
+      "title": "디지몬 어드벤처",
+      "original": "デジモンアドベンチャー (Digimon Adventure)",
+      "platforms": [
+        "psp"
+      ],
+      "genres": [
+        "드라마틱 RPG",
+        "JRPG",
+        "턴제 RPG"
+      ],
+      "score": 7.7,
+      "summary": "2013년 1월 17일 일본에 발매된 PSP판 『デジモンアドベンチャー』. 1999년 TV 애니메이션의 전체 이야기와 극장판 에피소드, 게임 오리지널 요소를 원작 캐릭터와 음악, 진화 연출로 재구성한 드라마틱 RPG다. 타이밍에 따른 행동 순서와 인연 콤보, 디지피스로 개성에 맞게 디지몬을 강화하는 방식은 단순한 턴제 전투에 적절한 깊이를 더한다. 반면 탐험은 단순하고 지도·시점 변경 및 전투 빨리감기가 없으며, 로딩이 잦은 PSP판의 불편함이 남는다. 애니메이션 재현의 강점을 높게 평가하되 RPG 자체의 독창성과 편의성에는 아쉬움이 있어 7.7점. 원작 TV 애니메이션에 애정이 있는 플레이어에게 특히 추천한다. 반다이남코 공식 소개와 PSP판 전문 리뷰를 종합한 자료 기반 편집 평가이며 직접 플레이하지 않았고 한글패치 유무는 평점에 반영하지 않았다.",
+      "pros": [
+        "TV 애니메이션의 전체 에피소드에 극장판 이야기와 오리지널 서브 에피소드를 더해 선택받은 아이들의 모험과 성장을 폭넓게 다시 경험할 수 있다.",
+        "인물·디지몬의 움직임과 크기, 진화 연출, 주제가 및 삽입곡을 재현해 원작 팬의 몰입감과 향수를 살린다.",
+        "공격의 강도에 따라 다음 행동 시점이 달라지고 SHOCK·BREAK 상태 이상과 인연 등급에 따른 인연 콤보가 연계되어 전술적 판단 요소를 제공한다.",
+        "디지피스 합성·장착으로 기술과 능력을 조정하고, 반복 도전이 가능한 디지털 던전에서 육성 재료·아이템을 확보할 수 있다."
+      ],
+      "cons": [
+        "RPG로서 필드 탐험과 퍼즐·아이템 수집이 단순하고 큰 줄거리는 애니메이션을 충실히 따라가기 때문에 게임만의 전개 선택 폭은 제한적이다.",
+        "탐험 중 지도 표시와 카메라 시점 변경이 불가능해 지형을 파악하고 길을 찾기가 불편하다.",
+        "전투 애니메이션 빨리감기·스킵 등의 편의 기능이 부족해 반복 전투의 템포가 떨어지기 쉽다.",
+        "PSP UMD판은 로딩이 자주 발생하며 데이터 인스톨에 749MB 이상의 공간이 필요하므로 설치하지 않을 경우 흐름이 끊길 수 있다."
+      ],
+      "sources": [
+        {
+          "label": "반다이남코 공식 PSP 디지몬 어드벤처 - 발매일·장르·기종",
+          "url": "https://digimon-gameportal.bn-ent.net/product/adventure/sp/"
+        },
+        {
+          "label": "GAME Watch PSP 전문 리뷰 (2013-02-21) - 이야기·전투·인연·디지피스·로드",
+          "url": "https://game.watch.impress.co.jp/docs/review/588278.html"
+        },
+        {
+          "label": "패미통 PSP 4인 리뷰 - 원작 재현·단순한 RPG 구조·맵/스킵 편의성",
+          "url": "https://www.famitsu.com/game/title/28357/reviews"
+        },
+        {
+          "label": "GAME Watch - 디지털 던전과 추가 콘텐츠 소개 (2012-11-16)",
+          "url": "https://game.watch.impress.co.jp/docs/news/574262.html"
+        },
+        {
+          "label": "LaunchBox - 일본 PSP판 Box - Front (646×1111)",
+          "url": "https://gamesdb.launchbox-app.com/games/images/45764-digimon-adventure"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/218",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 게임 평가와 일본판 앞표지는 2013-01-17 발매 일본 PSP용 『デジモンアドベンチャー』 기준이다. PSP 다운로드판의 PS Vita 구동 지원은 별개이며, 『디지몬 월드 리:디지타이즈』 및 다른 디지몬 게임과 혼동하지 않는다. 제공 주소의 실제 지원 게임 지역·리비전, 번역 범위·미번역 요소·패치 버전·배포 상태·적용 방법과 PSP 실기/에뮬레이터 호환 여부는 확인하지 않았다. 해당 주소에 접속하거나 패치를 다운로드·설치·실행한 적이 없다."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com/0bcf3ccf-273d-4678-bf8c-424ca4239ddc.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/45764-digimon-adventure",
+        "platform": "psp",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "WebGPT"
     }
   ]
 }
