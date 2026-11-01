@@ -32257,6 +32257,73 @@
       },
       "reviewedAt": "2026-11-01",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "fire-emblem-the-sacred-stones-gba",
+      "title": "파이어 엠블렘: 성마의 광석",
+      "original": "ファイアーエムブレム 聖魔の光石 (Fire Emblem: The Sacred Stones)",
+      "platforms": [
+        "gba"
+      ],
+      "genres": [
+        "전략 RPG",
+        "턴제 SRPG",
+        "판타지 RPG"
+      ],
+      "score": 8.7,
+      "summary": "2004년 10월 7일 일본 발매 게임보이 어드밴스 일반판 『ファイアーエムブレム 聖魔の光石』(AGB-P-BE8J) 기준. 마기 발 대륙의 전쟁을 배경으로 왕녀 에이리카와 왕자 에프람이 각자의 길을 거쳐 성장하는 독립형 스토리의 전술 RPG다. 무기 삼각상성과 병과별 역할, 유닛 영구 사망의 긴장감을 갖춘 탄탄한 전투에 에이리카/에프람 루트 분기, 두 갈래 상급직 전직, 지원 대화, 자유로운 월드맵과 반복 육성용 탑·유적을 더해 육성·재도전의 선택지를 넓혔다. 선명한 도트 전투 모션과 음악도 훌륭하다. 다만 월드맵 반복 전투로 캐릭터를 쉽게 육성할 수 있고 세스 같은 강력한 초기 유닛 때문에 전작보다 전술 난도가 완화되며, 일부 후반 적 배치는 반복적이다. 단순한 갈등 구도와 현대작보다 불편한 UI, 실수 한 번으로 동료를 잃는 영구 사망도 취향을 탄다. 전투 완성도와 다양한 육성 방식을 높이 평가해 8.7점. 휴대용 정통 전략 RPG에 입문하거나 전직·지원 회차 플레이를 즐기는 팬에게 추천한다. 닌텐도 공식 자료와 GBA판 전문 리뷰를 종합한 편집 평가이며 직접 플레이한 결과는 아니고 한글패치 존재 여부는 점수에 반영하지 않았다.",
+      "pros": [
+        "에이리카와 에프람 중 시점을 선택하는 중반 루트 분기로 다른 맵과 인물 사건을 경험할 수 있고, 다채로운 동료의 지원 대화가 재플레이 동기를 준다.",
+        "검·창·도끼 상성과 지형·이동력·사거리·무기 내구도를 고려하는 턴제 전술의 기본기가 탄탄하며, 유닛 영구 사망 때문에 한 수 한 수에 긴장감이 실린다.",
+        "병과마다 두 가지 상급직 중 하나를 고르는 분기 전직과 견습 유닛 육성은 부대 편성·성장 선택의 재미를 확장한다.",
+        "월드맵의 상점과 선택적 몬스터 전투, 발니의 탑·라그두 유적이 막힌 캐릭터를 육성할 수 있는 자유도를 주고, GBA의 선명한 도트 전투 애니메이션과 전투 음악도 인상적이다."
+      ],
+      "cons": [
+        "월드맵 자유 전투와 탑에서 경험치를 반복해서 모으면 주요 부대가 과도하게 강해져, 제한된 자원으로 어려운 전술을 짜는 시리즈 특유의 긴장감이 약해질 수 있다.",
+        "처음부터 강한 세스 등 일부 유닛의 압도적 성능과 단순한 적 인공지능·배치로 난이도가 비교적 낮고, 일부 후반 스테이지는 적 무리를 처리하는 반복전으로 흐른다.",
+        "전쟁과 가족을 둘러싼 갈등은 매력적이지만 일부 악역의 역할과 이야기 흐름은 전형적이며, 분기 이후 각 루트에서 다루는 분량도 아주 길지는 않다.",
+        "영구 사망을 끌 수 없는 원작 GBA판은 실수의 복구가 불편하고, 작은 화면에서 층층이 여는 메뉴 및 지원 대화 조건을 확인하는 과정은 현대작보다 번거롭다."
+      ],
+      "sources": [
+        {
+          "label": "닌텐도 일본 공식 - GBA판 『ファイアーエムブレム 聖魔の光石』 발매일·시스템·원작 정보",
+          "url": "https://www.nintendo.co.jp/n08/be8j/index.html"
+        },
+        {
+          "label": "닌텐도 일본 공식 - GBA판 세계지도·전직 분기·지원 대화 및 공략본 설명",
+          "url": "https://www.nintendo.co.jp/n08/be8j/koryaku/index.html"
+        },
+        {
+          "label": "RPGFan - Fire Emblem: The Sacred Stones GBA 리뷰 (2005), 자유 육성·난도·전직 분석",
+          "url": "https://www.rpgfan.com/review/fire-emblem-the-sacred-stones/"
+        },
+        {
+          "label": "Nintendo Life - Fire Emblem: The Sacred Stones GBA 리뷰, 분기 시나리오·게임플레이·편의성",
+          "url": "https://www.nintendolife.com/reviews/gba/fire-emblem-the-sacred-stones"
+        },
+        {
+          "label": "스루가야 - 일본 GBA 패키지 제품 AGB-P-BE8J 확인",
+          "url": "https://www.suruga-ya.jp/product/detail/175000675"
+        },
+        {
+          "label": "LaunchBox - GBA 일본판 Box - Front (2000×1286)",
+          "url": "https://gamesdb.launchbox-app.com/games/images/3260-fire-emblem-the-sacred-stones"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/7486",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가·표지의 대상은 2004-10-07 일본 GBA 일반판 『ファイアーエムブレム 聖魔の光石』(AGB-P-BE8J)이며 북미·유럽판, Wii U 가상 콘솔 및 Nintendo Switch Online 버전과 구분한다. 해당 패치의 지원 지역·게임 리비전, 대사·전투·메뉴·지원 대화 등의 번역 범위, 잔존 미번역·적용 방법·배포 버전은 확인하지 않았다. 제공 링크 접속·다운로드·설치 및 GBA 실기·에뮬레이터 구동 검증을 수행하지 않았다."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com/17ab726d-f664-408e-909a-9855a0b084cb.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/3260-fire-emblem-the-sacred-stones",
+        "platform": "gba",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "WebGPT"
     }
   ]
 }
