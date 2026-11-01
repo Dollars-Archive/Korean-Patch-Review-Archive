@@ -30109,6 +30109,75 @@
       },
       "reviewedAt": "2026-11-01",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "shin-megami-tensei-devil-summoner-psp",
+      "title": "진 여신전생 데빌 서머너",
+      "original": "真・女神転生 デビルサマナー (Shin Megami Tensei: Devil Summoner)",
+      "platforms": [
+        "psp"
+      ],
+      "genres": [
+        "RPG",
+        "턴제 RPG",
+        "1인칭 던전 RPG",
+        "악마 수집·육성"
+      ],
+      "score": 7.8,
+      "summary": "2005년 12월 22일 일본 PSP로 발매된 『真・女神転生 デビルサマナー』 일반판(ULJM-05053)을 기준으로 한 공개 자료 기반 편집 평가. 1995년 세가 새턴판의 오컬트 탐정극과 1인칭 미궁을 유지하며, 악마 교섭·합체·충성도 관리·마그네타이트 운용으로 파티를 꾸리는 고전적인 여신전생의 전략적 매력이 살아 있다. PSP판은 악마전서, 노멀·하드 난이도, 백어퍼 사용 제한 완화, 추가 보스, 빨라진 전투와 로딩으로 진입 장벽을 다소 낮췄다. 그러나 높은 랜덤 인카운터와 복잡한 던전, 불친절한 안내·관리 요소는 여전히 부담이고, 세가 새턴판의 낮은 해상도를 유지해 PSP 화면에서 이미지가 작거나 확대 시 흐릿하게 보인다. 음악도 원판보다 가볍다는 평가가 있다. 고난도 던전 탐색과 악마 수집·합체를 좋아하는 사람에게 7.8점으로 추천한다. 직접 플레이한 평점이 아닌 확인 가능한 자료 기반 편집 평가이며 한글패치 유무는 점수에 반영하지 않았다.",
+      "pros": [
+        "악마의 성격·달의 위상에 따라 대화가 달라지는 교섭, 악마 합체와 전열·후열 배치가 얽혀 전투 준비와 파티 구축의 전략성이 높다.",
+        "악마 충성도와 소환 유지에 필요한 마그네타이트를 조절해야 하므로 단순한 레벨업 이상의 관리·육성 재미가 있다. PSP판은 일부 충성도 상승 조건을 완화했다.",
+        "현대 도시 평기시(平崎市)를 무대로 한 하드보일드 탐정·오컬트 분위기, 가네코 가즈마의 악마 디자인과 기묘한 사건 전개가 독자적인 개성을 형성한다.",
+        "PSP판에서는 악마전서로 등록 악마를 다시 소환할 수 있고, 백어퍼 사용 제한 완화·노멀/하드 선택·로딩 및 전투 속도 개선·EX 던전 추가 보스로 원판의 번거로움과 반복 플레이 요소를 보완한다."
+      ],
+      "cons": [
+        "잦은 랜덤 인카운터와 복잡한 1인칭 미궁, 가파른 난도 및 길 찾기가 탐험 흐름을 끊고 상당한 인내심을 요구한다.",
+        "악마 충성도·마그네타이트 유지·교섭 규칙과 메뉴 관리가 충분히 친절하게 안내되지 않아 시리즈 입문자에게 진입 장벽이 높다.",
+        "세가 새턴판의 320×224 기반 화면을 거의 그대로 사용해 PSP에서 원본 크기는 작게 보이고 와이드 확대는 뭉개지거나 가로 비율이 늘어진다.",
+        "장비·아이템 종류 소지 제한, 이벤트 효과를 건너뛰기 어려운 연출, 이동 중 강제 대화 확인 등 구식 편의성 문제가 남아 있다.",
+        "PSP판 음원은 세가 새턴판에 비해 박력과 음색이 약해졌다는 평가가 있어 원작 음악의 분위기를 선호하는 사람에게 아쉬울 수 있다."
+      ],
+      "sources": [
+        {
+          "label": "패미통 - PSP판 출시일, 장르, 배급사 및 제품 정보",
+          "url": "https://www.famitsu.com/game/title/570/reviews"
+        },
+        {
+          "label": "MediaWorld - 일본 PSP 일반판(ULJM-05053), 발매일·공식 소개·패키지 정보",
+          "url": "https://mediaworld.co.jp/products/10210106001"
+        },
+        {
+          "label": "게임카탈로그@Wiki - 세가 새턴 원작과 PSP 이식판 변경점·장단점 평가",
+          "url": "https://w.atwiki.jp/gcmatome/pages/4595.html"
+        },
+        {
+          "label": "第三避難所 - PSP판 변화 분석: 악마전서, 난이도, 로딩, 전투 및 시나리오 비교",
+          "url": "https://daisanhinanjo.nobody.jp/%E7%AC%AC%E4%B8%89%E9%81%BF%E9%9B%A3%E6%89%80.jp/shin_ds/devisama_psp001.html"
+        },
+        {
+          "label": "SCAN-BOX - 시리즈와 PSP 이식판 플레이 평가: 충성도·조작 편의성",
+          "url": "https://ptfeyarn.blog.fc2.com/blog-entry-92.html"
+        },
+        {
+          "label": "LaunchBox - Sony PSP Shin Megami Tensei: Devil Summoner 일본판 Box - Front",
+          "url": "https://gamesdb.launchbox-app.com/games/details/29037-shin-megami-tensei-devil-summoner"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/1455",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2005년 12월 22일 일본 PSP 일반판 『真・女神転生 デビルサマナー』(ULJM-05053)이다. 1995년 세가 새턴 원판과 2007년 PSP 아틀라스 베스트 컬렉션판(ULJM-05237)을 구분한다. 제공된 링크가 어느 판본·UMD 리비전에 적용되는지, 메인 시나리오·악마 대화·메뉴·설명·이미지 번역 범위와 미번역 요소, 패치 적용 절차 및 PSP 실기·에뮬레이터 호환 여부는 확인하지 않았다. 설치·구동 검증도 수행하지 않았다."
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "ChatGPT (공개 자료 기반 편집 평가)",
+      "cover": {
+        "url": "https://images.launchbox-app.com//db76921d-1af9-44a1-aef2-98a71ad987d5.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/details/29037-shin-megami-tensei-devil-summoner",
+        "platform": "psp",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
