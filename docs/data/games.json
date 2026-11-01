@@ -26949,6 +26949,75 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "final-fantasy-tactics-advance-gba",
+      "title": "파이널 판타지 택틱스 어드밴스",
+      "original": "ファイナルファンタジータクティクス アドバンス (Final Fantasy Tactics Advance)",
+      "platforms": [
+        "gba"
+      ],
+      "genres": [
+        "SRPG",
+        "턴제 전략",
+        "판타지"
+      ],
+      "score": 8.5,
+      "summary": "2003년 2월 14일 발매된 일본 GBA판 『ファイナルファンタジータクティクス アドバンス』(AGB-AFXJ-JPN)를 기준으로 한 자료 기반 편집 평가. 마슈와 친구들이 마법의 책을 통해 새로운 이발리스로 들어가는 독립된 이야기로, 인간·모그리·반가·비에라·응모우의 다섯 종족과 다양한 직업, 장비를 장착하고 AP를 축적해 기술을 영구 습득하는 육성 구조가 핵심이다. 턴제 전술 전투와 클랜 임무, 파견 의뢰, 월드맵 배치에 다양한 변수를 주는 로우(법률) 시스템이 결합되어 수십 시간의 육성·전략 재미를 제공한다. 아름다운 픽셀 아트와 개성 있는 캐릭터도 강점이다. 반면 법률이 특정 행동을 금지해 전투 흐름을 끊을 수 있고, 기술 습득과 장비 교체에 반복 작업이 필요하며, 전투 템포와 임무 진행도 느린 편이다. 1997년 PS1 『파이널 판타지 택틱스』보다 이야기의 분위기가 가볍고 정치극의 밀도는 낮다. 조합 연구와 장기 육성을 즐기는 전략 RPG 팬에게 추천하는 8.5점. 일본 GBA 원판을 기준으로 공식 발매·제품 정보와 동시대 전문 리뷰를 참고한 자료 기반 편집 평가이며 직접 플레이한 점수가 아니고 한글패치 존재는 점수에 반영하지 않았다.",
+      "pros": [
+        "인간·모그리·반가·비에라·응모우 다섯 종족에 다수의 직업과 보조 직업을 조합할 수 있어 클랜 편성과 기술 연계의 폭이 넓다.",
+        "장비에 부여된 능력을 AP로 익힌 후 다른 장비로 교체하는 육성 구조가 장기적인 목표와 조합 연구의 재미를 만든다.",
+        "높낮이와 이동 거리, 공격 방향 및 턴 순서를 고려하는 전술 전투에 임무·파견·월드맵 구성 등 다양한 육성 활동이 결합되어 콘텐츠가 풍부하다.",
+        "화사하고 선명한 GBA 픽셀 아트, 개성 있는 종족·직업 디자인과 판타지 음악이 휴대용 화면에 맞는 매력을 전달한다.",
+        "현실의 고민과 환상 세계를 대조하는 독립적인 이발리스 서사로 PS1 작품과 다른 정서의 이야기를 보여 준다."
+      ],
+      "cons": [
+        "전투마다 금지 행동이 달라지는 로우(법률) 시스템이 특정 직업과 기술 사용을 막아 의도치 않은 페널티·투옥을 유발할 수 있다.",
+        "새 기술 습득에 장비별 AP 누적이 필요하고 직업 전환 뒤 장비를 다시 챙겨야 하므로 부대 관리와 성장에 반복 작업이 많다.",
+        "수백 개의 임무 가운데 비슷한 전투와 파견 의뢰가 이어지고 한 차례 전투가 길어 후반부의 진행 속도가 더디게 느껴질 수 있다.",
+        "긴 도입부와 일부 건너뛰기 어려운 대사, 복잡한 메뉴 동선이 재도전과 정보 확인을 번거롭게 만든다.",
+        "서사는 PS1 『파이널 판타지 택틱스』의 정치극보다 단순하고 동화적인 분위기여서 원작의 무거운 전개를 기대한다면 아쉬울 수 있다."
+      ],
+      "sources": [
+        {
+          "label": "GameFAQs - 일본 GBA판 발매일 2003-02-14 및 제품 코드 AGB-AFXJ-JPN",
+          "url": "https://gamefaqs.gamespot.com/gba/560436-final-fantasy-tactics-advance/data"
+        },
+        {
+          "label": "GameSpot - Final Fantasy Tactics Advance Review (2003-09-05), 직업·육성·법률·전투·연출 평가",
+          "url": "https://www.gamespot.com/reviews/final-fantasy-tactics-advance-review/1900-6074647/"
+        },
+        {
+          "label": "RPGFan - Final Fantasy Tactics Advance Review (2003-10-01), 전투·메뉴·로우 시스템 평가",
+          "url": "https://www.rpgfan.com/review/final-fantasy-tactics-advance/"
+        },
+        {
+          "label": "RPGFan - Final Fantasy Tactics Advance Review (2003-10-02), 세계관·직업·법률·확률 전투 평가",
+          "url": "https://www.rpgfan.com/review/final-fantasy-tactics-advance-2/"
+        },
+        {
+          "label": "GameSpot - 2003년 일본 GBA 발매판 체험 기사, 영문판 이전 게임 시스템 확인",
+          "url": "https://www.gamespot.com/articles/hands-onfinal-fantasy-tactics-advance/1100-2911272/"
+        },
+        {
+          "label": "LaunchBox - GBA판 일본 지역 실물 Box - Front",
+          "url": "https://gamesdb.launchbox-app.com/games/images/2369-final-fantasy-tactics-advance"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/1085",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 사용자가 아인브로크 제작자명과 함께 제공했으나 배포자·번역 범위·설치 및 실기 구동을 독립 확인하지 않았다. 평가 대상은 2003-02-14 일본 GBA 일반판 『ファイナルファンタジータクティクス アドバンス』(AGB-AFXJ-JPN)이다. 북미 GBA판(AGB-AFXE-USA) 및 후속 NDS 『Final Fantasy Tactics A2』와 구분한다. 링크의 대응 지역·제품 ID·리비전, 대사·메뉴·임무·법률 UI 번역 범위·미번역 요소, 적용 방법, GBA 실기·에뮬레이터 작동 여부는 확인하지 않았다."
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "ChatGPT (자료 기반 편집 평가)",
+      "cover": {
+        "url": "https://images.launchbox-app.com/a56955ff-8194-42ac-b621-40d62b1495bf.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/2369-final-fantasy-tactics-advance",
+        "platform": "gba",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
