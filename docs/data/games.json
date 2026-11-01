@@ -25116,6 +25116,74 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "shinseiki-gpx-cyber-formula-aratanaru-chousensha-ps1",
+      "title": "신세기 GPX 사이버 포뮬러: 새로운 도전자",
+      "original": "新世紀GPXサイバーフォーミュラ 新たなる挑戦者 (Shinseiki GPX Cyber Formula: Aratanaru Chousensha)",
+      "platforms": [
+        "ps1"
+      ],
+      "genres": [
+        "어드벤처",
+        "비주얼 노벨",
+        "커맨드 선택형 레이스"
+      ],
+      "score": 6.8,
+      "summary": "1999년 3월 18일 일본에서 VAP가 발매한 PlayStation 초판 『新世紀GPXサイバーフォーミュラ 新たなる挑戦者』(SLPS-01958~01959, 2장 구성)의 자료 기반 편집 평가. 애니메이션 『SAGA』와 『SIN』 사이의 오리지널 이야기에서 신인 레이서 시바 세이이치로가 네메시스를 타고 특수 대회 'EXTREME SPEED'에 참가한다. 게임의 중심은 캐릭터와 대화하고 선택지를 고르는 어드벤처이며, 레이스는 차량을 직접 조종하는 대신 시간제한 커맨드 선택과 타이어 세팅으로 분기한다. 원작 출연진의 풍부한 음성, 새 캐릭터와 익숙한 드라이버의 교류, 오리지널 작화·애니메이션과 다양한 레이스 상황은 팬서비스로 훌륭하다. 그러나 느린 대화 전개, 자유로운 저장 부재와 잘못 배치된 세이브 포인트, 반복되는 레이스 음악과 뒤늦은 효과음, 직접 운전할 수 없는 구성은 한계다. 팬이 즐길 만한 매력과 ADV 자체의 완성도를 인정하되 조작감·편의성·전개상의 약점을 반영해 6.8/10점. 원작 캐릭터와 사이드 스토리를 즐기는 팬에게 추천하며, 빠르고 손맛 있는 레이싱 게임을 원한다면 비추천한다. 일본 PS1판 출시 자료와 PS1판 사용자 리뷰·시리즈 리뷰를 종합한 편집 평가이며 직접 플레이한 결과가 아니다. 제공된 한글패치 주소의 상태는 확인하지 않았고 게임 점수에 반영하지 않았다. 2002년 컬렉터즈 에디션 및 2003년 염가판의 별도 패키지와 구분한다.",
+      "pros": [
+        "애니메이션 『SAGA』와 『SIN』 사이를 채우는 새로운 이야기에 시바 세이이치로·유키 레나 등 오리지널 인물이 등장하고, 하야토·카가 등 익숙한 드라이버와의 교류가 원작 팬의 호기심을 자극한다.",
+        "주인공을 제외한 거의 모든 대화에 음성 연기를 넣고 기존 원작 출연진을 활용해 등장인물의 개성을 풍부하게 살렸다.",
+        "다양한 캐릭터 표정 그림, 게임용 오리지널 애니메이션과 3D 머신 모델이 결합해 PS1 시기의 캐릭터 어드벤처로서는 볼거리가 풍부하다.",
+        "레ース 중 제한시간이 있는 행동 커맨드와 타이어 종류 선택이 상황·추월·결과의 여러 분기를 만들며, 별도의 운전 액션 없이도 경기의 선택 압박을 표현한다."
+      ],
+      "cons": [
+        "레이싱을 소재로 삼았지만 가속·조향·드리프트를 직접 조작할 수 없어, 본격적인 3D 레이싱을 기대하면 기대와 실제 내용의 차이가 크다.",
+        "캐릭터 간 이동과 긴 대화가 상당한 분량을 차지하고 사건 전개가 늦게 고조되어, 이야기 자체에 관심이 적으면 초반이 지루하게 느껴질 수 있다.",
+        "저장 지점이 장 사이와 레이스 전후 등으로 제한되며 일부 저장 위치는 차량 세팅 이후여서, 잘못 세팅한 상태를 다시 로드했을 때 바꾸기 어렵다.",
+        "레이스마다 반복되는 단일 배경 음악, 부스트 영상과 효과음이 어긋나는 연출, 선택 커맨드의 시행착오가 몰입을 깬다.",
+        "핵심 이야기의 전체 윤곽을 한 번 알면 반복 플레이의 동기가 약하고, 선택 분기를 다시 보려면 긴 대화 구간을 재진행해야 한다."
+      ],
+      "sources": [
+        {
+          "label": "패미통 - 1999년 일본 PlayStation판 발매일·장르·발매사",
+          "url": "https://www.famitsu.com/game/title/8598/page/1"
+        },
+        {
+          "label": "레트로게임의 전당 - 1999년 초판 SLPS-01958~9 및 2002·2003년 재발매 판본 구분",
+          "url": "https://w.atwiki.jp/yamamura2/pages/12255.html"
+        },
+        {
+          "label": "GameFAQs - PS1판 이용자 상세 리뷰 (2011-10-03), 인물·음성·커맨드 레이스·저장·음향",
+          "url": "https://gamefaqs.gamespot.com/ps/570136-shinseiki-gpx-cyber-formula-aratanaru-chousensha/reviews/148209"
+        },
+        {
+          "label": "CSLBOOK - 사이버 포뮬러 게임 10작 리뷰, PS1 신작 어드벤처와 원작 팬서비스 평가",
+          "url": "https://cslbook.com/game/6602/"
+        },
+        {
+          "label": "콘슈머게임대사전 - PS1판 게임 진행·네메시스·커맨드 레이스·평가",
+          "url": "https://consoledictionary.com/games/22735"
+        },
+        {
+          "label": "Cuchiwaii - PS1 일본판 SLPS-01958~9 실제 오리지널 패키지 앞표지",
+          "url": "https://cuchiwaii.com/products/shinseiki-gpx-cyber-formula-aratanaru-chousensha-playstation-ps1-psone-ps2-ps3-ntsc-jp-cib-slps-01959-9"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/1559",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 및 표지는 일본 PlayStation 1999년 초판 『新世紀GPXサイバーフォーミュラ 新たなる挑戦者』(SLPS-01958~01959, 디스크 2장) 기준이다. 2002년 Collector's Edition(SLPS-03426~7), 2003년 Final Premium판(SLPS-03558~9) 및 후속 PS2 레이싱 게임과 구분한다. 제공된 주소의 실제 지원 지역·디스크·리비전, 어드벤처 대사·커맨드·메뉴·이미지·영상의 번역 범위, 미번역 요소·패치 적용법과 배포 버전은 확인하지 않았다. AI는 패치 링크에 접속하거나 리다이렉트를 추적하지 않았고 PS1 실기·에뮬레이터 적용 및 구동 시험도 하지 않았다."
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://cuchiwaii.com/cdn/shop/files/678E3296-8666-47DE-AB50-6A8025F0976A.jpg?v=1740792209",
+        "source": "https://cuchiwaii.com/products/shinseiki-gpx-cyber-formula-aratanaru-chousensha-playstation-ps1-psone-ps2-ps3-ntsc-jp-cib-slps-01959-9",
+        "platform": "ps1",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
