@@ -24310,6 +24310,67 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "xenosaga-episode-i-der-wille-zur-macht-ps2",
+      "title": "제노사가 에피소드 1: 힘으로의 의지",
+      "original": "ゼノサーガ エピソードI［力への意志］ (Xenosaga Episode I: Der Wille zur Macht)",
+      "platforms": [
+        "ps2"
+      ],
+      "genres": [
+        "턴제 RPG",
+        "SF RPG",
+        "JRPG"
+      ],
+      "score": 8.7,
+      "summary": "2002년 2월 28일 남코가 일본 PS2용으로 발매하고 모노리스 소프트가 제작한 『ゼノサーガ エピソードI［力への意志］』(통상판 SLPS-29002) 평가. 먼 미래의 우주 문명과 그노시스 위협을 배경으로 시온 우즈키·KOS-MOS와 여러 인물의 비밀이 얽히는 스케일 큰 SF 서사를 펼친다. 종교·철학 모티브, 복선과 인물 관계, 전면 음성 이벤트와 시네마틱 연출, 미츠다 야스노리의 오케스트라 음악, 테크 공격·에테르·AGWS를 활용하는 턴제 전투가 강점이다. 반면 긴 비조작 이벤트와 느린 전투 애니메이션이 리듬을 끊고, 시스템·설정 용어의 진입 장벽, 탐색 구간의 음악 부재 및 후속편으로 이어지는 서사도 취향을 가린다. 종합 8.7점. 긴 시네마틱과 방대한 복선을 즐기는 SF·스토리 중심 JRPG 팬에게 적극 추천한다. 일본 PS2 원판 공식 정보 및 PS2판 리뷰에 근거한 편집 평가이며 직접 플레이한 결과가 아니고, 한글패치 유무는 점수에 반영하지 않았다.",
+      "pros": [
+        "시온 우즈키·KOS-MOS·지기·모모 등 서로 다른 상처와 동기를 가진 인물들이 SF·종교·철학적 모티브를 엮어 강한 미스터리와 몰입감을 만든다.",
+        "긴 풀보이스 시네마틱과 인물 표정·카메라 연출, 당시 PS2 기준 인상적인 3D 모델 및 특수효과가 우주 오페라의 규모를 살린다.",
+        "버튼 조합에 따른 기술 공격(테크), AP 관리와 부스트·에테르, 인간·AGWS 기체 전투, 능력치·기술 성장으로 턴제 전투에 전략성이 있다.",
+        "미츠다 야스노리의 오케스트라 중심 음악이 중요한 장면의 감정을 높이며 특히 극적인 이벤트의 연출 완성도가 뛰어나다.",
+        "필드에서 눈에 보이는 적과 조우하고 숨겨진 아이템·세그먼트 도어, 미니게임 등으로 전투 외 탐색과 수집도 제공한다."
+      ],
+      "cons": [
+        "30분을 넘기는 비조작 이벤트가 이어지는 경우가 많아 영상과 실제 플레이가 분리되며 이야기의 긴 호흡을 좋아하지 않는 플레이어에게 큰 장벽이다.",
+        "일부 테크 공격과 마법 연출이 길고 보스전도 느려 반복 전투의 템포가 떨어지며, AGWS 강화에는 비용 부담도 있다.",
+        "낯선 고유명사와 철학·종교 관련 설정 설명이 초반부터 쏟아져 세계관과 전투 육성 시스템을 익히는 데 시간이 걸린다.",
+        "일부 던전과 필드에는 배경 음악이 거의 없어 탐색 분위기가 밋밋할 수 있고, 배경의 반복과 고정 시점이 답답할 때가 있다.",
+        "첫 에피소드가 더 큰 이야기의 서막이라 주요 수수께끼를 완전히 해결하지 않고 끝나 독립적인 결말을 원하는 플레이어에게 아쉬움을 남긴다."
+      ],
+      "sources": [
+        {
+          "label": "남코 공식 보도자료(2002-01-24) - 일본 PS2 원판 발매일·개발사·게임 시스템·단면 2층 DVD",
+          "url": "https://www.bandainamcoent.co.jp/corporate/press/namco/2002/jan/press03.html"
+        },
+        {
+          "label": "RPGFan - 2002년 일본 PS2 원판 리뷰 (WooJin Lee, 2002-03-18): 서사·전투·연출",
+          "url": "https://www.rpgfan.com/review/xenosaga-episode-i-der-wille-zur-macht-4/"
+        },
+        {
+          "label": "GameSpot - PS2판 리뷰 (Greg Kasavin, 2003-02-21): 긴 영상·인물·음악·탐색",
+          "url": "https://www.gamespot.com/reviews/xenosaga-episode-i-der-wille-zur-macht-review/1900-2911361/"
+        },
+        {
+          "label": "LaunchBox - PS2판 일본 원판 Box - Front (Reloaded와 구분)",
+          "url": "https://gamesdb.launchbox-app.com/games/images/5169-xenosaga-episode-i-der-wille-zur-macht"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/1732",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2002년 2월 28일 일본에서 발매한 PS2 원판 『ゼノサーガ エピソードI［力への意志］』(통상판 SLPS-29002, 단면 2층 DVD-ROM)이다. 2003년 일본 PS2 『エピソードI リローディッド』, 북미판 및 NDS 『ゼノサーガ I・II』와 구분한다. 이 링크의 패치가 지원하는 정확한 지역·디스크 리비전, 번역 범위·미번역 메뉴·영상, 설치 방법과 배포 상태·버전은 확인하지 않았다. 패치 설치 또는 PS2 실기·에뮬레이터 구동 검증은 하지 않았으며, 제공 링크를 열거나 미리보기·다운로드·리다이렉트 추적을 하지 않았다."
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/e20ce3d8-8b48-458e-9d71-53fcc00b5856.png",
+        "source": "https://gamesdb.launchbox-app.com/games/images/5169-xenosaga-episode-i-der-wille-zur-macht",
+        "platform": "ps2",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
