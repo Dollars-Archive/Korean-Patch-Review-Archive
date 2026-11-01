@@ -32190,6 +32190,73 @@
       },
       "reviewedAt": "2026-11-01",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "fire-emblem-fuuin-no-tsurugi-gba",
+      "title": "파이어 엠블렘: 봉인의 검",
+      "original": "ファイアーエムブレム 封印の剣 (Fire Emblem: Fuuin no Tsurugi / The Binding Blade)",
+      "platforms": [
+        "gba"
+      ],
+      "genres": [
+        "전략 RPG",
+        "턴제 전술",
+        "SRPG"
+      ],
+      "score": 8.5,
+      "summary": "2002년 3월 29일 일본에서 발매된 GBA판 『파이어 엠블렘: 봉인의 검』(AGB-AFEJ-JPN)을 평가한다. 엘레브 대륙에서 로이가 이끄는 군대의 여정을 그리는 시리즈 최초 GBA 작품으로, 무기 상성·지형·구출·지원회화·영구 사망이 얽혀 한 턴의 선택에 무게를 싣는다. 뚜렷한 개성을 가진 유닛의 성장과 지원회화, 가독성 높은 픽셀 그래픽과 박력 있는 전투 애니메이션, 어려운 전투를 돌파했을 때의 성취감은 매우 뛰어나다. 반면 낮게 느껴지는 명중률, 강한 보스와 급작스러운 적 증원, 반복되는 제압 목표와 다소 전형적인 왕국 간 전쟁 서사는 호불호가 갈린다. 일부 조건부 외전·완전한 결말 조건이 공략 없이 놓치기 쉬운 점도 감점 요소다. 종합 8.5점. 고난도 클래식 SRPG에서 유닛을 신중하게 육성하고 반복 도전을 즐기는 플레이어에게 특히 추천한다. 닌텐도 공식 정보와 독립적인 이용자 리뷰를 바탕으로 한 자료 기반 편집 평가로, 직접 플레이한 점수가 아니다. 한글패치 유무는 평가에 반영하지 않았다.",
+      "pros": [
+        "무기 상성, 지형 보정, 구출, 원거리 공격과 유닛의 역할 분담이 촘촘하게 맞물려 매 턴의 위치 선정이 중요한 정통 전술 RPG의 재미를 제공한다.",
+        "개성 있는 다수의 유닛을 골라 육성하고 지원회화·지원 효과를 조합할 수 있어 캐릭터 교류와 병력 편성의 재플레이 가치가 높다.",
+        "맵 타일과 병종을 한눈에 알아볼 수 있는 선명한 픽셀 표현, 리듬감 있는 전투 애니메이션과 음악이 휴대기 전장에 생동감을 준다.",
+        "장별 압박감과 영구 사망의 위험이 합쳐져 치밀한 전략을 세워 어려운 전투를 돌파했을 때 성취감이 크고, 클리어 후 고난도 모드도 즐길 수 있다."
+      ],
+      "cons": [
+        "일부 보스의 높은 회피·방어 능력과 낮은 명중률 때문에 유리한 배치를 해도 공격 실패가 잦아져 전투가 지나치게 길어질 수 있다.",
+        "적 증원이 등장 직후 움직이는 구간과 까다로운 출현 타이밍은 사전 정보 없이 진행할 때 부당한 유닛 손실과 재도전을 유발하기 쉽다.",
+        "성문·옥좌 제압 중심의 반복 목표와 불균형한 유닛 성능, 로이의 제한적인 성장·전직 시점 때문에 특정 캐릭터 운용에 피로가 쌓일 수 있다.",
+        "외전 진입·완전한 결말에 필요한 숨은 조건을 놓치기 쉽고, 본편의 침공·저항 서사가 다른 시리즈 작품과 비교해 다소 정형적이다."
+      ],
+      "sources": [
+        {
+          "label": "닌텐도 Fire Emblem World 공식 연혁 - 2002-03-29 GBA 출시",
+          "url": "https://www.nintendo.com/jp/fe/history/index.html"
+        },
+        {
+          "label": "닌텐도 Wii U 공식 게임 소개 - 로이, 엘레브 대륙, 튜토리얼 도입",
+          "url": "https://www.nintendo.com/jp/titles/20010000015227.html"
+        },
+        {
+          "label": "GameFAQs - donjieguy 리뷰 (2006-12-18), 지원회화·맵 가독성·난도·재플레이",
+          "url": "https://gamefaqs.gamespot.com/gba/563015-fire-emblem-fuuin-no-tsurugi/reviews/108591"
+        },
+        {
+          "label": "GameFAQs - TrailsOfPersona 리뷰 (2026-01-10), 명중률·보스·적 증원 등의 한계",
+          "url": "https://gamefaqs.gamespot.com/gba/563015-fire-emblem-fuuin-no-tsurugi/reviews/178744"
+        },
+        {
+          "label": "GameFAQs - MrScorpio 리뷰 (2019-01-28), 전투 연출·난도·맵 디자인",
+          "url": "https://gamefaqs.gamespot.com/gba/563015-fire-emblem-fuuin-no-tsurugi/reviews/167613"
+        },
+        {
+          "label": "LaunchBox - GBA 일본판 Box - Front 실제 패키지 이미지",
+          "url": "https://gamesdb.launchbox-app.com/games/images/10735-fire-emblem-the-binding-blade"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/1593",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2002-03-29 발매 일본 GBA 원작 『ファイアーエムブレム 封印の剣』(AGB-AFEJ-JPN)이다. 해당 주소가 실제로 지원하는 ROM/카트리지 지역·리비전, 대사·메뉴·지원회화·이미지의 번역 범위, 미번역 부분 및 패치 적용법은 확인하지 않았다. 파일 다운로드·설치·실기·에뮬레이터 구동 검증을 하지 않았다."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com/8099f833-78f8-42b1-96a6-96aec6a0da6b.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/10735-fire-emblem-the-binding-blade",
+        "platform": "gba",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "WebGPT"
     }
   ]
 }
