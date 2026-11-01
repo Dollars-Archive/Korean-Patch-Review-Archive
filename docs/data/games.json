@@ -30615,6 +30615,79 @@
       },
       "reviewedAt": "2026-11-01",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "dai-3-ji-super-robot-taisen-z-tengoku-hen-ps3",
+      "title": "제3차 슈퍼로봇대전 Z 천옥편",
+      "original": "第3次スーパーロボット大戦Z 天獄篇 (Dai-3-ji Super Robot Taisen Z: Tengoku-hen)",
+      "platforms": [
+        "ps3"
+      ],
+      "genres": [
+        "시뮬레이션 RPG",
+        "턴제 전략",
+        "로봇 크로스오버"
+      ],
+      "score": 7.8,
+      "summary": "2015년 4월 2일 일본 발매 PS3 일반판 『第3次スーパーロボット大戦Z 天獄篇』(BLJS-10299) 기준 공개 자료 기반 편집 평가. 『시옥편』에 이은 Z 시리즈 완결편으로, 수많은 로봇 애니메이션의 인물과 기체를 엮는 크로스오버, 화려한 필살기, 2기 1조 태그 배틀과 택티컬 콤보, 새로운 Z 크리스탈과 부스트 대시를 통한 편성 전략이 매력적이다. PS3판은 짧은 로딩과 보기 편한 정보 표시, 무기별 BGM 편집도 돋보인다. 반면 전작과 유사한 전투 구조, 방대한 대화와 반복 스테이지가 진행을 늘어지게 하고, 일부 참전작 활용 부족과 오리지널 중심 전개, 전작 이해가 필요한 복잡한 설정이 아쉽다. 초반과 중후반의 난도 변화도 크다. Z 시리즈를 따라온 로봇 애니메이션 팬에게 7.8점으로 추천한다. 직접 플레이한 평점이 아니며 한글패치 존재 여부는 점수와 무관하다.",
+      "pros": [
+        "Z 시리즈의 긴 이야기를 매듭짓는 구성과 다양한 로봇 애니메이션의 인물·기체가 만나는 풍부한 크로스오버.",
+        "2기 태그 배틀·마키시멈 브레이크·택티컬 콤보에 부스트 대시·Z 크리스탈이 더해져 행동 순서와 부대 편성의 전략성이 높다.",
+        "참전 기체의 박력 있는 필살기 애니메이션과 무기별 BGM 변경·MP3 설정 기능이 로봇 팬을 만족시킨다.",
+        "짧은 로딩과 전투 연출 스킵, PS Vita판보다 보기 쉬운 PS3판의 정보 표시가 장시간 플레이의 편의성을 높인다.",
+        "『시옥편』·『연옥편』 데이터 연계 보너스, 시나리오 차트와 가이던스가 이전 작품의 진행과 복습을 지원한다."
+      ],
+      "cons": [
+        "전작 『시옥편』의 시스템과 전투 흐름을 거의 계승해 신선함이 부족하고 전투 반복감이 커진다.",
+        "많은 스테이지와 방대한 회화 이벤트 때문에 이야기 전개가 종종 늘어지고 플레이 시간이 길어진다.",
+        "오리지널 이야기의 비중이 커서 일부 참전 작품과 신규 로봇·캐릭터의 개별 서사가 충분히 조명되지 않는다.",
+        "초반 강력한 적과 보스 때문에 어렵지만 중반 이후 강화 시스템과 전력 육성으로 체감 난도가 낮아지는 밸런스 편차가 있다.",
+        "Z 시리즈의 이전 작품과 설정을 충분히 알아야 완결편의 감정선을 따라가기 쉬우며 화면에 표시되는 정보도 복잡하다."
+      ],
+      "sources": [
+        {
+          "label": "PlayStation.Blog 일본 공식 - PS3·PS Vita 발매와 Z 크리스탈·부스트 대시·BGM·링크 보너스",
+          "url": "https://blog.ja.playstation.com/2015/02/06/20150206_srwz/"
+        },
+        {
+          "label": "패미통 - PS3판 전문 리뷰 4인, 전투·UI·편의성·전작과의 차이",
+          "url": "https://www.famitsu.com/game/title/31657/reviews"
+        },
+        {
+          "label": "4Gamer - 일본 PS3판 발매와 완결편 정보",
+          "url": "https://www.4gamer.net/games/285/G028509/20141215056/"
+        },
+        {
+          "label": "Asteroid Cowboy - 일본 PS3판 플레이 감상: 난도·서사·크로스오버",
+          "url": "https://asteroidcowboy.blog.fc2.com/blog-entry-9646.html"
+        },
+        {
+          "label": "요도바시 - 일본 PS3판 이용자 리뷰: 참전작 활용과 전투 연출",
+          "url": "https://www.yodobashi.com/community/product/100000001002583057/3/review.html"
+        },
+        {
+          "label": "MediaWorld - 일본 PS3 일반판 제품 정보 BLJS-10299",
+          "url": "https://mediaworld.co.jp/products/10412594000"
+        },
+        {
+          "label": "GameFAQs - 일본 PS3판 Box Front",
+          "url": "https://gamefaqs.gamespot.com/ps3/103019-dai-3-ji-super-robot-taisen-z-tengoku-hen/boxes/517451"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/4505",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 일본 PS3 일반판 『第3次スーパーロボット大戦Z 天獄篇』(BLJS-10299, 2015-04-02)이며 전편 『시옥편』, 외전 『연옥편』, PS Vita판과 구분한다. 지원 디스크 리비전·다운로드판·업데이트, 시나리오·UI·기체·전투 대사·이미지 번역 범위 및 미번역 요소, 설치 방법과 PS3 실기·에뮬레이터 구동 여부는 확인하지 않았다. 패치 설치·구동 검증도 수행하지 않았다."
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "ChatGPT (공개 자료 기반 편집 평가)",
+      "cover": {
+        "url": "https://gamefaqs.gamespot.com/a/box/5/8/8/500588_front.jpg",
+        "source": "https://gamefaqs.gamespot.com/ps3/103019-dai-3-ji-super-robot-taisen-z-tengoku-hen/boxes/517451",
+        "platform": "ps3",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
