@@ -32123,6 +32123,73 @@
       },
       "reviewedAt": "2026-11-01",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "fire-emblem-genealogy-of-the-holy-war-snes",
+      "title": "파이어 엠블렘: 성전의 계보",
+      "original": "ファイアーエムブレム 聖戦の系譜 (Fire Emblem: Genealogy of the Holy War)",
+      "platforms": [
+        "snes"
+      ],
+      "genres": [
+        "전략 RPG",
+        "SRPG",
+        "턴제 전술"
+      ],
+      "score": 9,
+      "summary": "1996년 5월 14일 일본에서 발매된 슈퍼패미컴 『ファイアーエムブレム 聖戦の系譜』 평가. 유그드랄 대륙의 전쟁과 정치적 갈등을 친자 2세대에 걸쳐 그리는 전략 RPG다. 대륙 규모의 거대한 전장과 복수의 성채를 잇는 공략, 연인 조합에 따라 후대의 성장률·스킬·장비가 달라지는 계승 설계가 이야기와 장기 전략을 깊이 있게 연결한다. 삼각상성·개인 스킬, 인물별 대화와 음악도 인상적이다. 반면 방대한 맵에서의 이동과 적 부대 구성은 반복적일 수 있고, 숨겨진 연애 수치·계승 조건·이벤트와 개인 소지금 및 중고점 거래가 입문 장벽을 만든다. 서사적 규모와 실험적인 육성 시스템의 완성도를 높이 평가해 9.0점. 정치극과 세대별 장기 육성, 깊은 전술 RPG를 좋아한다면 강력 추천한다. 닌텐도 공식 소개 및 SFC판 관련 리뷰를 종합한 자료 기반 편집 평가로 직접 플레이하지 않았으며 한글패치 여부는 점수에 반영하지 않았다.",
+      "pros": [
+        "정치적 음모·국가 간 갈등·인물의 선택이 두 세대의 이야기로 이어지는 장대한 서사가 게임의 핵심 동기와 감정적 무게를 만든다.",
+        "연애 조합이 자녀 세대의 성장률·스킬·장비와 전술 선택에 반영되어 장기 계획, 실험과 재플레이의 재미가 크다.",
+        "여러 성채를 순차적으로 공략하는 광대한 지도와 무기 삼각상성·유닛 스킬·지휘 및 지원 효과가 전쟁을 지휘한다는 감각을 살린다.",
+        "대화 이벤트로 개별 인물의 사연을 살리고, SFC 시대에 어울리는 인상적인 음악과 연출이 이야기의 분위기를 뒷받침한다."
+      ],
+      "cons": [
+        "한 장이 여러 성채와 전장을 아우르는 만큼 이동과 턴 대기가 길고, 적이 비슷한 유닛 단위로 몰려나오는 일부 구간은 단조롭다.",
+        "연애 수치와 자녀의 상속 규칙·보조 이벤트의 조건이 게임 안에서 충분히 설명되지 않아 중요한 선택을 의도치 않게 놓치기 쉽다.",
+        "동료 간 아이템 직접 교환이 불가능해 중고점에서 매각·재구매해야 하며, 캐릭터별 소지금도 관리해야 해 장비 조정이 번거롭다.",
+        "말을 탄 유닛의 기동력이 넓은 지도에서 유리하고 일부 이벤트나 전투는 숨은 조건과 확률에 기대어 유닛별 활용 균형이 고르지 않다."
+      ],
+      "sources": [
+        {
+          "label": "Nintendo Fire Emblem World - SFC 일본 발매일 (1996-05-14)",
+          "url": "https://www.nintendo.com/jp/fe/history/index.html"
+        },
+        {
+          "label": "Nintendo - 성전의 계보 공식 게임 소개, 두 세대의 전쟁과 계승",
+          "url": "https://www.nintendo.com/jp/titles/50010000041167.html"
+        },
+        {
+          "label": "RPGFan - SFC판 상세 리뷰 (2022-08-06), 서사·전술·맵·편의성",
+          "url": "https://www.rpgfan.com/review/fire-emblem-genealogy-of-the-holy-war/"
+        },
+        {
+          "label": "게임 카탈로그@Wiki - SFC판 장점과 단점, 연애 시스템·밸런스",
+          "url": "https://w.atwiki.jp/gcmatome/pages/3657.html"
+        },
+        {
+          "label": "Nintendo - 무기 상성·계승·아이템 거래·지원 효과 공식 설명",
+          "url": "https://www.nintendo.co.jp/wii/vc/vc_fes/vc_fes_10.html"
+        },
+        {
+          "label": "LaunchBox - 일본 SFC판 Box - Front (1226×2218)",
+          "url": "https://gamesdb.launchbox-app.com/games/images/3443-fire-emblem-seisen-no-keifu"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/2057",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가·표지 대상은 1996-05-14 발매 일본 SFC 원작 『ファイアーエムブレム 聖戦の系譜』이며, 다른 기종의 버추얼 콘솔·Nintendo Switch Online 재출시판과 구분한다. 제공 주소의 패치가 지원하는 ROM 지역·리비전, 적용 방식·번역 범위·미번역 부분, 배포 상태 및 버전은 확인하지 않았다. 해당 링크에 접속하지 않았으며 파일 다운로드·설치나 SFC 실기·에뮬레이터 실행 테스트도 하지 않았다."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com/r2_4a0d03d5-d0e7-45f4-bf97-faf28e453483.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/3443-fire-emblem-seisen-no-keifu",
+        "platform": "snes",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "WebGPT"
     }
   ]
 }
