@@ -23914,6 +23914,73 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "ys-seven-psp",
+      "title": "이스 7",
+      "original": "イース7 (Ys Seven)",
+      "platforms": [
+        "psp"
+      ],
+      "genres": [
+        "액션 RPG",
+        "판타지",
+        "파티 액션"
+      ],
+      "score": 8.6,
+      "summary": "2009년 9월 17일 일본 팔콤이 PSP로 발매한 『イース7』(Ys SEVEN) 평가. 아돌과 도기가 알타고 공국을 여행하며 다섯 거대 용과 얽힌 이변을 해결하는 액션 RPG다. 시리즈에 처음 도입한 3인 파티·실시간 캐릭터 교체, 참격·타격·사격 공격 상성, 무기별 스킬과 플래시 가드, 거대 보스전이 경쾌하면서도 전술적인 손맛을 만든다. 팔콤 특유의 힘찬 음악, 재료 수집과 장비 합성, PSP의 어디서든 저장하는 편의성도 강점이다. 다만 도입부가 느리고 전형적인 이야기·인물 묘사, 긴 보스 체력과 반복적인 왕복 이동, 거친 3D 캐릭터 표현이 아쉽다. 종합 8.6점. 속도감 있는 전투·다채로운 보스 공략과 파티 육성을 좋아하는 액션 RPG 팬에게 추천한다. 일본 PSP 원작에 관한 공식 정보와 PSP판 리뷰를 토대로 한 편집 평가이며 직접 플레이한 결과는 아니다. 한국어 패치 유무는 점수에 반영하지 않았다.",
+      "pros": [
+        "3인 파티를 실시간 교체하고 참격·타격·사격 무기 상성을 대응하는 전투가 빠르고 전략적이며 동료 AI도 전투와 재료 채집을 잘 보조한다.",
+        "정확한 타이밍의 플래시 가드·회피, 무기별 습득 스킬과 EX 공격, 거대 보스의 패턴 공략이 높은 손맛과 성취감을 준다.",
+        "알타고의 다양한 지역을 돌아다니며 재료를 모아 무기·방어구를 합성하고 새로운 탐색 능력을 얻는 성장·모험의 흐름이 매력적이다.",
+        "강렬한 록 기반 전투·던전 음악, 간편한 파티 교체, 미니맵과 자유 저장 등 PSP 휴대 플레이에 맞춘 편의성이 좋다."
+      ],
+      "cons": [
+        "전투가 본격적으로 시작되기까지 대화와 상황 설명이 길며, 일부 인물과 스토리의 전개는 전형적인 JRPG 공식에서 크게 벗어나지 못한다.",
+        "일부 대형 보스의 높은 체력과 공격 패턴 때문에 공략보다 긴 소모전처럼 느껴질 수 있고, 특정 구간의 난도도 급격히 올라간다.",
+        "임무·재료 수집과 장비 제작 과정에서 필드·마을·던전을 여러 번 오가는 반복 이동이 발생한다.",
+        "PSP의 3D 캐릭터 모델과 표정·모션은 다소 투박하고, 음성은 전투 기합 정도에 한정되어 긴 이야기 장면의 연출이 심심할 수 있다."
+      ],
+      "sources": [
+        {
+          "label": "일본 팔콤 공식 - Ys SEVEN PSP 일본판 발매일·게임 개요",
+          "url": "https://www.falcom.co.jp/games-data/ys7"
+        },
+        {
+          "label": "일본 팔콤 PSP 『イース7』 공식 소개 - 3인 파티·전투 시스템",
+          "url": "https://www.falcom.co.jp/ys7_psp/"
+        },
+        {
+          "label": "RPGFan - Ys SEVEN PSP 리뷰 (2010-08-28), 전투·조작·도입부·그래픽",
+          "url": "https://www.rpgfan.com/review/ys-seven/"
+        },
+        {
+          "label": "PlayStation Universe - Ys Seven PSP 리뷰 (2010-09-08), 파티 AI·보스·이동·서사",
+          "url": "https://www.psu.com/reviews/ys-seven-review/"
+        },
+        {
+          "label": "GameSpot - Ys Seven PSP 리뷰 (2010-08-23), 전투·제작·보스·이야기",
+          "url": "https://www.gamespot.com/reviews/ys-seven-review/1900-6274314/"
+        },
+        {
+          "label": "LaunchBox - Ys Seven Sony PSP 일본판 실제 앞표지 Box - Front",
+          "url": "https://gamesdb.launchbox-app.com/games/images/12769-ys-seven"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/1969",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가는 일본 팔콤 PSP판 『イース7』(2009년 9월 17일)을 대상으로 한다. 해외 PSP판 및 후속 PC 이식판과 구별하며 제공된 주소가 어느 지역·UMD/PSN 리비전에 대응하는지는 확인하지 않았다. 번역 범위·미번역 대사·메뉴·이미지, 적용 방식, 패치 버전 및 배포 가능 여부를 확인하지 않았다. PSP 실기나 에뮬레이터에 설치·실행한 적 없고, 사용자 제공 주소를 열거나 미리보기·리다이렉트 추적·다운로드도 하지 않았다."
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/e7ed755d-5241-410d-9332-50a933fec08c.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/12769-ys-seven",
+        "platform": "psp",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
