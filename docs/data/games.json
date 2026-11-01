@@ -24440,6 +24440,79 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "gundam-seed-destiny-rengou-vs-zaft-ii-plus-ps2",
+      "title": "기동전사 건담 SEED DESTINY 연합 vs. Z.A.F.T. II PLUS",
+      "original": "機動戦士ガンダムSEED DESTINY 連合vs.Z.A.F.T.II PLUS",
+      "platforms": [
+        "ps2"
+      ],
+      "genres": [
+        "팀 배틀 액션",
+        "3D 메카 액션",
+        "대전 액션"
+      ],
+      "score": 8.6,
+      "summary": "2006년 12월 7일 일본에서 반다이 남코 게임스가 발매한 PS2 일반판 『機動戦士ガンダムSEED DESTINY 連合vs.Z.A.F.T.II PLUS』(SLPS-25718)를 기준으로 한 자료 기반 편집 평가. 캡콤이 개발한 아케이드 『연합 vs. Z.A.F.T. II』의 고속 2대2 모빌슈트 팀 배틀을 충실하게 이식하면서 80종 이상의 기체, P.L.U.S. 미션과 챌린지·갤러리·사운드 모드를 보강했다. 유닛 코스트·부스트·사거리·팀 합류 타이밍과 러시·파워·스피드의 3종 각성 선택이 치열한 기동전의 전략성을 높인다. 신 아스카를 중심으로 인물별 신뢰도를 쌓아 원작 재현 및 IF 협력 미션을 진행하는 P.L.U.S. 모드가 가정용의 긴 플레이 동기를 제공하며, 2인 화면 분할 협력·대전도 즐겁다. 반면 미션 반복, 초심자에게 높은 조작 진입 장벽, 스피드 각성의 상대적 우세와 기체 성능 격차, 온라인 대전 부재 및 아케이드판과 다른 BGM·일부 무장 조정이 아쉽다. 높은 대전 완성도와 PS2 추가 콘텐츠를 높게 보아 8.6/10점. SEED·DESTINY 팬뿐 아니라 빠른 메카 액션과 2대2 협동 전투를 좋아하는 플레이어에게 적극 추천하며, 스토리 감상만 기대하면 조건부 추천. 반다이 남코 공식 소개, 당시 한국 PS2판 평가와 일본 판본 리뷰에 근거한 편집 평가로 직접 플레이하거나 한글패치를 설치하지 않았고 패치 유무는 점수에 반영하지 않았다. 아케이드 원판·PS2 전작·2009/2010년 염가 재발매와 구분한다.",
+      "pros": [
+        "원작의 2대2 팀 배틀을 빠르게 구현하며 기체 코스트, 부스트, 사격·격투 거리, 아군과의 합류 및 적의 빈틈을 읽는 판단이 승패를 바꾸는 깊이 있는 전투 시스템.",
+        "러시·파워·스피드 3종 각성과 개별 무장·기동 특성을 가진 80종 이상의 모빌슈트가 다양한 조합과 전술 실험을 가능하게 한다.",
+        "PS2 전용 P.L.U.S. 모드에서 신 아스카를 중심으로 인물별 미션·신뢰도·동료 출격·IF 협력 관계가 열려 TV 애니메이션 팬에게 풍부한 놀거리를 제공한다.",
+        "아케이드·챌린지·갤러리·사운드 등 가정용 추가 모드와 2인 화면 분할 협력·대전이 전작의 단조로운 가정용 구성을 크게 개선한다.",
+        "원작 음성과 인상적인 BGM, 애니메이션을 떠올리게 하는 모빌슈트 움직임과 기술 연출을 살리면서도 PS2판의 전투 속도와 로딩이 비교적 쾌적하다."
+      ],
+      "cons": [
+        "P.L.U.S. 모드에 미션 수는 많지만 반복적인 적 격파·호위·조건 달성 전투가 누적되어 후반에는 임무를 반복 처리하는 느낌이 강해질 수 있다.",
+        "기체별 입력·캔슬·부스트 및 파트너 관리에 익숙해지기까지 조작 진입 장벽이 있고 일부 고난도 CPU전의 압박이 거세다.",
+        "대전에서는 스피드 각성이 다른 각성보다 강력하고 특정 기체의 성능 차가 커서 경쟁 대전의 균형이 완벽하지 않다.",
+        "가정용 PS2판에는 온라인 대전이 없으며 화면 분할 2인 플레이로 제한되어 아케이드처럼 네 명이 각각 조작하는 2대2 대전을 집에서 재현할 수 없다.",
+        "PS2 이식판에서 일부 원곡 BGM이 제외되고 데스티니 건담의 부메랑 등 특정 무장 성능이 달라져 아케이드판 팬에게 아쉽고, 서사는 긴 원작 줄거리의 충실한 재현보다 개별 미션에 치중한다."
+      ],
+      "sources": [
+        {
+          "label": "반다이 남코 공식 발매 소개 - PS2 2006-12-07, 2대2 팀 배틀·P.L.U.S.·챌린지·80종 이상 기체",
+          "url": "https://www.bandainamcoent.co.jp/corporate/bnours/vol03/pdf/03_18_22.pdf"
+        },
+        {
+          "label": "RCGS 컬렉션 - PS2 일본 정식판 2006-12-07, 캡콤 개발·반다이 남코 발매",
+          "url": "https://collection.rcgs.jp/page/PACKAGE0006082"
+        },
+        {
+          "label": "미디어월드 - 일본 PS2 일반판 SLPS-25718 및 2인 플레이",
+          "url": "https://mediaworld.co.jp/products/10402779001"
+        },
+        {
+          "label": "다나와 DPG - 당시 한국어 전문 리뷰, 빠른 대전·P.L.U.S. 모드·이식·온라인 대전 부재",
+          "url": "https://dpg.danawa.com/news/view?boardSeq=62&listSeq=878975&past=Y"
+        },
+        {
+          "label": "게임 카탈로그@Wiki - 일본 PS2 PLUS 모드 추가 기체·각성·신뢰도·밸런스 및 이식 변경점",
+          "url": "https://w.atwiki.jp/gcmatome/pages/3252.html"
+        },
+        {
+          "label": "JOKO - 일본 PS2판 사용자 후기, 미션 반복성과 협력/대전",
+          "url": "https://www.joko.jp/ps2/review/ti2098.html"
+        },
+        {
+          "label": "LaunchBox - 일본 PS2판 Box - Front 640×906",
+          "url": "https://gamesdb.launchbox-app.com/games/images/129695-kidou-senshi-gundam-seed-destiny-rengou-vs-zaft-ii-plus"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/2039",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2006년 12월 7일 일본 발매 PS2 일반판 『機動戦士ガンダムSEED DESTINY 連合vs.Z.A.F.T.II PLUS』(SLPS-25718)이다. 아케이드 원판 『II』, PS2 전작 『連合vs.Z.A.F.T.』, 2009년 건담 30주년 및 2010년 PlayStation 2 the Best 재발매판과 구별한다. 이 사용자 제공 링크의 실제 지원 지역·디스크 리비전, P.L.U.S. 미션·대사·메뉴의 번역 범위와 미번역, 적용 절차, 배포 버전 및 동작 상태는 확인하지 않았다. PS2 실기/에뮬레이터 패치 설치·실행 검증도 수행하지 않았다."
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/2ecb0cfe-5299-4414-be55-eb96b411fbfc.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/129695-kidou-senshi-gundam-seed-destiny-rengou-vs-zaft-ii-plus",
+        "platform": "ps2",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
