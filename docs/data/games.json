@@ -35297,6 +35297,69 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "shining-ark-psp",
+      "title": "샤이닝 아크",
+      "original": "シャイニング・アーク (Shining Ark)",
+      "platforms": [
+        "psp"
+      ],
+      "genres": [
+        "RPG",
+        "턴제 커맨드 배틀",
+        "생활 시뮬레이션"
+      ],
+      "score": 8,
+      "summary": "2013년 2월 28일 일본 발매 PSP판에 대한 공개 자료 기반 편집 평가. Tony의 개성적인 캐릭터 디자인과 풍부한 성우 연기, 소녀 파니스와 섬 주민들의 따뜻한 교류가 매력적이다. 인물별 행동 순서·위치·연계 공격을 활용하는 커맨드 전투에 빵 만들기, 낚시, 재배, 거래, 마을 발전을 접목해 할 거리가 풍성하다. 다만 느린 초반과 반복적인 생활 루틴, 비교적 낮은 난도, 파니스의 직접 조작 불가가 호불호 요소여서 8.0/10점. 캐릭터 중심의 느긋한 판타지 RPG와 수집·제작을 좋아하는 이용자에게 추천한다. 직접 플레이한 평가는 아니며 한글패치 유무는 점수에 반영하지 않았다.",
+      "pros": [
+        "Tony가 디자인한 캐릭터와 풍부한 음성 이벤트, 섬 주민 및 파니스와의 교류가 밝고 따뜻한 이야기 분위기를 만든다.",
+        "아군·적군 공통의 행동 순서, 이동·가드, 위치 선정, 링크 어택과 동행 이동(듀오)을 엮은 전투가 직관적이면서도 전술적인 조합의 재미를 준다.",
+        "재배·낚시·빵 굽기·교역·마을 발전이 전투 보조와 캐릭터 교류로 이어져 일상과 모험이 자연스럽게 연결된다.",
+        "카주얼·스탠더드 난도 변경, 준비 후 퀘스트 진행, 갤러리와 동료 이벤트 등 부담을 낮추는 장치와 즐길 거리가 다양하다."
+      ],
+      "cons": [
+        "튜토리얼 중심의 초반 전개가 느리고 활동이 차례로 해금되어 본격적인 재미가 나오기까지 시간이 걸린다.",
+        "채집·제작·마을 관련 일과와 퀘스트를 반복하는 흐름이 느긋한 생활형 RPG를 선호하지 않는 이용자에게 단조로울 수 있다.",
+        "전투 시스템에는 전략성이 있지만 기본 난도가 비교적 낮은 편이라 치열한 전술 RPG를 원하는 이용자에게 긴장감이 부족할 수 있다.",
+        "파니스는 기분에 따라 행동하는 비직접 조작 동료라 캐릭터성은 살아나지만 원하는 타이밍에 회복·지원·공격을 확정하기 어렵다."
+      ],
+      "sources": [
+        {
+          "label": "SEGA 샤이닝 시리즈 공식 PSP 작품 소개",
+          "url": "https://shining-world.jp/portal/game/psp.shtml"
+        },
+        {
+          "label": "패미통 - PSP 샤이닝 아크 크로스 리뷰와 평가",
+          "url": "https://www.famitsu.com/game/title/28663/reviews"
+        },
+        {
+          "label": "GAME Watch - PSP 샤이닝 아크 리뷰 (3부 종합)",
+          "url": "https://game.watch.impress.co.jp/docs/review/590524.html"
+        },
+        {
+          "label": "4Gamer - PSP 샤이닝 아크 플레이 리포트",
+          "url": "https://www.4gamer.net/games/189/G018944/20130228041/"
+        },
+        {
+          "label": "LaunchBox Games Database - 일본 PSP Box - Front",
+          "url": "https://gamesdb.launchbox-app.com/games/images/107537-shining-ark"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/7507",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2013년 2월 28일 발매 일본 PSP판(シャイニング・アーク)이다. 패치 적용 가능한 게임 리비전, 번역 범위와 미번역 요소, 설치 방식 및 PSP 실기·에뮬레이터 호환성은 확인하지 않았으며 직접 적용·실행하지 않았다."
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "ChatGPT (공개 자료 기반 편집 평가)",
+      "cover": {
+        "url": "https://images.launchbox-app.com/e599bc9e-44c2-49d4-b390-9ac66e238816.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/107537-shining-ark",
+        "platform": "psp",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
