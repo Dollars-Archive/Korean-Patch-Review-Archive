@@ -27726,6 +27726,69 @@
       },
       "reviewedAt": "2026-11-01",
       "reviewer": "ChatGPT (자료 기반 편집 평가)"
+    },
+    {
+      "id": "yu-gi-oh-gx-tag-force-2-psp",
+      "title": "유희왕 GX 태그포스 2",
+      "original": "遊戯王デュエルモンスターズGX TAG FORCE 2 (Yu-Gi-Oh! GX Tag Force 2)",
+      "platforms": [
+        "psp"
+      ],
+      "genres": [
+        "카드 배틀",
+        "전략",
+        "수집형 카드 게임"
+      ],
+      "score": 7.3,
+      "summary": "2007년 9월 27일 일본 PSP로 발매된 코나미의 『유희왕 듀얼몬스터즈 GX 태그포스 2』 원판 평가. OCG 『TACTICAL EVOLUTION』까지의 카드 약 2,800장 이상을 수록하고 덱 편집·카드 수집·듀얼 아카데미에서의 동료와의 교류를 중심으로, 파트너와 팀을 이루는 2대2 태그 듀얼과 PSP 애드혹 최대 4인 대전으로 전작의 재미를 확장했다. 대량의 카드와 덱 전략, GX 인물들의 팬 서비스 및 다양한 도전 과제는 만족스럽지만, 전작에서 크게 달라지지 않은 진행과 연출, 덱 확보에 필요한 반복 듀얼, 복잡한 규칙과 장황한 대화가 진입 장벽이다. 팬에게는 풍성한 카드 게임이지만 일반적인 게임 완성도는 평범한 부분도 있어 7.3/10. 원작 카드 게임과 GX 캐릭터를 좋아하고 덱 연구를 즐기는 사람에게 추천한다. 코나미 공식 정보와 PSP판 당시 리뷰에 따른 편집 평가로 직접 플레이하지 않았고 한국어 패치 존재 여부는 점수에 반영하지 않았다.",
+      "pros": [
+        "『TACTICAL EVOLUTION』까지 수록한 2,800장 이상의 카드로 다양한 테마·콤보 덱을 직접 제작하고 조정하는 전략적인 재미가 크다.",
+        "듀얼 아카데미에서 원하는 GX 캐릭터와 동료가 되어 호감도를 쌓고 함께 태그 듀얼에 참여하는 구조가 애니메이션 팬에게 매력적이다.",
+        "PSP 애드혹으로 4인 2대2 태그 듀얼을 즐길 수 있고, 자유 듀얼·카드 교환·100개 이상의 도전 과제 등이 카드 배틀의 수명을 늘린다.",
+        "카드 앨범·덱 편집 및 상황별 도움말과 튜토리얼을 제공하여 많은 카드를 정리하고 전술을 실험할 도구가 충실하다."
+      ],
+      "cons": [
+        "전작과 비교해 그래픽과 탐험 구조, 전반적인 진행의 변화가 작아 카드 수가 늘어난 것 외의 새로운 체감 요소는 제한적이다.",
+        "덱 구축에 필요한 카드와 DP를 모으기 위해 비슷한 듀얼을 거듭하게 되고, 스토리 진행의 대화가 길어 템포가 느리다.",
+        "카드 효과와 복잡한 게임 규칙, 다층적인 덱 관리로 처음 유희왕을 접하는 이용자의 진입 장벽이 높다.",
+        "애니메이션 연출과 캐릭터 교류는 팬에게 반갑지만 서사 자체는 얕고, 카드 전투 중심의 반복성 때문에 캐릭터에 관심이 적은 이용자는 쉽게 지칠 수 있다."
+      ],
+      "sources": [
+        {
+          "label": "코나미 공식 - 遊戯王デュエルモンスターズGX TAG FORCE2 (일본 PSP 발매·애드혹)",
+          "url": "https://www.konami.com/games/jp/ja/products/yugioh_tf2_psp/"
+        },
+        {
+          "label": "Neowing 일본 판매 자료 - 일본 PSP판 2,800장 이상 수록·태그 듀얼·출시일",
+          "url": "https://www.neowing.co.jp/product/VP040-J1"
+        },
+        {
+          "label": "WorthPlaying - Yu-Gi-Oh! GX Tag Force 2 PSP 리뷰 (2007-12-01)",
+          "url": "https://worthplaying.com/article/2007/12/1/reviews/47125-psp-review-yu-gi-oh-gx-tag-force-2/"
+        },
+        {
+          "label": "Cheat Code Central - Yu-Gi-Oh! GX Tag Force 2 PSP 리뷰 (2007-10-12)",
+          "url": "https://www.cheatcc.com/articles/yu-gi-oh-tag-force-2-review-for-the-playstation-portable-psp-psp/"
+        },
+        {
+          "label": "LaunchBox - Yu-Gi-Oh! GX Tag Force 2 PSP 일본판 Box - Front",
+          "url": "https://gamesdb.launchbox-app.com/games/images/24392-yu-gi-oh-gx-tag-force-2"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/899",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 게임 평가는 일본 PSP 일반판 『遊戯王デュエルモンスターズGX TAG FORCE 2』(2007-09-27)를 대상으로 한다. 제공된 URL이 지원하는 일본판·북미판·유럽판 및 리비전은 미확인이고 번역 범위, 미번역 카드·메뉴·스토리, 패치 적용 방법, 버전과 배포 가능 여부도 검증하지 않았다. PSP 실기·에뮬레이터에서의 적용·구동을 확인하지 않았다."
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "ChatGPT (공개 자료 기반 편집 평가)",
+      "cover": {
+        "url": "https://images.launchbox-app.com/18f90eb1-b506-4333-9c3f-593c694cc6fe.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/24392-yu-gi-oh-gx-tag-force-2",
+        "platform": "psp",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
