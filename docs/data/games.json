@@ -27141,6 +27141,65 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "valkyria-chronicles-2-psp",
+      "title": "전장의 발큐리아 2",
+      "original": "戦場のヴァルキュリア2 ガリア王立士官学校 (Valkyria Chronicles II)",
+      "platforms": [
+        "psp"
+      ],
+      "genres": [
+        "SRPG",
+        "전략 RPG",
+        "턴제 전술"
+      ],
+      "score": 8.4,
+      "summary": "2010년 1월 21일 세가가 일본 PSP로 발매한 『전장의 발큐리아 2: 갈리아 왕립사관학교』를 평가한다. 1편의 턴제 지휘와 직접 조작을 결합한 BLiTZ 전투를 유지하면서 35종 병과와 세밀한 무기·전차 개조, 동료별 에피소드 및 협동·대전 모드를 확장했다. 제한된 휴대기 성능에서도 전술적 선택과 육성의 깊이가 살아 있고, 전장에서 펼쳐지는 개성적인 수채화풍 표현도 매력적이다. 반면 좁은 전장을 분할해 반복 사용하는 미션 구성, 간헐적으로 둔한 적 AI, 육성 재료와 진급 조건의 반복 작업, 전작보다 가벼운 학원물 이야기의 비중이 발목을 잡는다. 전술 RPG의 전투·부대 육성을 우선하는 이에게 추천해 8.4/10. 일본 PSP판 공식 정보와 전문 리뷰에 근거한 편집 평가이며 직접 플레이한 점수는 아니고 한글패치 여부는 반영하지 않았다.",
+      "pros": [
+        "작전 지도에서 명령을 내린 뒤 병사를 직접 움직여 엄폐·사격·거점 점령을 수행하는 BLiTZ 시스템이 턴제 전략과 현장 판단을 자연스럽게 결합한다.",
+        "기본 5병과에서 분화하는 30개 상급 병과, 다양한 무기와 전차·장갑차 개조, 병사별 잠재 능력이 장기적인 부대 편성과 육성의 재미를 만든다.",
+        "30명이 넘는 동급생의 개인 에피소드와 학교 생활 이벤트를 통해 전투에 투입하는 동료들에 애착이 쌓인다.",
+        "200개 이상의 미션과 PSP 애드혹 2~4인 협동·대전 기능, 선명한 캐릭터 일러스트와 사키모토 히토시의 음악으로 휴대용 전략 RPG로서 콘텐츠가 충실하다."
+      ],
+      "cons": [
+        "PSP판의 작은 맵을 구획으로 나누고 같은 지형을 자주 재사용해 전작의 넓은 전장과 전술적 규모감이 약해졌다.",
+        "병과 진급과 장비 개발에 특정 전투의 공적·재료가 요구되어 같은 임무를 반복하는 육성 작업이 생기며, 미션 목표도 거점 점령·방어 등에 치우친다.",
+        "적 AI가 유리한 기회를 놓치는 사례가 있고 난이도 상승도 고르지 않아 공들여 육성한 부대의 전술적 실험이 반드시 도전으로 이어지지는 않는다.",
+        "학생들의 일상·가벼운 개그 중심 전개로 전작의 비장한 전쟁 서사가 옅어졌으며 일부 인물은 전형적이고, 휴대기판의 폴리곤·음성 연출은 PS3 전작보다 축소됐다."
+      ],
+      "sources": [
+        {
+          "label": "세가 공식 - 『戦場のヴァルキュリア2』 PSP 일본판 소개·발매일·시스템",
+          "url": "https://portal.valkyria.jp/vc2/"
+        },
+        {
+          "label": "RPGFan - Valkyria Chronicles II 일본 PSP판 리뷰 (2010-03-05)",
+          "url": "https://www.rpgfan.com/review/valkyria-chronicles-ii-2/"
+        },
+        {
+          "label": "GameSpot - Valkyria Chronicles II PSP 리뷰 (2010-09-08)",
+          "url": "https://www.gamespot.com/reviews/valkyria-chronicles-ii-review/1900-6275342/"
+        },
+        {
+          "label": "LaunchBox - Valkyria Chronicles II PSP 일본판 Box - Front",
+          "url": "https://gamesdb.launchbox-app.com/games/images/12998-valkyria-chronicles-ii"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/1195",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2010년 일본 발매 PSP 『戦場のヴァルキュリア2 ガリア王立士官学校』 일반판이다. 제공된 한글패치의 일본판·북미판·SEGA THE BEST판별 호환성과 적용 대상 리비전, 번역 범위·미번역 요소·적용 방식은 확인하지 않았다. 실기·에뮬레이터 설치나 실행도 검증하지 않았다."
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "ChatGPT (공개 자료 기반 편집 평가)",
+      "cover": {
+        "url": "https://images.launchbox-app.com/0de2ecb7-c2a1-4fda-9039-13d01a69e442.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/12998-valkyria-chronicles-ii",
+        "platform": "psp",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
