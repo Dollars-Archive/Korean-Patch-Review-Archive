@@ -32451,6 +32451,73 @@
       },
       "reviewedAt": "2026-11-01",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "devil-survivor-overclocked-3ds",
+      "title": "데빌 서바이버: 오버클럭",
+      "original": "デビルサバイバー オーバークロック (Shin Megami Tensei: Devil Survivor Overclocked)",
+      "platforms": [
+        "3ds"
+      ],
+      "genres": [
+        "전략 RPG",
+        "턴제 RPG",
+        "악마 수집·육성"
+      ],
+      "score": 8.8,
+      "summary": "2011년 9월 1일 일본에서 발매된 닌텐도 3DS 일반판 『デビルサバイバー オーバークロック』(CTR-P-ADVJ) 기준. 악마 출현으로 봉쇄된 도쿄에서 7일간 살아남기 위해 행동과 동맹을 선택하는 분기형 서사와 악마 소환·육성을 결합한 전략 RPG다. 일별 시간 경과와 사망 예고가 사건에 긴박감을 주고, 3인 팀의 맵 전술 및 약점·추가 턴을 노리는 턴제 전투, 악마 경매·합체·스킬 크랙이 깊이 있는 파티 운영을 완성한다. 3DS판에는 주요 대사의 음성 연기, 일부 루트의 8일째 후일담, 악마 전서, 새로운 악마·스킬, 편의성과 재도전 보상 등이 추가되어 DS 원작보다 충실한 판본이 되었다. 다만 일부 필수 전투의 난도 상승과 반복 육성이 까다롭고, 인물 이동·시간 선택에 따라 이벤트를 놓칠 수 있으며, 기존 DS 그래픽과 제한적인 3D 표현 때문에 이식판 특유의 낡은 인상이 남는다. 모든 엔딩에 8일째가 추가된 것은 아니다. 전술적 악마 육성과 선택의 무게가 실린 이야기를 선호하는 플레이어에게 추천하는 8.8점. ATLUS 공식 정보와 3DS판 리뷰를 종합한 자료 기반 편집 평가이며 직접 플레이한 점수가 아니고 한글패치 유무는 평점에 반영하지 않았다.",
+      "pros": [
+        "정부에 봉쇄된 도쿄와 남은 일수·죽음 예고라는 설정 아래 플레이어가 누구를 돕고 어느 진영에 설지 선택하며, 결정에 따라 사건과 결말이 달라지는 생존 서사가 강한 몰입감을 준다.",
+        "격자 맵에서 3인 팀을 배치·이동시키고 적 팀과 접촉하면 약점 속성과 추가 턴을 고려한 턴제 전투로 이어지는 구조가 전술과 JRPG 전투의 장점을 결합한다.",
+        "악마 경매·합체와 스킬 크랙, 종족별 이동·지원 능력, 속성 내성 조합으로 난관을 공략하는 파티 빌드의 자유도와 실험성이 높다.",
+        "3DS판은 풍부한 음성 대사, 일부 분기의 8일째 추가 시나리오, 악마 전서·신규 악마/스킬, 배속 전투와 다회차 보상 등으로 원작의 볼륨과 편의성을 강화했다."
+      ],
+      "cons": [
+        "특정 보스 및 구출 임무에서 난도가 급격히 상승하고, 악마 합체·내성·스킬 준비가 부족하면 같은 전투를 여러 차례 다시 해야 할 수 있다.",
+        "시간을 소비하는 장소 방문과 사건 선택 때문에 중요 이벤트나 인물 관련 분기를 놓치기 쉽고, 모든 분기를 보려면 여러 회차가 필요하다.",
+        "원작 DS판의 그래픽·애니메이션을 크게 바꾸지 않아 3DS 고유의 시각적 개선은 미미하고, 입체시 표현의 활용도도 낮다.",
+        "추가 8일째 시나리오가 모든 결말을 다루지 않으며, 많은 대사에 음성이 붙었지만 연기 취향은 갈릴 수 있고 반복되는 전투 화면이 긴 플레이에 피로감을 준다."
+      ],
+      "sources": [
+        {
+          "label": "ATLUS 일본 공식 - 데빌 서바이버 오버클럭 3DS 소개·스토리·추가 요소",
+          "url": "https://www.atlus.co.jp/title-archive/dsoc/"
+        },
+        {
+          "label": "스루가야 - 2011-09-01 일본 닌텐도 3DS 일반판 CTR-P-ADVJ 제품 정보",
+          "url": "https://www.suruga-ya.jp/product/detail/104000093"
+        },
+        {
+          "label": "RPGFan - Shin Megami Tensei: Devil Survivor Overclocked 3DS 리뷰 (2011-09-16), 8일째·합체·전서·연출 평가",
+          "url": "https://www.rpgfan.com/review/shin-megami-tensei-devil-survivor-overclocked/"
+        },
+        {
+          "label": "Nintendo Life - Shin Megami Tensei: Devil Survivor Overclocked 3DS 리뷰 (2011-10-03), 전술·스토리·3DS 이식 평가",
+          "url": "https://www.nintendolife.com/reviews/2011/10/shin_megami_tensei_devil_survivor_overclocked_3ds"
+        },
+        {
+          "label": "RPGamer - Devil Survivor Overclocked 리뷰, 추가 콘텐츠와 재도전·음성 평가",
+          "url": "https://rpgamer.com/review/shin-megami-tensei-devil-survivor-overclocked-review/"
+        },
+        {
+          "label": "LaunchBox - 닌텐도 3DS 일본판 Box - Front (500×443)",
+          "url": "https://gamesdb.launchbox-app.com/games/images/12880-shin-megami-tensei-devil-survivor-overclocked"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/1598",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가와 표지는 2011-09-01 발매 일본 닌텐도 3DS 일반판 『デビルサバイバー オーバークロック』(CTR-P-ADVJ) 기준이다. 2009년 DS 원작 『女神異聞録デビルサバイバー』 및 『데빌 서바이버 2』와 구분한다. 패치가 실제 지원하는 지역·카트리지/다운로드판·게임 리비전, 대사·전투·메뉴·8일째 시나리오의 번역 범위·잔존 미번역, 적용 방법과 배포 버전은 확인하지 않았다. 제공 URL을 열지 않았고 다운로드·설치 및 3DS 실기·에뮬레이터 구동 시험도 수행하지 않았다."
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/5c107443-fa06-4639-9e48-f6ddf83add2f.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/12880-shin-megami-tensei-devil-survivor-overclocked",
+        "platform": "3ds",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
