@@ -26242,6 +26242,73 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "black-rock-shooter-the-game-psp",
+      "title": "블랙 록 슈터 더 게임",
+      "original": "ブラック★ロックシューター THE GAME (Black Rock Shooter: The Game)",
+      "platforms": [
+        "psp"
+      ],
+      "genres": [
+        "액션 RPG",
+        "SF",
+        "슈팅"
+      ],
+      "score": 7.4,
+      "summary": "2011년 8월 25일 일본 PSP 일반판 『ブラック★ロックシューター THE GAME』(JRPG-00002)을 대상으로 한 공개 자료 기반 편집 평가. 외계 침공으로 인류가 거의 사라진 미래에 깨어난 BRS를 주인공으로, huke 원안의 인물과 황폐한 세계, ufotable의 오프닝과 록 음악이 강한 분위기를 만든다. 실시간 조준·사격에 회피와 방어 타이밍, 과열 관리와 스킬 세팅을 결합한 전투는 간결하면서도 보스전에서 상당한 긴장감을 제공하며, 미션 성과에 따른 스킬 성장과 클리어 후 추가 도전이 즐길 거리를 늘린다. 반면 적 조합과 임무 목표가 반복되고, 전투 중 이동이 제한되며, 좁고 직선적인 필드 탐험과 되풀이되는 바이크 구간으로 진행의 다양성이 부족해 7.4/10. 스타일리시한 SF 캐릭터와 리듬감 있는 사격·회피 전투를 좋아하는 플레이어에게 추천한다. 일본 PSP 일반판에 대한 자료 기반 편집 평가로 직접 플레이하지 않았으며 한글패치 존재는 점수에 반영하지 않았다.",
+      "pros": [
+        "huke 원안의 독특한 캐릭터와 기계적인 적 디자인, 인류 멸망 직전의 SF 설정이 분명한 개성을 만들며, 이야기의 미스터리가 끝까지 이어지는 동기가 된다.",
+        "표적 사격과 스킬 선택에 회피·가드의 순간 판단 및 과열 관리를 결합해 단순한 조작 속에서도 보스전의 긴장과 역전의 손맛을 살렸다.",
+        "미션 성과와 도전 과제로 얻는 스킬을 공격·방어 중심으로 구성할 수 있고, 클리어 후 추가 미션으로 전투를 더 파고들 수 있다.",
+        "ufotable의 오프닝 애니메이션, ONE OK ROCK의 주제가와 강렬한 효과·영상 연출이 캐릭터 게임 이상의 스타일을 보여 준다."
+      ],
+      "cons": [
+        "비슷한 적과 전투를 반복해서 상대하고 미션 목표의 변화가 적어 중반부터 플레이 패턴이 단조로워진다.",
+        "전투 중 자유롭게 뛰어다니는 방식이 아니라 제한된 회피·가드와 제자리 사격에 중심을 두어 본격 액션 슈터를 기대하면 답답할 수 있다.",
+        "필드 탐험과 곁길이 적고 직선적인 지역을 오가며 목표를 수행하는 구조여서 RPG로서 탐색의 재미가 제한된다.",
+        "초반에는 인상적인 바이크 전투도 여러 차례 반복되고, PSP 기종 특유의 거친 3D 표현과 단순한 환경 그래픽이 장면의 완성도를 깎는다."
+      ],
+      "sources": [
+        {
+          "label": "Imageepoch JRPG 공식 제품 소개 - 일본 PSP판 발매일·개발사·일반판 및 한정판 구분·오프닝 제작",
+          "url": "https://www.jrpg.jp/game/detail/tid3"
+        },
+        {
+          "label": "패미통 - PSP판 2011년 전문가 리뷰 8·8·9·8, 전투·회피·스토리·추가 미션",
+          "url": "https://www.famitsu.com/game/title/18745/reviews"
+        },
+        {
+          "label": "Pocket Gamer - 2013년 PSP판 리뷰, 전략적 전투·반복 미션·바이크 및 그래픽 평가",
+          "url": "https://www.pocketgamer.com/black-rock-shooter-the-game/review/"
+        },
+        {
+          "label": "4Gamer - PSP 일본판 소개 및 이용자 리뷰, 발매일·템포에 대한 상반된 평가",
+          "url": "https://www.4gamer.net/games/124/G012454/"
+        },
+        {
+          "label": "라쿠텐 북스 - 일본 PSP 일반판 JRPG-00002 상품 정보",
+          "url": "https://books.rakuten.co.jp/rb/6887713/"
+        },
+        {
+          "label": "LaunchBox - PSP 일본 일반판 Box - Front 실제 표지",
+          "url": "https://gamesdb.launchbox-app.com/games/images/16392-black-rock-shooter-the-game"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/3007",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2011-08-25 발매된 일본 PSP 통상판 『ブラック★ロックシューター THE GAME』(JRPG-00002)으로, figma WRS 등 특전이 있는 『화이트 프리미엄 BOX』(JRPG-00001), 일본 다운로드판 및 북미·유럽 현지화판과 구별한다. 제공 한글패치 URL을 열거나 GET·HEAD·미리보기·리다이렉트 확인을 하지 않았다. 대응 지역·게임 리비전·번역 범위·미번역 요소·설치 방법 및 실기·에뮬레이터 구동을 확인하지 않았다."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com/8ae0ce02-1241-4c9e-acda-f0b1048ac162.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/16392-black-rock-shooter-the-game",
+        "platform": "psp",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "WebGPT"
     }
   ]
 }
