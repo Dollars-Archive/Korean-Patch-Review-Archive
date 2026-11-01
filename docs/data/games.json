@@ -26309,6 +26309,73 @@
       },
       "reviewedAt": "2026-11-01",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "gihren-no-yabou-axis-no-kyoui-v-psp",
+      "title": "기동전사 건담 기렌의 야망 액시즈의 위협 V",
+      "original": "機動戦士ガンダム ギレンの野望 アクシズの脅威V (Mobile Suit Gundam: Gihren's Greed: The Axis Menace V)",
+      "platforms": [
+        "psp"
+      ],
+      "genres": [
+        "전략 시뮬레이션",
+        "턴제 전략",
+        "메카"
+      ],
+      "score": 8.2,
+      "summary": "2009년 2월 12일 발매된 일본 PSP 일반판 『機動戦士ガンダム ギレンの野望 アクシズの脅威V』(ULJS-00178)에 대한 공개 자료 기반 편집 평가. 2008년 PSP판 『액시즈의 위협』에 새 시나리오와 템 레이군, 모빌슈트·파일럿을 추가하고 자원 매각, 게임 밸런스와 일부 시스템을 손본 확장판이다. 지구연방·지온 등 다양한 세력의 지휘관이 되어 연구 개발·생산·자원·첩보·작전과 전선 배치를 지휘하고 원작과 다른 우주세기 전개를 만드는 전략적 깊이, 막대한 병기와 분기·반복 플레이 가치가 강점이다. 그러나 복잡한 규칙과 불친절한 입문 과정, 방대한 유닛의 반복 관리, PSP의 메뉴 조작과 화면 정보 가독성, 구세대 전투 연출 및 원판 대비 한정된 신규 이벤트를 고려해 8.2/10. 우주세기 건담 설정을 깊이 알고 장기 전략 시뮬레이션을 즐기는 사람에게 특히 추천한다. 직접 플레이한 평점이 아니며 한글패치 존재는 점수에 반영하지 않았다.",
+      "pros": [
+        "지구연방·지온 공국 등 여러 세력의 총지휘관으로 연구 개발·생산·자원·첩보·특별 작전과 군단의 진격을 종합적으로 결정하는 대전략 시스템의 깊이가 뛰어나다.",
+        "다양한 우주세기 시대의 모빌슈트와 파일럿을 개발·배치·개조하고 보급로와 지형, 개별 기체의 성능을 고려해 전선을 운영하는 장기적인 전략 설계가 흥미롭다.",
+        "진영 선택과 사건 대응에 따라 정사와 다른 가상 역사(If) 시나리오를 만들 수 있으며, 확장판의 템 레이군과 추가 병기·인물 덕분에 반복 플레이의 폭이 넓다.",
+        "전작 대비 자원 매각, 일부 시스템·난도 조정과 병기 추가로 군비 운용을 다듬었고, 방대한 단일 캠페인을 PSP 휴대기에서 나누어 진행할 수 있다."
+      ],
+      "cons": [
+        "개발·생산·자원·외교에 가까운 사건 판단과 다수 부대의 이동을 동시에 익혀야 하므로 튜토리얼이 부족한 입문자에게 높은 진입 장벽이 있다.",
+        "전선이 넓어지면 매 턴 수많은 부대를 생산·이동·정비하는 반복 작업이 늘어나고, 실제 전투를 전부 직접 진행하면 한 판의 소요 시간이 길다.",
+        "PSP의 작은 화면과 복잡한 메뉴에서 대규모 전력과 수치를 확인하기 번거롭고, 일부 화면 전환과 명령 선택이 매끄럽지 않다는 이용자 지적이 있다.",
+        "전투 애니메이션·음악·그래픽이 비교적 구식이고, 일반판 『액시즈의 위협』을 이미 즐긴 이용자에게는 신규 시나리오와 이벤트의 변화가 제한적이다."
+      ],
+      "sources": [
+        {
+          "label": "GAME Watch - 반다이남코 발표, V 확장판 발매일·신규 시나리오·기체·난도·시스템 변경",
+          "url": "https://game.watch.impress.co.jp/docs/20081226/giv.htm"
+        },
+        {
+          "label": "전격 온라인 - 2009년 발매 기사, 템 레이군 추가·밸런스 재조정·PSP 전작 데이터 컨버트",
+          "url": "https://dengekionline.com/elem/000/000/139/139068/"
+        },
+        {
+          "label": "가격.com - 일본 PSP판 V 이용자 리뷰, 전략·반복 플레이·조작 및 기존판과의 차이",
+          "url": "https://review.kakaku.com/review/K0000011161/"
+        },
+        {
+          "label": "콘솔 게임 대사전 - PSP V 전술·신규 기체·가독성·난도·구식 전투 연출 정리",
+          "url": "https://consoledictionary.com/games/26353"
+        },
+        {
+          "label": "스루가야 - PSP 일본판 V 실물 패키지 제품 번호 ULJS-00178 및 발매일",
+          "url": "https://www.suruga-ya.jp/product/detail/177001036"
+        },
+        {
+          "label": "LaunchBox - 일본 PSP 아크시즈의 위협 V, Box - Front 앞표지",
+          "url": "https://gamesdb.launchbox-app.com/games/images/93405-kidou-senshi-gundam-gihren-no-yabou-axis-no-kyoui-v"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/1339",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 사용자의 영어 표기 'Mobile Suit Gundam Gihren's Greed: The Fear of Axis'에는 V가 빠져 있지만, 한국어 게임명에 명시된 확장판 『機動戦士ガンダム ギレンの野望 アクシズの脅威V』를 기준으로 2009-02-12 일본 PSP 통상판(ULJS-00178)을 평가했다. 2008년 PSP 무인판 『アクシズの脅威』 및 PS2판 V와 구별한다. 제공한 한글패치 주소를 열거나 GET·HEAD·미리보기·리다이렉트 추적을 하지 않았고, 링크가 V판을 지원하는지, 배포 버전·번역 범위·미번역 요소·적용 방법, PSP 실기·에뮬레이터 구동 여부를 검증하지 않았다."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com/1bb174be-35f3-4ae7-af10-46ab60bf0529.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/93405-kidou-senshi-gundam-gihren-no-yabou-axis-no-kyoui-v",
+        "platform": "psp",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "WebGPT"
     }
   ]
 }
