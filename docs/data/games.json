@@ -35881,6 +35881,64 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "jojo-no-kimyou-na-bouken-ps1",
+      "title": "죠죠의 기묘한 모험",
+      "original": "ジョジョの奇妙な冒険 (JoJo's Bizarre Adventure)",
+      "platforms": [
+        "ps1"
+      ],
+      "genres": [
+        "2D 대전 격투",
+        "액션"
+      ],
+      "score": 8,
+      "summary": "자료 기반 편집 평가. 1999년 10월 14일 일본 PS1 일반판(SLPS-02236)으로 발매된 캡콤의 2D 대전 격투 게임. 스탠드 소환·스탠드 게이지·탠덤 어택이 일반 격투 게임과 다른 전략과 연출을 만들며, PS1 독점 슈퍼 스토리 모드는 원작 제3부의 이야기를 격투·슈팅·카드 게임 등으로 폭넓게 재현한다. 아케이드판의 속도와 조작감을 상당 부분 유지했으나 메모리 제약으로 애니메이션 프레임이 줄었고 미니게임의 편차와 팬 지향적 연출이 한계다. 8.0/10. 죠죠 3부 팬이나 개성 있는 2D 격투 게임을 찾는 사람에게 추천한다. 직접 플레이하거나 한글패치를 설치해 검증한 평가는 아니다.",
+      "pros": [
+        "스탠드를 별도로 소환하고 유지·해제하며 스탠드 게이지를 관리하는 시스템이 독특한 거리 싸움과 연계 공격을 만든다.",
+        "탠덤 어택, 캐릭터별 스탠드 능력과 강렬한 필살기 연출이 원작의 개성과 캡콤식 2D 격투의 손맛을 결합한다.",
+        "PS1판의 슈퍼 스토리 모드가 원작 제3부의 주요 사건을 격투 외에도 횡스크롤 슈팅·카드 게임·상황별 미니게임으로 다양하게 재현한다.",
+        "아케이드 CPS-3 기반 작품의 프레임 일부를 줄이면서도 PS1에서 빠른 전투 템포와 대응성 높은 조작을 유지했다."
+      ],
+      "cons": [
+        "PS1 하드웨어 제약으로 아케이드·드림캐스트판보다 일부 캐릭터와 스탠드의 애니메이션 프레임이 생략되어 시각적인 움직임이 거칠어졌다.",
+        "슈퍼 스토리 모드의 슈팅·반응형 미니게임은 재미와 난도의 편차가 있어 본래 격투 플레이의 흐름을 끊기도 한다.",
+        "게임의 독특한 이야기와 각종 재현 장면은 원작 제3부를 알고 있을 때 더 효과적이므로 비팬에게는 매력이 덜할 수 있다.",
+        "캐릭터별 스탠드의 특수 규칙과 연계 기술에 익숙해지는 학습 부담이 있으며, 순수한 대전 밸런스 중심의 플레이어에게는 호불호가 갈린다."
+      ],
+      "sources": [
+        {
+          "label": "PSX Data Center - 일본 PS1 일반판(SLPS-02236) 발매일·전투 시스템·슈퍼 스토리 모드",
+          "url": "https://psxdatacenter.com/games/SLPS-02236.html"
+        },
+        {
+          "label": "GameSpot - PlayStation판 리뷰 (James Mielke, 2000-05-02)",
+          "url": "https://www.gamespot.com/reviews/jojos-bizarre-adventure-review/1900-2545980/"
+        },
+        {
+          "label": "MobyGames - PlayStation판 리뷰 집계·장르",
+          "url": "https://www.mobygames.com/game/3716/jojos-bizarre-adventure/reviews/"
+        },
+        {
+          "label": "LaunchBox - PlayStation 일본 Box - Front 확인",
+          "url": "https://gamesdb.launchbox-app.com/games/images/11601-jojos-bizarre-adventure"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/7448",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 1999년 일본 PS1 일반판(SLPS-02236)이며 PS1 카프코레 재판(SLPM-86721)·드림캐스트판과 구분한다. 제공 주소의 적용 대상 디스크 및 리비전, 번역 범위·미번역 부분·적용 방법·실기 및 에뮬레이터 호환성은 확인하지 않았고 패치 적용 테스트도 하지 않았다."
+      },
+      "reviewedAt": "2026-11-02",
+      "reviewer": "ChatGPT (공개 자료 기반 편집 평가)",
+      "cover": {
+        "url": "https://images.launchbox-app.com/17f3e81f-29fc-4473-b29e-7e228607011e.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/11601-jojos-bizarre-adventure",
+        "platform": "ps1",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
