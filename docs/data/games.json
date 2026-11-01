@@ -30301,6 +30301,73 @@
       },
       "reviewedAt": "2026-11-01",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "the-legend-of-heroes-a-tear-of-vermillion-psp",
+      "title": "영웅전설 IV: 주홍물방울",
+      "original": "英雄伝説 ガガーブトリロジー 朱紅い雫 (The Legend of Heroes: A Tear of Vermillion)",
+      "platforms": [
+        "psp"
+      ],
+      "genres": [
+        "RPG",
+        "턴제 RPG",
+        "스토리 중심 JRPG"
+      ],
+      "score": 7.6,
+      "summary": "2005년 6월 2일 일본 PSP로 발매된 『英雄伝説 ガガーブトリロジー 朱紅い雫』(ULJS-00016) 일반판 기준 공개 자료 기반 편집 평가. 가가브 트릴로지의 두 번째 작품으로, 어린 시절 헤어진 여동생을 찾아 떠나는 아빈과 친구 마일의 여정에서 가족·믿음·성장과 종교적 갈등을 진중하게 다룬다. 조연에게도 적절히 비중을 배분하는 인물 묘사와 팔콤의 음악, 긴 모험은 정통 JRPG의 매력을 살린다. PSP 이식판은 마을과 던전을 3D풍으로 재구성하고 읽기 쉬운 글꼴과 일러스트·연출을 갖췄지만, 좌표와 이동 범위에 민감한 커맨드식 턴제 전투, 느린 마법 연출, 장애물을 자동으로 피하는 이동 처리와 불편한 카메라 시점으로 템포가 저하된다. 사건 전개도 일부 전형적이다. 전투의 편의성보다 긴 인물 중심의 판타지 서사를 중시하는 사람에게 7.6점으로 추천한다. 일본 PSP판 기준이며 북미판의 영어 현지화 품질 문제는 점수에서 제외했다. 직접 플레이하지 않은 공개 자료 기반 편집 평가로 한글패치 유무는 점수에 반영하지 않았다.",
+      "pros": [
+        "아빈과 마일의 우정, 헤어진 가족을 찾는 여정, 신앙과 갈등 속에서 등장인물이 내리는 선택이 긴 서사를 이끌어 감정적 몰입을 준다.",
+        "주연뿐 아니라 여행에서 만나는 다양한 동료와 주변 인물에게도 대사와 역할을 배분해 가가브 세계의 역사와 생활감을 풍부하게 전달한다.",
+        "팔콤 특유의 선율적인 음악과 개성적인 인물 일러스트가 진지한 판타지 드라마를 뒷받침하고, 전작보다 읽기 쉬워진 글꼴이 긴 텍스트 감상에 도움이 된다.",
+        "여러 마을·동굴·사건을 거치는 장편 구성과 NPC 대화, 발견할 수 있는 보물상자가 있어 고전 JRPG를 천천히 탐험하는 재미가 있다."
+      ],
+      "cons": [
+        "공격·마법의 유효 범위와 이동 거리가 빡빡하게 정해진 턴제 전투에서 공격을 놓치거나 적에게 접근하는 데 한 턴을 허비하기 쉬워 전투 흐름이 끊긴다.",
+        "마법·필살기 애니메이션이 길고 일부 타깃이 사라졌을 때 자동으로 재지정하지 않는 등 반복 전투의 속도와 조작 편의성이 부족하다.",
+        "3D풍으로 구성한 마을의 고저차와 비스듬한 시점 때문에 통행 가능한 길을 알아보기 어렵고, 장애물 자동 회피 이동이 오히려 원하는 위치에 접근하는 것을 방해한다.",
+        "장황한 설명과 느린 초반 도입, 다소 전형적인 이야기 전개 때문에 즉각적인 긴장감이나 새로운 게임 시스템을 기대하면 답답할 수 있다."
+      ],
+      "sources": [
+        {
+          "label": "4Gamer - 일본 PSP판 출시일(2005-06-02)·제작사·장르·제품 소개",
+          "url": "https://www.4gamer.net/games/069/G006962/"
+        },
+        {
+          "label": "駿河屋 - 일본 PSP 일반판 ULJS-00016, 2005-06-02 패키지·발매 정보",
+          "url": "https://www.suruga-ya.jp/product/detail/177000051"
+        },
+        {
+          "label": "-Vision- - 일본 PSP판 실기 기반 리뷰(2015-09-27): 서사·동료·이동·전투 시스템",
+          "url": "https://codevis.nobody.jp/review-psp/loh4_tear_of_vermillion.html"
+        },
+        {
+          "label": "GameSpot - The Legend of Heroes: A Tear of Vermillion PSP 리뷰(2005-12-01): 대화·탐험·장기 플레이, 북미판 번역 평가는 제외",
+          "url": "https://www.gamespot.com/reviews/legend-of-heroes-a-tear-of-vermillion-review/1900-6140677/"
+        },
+        {
+          "label": "RPGFan - The Legend of Heroes: A Tear of Vermillion PSP 리뷰(2005-12-06): 고전적 시스템 및 서사·음악, 북미판 번역 문제 제외",
+          "url": "https://www.rpgfan.com/review/the-legend-of-heroes-a-tear-of-vermillion/"
+        },
+        {
+          "label": "LaunchBox - 일본 PSP판 Box - Front 원본 앞표지",
+          "url": "https://gamesdb.launchbox-app.com/games/images/6796-the-legend-of-heroes-a-tear-of-vermillion"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/541",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2005년 6월 2일 일본 PSP 일반판 『英雄伝説 ガガーブトリロジー 朱紅い雫』(ULJS-00016)이다. PC-98/Windows판 『英雄伝説IV 朱紅い雫』, PSP판 『白き魔女』 및 『海の檻歌』, 북미 영어판 『The Legend of Heroes: A Tear of Vermillion』과 구분한다. 사용자 제공 주소의 지원 판본·디스크 리비전, 대사·메뉴·그래픽·고유명사 번역 범위, 미번역·설치 주의사항 및 PSP 실기·에뮬레이터 호환성은 확인하지 않았다. 패치 적용·구동 검증을 수행하지 않았다."
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "ChatGPT (공개 자료 기반 편집 평가)",
+      "cover": {
+        "url": "https://images.launchbox-app.com/084f31be-7c3a-4d2b-968e-fac309284a61.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/6796-the-legend-of-heroes-a-tear-of-vermillion",
+        "platform": "psp",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
