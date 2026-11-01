@@ -34525,6 +34525,68 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "dragon-ball-kai-ultimate-butouden-ds",
+      "title": "드래곤볼 카이 얼티밋무투전",
+      "original": "ドラゴンボール改 アルティメット武闘伝 (Dragon Ball Kai: Ultimate Butouden)",
+      "platforms": [
+        "ds"
+      ],
+      "genres": [
+        "대전 격투",
+        "격투 액션"
+      ],
+      "score": 8,
+      "summary": "2011년 2월 3일 일본 NDS로 발매된 《ドラゴンボール改 アルティメット武闘伝》의 자료 기반 편집 평가(직접 플레이한 점수 아님). 간결한 버튼 조작과 터치 필살기, 회피·반격·기공파 공방, 박력 있는 카메라와 배경 파괴 연출이 휴대용 기기의 한계 속에서도 드래곤볼다운 대전을 구현한다. 사이어인편부터 마인 부우편까지의 이야기와 IF 시나리오, 50명 이상 등장 인물 및 커스터마이즈는 팬 서비스도 충실하다. 다만 캐릭터별 전투 구조의 차이가 작고 음성·튜토리얼 설명이 부족하며 온라인 대전이 없어 8.0점. 빠르고 보기 좋은 캐릭터 격투와 원작 재현을 선호하는 드래곤볼 팬에게 추천한다. 한글패치 유무는 점수에 반영하지 않았다.",
+      "pros": [
+        "약·강 공격과 잡기, 회피·반격·기공파가 간편하게 이어져 입문하기 쉽지만 대인전에서는 공방의 심리전도 즐길 수 있다.",
+        "하단 터치스크린으로 필살기를 발동할 수 있고 커맨드 입력도 지원해 숙련도에 따라 조작 방법을 선택할 수 있다.",
+        "과감한 카메라 전환, 필살기 컷인과 배경 파괴, 선명한 캐릭터 표현이 NDS에서도 드래곤볼의 박력 있는 전투를 살린다.",
+        "사이어인편부터 마인 부우편까지의 스토리와 IF·사이드 시나리오, 캐릭터 꾸미기와 각종 해금 요소가 장기 플레이 동기를 준다."
+      ],
+      "cons": [
+        "등장 캐릭터가 많지만 공통 기본기와 필살기 운용 틀이 비슷해 본격적인 대전 격투 게임만큼 캐릭터별 전략 차이가 깊지 않다.",
+        "일부 튜토리얼과 화면 안내가 부족하고 원작 대사·스토리 장면의 음성 분량도 제한적이다.",
+        "필살기·궁극기 중 미니게임 조작은 익숙해지는 과정이 필요하고 반복 대전 시 전투 흐름을 끊는다고 느낄 수 있다.",
+        "무선 로컬 대전은 가능하지만 온라인 대전이 없어 다른 플레이어와 쉽게 대전하기 어렵다."
+      ],
+      "sources": [
+        {
+          "label": "닌텐도 공식 - NDS 《ドラゴンボール改 アルティメット武闘伝》 제품·게임 소개",
+          "url": "https://www.nintendo.co.jp/ds/software/tdbj/index.html"
+        },
+        {
+          "label": "패미통 - NDS판 전문 리뷰 4인, 조작·연출·콘텐츠·설명 부족 평가",
+          "url": "https://www.famitsu.com/game/title/18899/reviews"
+        },
+        {
+          "label": "Otakus & Geeks - DS 수입판 리뷰 (2011-02-24)",
+          "url": "https://www.otakusandgeeks.com/articles/akusandgeeks.com/2011/02/dragonball-kai-ultimate-butoden-review.html"
+        },
+        {
+          "label": "The Gamers' Temple - DS 수입판 리뷰 (2011-08-08)",
+          "url": "https://www.gamerstemple.com/featured-article/1085/dragonball-kai-ultimate-butoden-ds-import-review"
+        },
+        {
+          "label": "LaunchBox - NDS 일본판 Box - Front 실제 표지",
+          "url": "https://gamesdb.launchbox-app.com/games/images/28038-dragon-ball-kai-ultimate-butoden"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/88",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 대상은 2011년 일본 NDS판 《ドラゴンボール改 アルティメット武闘伝》(게임 코드 NTR-TDBJ-JPN)이며 다른 드래곤볼 격투 게임과 구분한다. 제공 링크의 실제 지원 지역·리비전, 번역 범위·미번역 부분, 패치 버전·설치 방법·배포 가능 여부는 확인하지 않았다. 실기·에뮬레이터 적용 테스트도 수행하지 않았다."
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/62f122e8-5b4c-4f7e-b945-cb5415f3e22e.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/28038-dragon-ball-kai-ultimate-butoden",
+        "platform": "ds",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
