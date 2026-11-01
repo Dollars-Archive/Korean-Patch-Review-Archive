@@ -28564,6 +28564,70 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai-portable-psp",
+      "title": "내 여동생이 이렇게 귀여울 리가 없어 포터블 (2011)",
+      "original": "俺の妹がこんなに可愛いわけがない ポータブル",
+      "platforms": [
+        "psp"
+      ],
+      "genres": [
+        "연애 ADV",
+        "비주얼 노벨"
+      ],
+      "score": 7.2,
+      "summary": "2011년 1월 27일 출시된 일본 PSP UMD 원판 『俺の妹がこんなに可愛いわけがない ポータブル』에 대한 자료 기반 편집 평가. 코우사카 쿄스케가 키리노·쿠로네코·사오리·아야세·마나미 등의 인생 상담을 도우며 원작과 다른 IF 분기와 여러 엔딩으로 이어지는 연애 어드벤처다. 원작자 후시미 츠카사의 총감수와 일부 직접 집필 시나리오, Live2D를 활용한 2SHOT 대화의 생생한 표정·동작, 음성과 이벤트 CG가 캐릭터 팬에게 큰 매력이다. O.R.E. 기록을 이용하는 독특한 분기와 플로차트·백로그·스킵·퀵세이브·미디어 인스톨 등 편의 기능도 장점. 반면 2SHOT 대화의 성공·실패 판정이 불명확하고 진엔딩을 위해 여러 회차의 기록 수집이 필요하며, 히로인별 서사 밀도 차이와 공통 파트 반복으로 피로감이 생긴다. 원작 인물 관계에 익숙한 팬에게 추천하는 7.2점. 2012년 『ポータブルが続くわけがない』의 Disc 1 개선판 및 Disc 2 후속작과 별개이며, 직접 플레이한 평가는 아니고 한글패치 유무는 점수에 반영하지 않았다.",
+      "pros": [
+        "원작자 후시미 츠카사의 총감수와 아야세·카나코 등 일부 직접 집필 시나리오가 원작 인물의 말투·관계와 대화를 설득력 있게 살린다.",
+        "키리노·쿠로네코·사오리·아야세·마나미 등 히로인별 다양한 IF 전개와 엔딩으로 원작 외전 같은 재미가 있다.",
+        "2SHOT 대화의 Live2D 얼굴 표정과 움직임, 캐릭터 음성과 풍부한 이벤트 CG가 팬 감상의 즐거움을 높인다.",
+        "O.R.E. 레코드를 획득·사용하는 구조로 선택의 의미와 여러 회차의 연결을 만든다.",
+        "플로차트·백로그·기독 스킵·퀵세이브·CG 감상·미디어 인스톨 등 장르에 필요한 편의 기능이 충실하다."
+      ],
+      "cons": [
+        "원판의 2SHOT 대화는 선택 반응의 성공·실패 판정이 분명하게 표시되지 않아 캐릭터의 미세한 표정을 해석해야 한다.",
+        "일부 베스트 엔딩은 다른 히로인 회차에서 모은 O.R.E. 레코드가 선행 조건이어서 정답을 찾기 어렵다.",
+        "원작자가 직접 집필한 루트와 다른 루트 사이에 이야기 밀도 및 다른 캐릭터와의 상호작용에 편차가 있다.",
+        "히로인마다 공통 파트를 다시 보아야 하고 직접 조작할 요소가 제한적이어서 반복 감상의 단조로움이 있다.",
+        "원작의 인물 관계에 대한 이해와 팬서비스를 중시하는 게임이라 시리즈 초심자에게는 매력이 제한될 수 있다."
+      ],
+      "sources": [
+        {
+          "label": "패미통 - 2011년 PSP 게임 발매 정보",
+          "url": "https://www.famitsu.com/game/title/14933/reviews"
+        },
+        {
+          "label": "게임 카탈로그@Wiki - 2011 PSP 원판과 2012 개선판의 시스템·장단점",
+          "url": "https://w.atwiki.jp/gcmatome/pages/4587.html"
+        },
+        {
+          "label": "DarkMirage - PSP 원판 2011년 플레이 리뷰 및 O.R.E./2SHOT 분석",
+          "url": "https://www.darkmirage.com/2011/02/01/ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai-portable/"
+        },
+        {
+          "label": "厳選ゲームレビュー - 2011년 PSP판 게임·루트별 비평",
+          "url": "https://gametalk.seesaa.net/article/184911448.html"
+        },
+        {
+          "label": "LaunchBox - 일본 PSP판 2011 정규 패키지 Box - Front",
+          "url": "https://gamesdb.launchbox-app.com/games/images/44578-ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai-portable"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/857",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2011년 1월 27일 출시한 일본 PSP 단독 원판 『俺の妹がこんなに可愛いわけがない ポータブル』이다. 2012년 후속 합본의 Disc 1 전작 개선판·Disc 2 후속편과 구분하며, 링크의 지원 지역·제품 ID·원본 버전, 본문·선택지·메뉴·이미지·엔딩의 번역 범위·미번역 부분, 적용 절차 및 PSP 실기·에뮬레이터 구동 여부는 확인하지 않았다."
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "ChatGPT (공개 자료 기반 편집 평가)",
+      "cover": {
+        "url": "https://images.launchbox-app.com/3964f057-3f0b-4e1f-ac87-7551edb3d717.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/44578-ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai-portable",
+        "platform": "psp",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
