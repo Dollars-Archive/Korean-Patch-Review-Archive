@@ -36587,6 +36587,65 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "kenka-bancho-3-zenkoku-seiha-psp",
+      "title": "싸움대장 3: 전국제패",
+      "original": "喧嘩番長3 ～全国制覇～ (Kenka Bancho: Badass Rumble / Kenka Banchou 3: Zenkoku Seiha)",
+      "platforms": [
+        "psp"
+      ],
+      "genres": [
+        "3D 벨트스크롤 액션",
+        "액션 어드벤처",
+        "불량배 액션"
+      ],
+      "score": 7.4,
+      "summary": "2008년 11월 27일 발매된 일본 PSP판 《喧嘩番長3 ～全国制覇～》의 자료 기반 편집 평가. 7일간의 수학여행에서 전국의 번장들과 맞서며 관광·연애 이벤트·거리 싸움을 원하는 순서로 진행하는 유쾌한 액션 어드벤처다. 개성적인 인물과 익살스러운 대결 연출, 100종가량의 기술과 복장 꾸미기, 여러 차례 도전할 만한 분량은 큰 장점이다. 그러나 답답한 공격 반응과 빗나가는 타격, 번거로운 시점 조작, 잦은 로딩과 단조로운 싸움은 완성도를 제한한다. 7.4점. 속도감 있는 정통 격투보다 일본 불량배 문화와 자유로운 수학여행 소동, 수집·성장을 즐기는 사람에게 추천한다. 일본 PSP판 패미통 리뷰 및 동일 게임의 해외 PSP판 리뷰를 종합했으며 직접 플레이하지 않았고 한글패치 유무는 점수에 반영하지 않았다.",
+      "pros": [
+        "7일간의 수학여행이라는 시간 제한 안에서 전국 각지의 번장을 찾아 대결하거나 관광·연애 이벤트를 선택하는 자유로운 진행이 개성적이다.",
+        "눈싸움으로 시비를 걸고 말싸움을 주고받는 연출, 과장된 불량배 캐릭터와 황당한 복장이 작품 특유의 코미디를 만들어 낸다.",
+        "싸움에서 얻는 경험치와 새 기술, 외형·복장 커스터마이징이 성장과 수집의 동기를 제공한다.",
+        "각 번장의 일정과 숨겨진 이벤트, 계승 요소가 있어 한 번의 수학여행으로 끝나지 않는 반복 플레이 가치가 있다."
+      ],
+      "cons": [
+        "공격 입력 반응과 캐릭터 움직임이 굼뜨고 적에게 고정해도 타격이 허공을 가르는 일이 있어 액션의 손맛이 약하다.",
+        "카메라·시점 조작이 불편하고 거리 배경과 일반 적의 행동이 단조로워 자유 탐색의 몰입감이 떨어진다.",
+        "장면 전환과 지역 이동 중 로딩이 잦고 길게 느껴져 휴대기 플레이의 리듬을 끊는다.",
+        "기술 수집의 재미와 별개로 근접전의 기본 패턴이 반복되어 장시간 싸우면 전투의 깊이가 부족하게 느껴진다."
+      ],
+      "sources": [
+        {
+          "label": "패미통 - 일본 PSP판 2008-11-27 발매·공식 리뷰 4건, 장단점",
+          "url": "https://www.famitsu.com/game/title/2074/reviews"
+        },
+        {
+          "label": "GameSpot - Kenka Bancho: Badass Rumble PSP 리뷰, 캐릭터·전투·반복 플레이",
+          "url": "https://www.gamespot.com/reviews/kenka-bancho-badass-rumble-review/1900-6241877/"
+        },
+        {
+          "label": "WorthPlaying - Kenka Bancho: Badass Rumble PSP 리뷰, 유머·구성",
+          "url": "https://worthplaying.com/article/2009/12/24/reviews/71195-psp-review-kenka-bancho-badass-rumble/"
+        },
+        {
+          "label": "LaunchBox Games Database - PSP 일본판 Box - Front 확인",
+          "url": "https://gamesdb.launchbox-app.com/games/details/18916-kenka-bancho-badass-rumble"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/7351",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가·표지 기준은 2008-11-27 일본 PSP판 《喧嘩番長3 ～全国制覇～》이며, 북미판 《Kenka Bancho: Badass Rumble》과 제목·현지화가 다르다. 사용자가 제공한 주소가 대응하는 UMD 지역·리비전, 게임 대사·메뉴·이벤트·그래픽 번역 범위와 미번역 부분, 설치 방식, 실기·에뮬레이터 호환성은 확인하지 않았다. 패치 링크는 방문하거나 미리보기·리다이렉트 조회하지 않았고 설치·구동 시험도 하지 않았다."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com//4eebc9ad-036a-4f95-bda1-73e31975c240.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/details/18916-kenka-bancho-badass-rumble",
+        "platform": "psp",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-11-02",
+      "reviewer": "WebGPT"
     }
   ]
 }
