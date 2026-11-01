@@ -28880,6 +28880,75 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "muramasa-rebirth-psvita",
+      "title": "오보로 무라마사",
+      "original": "朧村正 (Muramasa Rebirth)",
+      "platforms": [
+        "psvita"
+      ],
+      "genres": [
+        "액션 RPG",
+        "횡스크롤 액션",
+        "검술"
+      ],
+      "score": 8.5,
+      "summary": "2013년 3월 28일 출시된 일본 PS Vita판 《朧村正》를 기준으로 평가. 귀신과 요괴가 출몰하는 겐로쿠 시대 일본을 배경으로 백희(모모히메)와 귀조(키스케)의 별도 경로를 진행하며 108종의 요도를 벼리고 검 세 자루를 교체하는 빠른 2D 검술 액션 RPG다. 바닐라웨어 특유의 정교한 수작업 그림과 다층 배경, 매끄러운 애니메이션, 일본풍 음악과 보스 연출이 압권이다. 공격·방어·대시·발도와 오의를 결합하는 손맛도 좋고 PS Vita의 고해상도 화면에 걸맞게 그래픽과 조작이 다듬어졌다. 반면 빈 구간을 반복 이동하는 왕복 동선, 비슷한 일반 전투, 조작이 크게 다르지 않은 두 주인공, 단편적으로 펼쳐지는 서사가 단점이다. 네 명의 추가 주인공과 이야기는 본편과 별개로 출시된 유료 DLC 《元禄怪奇譚》이다. 미려한 2D 아트와 경쾌한 베기 액션을 좋아한다면 8.5점으로 적극 추천한다. 공개된 공식 정보와 PS Vita판 전문 리뷰에 근거한 편집 평가이며 직접 플레이하지 않았고 한글패치 유무는 평점에 반영하지 않았다.",
+      "pros": [
+        "수묵화·우키요에를 연상시키는 수작업 배경과 다층 스크롤, 적과 주인공의 유려한 애니메이션이 PS Vita 화면에서 더욱 또렷하게 살아난다.",
+        "기본 공격, 공중 연속기, 대시 베기, 공격 막기와 패링, 발도 공격을 자연스럽게 잇는 검술 액션의 반응성과 속도감이 뛰어나다.",
+        "108종의 요도마다 공격력과 고유 오의가 달라 최대 세 자루를 준비해 교체하는 과정이 전투와 성장의 목표를 만든다.",
+        "일본 신화·민담을 활용한 도깨비와 요괴 보스의 외형·공격 패턴 및 전통 악기 중심의 음악이 일본풍 세계관을 강하게 각인시킨다.",
+        "백희와 귀조의 개별 모험과 난이도 선택, 여러 결말과 추가 도전 요소가 있어 액션 숙련도에 따라 플레이를 확장할 수 있다."
+      ],
+      "cons": [
+        "진행 과정과 추가 탐색에서 이미 지나온 지역을 여러 번 왕복해야 해 이동 구간이 늘어지고, 적과 다시 싸우는 빈도가 높다.",
+        "일반 적의 종류와 전투 구조가 반복되고 핵심 공격 방식은 비교적 단순하여 긴 시간 연속 플레이하면 타격감에도 익숙해진다.",
+        "주인공 두 명은 이야기와 이동 순서는 다르지만 기본 조작과 액션 구조가 거의 같아 두 번째 시나리오에서 신선함이 약해진다.",
+        "인물 관계와 배경 설명이 짧은 대화로 제시되는 경우가 많아 서사가 다소 단편적으로 느껴지고 주요 액션의 흐름을 중간에 끊는다.",
+        "PS Vita판에서 새로 추가된 네 명의 주인공과 네 편의 《元禄怪奇譚》은 기본 게임에 포함되지 않는 별매 DLC여서 기본판만으로는 즐길 수 없다."
+      ],
+      "sources": [
+        {
+          "label": "Marvelous 공식 PS Vita판 제품 정보 - 2013-03-28 일본 출시·장르·개발사·패키지판",
+          "url": "https://www.marv.jp/special/game/vita/oboromuramasa/guide/spec.html"
+        },
+        {
+          "label": "Marvelous 공식 소개 - PS Vita판 개선 및 별도 DLC",
+          "url": "https://www.marv.jp/special/game/vita/oboromuramasa/about/index.html"
+        },
+        {
+          "label": "Push Square - Muramasa Rebirth PS Vita 리뷰: 손맛·요도·연출 및 왕복 동선",
+          "url": "https://www.pushsquare.com/reviews/psvita/muramasa_rebirth"
+        },
+        {
+          "label": "Destructoid - Muramasa Rebirth PS Vita 리뷰: 전투 조작, 반복 및 이동",
+          "url": "https://www.destructoid.com/reviews/review-muramasa-rebirth/"
+        },
+        {
+          "label": "Game Informer - Muramasa Rebirth PS Vita 리뷰: 그래픽과 반복성·서사",
+          "url": "https://gameinformer.com/games/muramasa_rebirth/b/playstation_vita/archive/2013/06/25/muramasa-rebirth-review"
+        },
+        {
+          "label": "ふるいちオンライン - 일본 PS Vita 초판 패키지 앞표지",
+          "url": "https://www.furu1.online/product/detail/10128200"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/762",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2013년 3월 28일 출시된 일본 PS Vita판 《朧村正》(초판 VLJS-00036)이다. 한글패치의 대상 지역/제품 코드/게임 업데이트 버전, 본편·메뉴·자막·DLC 《元禄怪奇譚》 번역 범위와 미번역 요소, 적용 절차, 실기·에뮬레이터 호환성은 확인하지 않았다. 설치·구동 검증도 수행하지 않았다. 별매 DLC 포함 여부와 2015년 합본 패키지 호환성도 미확인이다."
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://www.furu1.online/storage/product/10128200/00.webp",
+        "source": "https://www.furu1.online/product/detail/10128200",
+        "platform": "psvita",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
