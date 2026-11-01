@@ -24651,6 +24651,70 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "zenonia-psp",
+      "title": "제노니아",
+      "original": "ZENONIA (제노니아)",
+      "platforms": [
+        "psp"
+      ],
+      "genres": [
+        "액션 RPG",
+        "판타지 RPG",
+        "육성 RPG"
+      ],
+      "score": 6.8,
+      "summary": "2010년 10월 12일 게임빌이 북미 PlayStation Store의 PSP minis로 출시한 다운로드 전용 『ZENONIA』(NPUZ-00132) 평가. 한국 모바일 원작을 PSP로 이식한 2D 액션 RPG로, 레그렛이 자신의 과거와 성기사단·용족의 갈등을 따라가는 모험을 다룬다. 전사·성기사·암살자의 3종 직업, 스탯·스킬·장비 육성, 많은 지역과 사이드 퀘스트, 선악 선택 및 복고풍 도트 디자인은 적은 용량의 minis 게임치고 밀도가 높다. 하지만 PSP판 리뷰에서는 버튼 입력 반응과 이동이 둔하고 일부 멈춤·충돌 문제가 지적되며, 몬스터 반복 사냥과 짧은 음악 루프, 평범한 줄거리가 아쉽다. 이동기기 원작의 장점을 살린 고전형 RPG이지만 PSP 전용 액션 RPG만큼 매끈한 완성도에는 못 미쳐 6.8점. 레트로 감성·직업별 육성·장시간 퀘스트를 즐기는 플레이어에게 권하며 반응성이 중요한 액션 팬에게는 신중히 추천한다. PSP minis 북미 다운로드판을 공식 정보와 PSP 이용자 리뷰에 따라 평가한 편집 점수이며 직접 플레이한 결과가 아니고 한글패치는 점수에 포함하지 않았다.",
+      "pros": [
+        "전사·성기사·암살자 3개 직업이 무기·스킬·생존 방식에서 다르고, 스탯과 스킬 포인트를 직접 배분해 성장 방향을 정할 수 있다.",
+        "많은 장비와 무작위 옵션·소재·상점, 다수의 메인·서브 퀘스트와 넓은 지역이 소규모 다운로드 게임치고 풍부한 플레이 분량을 제공한다.",
+        "밝고 선명한 2D 캐릭터 도트와 표정 아이콘, 자조적인 대사가 16비트풍 판타지 모험의 친근한 분위기를 만든다.",
+        "야간·주간과 허기·소지 무게 등 생활형 요소, 선택에 따른 성향 변화와 언제든 저장할 수 있는 편의성이 RPG 진행에 개성을 더한다."
+      ],
+      "cons": [
+        "PSP minis 이식판은 이동과 버튼 입력이 둔하거나 미세한 지연이 있다는 이용자 평가가 있어, 빠른 액션의 조작감이 아쉽다.",
+        "PSP판 이용자 리뷰에서 게임 멈춤·강제 종료가 보고되어 장시간 플레이 안정성에 대한 우려가 있다. 모든 리비전에서 발생하는지 확인되지는 않았다.",
+        "적 패턴이 단순하고 높은 난도 구간에서 같은 지역을 돌며 몬스터를 반복 사냥하는 레벨·장비 노가다가 잦다.",
+        "짧은 배경음악 루프가 반복되고 적 그래픽의 색만 바뀌는 부분이 있어 시청각적 다양성이 부족하다.",
+        "세계관과 주인공의 선택은 흥미롭지만 이야기의 큰 틀이 전형적이고 일부 분기와 결말의 차이가 작아 극적인 자유도는 제한적이다."
+      ],
+      "sources": [
+        {
+          "label": "PlayStation Blog - 북미 PSP minis 『ZENONIA』 정식 발매 2010-10-12, 다운로드 전용 22MB",
+          "url": "https://blog.playstation.com/2010/10/12/playstation-store-update-160/"
+        },
+        {
+          "label": "Pocket Gamer - 제노니아 PlayStation minis 이식 및 직업·퀘스트·선악 시스템 소개 (2010-10-13)",
+          "url": "https://www.pocketgamer.com/zenonia/zenonia-available-now-on-playstation-minis/"
+        },
+        {
+          "label": "GameFAQs - 북미 PSP minis 실제 이용자 상세 리뷰 (2016-04-18), 조작·멈춤·직업·성장·음악",
+          "url": "https://gamefaqs.gamespot.com/psp/610565-zenonia/reviews/162320"
+        },
+        {
+          "label": "MobyGames - PSP Minis의 Zenonia 2010-10-19 평점 6/10 기록",
+          "url": "https://www.mobygames.com/critic/2087/psp-minis/sort%3Atitle/page%3A11/"
+        },
+        {
+          "label": "LaunchBox - Sony PSP Minis 북미판 공식 다운로드 타이틀 아트",
+          "url": "https://gamesdb.launchbox-app.com/games/images/77441-zenonia"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/2053",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 게임빌의 북미 PSP minis 다운로드판 『ZENONIA』(2010-10-12, PSN 제품 ID NPUZ-00132)이다. 실물 UMD 발매가 아닌 디지털 PSP minis판이며 한국 피처폰 원작, iOS·Android판, DSiWare판 및 후속작과 구별한다. 제공 링크의 한글패치가 북미/유럽 등의 어느 PSP minis 지역·제품 리비전에 대응하는지, 대사·메뉴·이미지 번역 범위와 미번역 부분, 적용 방식·버전·배포 상태는 미확인이다. PSP 실기 및 PPSSPP 구동·패치 적용은 시험하지 않았으며 링크 접속·미리보기·다운로드·리다이렉트 추적도 하지 않았다."
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/5a40493e-c8b5-4427-ad18-3b3fba2435db.png",
+        "source": "https://gamesdb.launchbox-app.com/games/images/77441-zenonia",
+        "platform": "psp",
+        "type": "Official store artwork",
+        "region": "North America"
+      }
     }
   ]
 }
