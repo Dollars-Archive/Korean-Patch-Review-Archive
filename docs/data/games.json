@@ -23534,6 +23534,68 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "grimgrimoire-ps2",
+      "title": "그림 그리모어",
+      "original": "グリムグリモア (GrimGrimoire)",
+      "platforms": [
+        "ps2"
+      ],
+      "genres": [
+        "RTS",
+        "판타지 전략 시뮬레이션"
+      ],
+      "score": 8.2,
+      "summary": "2007년 4월 12일 일본에서 발매된 PS2 일반판 『グリムグリモア』(SLPS-25772)의 자료 기반 편집 평가. 바닐라웨어가 개발한 마법학교 배경의 횡단면형 실시간 전략 게임으로, 주인공 리레가 반복되는 닷새의 수수께끼를 풀면서 마법을 익히고 전투를 치른다. 네 계통의 마법진과 소환수 상성, 마나 관리, 섬세한 2D 인물·유닛 연출과 캐릭터 중심 이야기가 독창적이다. 그러나 비슷한 탑 내부 맵의 반복, 다수 유닛을 일일이 관리해야 하는 PS2 조작, 일부 불균형한 난이도와 AI·유닛 성능 문제로 8.2점. 동화풍 미스터리와 전술 유닛 조합을 좋아하는 사람에게 적극 추천한다. 당시 공식 발표·PS2판 전문 리뷰 기반이며 직접 플레이하지 않았고 한글패치 여부는 점수에 반영하지 않았다. 2022년 리마스터 『GrimGrimoire OnceMore』와는 별도 평가다.",
+      "pros": [
+        "마법학교에서 같은 닷새가 반복되는 사건을 새로운 정보와 인물 관계로 풀어가는 구성으로, 리레와 교사·학생들의 개성을 드러낸다.",
+        "교령술·흑마술·정령마법·연금술의 네 계통, 12개 마법진과 소환수의 상성·지원 능력이 조합과 대응 전술의 재미를 만든다.",
+        "탑의 층을 옆에서 잘라 본 듯한 전장, 살아 움직이는 듯한 캐릭터 초상화와 화려하게 표현된 유닛 등 바닐라웨어 특유의 고품질 2D 미술이 뛰어나다.",
+        "유닛을 선택하는 동안 시간이 정지되고 난도를 선택하거나 완료한 전투를 재도전할 수 있어 콘솔 실시간 전략에 대한 접근성을 높인다."
+      ],
+      "cons": [
+        "전투 장소가 대부분 같은 마법학교의 탑 내부를 재배치한 형태라 스테이지의 시각적 다양성이 부족하고 음악도 반복적으로 들릴 수 있다.",
+        "유닛이 한곳에 겹치면 원하는 대상을 선택하고 추적하기 어렵고, 집결 지점 같은 자동화 기능이 없어 패드로 반복 명령을 내리기 번거롭다.",
+        "미션 간 난도 편차가 있고, 일부 강력한 유닛 활용법과 적 AI의 허술한 반응이 전술적 균형을 흔들 수 있다.",
+        "본편 미션의 분량이 비교적 짧고 보너스 미션 외의 장기적인 반복 플레이 동기가 제한적이다."
+      ],
+      "sources": [
+        {
+          "label": "GAME Watch - 일본 PS2판 발표, 바닐라웨어 개발·마법학교·전투 구조 (2006-12-20)",
+          "url": "https://game.watch.impress.co.jp/docs/20061220/gg.htm"
+        },
+        {
+          "label": "피코피코 대백과 - PS2 일본 일반판 발매일·SLPS-25772·제작사",
+          "url": "https://www.gavas.jp/products/detail.php?product_id=14324"
+        },
+        {
+          "label": "GameSpot - 2007년 PS2 원판 리뷰, 소환수 조합·연출·유닛 조작·맵 반복",
+          "url": "https://www.gamespot.com/reviews/grimgrimoire-review/1900-6172680/"
+        },
+        {
+          "label": "RPGFan - 2007년 PS2 원판 리뷰, 난도·전략·AI·본편 분량·음악·조작",
+          "url": "https://www.rpgfan.com/review/grimgrimoire/"
+        },
+        {
+          "label": "LaunchBox Games Database - 일본 PS2 초회생산판 Box - Front 1518×2160",
+          "url": "https://gamesdb.launchbox-app.com/games/images/9857-grimgrimoire"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/2158",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 게임 평가·표지는 일본 PS2 일반판 『グリムグリモア』(2007-04-12, SLPS-25772)를 기준으로 하며, 염가판 및 2022년 『GrimGrimoire OnceMore』와 구분한다. 이 패치가 지원하는 실제 원본 지역·디스크 리비전, 시나리오·인터페이스·전투 메시지 번역 범위·미번역, 적용 방법과 배포 상태는 확인하지 않았다. PS2 실기 및 에뮬레이터에서 설치·구동 검증도 수행하지 않았다."
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/13c8f08b-582a-43b8-ba33-e3d726b40a17.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/9857-grimgrimoire",
+        "platform": "ps2",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
