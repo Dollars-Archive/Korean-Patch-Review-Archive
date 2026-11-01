@@ -34876,6 +34876,68 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "final-fantasy-tactics-a2-ds",
+      "title": "파이널 판타지 택틱스 A2: 봉혈의 그리모어",
+      "original": "FINAL FANTASY TACTICS A2 封穴のグリモア (Final Fantasy Tactics A2: Grimoire of the Rift)",
+      "platforms": [
+        "ds"
+      ],
+      "genres": [
+        "SRPG",
+        "턴제 전략 RPG"
+      ],
+      "score": 8.3,
+      "summary": "2007년 10월 25일 일본에 발매된 닌텐도 DS판 『FINAL FANTASY TACTICS A2 封穴のグリモア』에 대한 공개 자료 기반 편집 평가로, 직접 플레이하지 않았다. 50여 종의 직업, 다양한 종족·스킬·장비 조합과 풍부한 퀘스트, 클랜 운영을 통한 장기 육성의 재미, 수준 높은 2D 연출·음악이 강점이다. 반면 메인 서사가 다소 평면적이고 반복형 의뢰와 긴 전투, 장비 획득·전투 법률의 제약 및 불편한 터치 조작으로 속도감이 떨어져 8.3점. 전술 전투와 직업 조합을 오래 파고드는 SRPG 팬에게 추천하며 한글패치 여부는 점수에 반영하지 않았다.",
+      "pros": [
+        "다양한 종족과 50여 직업의 능력을 조합해 유닛을 육성하고 전술을 설계하는 깊이가 뛰어나다.",
+        "약 400개의 퀘스트, 클랜 관리·영토 경매·직업 해금 등 장기적으로 즐길 콘텐츠가 풍부하다.",
+        "지형·방향·행동 순서가 중요한 격자형 전투에 직업과 스킬 조합이 맞물려 전술적 선택이 많다.",
+        "정교한 2D 도트·마법 효과와 사키모토 히토시 계열의 이발리스 음악, DS의 두 화면을 활용한 정보 배치가 매력적이다."
+      ],
+      "cons": [
+        "메인 서사와 주요 인물의 깊이가 부족하고 방대한 의뢰 중심 전개 때문에 이야기의 추진력이 약하다.",
+        "비슷한 목표의 의뢰를 자주 수행하고 전투 하나에도 많은 시간이 들어 휴대용 게임으로서는 진행이 느리다.",
+        "전투 법률이 플레이 방식을 제한하고, 원하는 직업 능력을 배우기 위한 장비·전리품 수급과 제작이 번거로울 수 있다.",
+        "전장을 회전할 수 없어 유닛이나 지형이 겹치면 시야가 나쁘고, 터치 조작으로 칸을 선택하기도 불편하다."
+      ],
+      "sources": [
+        {
+          "label": "닌텐도 일본 공식 - NDS 일본판 발매일·제작사·게임 시스템",
+          "url": "https://www.nintendo.co.jp/ds/software/a6fj/index.html"
+        },
+        {
+          "label": "GameSpot - DS판 리뷰 (2008-06-20), 직업·퀘스트·법률·터치 조작",
+          "url": "https://www.gamespot.com/reviews/final-fantasy-tactics-a2-grimoire-of-the-rift-revi/1900-6192821/"
+        },
+        {
+          "label": "RPGFan - DS판 리뷰 (2008-07-15), 육성·연출·조작·서사",
+          "url": "https://www.rpgfan.com/review/final-fantasy-tactics-a2-grimoire-of-the-rift/"
+        },
+        {
+          "label": "Nintendo World Report - DS판 리뷰, 접근성·전술·반복성",
+          "url": "https://www.nintendoworldreport.com/review/16492/final-fantasy-tactics-a2-grimoire-of-the-rift-nintendo-ds"
+        },
+        {
+          "label": "Play-Asia - 일본 NDS 패키지 앞표지 (NTR-A6FJ-JPN)",
+          "url": "https://www.play-asia.com/final-fantasy-tactics-a2-fuuketsu-no-grimoire/13/7026e4"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/2274",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2007년 일본 발매 닌텐도 DS판 『FINAL FANTASY TACTICS A2 封穴のグリモア』(NTR-A6FJ-JPN)이다. 제공된 패치가 지원하는 원본 지역·리비전, 시나리오·메뉴·전투 메시지의 실제 번역 범위와 미번역 요소, 적용 방법·호환성은 확인하지 않았다. NDS 실기·에뮬레이터 설치 및 적용 검증도 수행하지 않았다."
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "ChatGPT (공개 자료 기반 편집 평가)",
+      "cover": {
+        "url": "https://s.pacn.ws/1/p/5n/pa.101596.1.png?v=jpuo9t",
+        "source": "https://www.play-asia.com/final-fantasy-tactics-a2-fuuketsu-no-grimoire/13/7026e4",
+        "platform": "ds",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
