@@ -32783,6 +32783,73 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "pokemon-green-gb",
+      "title": "포켓몬스터 그린",
+      "original": "ポケットモンスター 緑 (Pocket Monsters Green / Pokémon Green Version)",
+      "platforms": [
+        "other"
+      ],
+      "genres": [
+        "RPG",
+        "몬스터 수집·육성",
+        "턴제 RPG"
+      ],
+      "score": 8.5,
+      "summary": "1996년 2월 27일 일본에서 출시된 오리지널 게임보이(GB)판 『ポケットモンスター 緑』을 평가한다. 관동지방에서 포켓몬을 잡아 진화·육성하고 여덟 체육관에 도전하며, 다른 플레이어와 통신 케이블로 포켓몬을 교환·대전하는 수집형 RPG의 원형이다. 서로 다른 버전의 출현 포켓몬을 교환하고 파티의 속성을 조합하는 과정이 강력한 반복 동기와 발견의 즐거움을 준다. 지도 탐색과 단순하지만 기억에 남는 음악도 돋보인다. 반면 에스퍼 타입에 편중된 1세대 전투 밸런스, 높은 랜덤 인카운터 빈도, 구식 아이템·박스 관리, 일부 기술 효과의 오류와 버그, 투박한 원본 도트 그래픽은 지금 즐길 때 확실한 약점이다. 장르의 기초를 세운 기념비성만이 아니라 원작 자체의 파티 편성·수집·모험의 재미를 평가해 8.5점. 초기 포켓몬의 탐험과 육성, 다른 사람과의 교환을 좋아하는 레트로 RPG 팬에게 추천한다. 닌텐도 공식 설명과 별개 회고·이용자 리뷰를 바탕으로 한 자료 기반 편집 평가이며 직접 플레이한 점수는 아니다. 한글패치 여부는 평점에 반영하지 않았다. 해외판 『블루』나 GBA 『리프그린』의 평가가 아닌 1996년 일본 GB 원작을 대상으로 한다.",
+      "pros": [
+        "150종 규모의 포켓몬 포획·진화·육성·도감 수집이 서로 맞물려 단순한 전투를 넘어 스스로 목표를 만들어 나가는 즐거움을 준다.",
+        "타입 상성과 기술 선택, 여섯 마리 파티 구성으로 서로 다른 상대와 코스를 공략하는 기본 전술의 재미가 탄탄하다.",
+        "관동지방의 도시·동굴·해상 루트를 조금씩 개방하고 여덟 체육관에 도전하는 탐험 구조와 기억에 남는 8비트 음악이 모험의 몰입감을 높인다.",
+        "적·녹 사이의 일부 출현 포켓몬 차이와 통신 케이블 교환·대전 기능이 친구와 협력하고 경쟁하며 도감을 채우는 독특한 재미를 만든다."
+      ],
+      "cons": [
+        "에스퍼 타입의 압도적인 위상 등 1세대의 속성·기술 밸런스가 불균형하며, 일부 기술·효과는 의도대로 작동하지 않는 문제도 있다.",
+        "동굴 등에서 높은 야생 포켓몬 조우 빈도와 반복 전투가 이동 템포를 끊고 육성 과정의 피로를 높인다.",
+        "아이템 가방 용량 및 PC 박스의 수동 관리, 기술의 상세 설명 부족, 비전머신 기술의 교체 제한 등 편의성이 후대 작품보다 크게 떨어진다.",
+        "초기 일본 적·녹판의 거친 포켓몬 도트 그래픽과 여러 결함·버그가 이후 일본판 블루 및 세계판 적·청과 비교해 낡게 느껴진다."
+      ],
+      "sources": [
+        {
+          "label": "포켓몬스터 일본 공식 - 1996년 2월 27일 적·녹 GB 발매 및 수집·교환 구조",
+          "url": "https://www.pokemon.co.jp/game/other/gb-rg/"
+        },
+        {
+          "label": "닌텐도 일본 공식 - 원조 게임보이 적·녹판 소개와 버전별 출현·통신 안내",
+          "url": "https://www.nintendo.co.jp/n02/dmg/apajapbj/index.html"
+        },
+        {
+          "label": "Nintendo Life - 1세대 역사 회고: 일본 적·녹 초기판의 그래픽·버그",
+          "url": "https://www.nintendolife.com/news/2015/08/feature_a_pokemon_retrospective_generation_1_-_1996_to_1999"
+        },
+        {
+          "label": "GameFAQs - Superloserboy 이용자 리뷰 (2009-06-11): 전투·기술 상성·고전적 표현",
+          "url": "https://gamefaqs.gamespot.com/gameboy/924467-pokemon-green/reviews/134476"
+        },
+        {
+          "label": "GameFAQs - UltimaterializerX 이용자 리뷰 (2019-07-02): 수집성·조우율·밸런스·버그",
+          "url": "https://gamefaqs.gamespot.com/gameboy/924467-pokemon-green/reviews/168481"
+        },
+        {
+          "label": "LaunchBox - 일본 게임보이판 Pokémon Green Version Box - Front",
+          "url": "https://gamesdb.launchbox-app.com/games/images/421451-pokmon-green-version"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/2478",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 1996년 2월 27일 일본 발매 게임보이(GB)판 『ポケットモンスター 緑』이며, GBA용 『리프그린』·해외판 『블루』·3DS 버추얼 콘솔판과 구분한다. 제공된 한글패치 주소의 실제 적용 대상 지역·리비전, 대사·메뉴·도감·이미지의 번역 범위 및 미번역 여부, 적용법과 실기·에뮬레이터 호환성은 확인하지 않았다. 해당 주소에는 접속·미리보기·리다이렉트 추적·다운로드·설치·구동 검증을 하지 않았다."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com/bfac4775-9e0d-4f0a-b897-cc1aa261ca78.png",
+        "source": "https://gamesdb.launchbox-app.com/games/images/421451-pokmon-green-version",
+        "platform": "other",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "WebGPT"
     }
   ]
 }
