@@ -34938,6 +34938,62 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "sengoku-mugen-ps1",
+      "title": "전국 몽환",
+      "original": "戦国夢幻",
+      "platforms": [
+        "ps1"
+      ],
+      "genres": [
+        "SLG",
+        "역사 전략"
+      ],
+      "score": 7.3,
+      "summary": "전국시대 다이묘가 되어 내정·외교·전쟁을 실시간으로 운용하는 PS1 역사 전략 시뮬레이션. 1,300명 이상 무장과 여섯 시나리오, 야전·공성전과 복수의 통일 조건이 강점이지만 내정의 제한적인 깊이와 동시다발 전선 관리의 부담, PS1 그래픽의 한계가 있어 7.3점. 촘촘한 역사 인물과 긴박한 전국시대 전술을 좋아하는 플레이어에게 추천. 공개 자료 기반 편집 평가이며 직접 플레이한 점수는 아님.",
+      "pros": [
+        "1,300명 이상의 무장과 실존·가상 상황을 아우르는 6개 시나리오가 반복 플레이의 선택지를 넓힌다.",
+        "내정·외교와 실시간 야전·3D 공성전이 한 흐름으로 연결되어 전략적 결단의 긴장감이 크다.",
+        "무력 통일·동맹 통일 등 다양한 통일 경로와 게임 내 도움말을 제공한다."
+      ],
+      "cons": [
+        "다수 지역과 부대를 실시간으로 병행 관리해야 하므로 세력 확장 후 판단과 조작이 바빠진다.",
+        "전쟁에 비해 내정 요소의 깊이가 얕아 개발·경영 위주의 플레이에는 아쉬움이 남을 수 있다.",
+        "처음에는 시스템을 파악하기 어렵고, 오래된 PS1의 3D 전투 화면은 현대적 가독성과 연출에 못 미친다."
+      ],
+      "sources": [
+        {
+          "label": "LaunchBox Games Database - PS1 일본판·표지·게임 개요",
+          "url": "https://gamesdb.launchbox-app.com/games/details/112275-sengoku-mugen"
+        },
+        {
+          "label": "コンシューマーゲーム大辞典 - 시스템·시나리오·패미통 교차평가",
+          "url": "https://consoledictionary.com/games/22225"
+        },
+        {
+          "label": "ピコピコ大百科 - PS1판 소개·이용자 리뷰",
+          "url": "https://www.gavas.jp/products/detail.php?product_id=9159"
+        },
+        {
+          "label": "MobyGames - PS1판 전략 시스템 소개",
+          "url": "https://www.mobygames.com/game/263005/sengoku-mugen/"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/38",
+        "notes": "PS1 일본판(戦国夢幻, SLPS-03151) 대상. 사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 번역 범위·원본 리비전 호환·적용 방법과 실기 구동 여부 미확인."
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/bc495a0a-6c5c-4a98-a86f-1ce7f55334c6.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/details/112275-sengoku-mugen",
+        "platform": "ps1",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
