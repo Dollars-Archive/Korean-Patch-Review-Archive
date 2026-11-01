@@ -30872,6 +30872,72 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "inazuma-eleven-go-galaxy-big-bang-3ds",
+      "title": "이나즈마 일레븐 GO 갤럭시: 빅뱅",
+      "original": "イナズマイレブンGO ギャラクシー ビッグバン (Inazuma Eleven GO: Galaxy Big Bang)",
+      "platforms": [
+        "3ds"
+      ],
+      "genres": [
+        "육성 RPG",
+        "축구 RPG",
+        "스포츠 RPG"
+      ],
+      "score": 8.5,
+      "summary": "2013년 일본 닌텐도 3DS판 《이나즈마 일레븐 GO 갤럭시: 빅뱅》(CTR-P-BGVJ) 기준. 소울·화신을 조합하는 축구 경기와 개성 강한 선수 수집·육성, 우주를 무대로 한 열혈 서사가 강점이며 클리어 후 대전·육성 콘텐츠도 풍부하다. 기본 플레이 구조는 전작과 크게 다르지 않고 일부 난도 급등과 반복 성장 부담이 있으며, 현재 공식 온라인 대전·교환 서비스는 종료됐다. 시리즈 팬과 팀 빌딩을 좋아하는 RPG 플레이어에게 추천하는 8.5점. 공개 자료 기반 편집 평가이며 직접 플레이한 점수는 아님.",
+      "pros": [
+        "새로운 소울 시스템과 기존 화신의 상성·활용을 조합하는 경기 전술이 풍부해지고, 연출이 화려해 보는 즐거움도 크다.",
+        "많은 선수를 수집해 포지션·필살기·능력을 육성하고 자신만의 팀을 구성하는 장기적인 재미가 뛰어나다.",
+        "낯선 동료들이 한 팀으로 성장하며 우주 대회에 도전하는 이야기와 뜨거운 경기 연출이 시리즈 특유의 분위기를 살린다.",
+        "육성 방식을 선택하거나 재설정하는 기능과 클리어 후 추가 대전·수집 콘텐츠가 플레이 폭을 넓힌다."
+      ],
+      "cons": [
+        "새 시스템을 도입했지만 경기 진행과 핵심 조작은 전작들의 연장선이라 시리즈 경험자에게 변화가 크지 않을 수 있다.",
+        "일부 경기의 급격한 난도와 반복적인 선수 스카우트·레벨업·기술 강화가 플레이 흐름을 끊을 수 있다.",
+        "공식 닌텐도 3DS 인터넷 기반 온라인 대전·교환·콘텐츠 배포 서비스가 종료되어 당시의 일부 기능을 더는 정상적으로 이용할 수 없다."
+      ],
+      "sources": [
+        {
+          "label": "레벨파이브 공식 작품 페이지: 빅뱅/슈퍼노바 정보와 시스템",
+          "url": "https://www.inazuma.jp/gogalaxy/"
+        },
+        {
+          "label": "레벨파이브 공식 안내: 빅뱅과 슈퍼노바 판본별 차이",
+          "url": "https://www.inazuma.jp/gogalaxy/chigai/"
+        },
+        {
+          "label": "패미통 3DS판 크로스 리뷰 (2013년)",
+          "url": "https://www.famitsu.com/game/title/29170/reviews"
+        },
+        {
+          "label": "가격닷컴 일본판 빅뱅 구매자 플레이 평가",
+          "url": "https://review.kakaku.com/review/K0000584234/"
+        },
+        {
+          "label": "레벨파이브 공식 3DS 온라인 서비스 종료 안내",
+          "url": "https://www.level5.co.jp/news/20231018/"
+        },
+        {
+          "label": "스루가야 일본판 제품 정보·Box - Front",
+          "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/104000421"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/1601",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 및 표지는 일본 닌텐도 3DS 《이나즈마 일레븐 GO 갤럭시: 빅뱅》(CTR-P-BGVJ, 2013-12-05) 기준이며 《슈퍼노바》판과 구별한다. 제공된 '갤럭시' 한글패치 주소가 빅뱅 판본을 지원하는지, 지원 게임 업데이트 리비전, 번역 범위·미번역 부분, 적용법 및 실기·에뮬레이터 구동 여부는 확인하지 않음."
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "ChatGPT (공개 자료 기반 편집 평가)",
+      "cover": {
+        "url": "https://www.suruga-ya.jp/database/pics/game/104000421.jpg",
+        "source": "https://www.suruga-ya.jp/kaitori/kaitori_detail/104000421",
+        "platform": "3ds",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
