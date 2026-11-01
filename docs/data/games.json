@@ -35827,6 +35827,60 @@
       },
       "reviewedAt": "2026-11-02",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "himitsu-no-hanazono-pc98",
+      "title": "비밀의 화원",
+      "original": "秘密の花園 (Himitsu no Hanazono)",
+      "platforms": [
+        "pc98"
+      ],
+      "genres": [
+        "ADV",
+        "미스터리",
+        "비주얼 노벨",
+        "성인용"
+      ],
+      "score": 7.2,
+      "summary": "1992년 일본 NEC PC-9801로 발매된 학원 미스터리·성인용 어드벤처에 대한 공개 자료 기반 편집 평가(직접 플레이하지 않음). 우루시하라 사토시의 매력적인 캐릭터 원화와 눈·입 애니메이션, 현장에 맞춰 제시되는 자연스러운 선택지, 세 인물 중 동행자를 고르며 사건을 조사하는 발상은 돋보인다. 다만 대부분의 선택지는 이야기의 큰 흐름을 바꾸지 않고, 동행자 교체가 번거로운 데다 중심 미스터리의 전개가 비교적 평범하다. 고전 미소녀 ADV의 작화와 학원 추리 분위기를 즐기는 사람에게 추천하는 7.2/10. 한글패치 유무는 평가 점수에 반영하지 않았다.",
+      "pros": [
+        "우루시하라 사토시의 캐릭터 원화에 눈 깜박임·입 움직임과 상황별 화면 배치를 더해 1992년 PC-98 미소녀 ADV로서 시각적 매력이 높다.",
+        "단순한 '보기/듣기' 반복 대신 상황에 맞춘 문장형 선택지를 제시해 대화 흐름과 조사 과정이 비교적 자연스럽다.",
+        "세 명의 동행 후보와 함께 조사하면 얻을 수 있는 정보와 전개가 달라져 학원 미스터리에 소규모 탐색·추리 요소를 보탠다."
+      ],
+      "cons": [
+        "많은 선택지가 대사만 조금 바꿀 뿐 사건의 큰 줄기에 주는 영향이 작아 분기형 어드벤처를 기대하면 아쉽다.",
+        "필요한 단서를 얻기 위해 동행 인물을 수시로 바꾸는 구조가 충분히 다듬어지지 않아 반복·동선 관리가 번거롭다.",
+        "개성적인 비주얼과 시스템의 가능성에 비해 중심 사건과 이야기 전개의 완성도가 평범하고, PC-98 구작 특유의 접근성 제약이 있다."
+      ],
+      "sources": [
+        {
+          "label": "ADVGAMER - 비밀의 화원 PC-98판 회고 리뷰(게임 디자인·그래픽·서사 평가)",
+          "url": "https://advgamer.com/himitsu-no-hanazono/"
+        },
+        {
+          "label": "LaunchBox Games Database - NEC PC-9801판 작품·게임플레이·일본 패키지 앞표지",
+          "url": "https://gamesdb.launchbox-app.com/games/images/133355-himitsu-no-hanazono"
+        },
+        {
+          "label": "Suruga-ya - PC-9801 5인치 일본판 제품 정보·발매일",
+          "url": "https://www.suruga-ya.jp/product/detail/125000306"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/7453",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 1992년 일본 NEC PC-9801판 《秘密の花園》이다. 지원 원본 디스크·버전, 대사·메뉴 번역 범위 및 미번역 요소, 패치 적용 방법과 실기·에뮬레이터 호환성은 확인하지 않았다. 설치 및 패치 적용 시험도 하지 않았다."
+      },
+      "reviewedAt": "2026-11-02",
+      "reviewer": "ChatGPT (공개 자료 기반 편집 평가)",
+      "cover": {
+        "url": "https://images.launchbox-app.com/d55706d6-506e-4501-8ddc-39f563da6f15.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/133355-himitsu-no-hanazono",
+        "platform": "pc98",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
