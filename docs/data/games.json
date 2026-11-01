@@ -33836,6 +33836,70 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "super-mario-world-2-yoshis-island-snes",
+      "title": "슈퍼 마리오 요시 아일랜드",
+      "original": "スーパーマリオ ヨッシーアイランド (Super Mario World 2: Yoshi's Island)",
+      "platforms": [
+        "snes"
+      ],
+      "genres": [
+        "플랫포머",
+        "액션",
+        "탐색"
+      ],
+      "score": 9.5,
+      "summary": "1995년 일본 슈퍼패미컴판 《スーパーマリオ ヨッシーアイランド》의 자료 기반 편집 평가. 요시가 적을 삼켜 만든 달걀을 조준해 던지고 공중에서 버티는 조작을 퍼즐·탐험·발판 액션에 촘촘하게 활용한다. 그림책 같은 손그림풍 그래픽, 기발하게 변화하는 스테이지·보스, 곤도 고지의 음악이 높은 완성도를 보여준다. 반면 100점 수집은 숨겨진 아이템 재탐색을 요구하고 아기 마리오의 울음소리는 흐름을 끊는다. 전작 《슈퍼 마리오 월드》보다 비밀 출구를 이용한 경로 분기도 적다. 독창성과 레벨 디자인을 높이 평가해 9.5/10점. 빠른 질주보다 탐색과 아이디어 중심의 2D 액션을 좋아한다면 강력 추천한다. 직접 플레이하지 않았으며 한글패치 유무를 점수에 반영하지 않았다. GBA 이식판 《슈퍼 마리오 어드밴스 3》와는 별개다.",
+      "pros": [
+        "적을 삼켜 달걀을 만들고 각도를 맞춰 투척하는 조작과 공중 버티기·엉덩방아를 활용해 전투와 발판 퍼즐을 자연스럽게 연결한다.",
+        "6개 월드의 다양한 기믹, 헬리콥터·두더지 탱크 같은 변신, 숨겨진 수집 요소가 스테이지마다 새로운 탐험의 재미를 준다.",
+        "크레용·수채화풍 그래픽과 Super FX 2를 활용한 커다란 적과 보스 연출이 SFC판만의 강렬한 시각적 개성을 완성한다.",
+        "꽃·빨간 동전·스타를 모아 고득점을 노리는 도전 목표가 숙련자의 재플레이 동기를 높인다.",
+        "곤도 고지의 음악과 세심한 캐릭터 애니메이션이 동화 같은 세계관을 풍부하게 만든다."
+      ],
+      "cons": [
+        "적에게 맞을 때 시작되는 아기 마리오의 울음소리가 반복되며 되찾는 과정이 진행 리듬을 끊는다.",
+        "스테이지 100점 달성에는 수집품을 놓치지 않는 탐색과 재도전이 필요해 완벽주의 플레이의 피로도가 높다.",
+        "기존 마리오의 속도감 있는 달리기보다 조준과 탐색에 비중이 높아 빠른 템포를 선호하면 답답할 수 있다.",
+        "《슈퍼 마리오 월드》의 비밀 출구 방식에 비해 월드 경로 분기가 단순하며 일부 보스는 패턴이 쉬운 편이다."
+      ],
+      "sources": [
+        {
+          "label": "닌텐도 공식 - 일본 SFC 원작 1995-08-05 발매, 달걀 액션·변신·6개 월드",
+          "url": "https://www.nintendo.co.jp/clvs/soft/mario_yossy.html"
+        },
+        {
+          "label": "닌텐도 공식 히스토리 - SFC판 요시 액션과 원작 정보",
+          "url": "https://www.nintendo.co.jp/ngc/sms/history/syi/index.html"
+        },
+        {
+          "label": "Nintendo Life - SNES 원작 리뷰와 장단점",
+          "url": "https://www.nintendolife.com/reviews/2009/07/super_mario_world_2_yoshis_island_retro"
+        },
+        {
+          "label": "GamesRadar+ / Retro Gamer - 개발 회고·1995년 당시 리뷰와 레벨 구조 평가",
+          "url": "https://www.gamesradar.com/super-mario-world-2-yoshis-island-how-nintendo-made-the-perfect-sequel-to-the-best-platformer-ever/"
+        },
+        {
+          "label": "LaunchBox - Super Nintendo Box - Front (Japan), 실물 패키지 앞표지",
+          "url": "https://gamesdb.launchbox-app.com/games/images/132-super-mario-world-2-yoshis-island"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/148",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 게임 평가는 1995-08-05 일본 SFC 원작 기준. 제공 링크가 지원하는 지역·리비전, 번역 범위·미번역 항목, 적용 조건과 실기·에뮬레이터 호환성은 확인하지 않았다. 북미 SNES판과 GBA판은 평가 대상이 아니며 설치·실행 검증도 수행하지 않았다."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com/7319800f-3fcf-4798-8f20-64ed998190b6.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/132-super-mario-world-2-yoshis-island",
+        "platform": "snes",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "WebGPT"
     }
   ]
 }
