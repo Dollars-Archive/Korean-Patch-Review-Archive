@@ -35121,6 +35121,65 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "jump-ultimate-stars-ds",
+      "title": "점프 얼티밋 스타즈",
+      "original": "ジャンプアルティメットスターズ (Jump Ultimate Stars)",
+      "platforms": [
+        "ds"
+      ],
+      "genres": [
+        "대전 액션",
+        "2D 격투",
+        "크로스오버"
+      ],
+      "score": 8.5,
+      "summary": "2006년 11월 23일 일본 발매 Nintendo DS판을 평가. 주간 소년 점프 작품들의 인물과 기술을 폭넓게 모은 2D 대전 액션으로, 만화 칸(코마)을 4×5 보드에 배치해 전투·지원·보조 캐릭터를 조합하는 덱 편성이 깊은 전략성과 수집 재미를 만든다. 파괴 가능한 만화풍 스테이지와 경쾌한 캐릭터 교체 전투도 강점이다. 반면 싱글플레이 미션의 반복, 적 AI의 허술함과 일부 캐릭터 성능 편차가 아쉬워 8.5/10점. 소년 점프 원작 팬과 자유로운 팀 조합을 좋아하는 액션 게임 이용자에게 특히 추천한다. 공개 자료를 기반으로 한 편집 평가이며 직접 플레이하지 않았고 한글패치 유무는 점수에 반영하지 않았다.",
+      "pros": [
+        "드래곤볼·원피스·나루토·블리치 등 40종 이상의 점프 만화 세계를 아우르며 원작별 캐릭터의 상징적인 기술과 연출을 즐길 수 있다.",
+        "4×5칸의 코마 덱에 전투·지원·보조 캐릭터를 맞춰 배치하는 시스템이 팀 조합, 강화 및 캐릭터 수집에 의미 있는 전략성을 준다.",
+        "빠른 공방, 즉석 캐릭터 교체와 지원 공격, 스테이지의 벽을 부수고 상대를 링아웃시키는 액션이 활기차고 개성이 있다.",
+        "닌텐도 DS의 두 화면·터치 기능을 덱 운용에 활용하며 로컬 대전과 당시의 Wi-Fi 대전으로 다양한 팀을 겨뤄 볼 수 있었다."
+      ],
+      "cons": [
+        "싱글플레이의 임무 목표와 대전 형태가 반복되고 캐릭터 진화를 위한 보석 수집·재도전이 길어져 후반에는 노가다 느낌이 강해진다.",
+        "상대 AI의 움직임과 판단이 허술한 장면이 있어 혼자 즐길 때 전투의 긴장감이 부족하다.",
+        "일부 강력한 전투·지원 코마에 성능이 편중되어 경쟁적인 대전에서 팀 편성의 자유가 실제로는 좁아질 수 있다.",
+        "일본어 원판의 임무 조건과 캐릭터 설명은 텍스트 비중이 높고, 당시 온라인 서비스와 실제 대전 환경을 현재 그대로 기대하기 어렵다."
+      ],
+      "sources": [
+        {
+          "label": "LaunchBox Games Database - 일본 Nintendo DS판 기본 정보·실물 앞표지",
+          "url": "https://gamesdb.launchbox-app.com/games/details/20514-jump-ultimate-stars"
+        },
+        {
+          "label": "Siliconera - Jump Ultimate Stars 리뷰·코마 시스템·미션 구성·대전",
+          "url": "https://www.siliconera.com/jump-ultimate-stars/"
+        },
+        {
+          "label": "GameFAQs - Fighting with the Stars (DS 리뷰, 밸런스·AI·반복)",
+          "url": "https://gamefaqs.gamespot.com/ds/933199-jump-ultimate-stars/reviews/110771"
+        },
+        {
+          "label": "GameFAQs - Jump up, jump up and get down! (DS 리뷰, 덱·대전)",
+          "url": "https://gamefaqs.gamespot.com/ds/933199-jump-ultimate-stars/reviews/116188"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/2270",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2006년 11월 23일 일본 발매 Nintendo DS판(ジャンプアルティメットスターズ)이다. 패치가 지원하는 게임 지역·리비전, 번역 범위·미번역 요소, 적용 방법과 실기·에뮬레이터 호환성은 확인하지 않았으며 설치·실행 시험도 하지 않았다."
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "ChatGPT (공개 자료 기반 편집 평가)",
+      "cover": {
+        "url": "https://images.launchbox-app.com//d4011d0b-e871-4858-a856-293c2e479196.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/details/20514-jump-ultimate-stars",
+        "platform": "ds",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
