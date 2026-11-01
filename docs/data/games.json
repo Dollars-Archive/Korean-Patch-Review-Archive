@@ -31131,6 +31131,64 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "vagrant-story-ps1",
+      "title": "베이그란트 스토리",
+      "original": "ベイグラントストーリー (Vagrant Story)",
+      "platforms": [
+        "ps1"
+      ],
+      "genres": [
+        "액션 RPG",
+        "던전 탐험",
+        "어드벤처 RPG"
+      ],
+      "score": 9.1,
+      "summary": "2000년 2월 10일 일본 PS1 초판 기준. 버려진 도시 레아 몽드를 무대로 펼쳐지는 정치적 음모극과 영화적인 카메라 연출, 사카모토 히토시의 음악이 뛰어나며, 부위별 조준·체인 공격·무기 합성과 적 상성까지 연결한 전투가 깊이를 제공한다. 다만 무기 속성과 리스크 관리의 학습 난도가 높고 잦은 장비 교체와 복잡한 던전 탐험이 흐름을 끊는다. 치밀한 시스템과 어두운 서사를 좋아하는 액션 RPG 팬에게 적극 추천하는 9.1점. 공개 자료 기반 편집 평가이며 직접 플레이한 점수는 아님.",
+      "pros": [
+        "마츠노 야스미가 이끄는 정치적 음모와 심리전을 세밀한 대사·장면 구성으로 표현해 짙은 긴장감을 만든다.",
+        "적 신체 부위별 조준, 체인·방어 어빌리티와 리스크 수치의 상호작용이 단순 연타를 넘어서는 전술적 전투를 구현한다.",
+        "적 종류와 속성별 효율을 고려한 무기 합성·강화 및 부품 조합이 장비 육성에 깊이를 더한다.",
+        "요시다 아키히코의 캐릭터 디자인, PS1 한계를 밀어붙인 카메라와 조명 연출, 사키모토 히토시의 음악이 몰입도 높은 분위기를 완성한다."
+      ],
+      "cons": [
+        "무기 속성·적 종족 상성·DP/PP와 리스크 등 필수 전투 개념의 설명이 부족해 초반 진입 장벽이 상당하다.",
+        "상성이 다른 적이 연속으로 등장하면서 장비를 자주 바꿔야 하고, 합성 및 수리 관리가 반복되면 템포가 느려진다.",
+        "비슷한 배경의 미로형 던전과 상자 퍼즐 중심의 탐험, 마을·비전투 교류의 부재는 취향에 따라 단조로울 수 있다."
+      ],
+      "sources": [
+        {
+          "label": "스퀘어 에닉스 일본 공식 게임 소개 및 PS1 초판 발매일",
+          "url": "https://www.jp.square-enix.com/game/detail/vagrantstory/"
+        },
+        {
+          "label": "RPGFan 리뷰: PS1 일본판 시스템·스토리·편의성 (2000-05-05)",
+          "url": "https://www.rpgfan.com/review/vagrant-story-4/"
+        },
+        {
+          "label": "GameSpot 리뷰: PS1판 전투·연출과 복잡성 (2000-02-15)",
+          "url": "https://www.gamespot.com/reviews/vagrant-story-review/1900-2550071/"
+        },
+        {
+          "label": "LaunchBox: Sony PlayStation 일본판 실제 Box - Front",
+          "url": "https://gamesdb.launchbox-app.com/games/images/3493-vagrant-story"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/1517",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 및 표지는 2000-02-10 일본 PlayStation 일반판 《ベイグラントストーリー》 기준이며 북미·유럽판, PS one Books 및 게임 아카이브스판과 구별함. 제공 URL이 실제 지원하는 게임 지역·리비전, 번역 범위와 미번역 부분, 적용 방법, 실기·에뮬레이터 작동 여부는 확인하지 않았으며 설치·구동 시험도 수행하지 않음."
+      },
+      "reviewedAt": "2026-11-01",
+      "reviewer": "ChatGPT (공개 자료 기반 편집 평가)",
+      "cover": {
+        "url": "https://images.launchbox-app.com/r2_f067bb1c-9187-4681-9c9f-95b4e4d13c52.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/3493-vagrant-story",
+        "platform": "ps1",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
