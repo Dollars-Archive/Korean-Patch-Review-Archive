@@ -5,7 +5,7 @@
   const labels = Object.fromEntries(Core.PLATFORMS.map(p => [p.id,p.label]));
   const params = new URLSearchParams(location.search);
   let games = [], busy = false, verified = false, catalogReady = false;
-  let filters = {platform:labels[params.get('platform')] ? params.get('platform') : 'all',genre:'all',q:'',favoriteOnly:false,view:'active',sort:'score-desc'};
+  let filters = {platform:labels[params.get('platform')] ? params.get('platform') : 'all',genre:'all',q:'',favoriteOnly:false,view:'active',patchView:'all',sort:'score-desc'};
   const store = Sync.createStore({knownIds:() => new Set(games.map(g => g.id))});
   function notice(text,error=false) { $('notice').textContent=text; $('notice').classList.toggle('error',error); }
   function syncUrl() { const url=new URL(location.href); if(filters.platform==='all')url.searchParams.delete('platform');else url.searchParams.set('platform',filters.platform); history.replaceState(null,'',url.pathname+url.search+url.hash); }
@@ -25,14 +25,14 @@
     return `<div class="cover">${url?`<img class="cover-image" src="${esc(url)}" alt="${esc(description)}" title="${esc(description)}" loading="lazy" decoding="async">`:''}<span class="cover-placeholder"${url?' hidden':''}>표지 준비 중</span></div>`;
   }
   function gameMarkup(game) {
-    const favorite=Core.isFavorite(store.data,game.id), deleted=Core.isDeleted(store.data,game.id);
+    const favorite=Core.isFavorite(store.data,game.id), deleted=Core.isDeleted(store.data,game.id), downloaded=Core.isDownloaded(store.data,game.id);
     const disabled=busy||!store.ready ? ' disabled' : '';
     const score=game.score===null ? '미평가' : Number(game.score).toFixed(1);
     const sources=game.sources.map(s=>{const url=Core.safeUrl(s.url);return url?`<a href="${esc(url)}" target="_blank" rel="noopener noreferrer">${esc(s.label||'출처')} ↗</a>`:'';}).join('');
     const patchUrl=Core.safeUrl(game.patch.url);
     const patchLabel=game.patch.status==='stopped'?'패치 배포 중단':game.patch.status==='available'?'한글패치 있음':'패치 정보 미확인';
     const patchLink=patchUrl?`<a class="patch-shortcut" href="${esc(patchUrl)}" target="_blank" rel="noopener noreferrer" referrerpolicy="no-referrer">한글패치 ↗</a>`:'';
-    return `<article class="game" data-id="${esc(game.id)}"><div class="game-visual">${coverMarkup(game)}<div class="rating ${game.score===null?'unrated':''}"><strong>${score}</strong><span>${game.score===null?'평가 대기':'/ 10'}</span></div>${patchLink}</div><div class="game-content"><h3>${esc(game.title)}</h3><div class="original">${esc(game.original)}</div><div class="badges">${game.platforms.map(p=>`<span class="badge">${esc(labels[p]||p)}</span>`).join('')}${game.genres.map(g=>`<span class="badge">${esc(g)}</span>`).join('')}</div>${game.summary?`<p class="summary">${esc(game.summary)}</p>`:''}<details class="detail"><summary>장단점 · 평가 근거 보기</summary><div class="pros-cons"><div class="pros"><h4>장점</h4>${listItems(game.pros)}</div><div class="cons"><h4>단점</h4>${listItems(game.cons)}</div></div><div class="sources">${sources}</div><div class="meta">${esc([game.reviewer,game.reviewedAt].filter(Boolean).join(' · '))}</div></details><div class="patch"><span>${patchLabel}</span>${game.patch.notes?`<span class="patch-note">${esc(game.patch.notes)}</span>`:''}</div></div><div class="actions"><button class="star" data-action="favorite" data-id="${esc(game.id)}" aria-pressed="${favorite}" aria-label="${esc(game.title)} ${favorite?'찜 해제':'찜 추가'}"${disabled}>${favorite?'★':'☆'}</button><button data-action="deleted" data-id="${esc(game.id)}"${disabled}>${deleted?'복구':'삭제'}</button></div></article>`;
+    return `<article class="game" data-id="${esc(game.id)}"><div class="game-visual">${coverMarkup(game)}<div class="rating ${game.score===null?'unrated':''}"><strong>${score}</strong><span>${game.score===null?'평가 대기':'/ 10'}</span></div>${patchLink}</div><div class="game-content"><h3>${esc(game.title)}</h3><div class="original">${esc(game.original)}</div><div class="badges">${game.platforms.map(p=>`<span class="badge">${esc(labels[p]||p)}</span>`).join('')}${game.genres.map(g=>`<span class="badge">${esc(g)}</span>`).join('')}</div>${game.summary?`<p class="summary">${esc(game.summary)}</p>`:''}<details class="detail"><summary>장단점 · 평가 근거 보기</summary><div class="pros-cons"><div class="pros"><h4>장점</h4>${listItems(game.pros)}</div><div class="cons"><h4>단점</h4>${listItems(game.cons)}</div></div><div class="sources">${sources}</div><div class="meta">${esc([game.reviewer,game.reviewedAt].filter(Boolean).join(' · '))}</div></details><div class="patch"><span>${patchLabel}</span>${game.patch.notes?`<span class="patch-note">${esc(game.patch.notes)}</span>`:''}</div></div><div class="actions"><button class="star" data-action="favorite" data-id="${esc(game.id)}" aria-pressed="${favorite}" aria-label="${esc(game.title)} ${favorite?'찜 해제':'찜 추가'}"${disabled}>${favorite?'★':'☆'}</button><button class="patch-received" data-action="downloaded" data-id="${esc(game.id)}" aria-pressed="${downloaded}"${disabled}>${downloaded?'☑ 패치 받음':'☐ 패치 받음'}</button><button data-action="deleted" data-id="${esc(game.id)}"${disabled}>${deleted?'복구':'삭제'}</button></div></article>`;
   }
   function render() {
     platformButtons();
@@ -40,10 +40,13 @@
     const active=games.filter(g=>!Core.isDeleted(state,g.id));
     const favoriteCount=active.filter(g=>Core.isFavorite(state,g.id)).length;
     const deletedCount=games.length-active.length;
+    const downloadedCount=active.filter(g=>Core.isDownloaded(state,g.id)).length;
     $('stats').innerHTML=[['등록 게임',active.length],['평가 완료',active.filter(g=>g.score!==null).length],['찜한 게임',favoriteCount]].map(([label,value])=>`<div class="stat"><strong>${value}</strong><span>${label}</span></div>`).join('');
+    $('patch-all').textContent=`전체 패치 (${active.length})`; $('patch-all').setAttribute('aria-pressed',String(filters.patchView==='all'));
+    $('patch-missing').textContent=`안 받은 패치 (${active.length-downloadedCount})`; $('patch-missing').setAttribute('aria-pressed',String(filters.patchView==='missing'));
     $('favorites').textContent=`${filters.favoriteOnly?'★':'☆'} 찜만 보기 (${favoriteCount})`; $('favorites').setAttribute('aria-pressed',String(filters.favoriteOnly));
     $('deleted').textContent=`삭제한 게임 · 복구 (${deletedCount})`; $('deleted').setAttribute('aria-pressed',String(filters.view==='deleted'));
-    $('list-title').textContent=filters.view==='deleted'?'삭제한 게임':filters.favoriteOnly?'찜한 게임':filters.platform==='all'?'전체 게임':labels[filters.platform];
+    $('list-title').textContent=filters.view==='deleted'?'삭제한 게임':filters.favoriteOnly?(filters.patchView==='missing'?'찜한 게임 · 안 받은 패치':'찜한 게임'):filters.patchView==='missing'?'안 받은 패치':filters.platform==='all'?'전체 게임':labels[filters.platform];
     const selected=Core.selectGames(games,filters,state);
     $('count').textContent=`${selected.length}개`;
     $('results').innerHTML=selected.map(gameMarkup).join('');
@@ -69,7 +72,7 @@
       const result=await store.load();
       await checkToken();
       render();
-      notice(result.error?'찜·삭제 연동 실패 · '+result.error+' · 기존 저장값을 유지합니다.':'찜·삭제 목록을 새로 불러왔습니다.',Boolean(result.error));
+      notice(result.error?'찜·삭제·패치 연동 실패 · '+result.error+' · 기존 저장값을 유지합니다.':'찜·삭제·패치 목록을 새로 불러왔습니다.',Boolean(result.error));
     } catch(error){render();notice('GitHub 연결을 확인하지 못했습니다. '+error.message,true);}
     finally{busy=false;render();}
   }
@@ -77,9 +80,11 @@
   $('search').addEventListener('input',()=>{filters.q=$('search').value;render();});
   $('genre').addEventListener('change',()=>{filters.genre=$('genre').value;render();});
   $('sort').addEventListener('change',()=>{filters.sort=$('sort').value;render();});
+  $('patch-all').addEventListener('click',()=>{filters.patchView='all';render();});
+  $('patch-missing').addEventListener('click',()=>{filters.patchView='missing';render();});
   $('favorites').addEventListener('click',()=>{filters.favoriteOnly=!filters.favoriteOnly;render();});
   $('deleted').addEventListener('click',()=>{filters.view=filters.view==='deleted'?'active':'deleted';render();});
-  $('reset').addEventListener('click',()=>{filters={platform:'all',genre:'all',q:'',favoriteOnly:false,view:'active',sort:'score-desc'};$('search').value='';$('genre').value='all';$('sort').value='score-desc';syncUrl();render();});
+  $('reset').addEventListener('click',()=>{filters={platform:'all',genre:'all',q:'',favoriteOnly:false,view:'active',patchView:'all',sort:'score-desc'};$('search').value='';$('genre').value='all';$('sort').value='score-desc';syncUrl();render();});
   $('settings-open').addEventListener('click',openSettings);
   $('refresh').addEventListener('click',refreshState);
   $('token-save').addEventListener('click',async()=>{
@@ -101,15 +106,15 @@
   $('results').addEventListener('click',async event=>{
     const button=event.target.closest('[data-action]');if(!button||busy||!store.ready)return;
     const game=games.find(g=>g.id===button.dataset.id);if(!game)return;
-    if(!store.getToken()){openSettings();notice('찜·삭제 저장에는 GitHub 열쇠가 필요합니다.',true);return;}
+    if(!store.getToken()){openSettings();notice('찜·삭제·패치 상태 저장에는 GitHub 열쇠가 필요합니다.',true);return;}
     busy=true;render();
     try{
       if(!verified){await checkToken();if(!verified)throw new Error('새 저장소에 대한 Contents: Read and write 권한을 확인해 주세요.');}
       const kind=button.dataset.action;
-      const value=kind==='favorite'?!Core.isFavorite(store.data,game.id):!Core.isDeleted(store.data,game.id);
+      const value=kind==='favorite'?!Core.isFavorite(store.data,game.id):kind==='downloaded'?!Core.isDownloaded(store.data,game.id):!Core.isDeleted(store.data,game.id);
       notice('GitHub에 저장하는 중…');
       await store.change({kind,id:game.id,title:game.title,value});
-      notice(kind==='favorite'?(value?'찜을 GitHub에 저장했습니다.':'찜을 해제했습니다.'):(value?'목록에서 삭제했습니다. 삭제한 게임에서 복구할 수 있습니다.':'게임을 목록에 복구했습니다.'));
+      notice(kind==='favorite'?(value?'찜을 GitHub에 저장했습니다.':'찜을 해제했습니다.'):kind==='downloaded'?(value?'패치 받음을 저장했습니다.':'패치 받음 체크를 해제했습니다.'):(value?'목록에서 삭제했습니다. 삭제한 게임에서 복구할 수 있습니다.':'게임을 목록에 복구했습니다.'));
     }catch(error){notice('저장 실패 · 기존 목록을 유지합니다. '+error.message,true);}
     finally{busy=false;render();}
   });

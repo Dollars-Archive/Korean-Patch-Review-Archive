@@ -60,6 +60,7 @@
     q: '',
     favoriteOnly: false,
     view: 'active',
+    patchView: 'all',
     sort: 'score-desc'
   };
 
@@ -333,6 +334,10 @@
       state.deleted[id] && state.deleted[id].deleted === true);
   }
 
+  function isDownloaded(state, id) {
+    return !!(state && isPlainObject(state.downloaded) && owns(state.downloaded, id) && state.downloaded[id]);
+  }
+
   function escapeHtml(value) {
     if (value === null || value === undefined) return '';
     return String(value).replace(/[&<>"']/g, function (character) {
@@ -420,12 +425,14 @@
     var genre = typeof options.genre === 'string' ? options.genre : 'all';
     var query = typeof options.q === 'string' ? options.q.trim().toLowerCase() : '';
     var favoriteOnly = options.favoriteOnly === true;
+    var patchView = options.patchView === 'missing' ? 'missing' : 'all';
     var sort = SORTS.indexOf(options.sort) === -1 ? 'score-desc' : options.sort;
 
     var selected = list.filter(function (game) {
       var removed = isDeleted(state, game.id);
       if (view === 'deleted' ? !removed : removed) return false;
       if (favoriteOnly && !isFavorite(state, game.id)) return false;
+      if (patchView === 'missing' && isDownloaded(state, game.id)) return false;
       if (platform !== 'all' && (!Array.isArray(game.platforms) || game.platforms.indexOf(platform) === -1)) {
         return false;
       }
@@ -453,6 +460,7 @@
     normalizeState: normalizeState,
     isFavorite: isFavorite,
     isDeleted: isDeleted,
+    isDownloaded: isDownloaded,
     selectGames: selectGames,
     escapeHtml: escapeHtml,
     safeUrl: safeUrl

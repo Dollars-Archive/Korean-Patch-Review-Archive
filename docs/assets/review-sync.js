@@ -102,6 +102,9 @@
     if (!isPlainObject(favoritesRaw)) throw new Error('Watchlist favorites must be an object.');
     var deletedRaw = raw.deleted === undefined || raw.deleted === null ? {} : raw.deleted;
     if (!isPlainObject(deletedRaw)) throw new Error('Watchlist deleted entries must be an object.');
+    var hasDownloaded = raw.downloaded !== undefined && raw.downloaded !== null;
+    var downloadedRaw = hasDownloaded ? raw.downloaded : {};
+    if (!isPlainObject(downloadedRaw)) throw new Error('Watchlist downloaded entries must be an object.');
 
     var favorites = {};
     Object.keys(favoritesRaw).forEach(function (id) {
@@ -112,6 +115,17 @@
         throw new Error('Watchlist favorite "' + id + '" has an invalid updated timestamp.');
       }
       favorites[id] = { updated: entry.updated };
+    });
+
+    var downloaded = {};
+    Object.keys(downloadedRaw).forEach(function (id) {
+      if (!ID_RE.test(id)) throw new Error('Watchlist contains an invalid game id "' + id + '".');
+      var entry = downloadedRaw[id];
+      if (!isPlainObject(entry)) throw new Error('Watchlist downloaded "' + id + '" must be an object.');
+      if (!isIsoTimestamp(entry.updated)) {
+        throw new Error('Watchlist downloaded "' + id + '" has an invalid updated timestamp.');
+      }
+      downloaded[id] = { updated: entry.updated };
     });
 
     var deleted = {};
@@ -131,7 +145,9 @@
       deleted[id] = { deleted: entry.deleted, updated: entry.updated, title: entry.title };
     });
 
-    return { version: 1, favorites: favorites, deleted: deleted };
+    var result = { version: 1, favorites: favorites, deleted: deleted };
+    if (hasDownloaded) result.downloaded = downloaded;
+    return result;
   }
 
   function parseStateText(text) {
@@ -449,8 +465,8 @@
 
     function validateChange(input) {
       if (!isPlainObject(input)) throw new Error('A watchlist change must be an object.');
-      if (input.kind !== 'favorite' && input.kind !== 'deleted') {
-        throw new Error('Watchlist change kind must be "favorite" or "deleted".');
+      if (input.kind !== 'favorite' && input.kind !== 'deleted' && input.kind !== 'downloaded') {
+        throw new Error('Watchlist change kind must be "favorite", "deleted" or "downloaded".');
       }
       if (typeof input.id !== 'string' || !ID_RE.test(input.id)) {
         throw new Error('Watchlist change id is not a valid game id.');
@@ -488,6 +504,10 @@
       if (change.kind === 'favorite') {
         if (change.value) next.favorites[change.id] = { updated: updated };
         else delete next.favorites[change.id];
+      } else if (change.kind === 'downloaded') {
+        if (!isPlainObject(next.downloaded)) next.downloaded = {};
+        if (change.value) next.downloaded[change.id] = { updated: updated };
+        else delete next.downloaded[change.id];
       } else {
         var previous = owns(next.deleted, change.id) ? next.deleted[change.id] : null;
         var title = change.title !== ''
