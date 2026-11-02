@@ -1,5 +1,11 @@
 {
   "version": 1,
   "favorites": {},
-  "deleted": {}
+  "deleted": {
+    "machi-unmei-no-kousaten-ps1": {
+      "deleted": true,
+      "updated": "2026-11-02T16:55:46.410Z",
+      "title": "거리: 운명의 교차점"
+    }
+  }
 }
