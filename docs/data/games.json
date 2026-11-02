@@ -36890,6 +36890,66 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "gunparade-march-ps1",
+      "title": "고기동환상 건퍼레이드 마치",
+      "original": "高機動幻想ガンパレード・マーチ",
+      "platforms": [
+        "ps1"
+      ],
+      "genres": [
+        "SLG",
+        "ADV"
+      ],
+      "score": 8.6,
+      "summary": "침략자와 싸우는 학생병의 일상에서 NPC의 자율 행동, 인간관계, 부대 운용과 전술 전투가 서로 영향을 주며 매 회차 다른 이야기를 만들어 내는 독창적인 PS1 학원·전쟁 시뮬레이션. 높은 자유도와 재플레이 가치를 인정하되 잦은 버그, 일부 전투 밸런스 붕괴와 낡은 편의성을 감안해 8.6점. 정해진 대본보다 자신만의 이야기를 만들어 가는 시스템 중심 게임을 좋아한다면 강력 추천. 공개 자료 기반 편집 평가이며 직접 플레이 점수는 아님.",
+      "pros": [
+        "독자적인 판단으로 이동하고 반응하는 NPC의 우정·연애·갈등이 학원 생활과 부대의 분위기를 바꾸어, 플레이마다 인간관계 서사가 달라진다.",
+        "훈련·교류·장비 조달·보직 선택 등 일상에서의 행동이 전투와 이어지며, 전장에서는 아군과 적군의 행동을 예측해야 하는 전술적 깊이가 있다.",
+        "첫 회차 이후 다른 인물로 플레이하고 새로운 사건을 확인할 수 있어, 단순한 반복보다 새로운 삶을 시뮬레이션하는 다회차 동기가 크다."
+      ],
+      "cons": [
+        "특정 이벤트의 발생 순서나 행동에 따라 멈춤·진행 불능 등 심각한 버그가 발생할 수 있어 정기적인 저장과 주의가 필요하다.",
+        "일부 압도적으로 강한 무장과 시스템 허점이 전투 난도와 전략적 균형을 쉽게 무너뜨린다.",
+        "선택지가 방대해 뚜렷한 목표가 없으면 일상이 늘어지며, PS1 특유의 투박한 그래픽·메뉴와 복잡한 조작은 현대 기준으로 진입장벽이다."
+      ],
+      "sources": [
+        {
+          "label": "알파시스템 공식 - Gunparade March 제품 정보",
+          "url": "https://www.alfasystem.net/game/gp/"
+        },
+        {
+          "label": "GAME Watch - 발매 23주년 회고 및 게임 시스템 분석",
+          "url": "https://game.watch.impress.co.jp/docs/kikaku/1529910.html"
+        },
+        {
+          "label": "게임카탈로그@Wiki - 게임 특징·평가와 문제점",
+          "url": "https://w.atwiki.jp/gcmatome/pages/3973.html"
+        },
+        {
+          "label": "ゲームレビューの殿堂 - PS1 사용자·관리자 리뷰",
+          "url": "https://www.super-famicom.jp/rev/rev_ka/ps_ka_09.html"
+        },
+        {
+          "label": "ANIS 한글패치 아카이브 - PS1 일본판 한국어 패치 공개 정보",
+          "url": "https://krmod.anis.co.kr/hanpatch/18470"
+        }
+      ],
+      "patch": {
+        "status": "available",
+        "url": "https://blog.naver.com/yoolose/224452998036",
+        "notes": "2026-11-02 ANIS 한글패치 아카이브 공개 정보 확인: yoolose 제작 PS1 일본판 한글패치 0.86(2026-10-26 업데이트) 배포 기록. 일반 대사·시스템 문구 번역, 메뉴·전투·장비·저장 화면 및 줄바꿈·UI 문구 개선. 무수정 일본판 BIN(440,372,016바이트) 대상이며 ZIP·ISO·CUE·기존 패치 적용본을 입력 파일로 사용할 수 없음. 배포 ZIP의 브라우저 패처, BPS 또는 Python 적용기 안내를 참고해야 함. 전체 게임 진행 검증은 아직 완료되지 않았다고 배포 정보에 기재. 원본 배포 페이지 주소는 ANIS에 연결된 링크를 사용했으며, 해당 블로그의 최신 파일·호환성과 설치·실기·에뮬레이터 동작은 직접 검증하지 않음."
+      },
+      "reviewedAt": "2026-11-02",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/ddd59ec5-a8b6-4b3e-84a0-00b24f7856fe.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/details/109816-koukidou-gensou-gpm-gunparade-march",
+        "platform": "ps1",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
