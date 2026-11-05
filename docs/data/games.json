@@ -38155,6 +38155,62 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "castle-fantasia-erencia-senki-plus-stories-ps2",
+      "title": "캐슬 판타지아: 에렌시아 전기 Plus Stories",
+      "original": "キャッスルファンタジア エレンシア戦記 プラスストーリーズ",
+      "platforms": [
+        "ps2"
+      ],
+      "genres": [
+        "SLG",
+        "ADV"
+      ],
+      "score": 7,
+      "summary": "전쟁과 인물 관계를 엮은 판타지 서사, 연애 이벤트와 PS2판 추가 시나리오가 강점이다. 하지만 실시간 부대 지휘의 불편함과 단조로운 저난도 전투, 길고 후반이 급한 전개 때문에 7.0점. 치밀한 RTS보다 캐릭터와 이야기를 즐기는 취향에 추천한다. (자료 기반 편집 평가)",
+      "pros": [
+        "점령된 조국을 되찾는 왕도 전쟁 서사에 동료들의 사연과 연애 이벤트를 엮어 인물 드라마의 볼거리가 풍부하다.",
+        "PS2판에 신규 캐릭터와 추가 시나리오를 수록해 기존판보다 캐릭터 중심 이야기의 폭을 넓혔다.",
+        "야마모토 카즈에의 개성 있는 캐릭터 디자인과 훈련·부대 운영·대화가 교차하는 구성이 장르 팬에게 매력적이다."
+      ],
+      "cons": [
+        "실시간 전투에서 부대 구분과 선택이 불편해 난전 중 세밀한 명령을 내리기 어렵다.",
+        "낮은 난이도에서는 전투를 거의 방치해도 승리하는 경우가 있어 육성과 전략의 보람이 약하다.",
+        "대화와 전개가 길게 느껴질 수 있고 후반부는 반대로 급하게 마무리된다는 평이 있다."
+      ],
+      "sources": [
+        {
+          "label": "GAME Watch - PS2 신작 소개 및 시스템·추가 요소",
+          "url": "https://game.watch.impress.co.jp/docs/20041008/cf.htm"
+        },
+        {
+          "label": "ピコピコ大百科 - PS2 일반판 정보와 이용자 리뷰",
+          "url": "https://www.gavas.jp/products/detail.php?product_id=14211"
+        },
+        {
+          "label": "PS2ゲーム (joko.jp) - 이용자 리뷰",
+          "url": "https://www.joko.jp/ps2/review/ti1401.html"
+        },
+        {
+          "label": "LaunchBox Games Database - PS2 일반판 정보 및 박스 앞표지",
+          "url": "https://gamesdb.launchbox-app.com/games/details/391364-castle-fantasia-erencia-senki-plus-stories"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/7794",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. PS2 일본판 Plus Stories 항목에 등록; 실제 대응 판본·번역 범위·적용법·실기 동작 미검증."
+      },
+      "reviewedAt": "2026-11-06",
+      "reviewer": "ChatGPT (자료 기반 편집 평가)",
+      "cover": {
+        "url": "https://images.launchbox-app.com//1a67e3e1-9cb6-422c-b1a1-942fee83933b.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/details/391364-castle-fantasia-erencia-senki-plus-stories",
+        "platform": "ps2",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
