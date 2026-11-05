@@ -37908,6 +37908,69 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "growlanser-vi-precarious-world-ps2",
+      "title": "그로우랜서 6: 프레카리어스 월드",
+      "original": "グローランサーVI Precarious World (Growlanser VI: Precarious World)",
+      "platforms": [
+        "ps2"
+      ],
+      "genres": [
+        "SRPG",
+        "전략 RPG",
+        "판타지 RPG"
+      ],
+      "score": 8.1,
+      "summary": "2007년 6월 21일 아틀라스가 일본 PS2로 출시한 『グローランサーVI Precarious World』(SLPM-66716) 판본 평가. 전작 『V』의 사건과 세계관을 직접 이어받는 후속작으로, 빠르고 편리해진 실시간 전술 전투, 젬 합성과 능력 육성, 장대한 본편과 다회차 콘텐츠가 돋보인다. 반면 일부 캐릭터의 서사적 깊이와 극적 긴장감이 부족하고, 미션 조건·복잡한 육성·구식 3D 그래픽이 부담이다. 전술 전투와 장편 JRPG에 끌리고 전작 『V』를 경험한 이용자에게 특히 추천하는 8.1점. 일본판 게임 정보와 관련 리뷰를 종합한 자료 기반 편집 평가로 직접 플레이하지 않았으며 한글패치 유무는 점수에 반영하지 않았다.",
+      "pros": [
+        "전작의 롤제 폐지와 전투 중 끊김 완화, 마법 레벨 선택·컨티뉴 도입 등으로 실시간 전술 전투의 속도와 편의성이 개선됐다.",
+        "젬 합성·장비 커스터마이즈와 어빌리티 플레이트가 결합돼 육성 방향과 전투 전술을 다양하게 설계할 수 있다.",
+        "확장된 세계와 장편 이야기, 동료 교류·다회차 계승·투기장과 숨겨진 던전 등 풍부한 콘텐츠를 제공한다.",
+        "우루시하라 사토시의 캐릭터 디자인과 전작 인물·사건의 연계가 시리즈 팬에게 매력을 준다."
+      ],
+      "cons": [
+        "전작 『V』의 이야기를 사실상 마무리하는 구성이라 이전 사건과 등장인물을 모르고 시작하면 일부 전개에 몰입하기 어렵다.",
+        "왕도적인 큰 줄기에 비해 인물의 동기와 갈등, 일부 캐릭터의 깊이가 부족해 시리즈 특유의 드라마가 약하다는 평가가 있다.",
+        "복잡한 스킬 트리와 젬 육성, 특수한 패배 조건이 걸린 미션이 취향에 따라 번거롭고 어렵게 느껴진다.",
+        "PS2 시대의 투박한 3D 캐릭터와 전작에서 재사용한 그래픽·음악·효과음 등 표현이 낡았다."
+      ],
+      "sources": [
+        {
+          "label": "패미통 - PS2 일본판 발매일·기종·발매사",
+          "url": "https://www.famitsu.com/game/title/3517/reviews"
+        },
+        {
+          "label": "게임 카탈로그@Wiki - PS2 그로우랜서 VI 장단점·시스템 분석",
+          "url": "https://w.atwiki.jp/gcmatome/pages/8885.html"
+        },
+        {
+          "label": "Joko - PS2 이용자 평가와 전투·스토리·스킬 육성 의견",
+          "url": "https://www.joko.jp/ps2/review/ti2225-2.html"
+        },
+        {
+          "label": "comi cafe - 일본 PS2판 리뷰·전작 연계·그래픽 평가",
+          "url": "https://comicafe.syuriken.jp/tvgame/gl6.html"
+        },
+        {
+          "label": "LaunchBox - PS2 일본판 Box - Front",
+          "url": "https://gamesdb.launchbox-app.com/games/images/129575-growlanser-vi-precarious-world"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/7748",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2007년 발매 일본 PS2 『グローランサーVI Precarious World』(SLPM-66716)이다. 제공 링크의 실제 지원 디스크 리비전, 본편·전투·스킬·메뉴·음성·영상 자막 등 번역 범위와 미번역 부분, 적용 방법, 실기·에뮬레이터 구동 가능 여부는 확인하지 않았다. 패치 주소 접속·미리보기·설치·실행 테스트를 수행하지 않았다."
+      },
+      "reviewedAt": "2026-11-06",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/b486efd1-9683-47d2-8093-97ee90ecc699.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/129575-growlanser-vi-precarious-world",
+        "platform": "ps2",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
