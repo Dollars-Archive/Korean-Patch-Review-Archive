@@ -37370,6 +37370,69 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "cross-channel-to-all-people-psp",
+      "title": "크로스채널: To all people",
+      "original": "CROSS†CHANNEL ～To all people～",
+      "platforms": [
+        "psp"
+      ],
+      "genres": [
+        "비주얼 노벨",
+        "미스터리 ADV",
+        "심리 드라마"
+      ],
+      "score": 8.6,
+      "summary": "2010년 2월 25일 일본 PSP 통상판 『CROSS†CHANNEL ～To all people～』 기준. 반복되는 일주일 속에서 단절된 방송부 동료들의 관계와 이상한 세계의 진상을 조금씩 재해석하게 만드는 타나카 로미오의 심리 서사가 강점이다. 모순적이고 불편한 인물의 감정이 쌓여 뒤늦게 의미를 드러내는 구성, 마츠류의 그림과 PSP판 추가 컷·와이드 화면 최적화도 매력적이다. 반면 초반의 과격한 성적 농담과 기복 있는 어조, 반복 구간, 작은 PSP 화면의 가독성이 진입 장벽이다. 독특하고 어두운 인물극·루프 미스터리를 좋아한다면 추천할 8.6점. 2014년 PS3·PS Vita판 『For all people』과 별개인 2010년 PSP판으로 평가했다. 공개 자료 기반 편집 평가이며 직접 플레이하거나 한글패치 적용을 시험한 것은 아니고, 한글패치 유무는 점수에 반영하지 않았다.",
+      "pros": [
+        "한 주가 반복될수록 앞서 읽은 대사와 행동의 의미가 바뀌며, 인물 간 오해와 갈등·화해를 여러 층위로 이해하게 만드는 시나리오가 강렬하다.",
+        "주인공 쿠로스 타이치와 방송부 인물들이 단순한 연애물의 역할을 벗어나 불안과 고립, 관계의 단절을 드러내는 심리 묘사가 인상적이다.",
+        "학교와 방송 활동이라는 한정된 무대에 묵직한 미스터리를 얹어 긴장감을 유지하고, 결말에 이르는 과정에서 앞선 반복에 감정적 무게를 부여한다.",
+        "PS2판을 바탕으로 휴대 플레이가 가능해졌으며, 마츠류 신규 일러스트와 PSP 와이드 화면에 맞춘 그래픽 최적화가 들어갔다."
+      ],
+      "cons": [
+        "초반부터 주인공의 성적 농담과 불쾌할 수 있는 언행이 빈번하고 코미디·무거운 심리극의 급격한 전환이 호불호를 크게 가른다.",
+        "같은 시간대를 되짚으며 변화와 단서를 찾는 방식상 이미 읽은 사건과 대화를 반복하게 되어 전개가 늘어질 수 있다.",
+        "상황 설명과 인물의 속내를 일부러 뒤늦게 드러내 초반 세계관과 사건을 이해하기 어렵고, 등장인물에게 감정 이입하기까지 시간이 걸린다.",
+        "PSP판은 작은 화면과 낮은 기본 해상도 탓에 장시간 텍스트를 읽기 불편할 수 있으며, 이후 발매된 판본의 추가 시나리오까지 포함한 버전은 아니다."
+      ],
+      "sources": [
+        {
+          "label": "전격온라인 - 2010년 PSP판 발매·시스템·와이드 화면 대응",
+          "url": "https://dengekionline.com/elem/000/000/240/240577/"
+        },
+        {
+          "label": "4Gamer - PSP판 신규 일러스트 및 통상·한정판 안내",
+          "url": "https://www.4gamer.net/games/101/G010133/20091119008/"
+        },
+        {
+          "label": "전자유희작업소 - 2026년 PSP판 이용 후기·서사 및 가독성 평가",
+          "url": "https://k4gameswork.tokyo/playstation-portable/cross-channel-to-all-people-psp/"
+        },
+        {
+          "label": "Siliconera - 원작 서사와 주인공에 관한 비평·PSP 출시 소개",
+          "url": "https://www.siliconera.com/crosschannel-coming-to-psp/"
+        },
+        {
+          "label": "스루가야 - 일본 PSP 통상판 ULJM-05623 패키지 앞표지",
+          "url": "https://www.suruga-ya.jp/product/detail/177001456"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/7851",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2010년 2월 25일 발매된 일본 PSP판 『CROSS†CHANNEL ～To all people～』(통상판 ULJM-05623)이며, 2014년 PS3·PS Vita 『For all people』과 구분한다. 제공 링크가 이 PSP판 및 베스트판 중 어느 판본을 지원하는지, 번역 범위·미번역 요소·지원 리비전·설치 방법·실기 및 에뮬레이터 호환성은 확인하지 않았다. 주소 접속 및 패치 적용·구동 테스트는 수행하지 않았다."
+      },
+      "reviewedAt": "2026-11-05",
+      "reviewer": "ChatGPT (공개 자료 기반 편집 평가)",
+      "cover": {
+        "url": "https://cdn.suruga-ya.jp/database/pics_webp/game/177001456.jpg.webp",
+        "source": "https://www.suruga-ya.jp/product/detail/177001456",
+        "platform": "psp",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
