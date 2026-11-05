@@ -37856,6 +37856,58 @@
       },
       "reviewedAt": "2026-11-06",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "shining-hearts-psp",
+      "title": "샤이닝 하츠",
+      "original": "シャイニング・ハーツ",
+      "platforms": [
+        "psp"
+      ],
+      "genres": [
+        "RPG",
+        "생활 시뮬레이션"
+      ],
+      "score": 7.5,
+      "summary": "섬의 빵집 일과 낚시·채집·인물 교류를 턴제 모험에 섞은 온화한 PSP RPG. Tony의 캐릭터 표현과 풍부한 생활 콘텐츠가 즐겁지만, 의뢰 반복과 느린 이야기·전투 템포가 발목을 잡아 7.5점. 빠른 서사보다 느긋한 일상형 RPG를 좋아한다면 추천한다. 공개 리뷰 자료에 기초한 편집 평가이며 직접 플레이한 점수는 아니다.",
+      "pros": [
+        "빵 굽기·재료 수집·낚시·배달과 모험이 서로 연결돼 생활형 RPG 특유의 몰입감과 선택지를 제공한다.",
+        "Tony의 캐릭터 디자인과 섬의 따뜻한 분위기, 다수 인물과의 교류가 편안한 세계관을 뒷받침한다.",
+        "자동 전투·전투 연출 생략·이동 단축 수단 등 PSP판의 편의 장치가 긴 플레이를 돕는다."
+      ],
+      "cons": [
+        "의뢰와 배달의 반복에 비해 메인 스토리 전개가 느려 서사 중심 이용자에게 답답할 수 있다.",
+        "전투는 선택지가 많아도 자동 전투 의존도가 높아지기 쉽고 로딩·화면 전환 때문에 체감 템포가 떨어진다.",
+        "빵 종류와 제작 규칙 안내가 충분하지 않고 재료 도감 등 일부 편의 기능이 부족해 시행착오가 필요하다."
+      ],
+      "sources": [
+        {
+          "label": "패미통 - シャイニング・ハーツ PSP 공식 크로스리뷰",
+          "url": "https://www.famitsu.com/game/title/15544/reviews"
+        },
+        {
+          "label": "GAME Watch - PSP シャイニング・ハーツ 리뷰",
+          "url": "https://game.watch.impress.co.jp/docs/review/413500.html"
+        },
+        {
+          "label": "4Gamer - 샤이닝 하츠 PSP 이용자 리뷰",
+          "url": "https://www.4gamer.net/games/117/G011764/index_userreview.html"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/7751",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. PSP 일본판의 정확한 적용 대상·번역 범위·설치 방법·실기 동작은 별도 검증하지 않음."
+      },
+      "reviewedAt": "2026-11-06",
+      "reviewer": "ChatGPT (공개 자료 기반 편집 평가)",
+      "cover": {
+        "url": "https://images.launchbox-app.com/6f4ed450-bd1c-44fd-9323-0ca6714fc02e.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/84456-shining-hearts",
+        "platform": "psp",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
