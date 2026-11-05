@@ -38726,6 +38726,65 @@
         "type": "Box - Front",
         "region": "North America"
       }
+    },
+    {
+      "id": "shinsetsu-samurai-spirits-bushidou-retsuden-ps1",
+      "title": "진설 사무라이 스피리츠 무사도열전",
+      "original": "真説サムライスピリッツ 武士道烈伝",
+      "platforms": [
+        "ps1"
+      ],
+      "genres": [
+        "JRPG",
+        "턴제 RPG",
+        "판타지"
+      ],
+      "score": 7.1,
+      "summary": "1997년 일본 발매 PS1판(SLPS-00814)의 공개 자료 기반 편집 평가이며 직접 플레이한 점수는 아니다. 《사무라이 스피리츠》 1·2편의 세계관을 두 시나리오와 여섯 주인공의 시점으로 풀어낸 캐릭터 중심 RPG. 원작의 필살기 커맨드와 분노 게이지를 접목한 전투, 미려한 도트와 음악, PS1 전용 후일담이 매력이다. 반면 잦은 무작위 전투와 느린 로딩, 반복적인 던전 및 전투, 네오지오 CD판보다 축소된 애니메이션 탓에 RPG로서의 완성도는 다소 거칠어 7.1점. 원작 인물과 세계관을 좋아하는 팬에게 특히 추천하며, 한글패치 유무는 점수에 반영하지 않았다.",
+      "pros": [
+        "하오마루·나코루루·겐주로 등 여섯 주인공의 서로 다른 도입부와 고유 대사, 두 시나리오로 원작 캐릭터의 배경을 넓혀 준다.",
+        "격투게임식 필살기 방향키 입력, 분노 게이지, 무기 단련·속성 부여를 턴제 RPG 전투에 이식해 원작다운 개성을 살린다.",
+        "정교한 2D 스프라이트와 공격 연출, 일본풍 배경·음악이 사무라이 세계관의 분위기를 풍부하게 만든다.",
+        "PS1판은 공격 강도 선택과 ATB 표시, 클리어 후 주변 인물 후일담 감상 기능을 제공한다."
+      ],
+      "cons": [
+        "무작위 적 조우가 잦고 PS1판에서도 화면 전환·전투 로딩이 답답하여 모험의 흐름이 끊긴다.",
+        "반복 전투에서 필살기 커맨드 입력이 번거로워지고, 던전 구조와 일반 RPG 진행은 단조로운 편이다.",
+        "캐릭터별 민첩성과 전투 성능의 차이로 파티 밸런스가 고르지 않고, 특정 주인공의 단독 진행은 난도가 높다.",
+        "네오지오 CD판보다 걷기·공격 등 일부 애니메이션이 축소돼 원본의 부드러운 도트 연출이 손실됐다."
+      ],
+      "sources": [
+        {
+          "label": "패미통 - PS1판 발매일·개발사·장르 자료",
+          "url": "https://www.famitsu.com/game/title/16723/reviews"
+        },
+        {
+          "label": "Hardcore Gaming 101 - Samurai Spirits RPG 게임플레이·기종별 평가",
+          "url": "https://www.hardcoregaming101.net/shinsetsu-samurai-spirits-bushidou-retsuden/"
+        },
+        {
+          "label": "altemeo - PS1판과 네오지오 CD·새턴판 비교",
+          "url": "https://altemeo.tistory.com/68"
+        },
+        {
+          "label": "LaunchBox - PS1 일본판 실제 Box - Front 자료",
+          "url": "https://gamesdb.launchbox-app.com/games/details/93851-shinsetsu-samurai-spirits-bushidou-retsuden"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/7934",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 일본 PS1판 《真説サムライスピリッツ 武士道烈伝》 초판(SLPS-00814). 해당 링크의 실제 지원 판본(초판·PlayStation the Best 등), 대사·메뉴·영상 번역 범위, 미번역 구간, 적용 방법 및 실기·에뮬레이터 호환성은 확인하지 않았다. 링크 접속·다운로드·패치 설치·실행 검증을 수행하지 않음."
+      },
+      "reviewedAt": "2026-11-06",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com//a6deb571-6392-4e17-a151-168e1b3706f2.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/details/93851-shinsetsu-samurai-spirits-bushidou-retsuden",
+        "platform": "ps1",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
