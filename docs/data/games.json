@@ -37675,6 +37675,63 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "kairaku-no-okite-aoi-taiken-pc98",
+      "title": "쾌락의 정",
+      "original": "快楽の掟 ～蒼い体験～ (Kairaku no Okite: Aoi Taiken)",
+      "platforms": [
+        "pc98"
+      ],
+      "genres": [
+        "노벨 ADV",
+        "미소녀 어드벤처",
+        "성인용"
+      ],
+      "score": 6.6,
+      "summary": "1994년 Moonchild가 NEC PC-9801용으로 발매한 성인 노벨 ADV 『快楽の掟 ～蒼い体験～』를 공개 자료로 평가했다(직접 플레이하지 않음). 대학에 합격한 주인공이 지인의 소개로 여성 가족이 사는 집에 하숙하며 만나는 여러 인물의 이야기를 선택지로 따라간다. 빠른 템포와 캐릭터 디자인, 다수의 등장인물은 장점이지만, 이야기의 중심은 성인 장면에 치우치고 선택 실패가 즉시 게임 오버로 이어져 멀티 엔딩에도 실질적인 분기는 좁다. 고전 성인 미소녀 노벨 게임의 간결한 진행과 작화를 선호한다면 가볍게 즐길 만한 6.6/10. 한글패치 유무는 점수에 반영하지 않았다.",
+      "pros": [
+        "그림체와 인물 디자인이 개성적이고 매력적이라는 당시 작품을 다룬 회고 평가가 있으며, PC-98 시대 미소녀 ADV의 분위기를 잘 보여준다.",
+        "하숙집 가족뿐 아니라 친구·이웃까지 여러 인물이 등장해 짧은 노벨형 진행 속에서도 만나는 인물의 폭이 넓다.",
+        "복잡한 명령 입력이나 탐색 대신 선택지를 고르는 구조여서 전개가 빠르고 게임 진행에 진입하기 쉽다."
+      ],
+      "cons": [
+        "선택지의 자유도와 시스템적 깊이가 낮아, 추리·탐색이나 본격적인 게임플레이를 기대하면 단조롭다.",
+        "멀티 엔딩이 있어도 틀린 선택은 곧바로 게임 오버로 이어지는 경우가 많아 실제 이야기 분기의 폭이 좁다.",
+        "성인용 장면이 작품의 중심이므로 치밀한 서사나 인물 관계의 심층 묘사를 기대하는 취향에는 만족도가 떨어질 수 있다."
+      ],
+      "sources": [
+        {
+          "label": "ADVGAMER - PC-98판 회고 리뷰 (진행 방식·인물·분기·완성도)",
+          "url": "https://advgamer.com/kairaku-no-okite/"
+        },
+        {
+          "label": "LaunchBox Games Database - PC-9801판 출시 정보 및 일본 Box - Front",
+          "url": "https://gamesdb.launchbox-app.com/games/images/147739-kairaku-no-okite-aoi-taiken"
+        },
+        {
+          "label": "PC-98x1 게임 도서관 - Moonchild 1994년 목록 및 장르·디스크 정보",
+          "url": "https://pc98library.tistory.com/1229"
+        },
+        {
+          "label": "駿河屋 - 일본 PC-9801 3.5인치 실물판 제품 정보",
+          "url": "https://www.suruga-ya.jp/product/detail/155004504"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/7810",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 1994년 발매된 NEC PC-9801용 『快楽の掟 ～蒼い体験～』이며 DOS/V판과 구분한다. 실제 지원 원본 디스크 판본·게임 내 번역 범위와 미번역 요소·패치 적용 방법 및 실기/에뮬레이터 호환성은 확인하지 않았다. 설치·구동 검증을 수행하지 않았다."
+      },
+      "reviewedAt": "2026-11-06",
+      "reviewer": "ChatGPT (공개 자료 기반 편집 평가)",
+      "cover": {
+        "url": "https://images.launchbox-app.com/r2_1fc0486d-e675-489c-b6f8-3c5ddd3aad80.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/147739-kairaku-no-okite-aoi-taiken",
+        "platform": "pc98",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
