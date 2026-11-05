@@ -37133,6 +37133,66 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "sengoku-musou-3-z-ps3",
+      "title": "전국무쌍 3 Z",
+      "original": "戦国無双3 Z",
+      "platforms": [
+        "ps3"
+      ],
+      "genres": [
+        "ACT",
+        "무쌍 액션"
+      ],
+      "score": 8,
+      "summary": "Wii판 『전국무쌍 3』와 『맹장전』의 주요 내용을 PS3용으로 한데 묶은 대규모 일기당천 액션. 40명 무장의 개별 이야기, 호쾌한 그림자 기술·무쌍오의, 다양한 추가 모드와 HD 연출이 강점이다. 반면 미션 중심 진행의 반복성과 일부 장면의 처리 지연, 빠진 Wii 전용 모드가 아쉬워 8.0점. 전국시대 무장 수집과 장시간 무쌍 플레이를 좋아하는 사람에게 추천한다. 공개 자료 기반 편집 평가이며 직접 플레이한 점수는 아님.",
+      "pros": [
+        "조작 가능한 무장 40명 모두에게 무쌍연무 이야기가 마련되어 있고, 가라샤·후쿠시마 마사노리·아야고젠을 포함한 풍부한 캐릭터를 즐길 수 있다.",
+        "그림자 기술(影技), 무쌍오의·개전(皆伝) 등 연계와 필살기를 쉽게 활용할 수 있어 대규모 적을 쓸어버리는 액션의 쾌감이 크다.",
+        "창사연무(創史演武)와 완력 시험(腕試し) 등 추가 모드, HD 해상도와 늘어난 적 표시 거리 및 튜토리얼로 장기 플레이와 입문자 모두 배려한다."
+      ],
+      "cons": [
+        "전투와 임무 목표를 반복 수행하는 비중이 커 장시간 플레이 시 전개가 단조롭고 신선함이 떨어진다.",
+        "동료 구출과 지시된 이동 경로 등 미션 조건이 자율적인 전장 공략을 제한한다는 이용자 평가가 있다.",
+        "PS3판은 불을 사용하는 일부 전장 등에서 프레임 저하가 보고되었고, Wii판의 '무라사메성' 모드가 수록되지 않았다."
+      ],
+      "sources": [
+        {
+          "label": "코에이테크모 GAMECITY - 전국무쌍3 Z 공식 페이지",
+          "url": "https://www.gamecity.ne.jp/sengoku3/z/"
+        },
+        {
+          "label": "패미통 - 전국무쌍 3 Z PS3판 4인 평가",
+          "url": "https://www.famitsu.com/game/title/17796/reviews"
+        },
+        {
+          "label": "4Gamer - 전국무쌍 3 Z PS3판 이용자 리뷰",
+          "url": "https://www.4gamer.net/games/123/G012382/index_userreview.html"
+        },
+        {
+          "label": "게임카탈로그@Wiki - 전국무쌍 3 Z 이식 장단점",
+          "url": "https://w.atwiki.jp/gcmatome/pages/1345.html"
+        },
+        {
+          "label": "스루가야 - 일본 PS3 통상판 제품 정보 BLJM-60313",
+          "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/103000966"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/7886",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 PS3 일본판 『戦国無双3 Z』(2011년 발매, 일반판 BLJM-60313)이며, 패치의 지원 디스크 리비전·번역 범위·미번역·적용 방식·실기 및 에뮬레이터 호환 여부는 확인하지 않음."
+      },
+      "reviewedAt": "2026-11-05",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://www.gavas.jp/upload/save_image/14957.jpg",
+        "source": "https://www.gavas.jp/products/detail.php?product_id=14957",
+        "platform": "ps3",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
