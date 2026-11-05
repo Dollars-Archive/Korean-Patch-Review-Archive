@@ -38267,6 +38267,62 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "rpg-tsukuru-2-snes",
+      "title": "RPG 쯔쿠루 2",
+      "original": "RPGツクール2",
+      "platforms": [
+        "snes"
+      ],
+      "genres": [
+        "RPG 제작",
+        "시뮬레이션"
+      ],
+      "score": 7.3,
+      "summary": "슈퍼패미컴에서 직접 RPG를 만드는 즐거움이 강점이다. 전작보다 넉넉해진 제작 용량, 필드맵과 이벤트 편집, 개선된 컨트롤러 조작을 높이 평가하지만 전투 설계의 제한과 데이터 보존 위험, 반복적인 제작 과정 때문에 7.3점. 완성된 이야기 감상보다 창작·레트로 RPG 제작을 즐기는 사람에게 추천한다. (자료 기반 편집 평가)",
+      "pros": [
+        "전작보다 약 2.5배 커진 제작 용량으로 더 큰 규모의 RPG를 구상하고 필드맵·캐릭터·아이템·이벤트를 직접 설계할 수 있다.",
+        "캐릭터와 맵 소재가 다양하고 이벤트 편집이 비교적 매끄러워 자신만의 장면과 세계를 완성하는 성취감이 크다.",
+        "전작보다 편리해진 패드 조작과 문자 입력, 예제 게임 및 테스트 기능 덕분에 콘솔에서도 제작 흐름을 익힐 수 있다."
+      ],
+      "cons": [
+        "전투 규칙의 표현력이 제한적이고 피해량에 무작위 변동이 없어 세밀한 전투 설계가 단조로워질 수 있다.",
+        "이벤트 수와 저장 용량의 제약이 남아 있으며, 자료상 저장 데이터 손상·오류 문제가 지적되어 장기 제작에 불안 요소가 있다.",
+        "컨트롤러 기반의 대량 텍스트 입력과 반복 테스트는 시간이 많이 들고, 완성된 스토리를 즐기려는 일반 RPG 이용자에게는 맞지 않는다."
+      ],
+      "sources": [
+        {
+          "label": "GameFAQs - SFC 일본판 발매 정보",
+          "url": "https://gamefaqs.gamespot.com/snes/581817-rpg-tsukuru-2/data"
+        },
+        {
+          "label": "ピコピコ大百科 - RPGツクール2 게임 개요 및 이용자 리뷰",
+          "url": "https://www.gavas.jp/products/detail.php?product_id=3477"
+        },
+        {
+          "label": "레트로 게임 설명서 보관고 - SFC판 편집 기능과 조작성 리뷰",
+          "url": "https://gamemanual.midnightmeattrain.com/entry/RPG%E3%83%84%E3%82%AF%E3%83%BC%E3%83%AB2"
+        },
+        {
+          "label": "LaunchBox Games Database - SFC 일본판 Box - Front",
+          "url": "https://gamesdb.launchbox-app.com/games/images/24798-rpg-tsukuru-2"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/7766",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. SFC 일본판 RPGツクール2 대상으로 접수; 번역 범위·적용 방식·실기 동작은 확인하지 않음."
+      },
+      "reviewedAt": "2026-11-06",
+      "reviewer": "ChatGPT (자료 기반 편집 평가)",
+      "cover": {
+        "url": "https://images.launchbox-app.com/r2_12f5c7f1-6167-4930-9c8e-f1e74b88bffc.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/24798-rpg-tsukuru-2",
+        "platform": "snes",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
