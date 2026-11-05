@@ -38667,6 +38667,65 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "tales-of-the-abyss-ps2-us",
+      "title": "테일즈 오브 디 어비스 (북미판)",
+      "original": "Tales of the Abyss",
+      "platforms": [
+        "ps2"
+      ],
+      "genres": [
+        "액션 RPG",
+        "JRPG",
+        "판타지"
+      ],
+      "score": 8.6,
+      "summary": "2006년 10월 10일 북미에 발매된 PS2 미국판 《Tales of the Abyss》(SLUS-21386)의 자료 기반 편집 평가이며 직접 플레이한 점수가 아니다. 세상과 단절돼 자란 루크의 성장, 갈등과 유머를 오가는 동료 관계, 예언 '스코어'를 중심으로 한 세계관이 장편 서사의 핵심이다. 프리 런과 FOF 필드, C·코어·AD 스킬·FSC를 통한 실시간 전투와 육성의 깊이가 높고 서브 콘텐츠도 풍부하다. 반면 긴 장면 전환 로딩과 월드맵 프레임 저하, 일반전투 버튼 연타, 초반 도입과 중후반 이동 반복이 아쉽다. 북미판은 주요 대사의 영어 음성 연기는 훌륭하지만 일본판과 달리 스킷 음성이 빠지고 오프닝 곡이 연주곡으로 바뀌었다. 이 판본의 장단점을 종합해 8.6점. 동료 중심의 긴 서사와 실시간 액션 전투를 좋아하는 JRPG 팬에게 추천한다. 한글패치 여부는 점수에 반영하지 않았다.",
+      "pros": [
+        "루크의 성격과 가치관이 변화하는 과정, 개성적인 동료의 갈등·유머·관계 형성이 긴 이야기의 몰입도를 높인다.",
+        "프리 런으로 전장 전체를 이동하고 FOF(원소장)에 따른 기술 변화와 연계 콤보를 활용하는 전투가 직관적이면서도 깊이가 있다.",
+        "C·코어, AD 스킬, FSC 챔버의 육성과 동료 AI 설정, 투기장·요리·칭호·서브 퀘스트 등 장기 플레이 요소가 풍부하다.",
+        "영어 음성 연기가 주요 이벤트의 인물 표현을 살리고, 음악과 애니메이션 연출이 캐릭터 중심의 모험에 힘을 보탠다."
+      ],
+      "cons": [
+        "PS2판의 지역·전투 전환 로딩이 잦고 월드맵의 프레임 저하가 탐험의 흐름을 끊는다.",
+        "일부 일반전투는 기본 공격과 특기의 버튼 연타로 흘러가며, 체력이 높은 보스는 소모전이 길어질 수 있다.",
+        "초반 루크의 거친 성격과 방대한 세계관 설명은 호불호가 있고, 중후반에는 왕복 이동과 대화 반복으로 전개가 느려진다.",
+        "북미판에서는 일본판에서 음성이 있던 스킷이 무음 텍스트로 제공되고 오프닝 보컬 곡이 연주곡으로 바뀌어 연출의 매력이 일부 줄었다."
+      ],
+      "sources": [
+        {
+          "label": "Namco Bandai 북미 PS2판 출시 발표 (GameSpot, 2006-09-28)",
+          "url": "https://www.gamespot.com/articles/namco-bandai-ready-to-tell-more-tales/1100-6159028/"
+        },
+        {
+          "label": "GameSpot - PS2 Tales of the Abyss 리뷰 (2006-10-10)",
+          "url": "https://www.gamespot.com/reviews/tales-of-the-abyss-review/1900-6159629/"
+        },
+        {
+          "label": "RPGFan - PS2 Tales of the Abyss 리뷰 (2006-11-08), 현지화 차이 포함",
+          "url": "https://www.rpgfan.com/review/tales-of-the-abyss/"
+        },
+        {
+          "label": "LaunchBox - 북미 PS2판 Box - Front (1527×2162)",
+          "url": "https://gamesdb.launchbox-app.com/games/images/12670-tales-of-the-abyss"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/7686",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 사용자가 (U)로 표기한 북미 PS2판 《Tales of the Abyss》(미국 정식판 SLUS-21386) 링크로 등록한다. 일본 PS2판(SLPS-25586) 및 3DS판의 기존 기록과 구별한다. 해당 URL을 열지 않았으므로 실제 지원 디스크 지역·리비전, 배포 상태·버전, 대사·스킷·메뉴·전투·영상 자막 번역 범위와 미번역 구간, 적용 방법 및 PS2 실기/PCSX2 호환성은 미확인이다. 다운로드·미리보기·리다이렉트 확인·설치·실행 테스트를 수행하지 않았다."
+      },
+      "reviewedAt": "2026-11-06",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/1e4e73f6-11bd-494c-93e2-714cea0566a2.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/12670-tales-of-the-abyss",
+        "platform": "ps2",
+        "type": "Box - Front",
+        "region": "North America"
+      }
     }
   ]
 }
