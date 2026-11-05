@@ -38442,6 +38442,67 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "dragon-ball-z-battle-of-z-psvita",
+      "title": "드래곤볼 Z: 배틀 오브 Z",
+      "original": "ドラゴンボールZ BATTLE OF Z",
+      "platforms": [
+        "psvita"
+      ],
+      "genres": [
+        "3D 액션",
+        "격투"
+      ],
+      "score": 6.4,
+      "summary": "드래곤볼의 공중전과 4인 팀 편성·지원 기술을 잘 살린 임무형 액션 게임. 다양한 캐릭터와 화려한 필살기는 즐겁지만 단순한 콤보, 반복 임무, 불편한 타깃 지정과 온라인 지연 문제로 6.4점. 깊이 있는 대전 격투보다 드래곤볼 세계의 협동 전투와 캐릭터 수집을 좋아하는 팬에게 추천한다. PS Vita판 리뷰를 종합한 자료 기반 편집 평가이며 직접 플레이한 결과는 아니다.",
+      "pros": [
+        "손오공·베지터 등 다양한 캐릭터를 4인 팀으로 편성하고 공격·지원·회복 역할을 조합하는 전투가 차별화된다.",
+        "자유로운 비행과 기탄·필살기, 파괴 가능한 배경이 원작의 과장된 공중전과 전투 연출을 제법 박력 있게 재현한다.",
+        "임무 랭크와 강화 카드, 캐릭터 해금이 반복 도전에 목표를 부여하고 PS Vita에서도 주요 콘솔판 콘텐츠를 경험할 수 있다."
+      ],
+      "cons": [
+        "기본 공격·콤보의 가짓수가 적어 오랫동안 싸우면 전투가 단조로워지고 임무 구조도 반복적이다.",
+        "여러 적이 뒤엉키는 전장에서 카메라와 타깃 전환이 번거롭고 원거리 공격에 일방적으로 노출되기 쉽다.",
+        "온라인 협동·대전의 입력 지연이 보고되었고, 독립적인 싱글 대전 모드와 충분한 스토리 전달이 부족해 혼자 즐기는 완성도가 떨어진다.",
+        "PS Vita 특수 공격에 화면 터치를 사용해 조작 취향을 타며, PS3와의 크로스플레이는 지원하지 않는다."
+      ],
+      "sources": [
+        {
+          "label": "PlayStation.Blog - PS Vita 및 PS3 발매·팀 전투 공식 설명 (2014-01-24)",
+          "url": "https://blog.playstation.com/2014/01/24/dragon-ball-z-battle-of-z-launches-on-january-28th-on-ps3/"
+        },
+        {
+          "label": "Push Square - Dragon Ball Z: Battle of Z PS Vita 리뷰 (2014-01-23)",
+          "url": "https://www.pushsquare.com/reviews/psvita/dragon_ball_z_battle_of_z"
+        },
+        {
+          "label": "Game Informer - PlayStation Vita 리뷰 (2014-01-29)",
+          "url": "https://gameinformer.com/games/dragon_ball_z_battle_of_z/b/playstation_vita/archive/2014/01/29/game-informer-dragon-ball-z-battle-of-z-playstation-vita-review.aspx"
+        },
+        {
+          "label": "Vita Player - PS Vita 시스템·수록 모드 리뷰 (2014-02-04)",
+          "url": "https://www.vitaplayer.co.uk/game-review-dragon-ball-z-battle-of-z-ps-vita/"
+        },
+        {
+          "label": "LaunchBox Games Database - PS Vita 일본판 Box - Front",
+          "url": "https://gamesdb.launchbox-app.com/games/details/34407-dragon-ball-z-battle-of-z"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/7688",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. PS Vita판 드래곤볼 Z: 배틀 오브 Z 대상으로 주소를 기록했으며, 대응 지역·게임 버전·번역 범위·적용 방법·실기 작동은 확인하지 않음."
+      },
+      "reviewedAt": "2026-11-06",
+      "reviewer": "ChatGPT (자료 기반 편집 평가)",
+      "cover": {
+        "url": "https://images.launchbox-app.com/bba77bb5-2b4b-49f2-80ec-daaf77ca6889.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/details/34407-dragon-ball-z-battle-of-z",
+        "platform": "psvita",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
