@@ -37500,6 +37500,69 @@
       },
       "reviewedAt": "2026-11-05",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "shoujo-kakumei-utena-itsuka-kakumei-sareru-monogatari-saturn",
+      "title": "소녀혁명 우테나: 언젠가 혁명될 이야기",
+      "original": "少女革命ウテナ いつか革命される物語",
+      "platforms": [
+        "saturn"
+      ],
+      "genres": [
+        "ADV",
+        "비주얼 노벨",
+        "연애 ADV"
+      ],
+      "score": 7.8,
+      "summary": "1998년 5월 28일 일본 세가 새턴으로 발매된 애니메이션 『소녀혁명 우테나』의 외전형 ADV(GS-9182). 원작 8·9화 사이에 전학생으로 들어온 오리지널 주인공을 통해 인물들의 관계와 새로운 사건을 체험한다. 원작 성우진의 풀보이스, 뛰어난 2D 작화와 애니메이션, '마음의 고귀함' 수치에 따라 갈라지는 다양한 결말이 강점. 하지만 1회차 분량이 짧고 반복 플레이 및 상태 화면 전환 시 로딩에 아쉬움이 있어 7.8점. 원작 특유의 상징과 관계성, 캐릭터 중심 이야기를 좋아하는 팬에게 특히 추천한다. 공개된 세가 새턴판 정보와 평론·이용자 소감을 토대로 한 편집 평가이며 직접 플레이한 점수가 아니고 한글패치 존재는 점수에 반영하지 않았다.",
+      "pros": [
+        "원작 8~9화 사이에 새로운 전학생을 자연스럽게 배치해 학원 내 인간관계·결투 세계를 확장하고 팬에게 의미 있는 오리지널 이야기를 제공한다.",
+        "원작 성우진의 풀보이스와 풍부한 캐릭터 그림, 게임 전용 애니메이션 연출이 TV 시리즈 특유의 무대극 같은 분위기를 살린다.",
+        "대화 선택으로 인물별 '마음의 고귀함' 수치를 조정하고 다양한 캐릭터별 결말을 수집하는 구조가 다회차 동기를 준다.",
+        "빠른 대사 스킵 기능이 있어서 다른 선택지와 결말을 다시 확인하는 부담을 어느 정도 줄여준다."
+      ],
+      "cons": [
+        "한 번의 진행은 비교적 짧으며 분기와 사건의 양 자체가 많지 않아 장편 비주얼 노벨 수준의 분량을 기대하면 아쉽다.",
+        "여러 결말을 보려면 공통 전개를 반복해야 하고 일부 선택 조건을 파악하기 어려워 공략 의존도가 높아질 수 있다.",
+        "상태 화면과 본편을 오갈 때 새턴판 디스크 로딩이 발생해 템포를 끊는다는 동시대 이용자 지적이 있다.",
+        "TV 애니메이션 중간 시점을 전제로 하므로 원작에 익숙하지 않으면 인물 관계와 상징적인 연출을 온전히 즐기기 어렵다."
+      ],
+      "sources": [
+        {
+          "label": "Satakore - 세가 새턴 일본판 GS-9182의 발매 정보",
+          "url": "https://www.satakore.com/sega-saturn-game,,GS-9182,,Shoujo-Kakumei-Utena-Itsuka-Kakumei-Sareru-Monogatari-JPN.html"
+        },
+        {
+          "label": "SEGA SATURN, SHIRO! - For the Revolution of the World! 작품 분석",
+          "url": "https://www.segasaturnshiro.com/2021/06/21/for-the-revolution-of-the-world/"
+        },
+        {
+          "label": "피코피코 대백과 - 일본 세가 새턴판 유저 리뷰와 기본 정보",
+          "url": "https://www.gavas.jp/products/detail.php?product_id=1407"
+        },
+        {
+          "label": "SAMURAI's SS impressions - 1998년 발매 당시 체험·전엔딩 감상",
+          "url": "https://mk-samurai.b.la9.jp/game/ssimpsa.html"
+        },
+        {
+          "label": "LaunchBox Games Database - 세가 새턴 일본판 Box - Front",
+          "url": "https://gamesdb.launchbox-app.com/games/details/99693-shoujo-kakumei-utena-itsuka-kakumei-sareru-monogatari"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/7826",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 1998-05-28 일본 세가 새턴판(GS-9182)이다. 제공된 패치의 지원 디스크 리비전·번역 범위·미번역 요소·적용 절차·실기 및 에뮬레이터 호환성은 확인하지 않았으며 설치·실행 시험도 하지 않았다."
+      },
+      "reviewedAt": "2026-11-05",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com//8315b0b4-9e88-448e-8695-972ca12ba3d5.png",
+        "source": "https://gamesdb.launchbox-app.com/games/details/99693-shoujo-kakumei-utena-itsuka-kakumei-sareru-monogatari",
+        "platform": "saturn",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
