@@ -38211,6 +38211,62 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "koukan-nikki-pc98",
+      "title": "교환일기",
+      "original": "こうかん日記 (Koukan Nikki)",
+      "platforms": [
+        "pc98"
+      ],
+      "genres": [
+        "ADV",
+        "연애 어드벤처"
+      ],
+      "score": 7.4,
+      "summary": "1994년 페어리더스트의 PC-98 오리지널판을 대상으로 한 자료 기반 편집 평가. 세 메인 히로인의 시점으로 시작하는 사전 이야기와 11명에 이르는 인물들의 교차 관계, 마키노 류이치의 캐릭터 작화가 돋보인다. 반면 번거로운 커맨드 조작, 제한된 저장 지점, 복잡한 인물 관계와 담담한 결말 때문에 완성도에 굴곡이 있다. 인물 감정과 고전 연애 ADV 특유의 분위기를 중시한다면 추천하며, 한글패치 여부는 점수에 반영하지 않았다.",
+      "pros": [
+        "세 메인 히로인의 시점에서 프리 스토리를 먼저 제시해 주인공에게 끌리는 과정과 감정선을 이해시키는 구성이 당시 연애 ADV 가운데 독특하다.",
+        "총 11명에 이르는 히로인들이 서로의 감정을 의식하고 관계를 맺는 횡적 인물 묘사가 평범한 일대일 공략물보다 풍부하다.",
+        "마키노 류이치의 매력적인 캐릭터 원화와 실사 가공 방식의 오프닝이 학창 시절의 분위기와 작품의 개성을 살린다."
+      ],
+      "cons": [
+        "커맨드 선택과 이동 시스템이 번거롭고 이동 모드의 실질적 역할이 빈약해 게임 진행이 답답할 수 있다.",
+        "저장 가능한 지점이 적고 등장인물의 관계가 복잡해 프리 스토리 이해와 여러 엔딩을 위한 반복 공략에 불편함이 따른다.",
+        "결말이 비교적 담담하게 처리되고 주인공의 선택 동기가 충분히 설명되지 않으며, 일부 애니메이션의 움직임이 부자연스럽다는 지적이 있다."
+      ],
+      "sources": [
+        {
+          "label": "ADVGAMER - 1994년 PC-98 원작의 시점 구성·인물 묘사·조작성 리뷰",
+          "url": "https://advgamer.com/koukan-nikki/"
+        },
+        {
+          "label": "chaser Fairy Dust 게임 감상·공략 - PC-98 원판의 장단점과 FD 7장 구성",
+          "url": "https://chaser.my.coocan.jp/guide/fairy_dust.htm"
+        },
+        {
+          "label": "ERCR - PC-98 제작진 및 발매 정보",
+          "url": "https://w.atwiki.jp/ercr/pages/3191.html"
+        },
+        {
+          "label": "駿河屋 - PC-9801 3.5인치판 정품 패키지 앞표지 및 구성품",
+          "url": "https://www.suruga-ya.jp/product/detail/155004073"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/7773",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 1994년 일본 NEC PC-9801 오리지널 FD 7장판으로, 1996년 Windows용 《こうかん日記DX》 합본판 및 후속작 《こうかん日記 第II章》과 구분한다. 실제 패치 대응 디스크 규격·번역 범위·미번역 부분·설치법·실기 및 에뮬레이터 동작은 확인하지 않았다."
+      },
+      "reviewedAt": "2026-11-06",
+      "reviewer": "ChatGPT (자료 기반 편집 평가)",
+      "cover": {
+        "url": "https://cdn.suruga-ya.jp/database/pics_webp/game/155004073.jpg.webp",
+        "source": "https://www.suruga-ya.jp/product/detail/155004073",
+        "platform": "pc98",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
