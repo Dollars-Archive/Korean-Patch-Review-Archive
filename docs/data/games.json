@@ -37971,6 +37971,69 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "devil-summoner-raidou-kuzunoha-vs-the-soulless-army-ps2",
+      "title": "데빌 서머너: 쿠즈노하 라이도우 대 초력병단",
+      "original": "デビルサマナー 葛葉ライドウ 対 超力兵団 (Shin Megami Tensei: Devil Summoner – Raidou Kuzunoha vs. the Soulless Army)",
+      "platforms": [
+        "ps2"
+      ],
+      "genres": [
+        "액션 RPG",
+        "미스터리",
+        "악마 수집"
+      ],
+      "score": 7.8,
+      "summary": "2006년 일본 PS2로 출시된 아틀라스의 악마 소환 액션 RPG. 가상 다이쇼 시대의 제도에서 벌어지는 오컬트 탐정극, 개성 있는 인물·악마, 수사 능력과 합체 시스템, 재즈풍 음악의 조합이 독보적이다. 반면 잦은 랜덤 전투와 단순한 액션, 느린 초반 전개가 완성도를 낮춰 7.8점. 독특한 시대극과 악마 육성을 즐기고 반복 전투를 감수할 수 있는 플레이어에게 추천한다. 당시 PS2판 공식 게임 정보 및 전문 리뷰에 기반한 편집 평가로 직접 플레이하지 않았으며 한글패치 유무는 점수에 반영하지 않았다.",
+      "pros": [
+        "가상의 다이쇼 시대 제도와 탐정 사무소를 무대로 한 오컬트 미스터리가 다른 메가텐 작품과 뚜렷이 구별되는 분위기와 캐릭터 드라마를 만든다.",
+        "악마 포획·합체·충성도 육성에 속성 약점과 탐문·지형 조작 등 수사용 악마 능력이 결합돼 전투 밖에서도 동료 편성이 의미 있다.",
+        "카네코 카즈마의 악마 디자인, 시대 배경을 살린 거리 미술과 메구로 쇼지의 재즈·오컬트풍 음악이 세계관을 풍성하게 한다.",
+        "챕터별 사건 조사와 보스전, 추가 던전·수집·다회차 요소로 악마 수집형 RPG를 좋아하는 이용자에게 파고들 여지가 있다."
+      ],
+      "cons": [
+        "도시와 던전 곳곳에서 발생하는 랜덤 인카운터가 매우 잦아 탐색 흐름을 끊고 장시간 플레이 시 피로감을 키운다.",
+        "라이도우의 검·총 중심 실시간 전투는 조작과 기술 수가 단순하고 패턴 반복이 심해 악마 육성의 전략성을 충분히 살리지 못한다.",
+        "본격적인 흥미가 붙기까지 초반 서사 전개가 느리고 일부 조연 묘사가 얕다는 평가가 있다.",
+        "PS2 원작 특유의 투박한 이동·공격 조작, 제한적인 전투 배경음 반복, 캐릭터 음성 연기 부재가 현재 기준으로 아쉽다."
+      ],
+      "sources": [
+        {
+          "label": "SEGA 공식 - 2006년 PS2 원작 및 작품 배경 소개",
+          "url": "https://www.sega.jp/game/detail/raidou/"
+        },
+        {
+          "label": "패미통 - 일본 PS2판 발매일·기본 정보",
+          "url": "https://www.famitsu.com/game/title/3598/images/page/1"
+        },
+        {
+          "label": "RPGFan - PS2판 전문 리뷰 (2006)",
+          "url": "https://www.rpgfan.com/review/shin-megami-tensei-devil-summoner-raidou-kuzunoha-vs-the-soulless-army/"
+        },
+        {
+          "label": "GameSpot - PS2판 전문 리뷰 (2007)",
+          "url": "https://www.gamespot.com/reviews/shin-megami-tensei-devil-summoner-raidou-kuzunoha/1900-6160516/"
+        },
+        {
+          "label": "LaunchBox - PS2 일본판 Box - Front",
+          "url": "https://gamesdb.launchbox-app.com/games/images/12662-shin-megami-tensei-devil-summoner-raidou-kuzunoha-vs-the-soulless-army"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/7747",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2006년 일본 PS2판 『デビルサマナー 葛葉ライドウ 対 超力兵団』(SLPM-66246)이다. 제공 링크의 실제 지원 디스크 리비전, 대사·메뉴·영상 등 번역 범위와 미번역 부분, 패치 적용 방법 및 실기·에뮬레이터 동작은 별도 확인하지 않았다."
+      },
+      "reviewedAt": "2026-11-06",
+      "reviewer": "ChatGPT (공개 자료 기반 편집 평가)",
+      "cover": {
+        "url": "https://images.launchbox-app.com/b24969e8-3333-4b37-a1e2-4e5099d189a2.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/12662-shin-megami-tensei-devil-summoner-raidou-kuzunoha-vs-the-soulless-army",
+        "platform": "ps2",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
