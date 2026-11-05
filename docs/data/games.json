@@ -38558,6 +38558,62 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "cross-ange-tenshi-to-ryuu-no-rondo-tr-psvita",
+      "title": "크로스 앙쥬: 천사와 용의 윤무 tr.",
+      "original": "クロスアンジュ 天使と竜の輪舞tr.",
+      "platforms": [
+        "psvita"
+      ],
+      "genres": [
+        "ADV",
+        "3D 슈팅 액션"
+      ],
+      "score": 6.8,
+      "summary": "원작 애니메이션의 세계를 신병 나오미의 시점에서 체험하며 캐릭터별 교류와 IF 분기를 즐기는 드라마틱 ADV·3D 슈팅 액션. Live2D·음성 연출과 원작 밖의 이야기는 매력적이지만, 파라메일 전투의 느린 이동·조작 불편과 회차 편의성 부족으로 6.8점. 액션 자체보다 원작 캐릭터와 분기 서사를 더 보고 싶은 팬에게 추천한다. 공개 자료에 근거한 편집 평가이며 직접 플레이한 평가는 아니다.",
+      "pros": [
+        "게임 오리지널 주인공 나오미의 시점으로 원작 캐릭터와 교류하고 선택에 따라 애니메이션과 다른 IF 분기·개별 이벤트를 볼 수 있다.",
+        "자연스럽게 움직이는 Live2D 인물 연출과 풍부한 일본어 음성 대화가 캐릭터의 개성과 일상 장면을 살린다.",
+        "비행·공격 형태 전환, 기체 부품·무장 교체와 외형 변경을 통해 원작의 파라메일을 직접 조종하고 꾸미는 팬서비스가 풍부하다."
+      ],
+      "cons": [
+        "3D 전투의 이동 속도와 근접 공격이 둔하고 록온·부스트 입력도 번거로워 공중전 특유의 속도감과 손맛이 약하다.",
+        "전투 배경과 미션 구성이 단조롭고 공격·커스터마이징의 체감 변화가 부족해 반복 미션이 쉽게 지루해진다.",
+        "다회차 분기를 보기 위한 기독 텍스트 스킵과 이벤트 회수 지원이 미흡하고, 원작을 모르면 생략된 전개를 따라가기 어렵다."
+      ],
+      "sources": [
+        {
+          "label": "크로스 앙쥬 애니메이션 공식 굿즈: PS Vita 게임 소개·발매 정보",
+          "url": "https://www.crossange.com/goods/48.html"
+        },
+        {
+          "label": "패미통 PS Vita 리뷰: 주간 패미통 1381호, 리뷰어 4인",
+          "url": "https://www.famitsu.com/game/title/31762/reviews"
+        },
+        {
+          "label": "kresnik258gaming: PS Vita 일본판 플레이 리뷰 (2023-08-08)",
+          "url": "https://kresnik258gaming.wordpress.com/2023/08/08/vita-cross-ange-rondo-of-angels-and-dragons-tr-import-review/"
+        },
+        {
+          "label": "たまマガ: PS Vita 전 히로인 공략 후 리뷰 (2023-09-20)",
+          "url": "https://tama-maga.com/game/gamereview/vita_crossange_review/"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/7929",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가·표지 기준은 2015년 발매 PS Vita 일본판 『クロスアンジュ 天使と竜の輪舞tr.』. 제공된 패치의 지원 카트리지/디지털 판본, 적용 버전, 번역 범위·미번역 요소, 설치·실기 작동 여부는 확인하지 않음."
+      },
+      "reviewedAt": "2026-11-06",
+      "reviewer": "ChatGPT (자료 기반 편집 평가)",
+      "cover": {
+        "url": "https://images.launchbox-app.com/b149c93c-99cc-4296-990d-5758ad21332a.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/129598-cross-ange-tenshi-to-ryuu-no-rondo-tr",
+        "platform": "psvita",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
