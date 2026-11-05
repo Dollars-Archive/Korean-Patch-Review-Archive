@@ -1,6 +1,10 @@
 {
   "version": 1,
-  "favorites": {},
+  "favorites": {
+    "chrono-trigger-snes": {
+      "updated": "2026-11-05T16:49:07.372Z"
+    }
+  },
   "deleted": {
     "machi-unmei-no-kousaten-ps1": {
       "deleted": true,
