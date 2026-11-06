@@ -40242,6 +40242,62 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "tech-romancer-dreamcast",
+      "title": "초강전기 키카이오",
+      "original": "超鋼戦紀キカイオー (Tech Romancer)",
+      "platforms": [
+        "dreamcast"
+      ],
+      "genres": [
+        "3D 대전 격투",
+        "로봇 액션"
+      ],
+      "score": 8.3,
+      "summary": "각기 다른 특촬·거대로봇 애니메이션의 문법을 개성적인 기체와 분기형 파일럿 스토리로 재현한 캡콤의 3D 대전격투. 드림캐스트판의 개선된 연출과 풍부한 해금 요소로 8.3점. 다만 정통 대전의 심도와 연습 편의성은 아쉬워 로봇 애니·특촬 팬과 싱글플레이 중심 격투게임 팬에게 특히 추천한다. 공개 리뷰 자료 기반 편집 평가이며 직접 플레이한 평점은 아니다.",
+      "pros": [
+        "서로 다른 로봇 애니메이션 계열을 떠올리게 하는 기체 디자인과 차별화된 무장, 과장된 필살기·마무리 연출이 강렬하다.",
+        "파일럿별 개별 스토리와 분기·복수 엔딩, 아케이드식 히어로 챌린지 등으로 혼자 즐길 콘텐츠가 넉넉하다.",
+        "드림캐스트판에서 개선된 3D 모델·조명과 파괴 가능한 배경, 잠금 해제 갤러리·VMU 미니게임이 수집 재미를 더한다."
+      ],
+      "cons": [
+        "원거리 공격·아이템 비중이 높고 일부 조작은 버튼 연타에 기대기 쉬워, 정교한 심리전 중심 격투게임을 기대하면 단순하게 느껴질 수 있다.",
+        "트레이닝 모드가 없어 방어·회피·필살기 타이밍을 체계적으로 연습하기 불편하며 카메라 복귀도 매끄럽지 못할 때가 있다.",
+        "애니메이션을 의식한 스토리는 전형적인 전개가 많고 일부 배경 텍스처·VMU 미니게임의 완성도는 아쉽다."
+      ],
+      "sources": [
+        {
+          "label": "LaunchBox Games Database - Dreamcast Tech Romancer 및 일본판 앞표지",
+          "url": "https://gamesdb.launchbox-app.com/games/details/10664-tech-romancer"
+        },
+        {
+          "label": "GameSpot - Tech Romancer Review (2000-05-05)",
+          "url": "https://www.gamespot.com/reviews/tech-romancer-review/1900-2540707/"
+        },
+        {
+          "label": "GamesFirst! - Tech Romancer Review (2000-03-31)",
+          "url": "https://gamesfirst.com/articles/2000/tech-romancer/"
+        },
+        {
+          "label": "Otaku World - Tech Romancer Review (2000-06-15)",
+          "url": "https://otakuworld.com/review/games/tech.html"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/6752",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2000년 일본 출시 드림캐스트판 『超鋼戦紀キカイオー』(Tech Romancer)이며 이후 『for Matching Service』 재발매판과 구분한다. 제공 주소가 지원하는 디스크 리비전과 메뉴·대사·스토리의 번역 범위, 미번역 부분, 적용 방법, 실기·에뮬레이터 구동 여부는 확인하지 않았다."
+      },
+      "reviewedAt": "2026-11-06",
+      "reviewer": "ChatGPT (자료 기반 편집 평가)",
+      "cover": {
+        "url": "https://images.launchbox-app.com/dcc6eed5-bcbb-47ec-91fd-d48b41d5be16.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/10664-tech-romancer",
+        "platform": "dreamcast",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
