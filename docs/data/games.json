@@ -38904,6 +38904,68 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "shinkisekai-evolution-dreamcast",
+      "title": "신기세계 에볼루션",
+      "original": "神機世界エヴォリューション (Evolution: The World of Sacred Device)",
+      "platforms": [
+        "dreamcast"
+      ],
+      "genres": [
+        "던전 탐색 RPG",
+        "턴제 JRPG"
+      ],
+      "score": 6.8,
+      "summary": "1999년 1월 21일 일본 발매 드림캐스트판 『神機世界エヴォリューション』을 기준으로 한 자료 기반 편집 평가. 모험가 매그 런처 일행이 고대 유적을 탐사하며 사이프레임 부품을 수집·강화하는 3D 던전 탐색 RPG다. 빠른 턴제 전투, 행동 순서·전열을 활용하는 전술, 장비 커스터마이징과 당시로서는 선명한 3D 연출이 돋보인다. 그러나 길고 비슷한 무작위 생성 던전, 한정된 마을 탐색과 인물·서사 전개, 일부 시점 및 위치 조작의 불편함으로 반복 피로가 커 6.8/10. 짧은 서사보다 유적 공략·파티 육성·고전 드림캐스트 RPG의 분위기를 즐기는 플레이어에게 추천한다. 드림캐스트판 소개와 당시 전문 리뷰를 종합했으며 직접 플레이한 평가는 아니다. 한글패치 존재 여부는 점수에 반영하지 않았다.",
+      "pros": [
+        "적과 아군의 행동 순서가 표시되고 전·중·후열 배치에 따라 공격 효율과 기술 범위가 달라지는 턴제 전투로 전술을 세우는 재미가 있다.",
+        "사이프레임에 부품을 장착해 특수 기술을 바꾸고 TP로 기술을 습득하거나 장비를 강화하는 등 파티 육성·아이템 탐색의 동기가 분명하다.",
+        "당시 드림캐스트 성능을 살린 입체적인 캐릭터와 전투 모션, 화려한 기술 연출, 빠른 전투 진행과 비교적 짧은 로딩이 쾌적하다.",
+        "던전 내 적을 눈으로 확인해 피하거나 접근할 수 있고, 회전 카메라와 자동 지도 기능이 유적 탐색을 지원한다."
+      ],
+      "cons": [
+        "무작위 생성되는 던전의 층수가 길고 복도와 방 구조가 비슷해 전투·보물 찾기·귀환의 반복이 쉽게 지루해진다.",
+        "사실상 한 마을을 거점으로 유적을 왕복하는 구조라 외부 세계 탐색과 비전투 이벤트의 폭이 좁고 주요 인물의 개성·서사 전개가 충분히 발전하지 못한다.",
+        "던전 시야가 좁게 느껴지거나 캐릭터 움직임이 예민해 적에게 접근하거나 상자를 조사할 때 위치 조정이 까다로울 수 있다.",
+        "전투·탐험 중심 비중이 매우 높으므로 이야기 전개가 빠르고 연출 장면이 풍부한 전통적 JRPG를 기대하면 만족도가 낮다."
+      ],
+      "sources": [
+        {
+          "label": "RPGFan - Dreamcast 전문 리뷰, 전투·연출·던전 구성과 조작 평가 (2000-02-15)",
+          "url": "https://www.rpgfan.com/review/evolution-the-world-of-sacred-device/"
+        },
+        {
+          "label": "GameSpot - Evolution Dreamcast 전문 리뷰, 행동 순서·전열·스토리 평가 (2000-04-28)",
+          "url": "https://www.gamespot.com/reviews/evolution-review/1900-2540273/"
+        },
+        {
+          "label": "GameRevolution - Dreamcast 리뷰, 사이프레임과 반복 구조 평가 (2000-03-01)",
+          "url": "https://www.gamerevolution.com/review/32299-evolutionworld-of-sacred-device-review"
+        },
+        {
+          "label": "RPGFan - Dreamcast 일본 발매일 1999-01-21 및 제작사 Sting",
+          "url": "https://www.rpgfan.com/game/evolution-the-world-of-sacred-device/"
+        },
+        {
+          "label": "LaunchBox - Dreamcast 일본 Box - Front 실물 패키지 앞표지",
+          "url": "https://gamesdb.launchbox-app.com/games/images/3471-evolution-the-world-of-sacred-device"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/7658",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 게임 평가는 1999년 1월 21일 발매 일본 Dreamcast 원작 『神機世界エヴォリューション』을 기준으로 했으며 『Evolution 2: Far Off Promise』 및 GameCube 『Evolution Worlds』와 구분한다. 제공한 패치가 지원하는 디스크 지역·리비전, 번역 범위·미번역, 적용 절차 및 드림캐스트 실기·에뮬레이터 호환성은 확인하지 않았고 다운로드·설치·구동 테스트도 하지 않았다."
+      },
+      "reviewedAt": "2026-11-06",
+      "reviewer": "ChatGPT (공개 자료 기반 편집 평가)",
+      "cover": {
+        "url": "https://images.launchbox-app.com/fd2a7c42-bcdc-48e8-968b-6e10c396ad5a.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/3471-evolution-the-world-of-sacred-device",
+        "platform": "dreamcast",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
