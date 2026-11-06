@@ -40063,6 +40063,67 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "vampire-chronicle-for-matching-service-dreamcast",
+      "title": "뱀파이어 크로니클",
+      "original": "ヴァンパイア クロニクル for Matching Service",
+      "platforms": [
+        "dreamcast"
+      ],
+      "genres": [
+        "2D 격투",
+        "대전 액션"
+      ],
+      "score": 8.5,
+      "summary": "2000년 8월 10일 일본에 발매된 드림캐스트 전용 『ヴァンパイア クロニクル for Matching Service』(T-1235M) 기준의 자료 기반 편집 평가. 『뱀파이어』 시리즈 다섯 작품에서 유래한 캐릭터별 전투 스타일과 세 가지 게임 규칙을 한 작품에 재구성해 폭넓은 대전 조합과 깊이를 제공한다. 드림캐스트판은 『뱀파이어 세이비어』 계열의 풍부한 애니메이션과 사운드를 충실히 살렸지만, 버전별 기술·게이지 차이가 초보자에게 복잡하고 네트워크 매칭에 기대던 가치가 현재에는 제한적이며 PSP 이식판의 추가 싱글 모드는 없다. 아케이드형 2D 격투와 캐릭터 연구, 오프라인 대전을 좋아한다면 8.5점으로 추천한다. 공개 자료를 검토한 편집 평가이며 직접 플레이한 결과가 아니고 한글패치 유무는 점수에 반영하지 않았다.",
+      "pros": [
+        "『뱀파이어』『뱀파이어 헌터』『뱀파이어 세이비어』 및 후속 변형 규칙에 해당하는 스타일을 캐릭터별로 선택해, 서로 다른 세대의 기술과 연계법을 한 경기에서 맞붙게 할 수 있다.",
+        "대전 모드에 따라 라운드 방식과 필살기 게이지 규칙이 달라지고, 캐릭터 스타일에 따라 체인 콤보·특수 기술이 달라져 반복 대전의 전술적 폭이 넓다.",
+        "드림캐스트의 성능을 활용해 아케이드판의 세밀한 도트 애니메이션, 특유의 괴기스러운 미술과 타격 효과음·시리즈 음악을 높은 충실도로 재현한다.",
+        "18명에 이르는 개성적인 캐릭터와 서로 다른 스타일 조합이 연구와 오프라인 2인 대전의 재미를 오래 유지한다."
+      ],
+      "cons": [
+        "캐릭터별 스타일과 게임 규칙을 따로 골라야 하므로 시리즈 경험이 적으면 기술 차이와 게이지·콤보 체계를 익히기가 까다롭다.",
+        "당시의 네트워크 매칭 기능은 오늘날 그대로 활용하기 어려워, 실제 즐길 환경은 혼자 하는 아케이드 플레이나 로컬 대전에 크게 좌우된다.",
+        "독립된 장편 싱글플레이 모드나 이후 PSP판에 추가된 카오스 타워 콘텐츠가 없어 대전 상대가 없다면 즐길 거리의 폭이 상대적으로 좁다."
+      ],
+      "sources": [
+        {
+          "label": "패미통 - 드림캐스트 일본판 발매일·제작사 기본 정보",
+          "url": "https://www.famitsu.com/game/title/12695/reviews"
+        },
+        {
+          "label": "The Fighters Generation - 드림캐스트판 이식 품질·전투 스타일 리뷰",
+          "url": "https://www.fightersgeneration.com/games/vampire-chronicle.html"
+        },
+        {
+          "label": "GameFAQs - 일본 DC판의 모드·캐릭터별 시스템과 형번",
+          "url": "https://gamefaqs.gamespot.com/dreamcast/366183-vampire-chronicle/data"
+        },
+        {
+          "label": "GameFAQs - Vampire Chronicle Secrets Guide (2000) 시스템 설명",
+          "url": "https://gamefaqs.gamespot.com/dreamcast/366183-vampire-chronicle/faqs/9162"
+        },
+        {
+          "label": "LaunchBox - 드림캐스트 일본판 Box - Front 실물 앞표지",
+          "url": "https://gamesdb.launchbox-app.com/games/images/51263-vampire-chronicle-for-matching-service"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/3115",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 대상 게임은 일본 드림캐스트판 『ヴァンパイア クロニクル for Matching Service』(T-1235M, 2000-08-10)이며 이후 PSP판 『Darkstalkers Chronicle: The Chaos Tower』와 구분한다. 사용자 제공 링크의 실제 배포 여부, 지원 디스크 리비전, 메뉴·캐릭터 대사 등의 번역 범위와 미번역 구간, 적용 방법 및 드림캐스트 실기·에뮬레이터 호환성은 확인하지 않았다. 링크 접속·패치 설치·구동 검증을 하지 않았다."
+      },
+      "reviewedAt": "2026-11-06",
+      "reviewer": "ChatGPT (공개 자료 기반 편집 평가)",
+      "cover": {
+        "url": "https://images.launchbox-app.com/d642bf9a-51ae-4e51-9600-0e87389f48a2.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/51263-vampire-chronicle-for-matching-service",
+        "platform": "dreamcast",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
