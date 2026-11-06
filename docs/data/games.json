@@ -39954,6 +39954,58 @@
       },
       "reviewedAt": "2026-11-06",
       "reviewer": "ChatGPT (공개 자료 기반 편집 평가)"
+    },
+    {
+      "id": "kita-e-white-illumination-dreamcast",
+      "title": "북으로: 화이트 일루미네이션",
+      "original": "北へ。White Illumination (Kita e: White Illumination)",
+      "platforms": [
+        "dreamcast"
+      ],
+      "genres": [
+        "ADV",
+        "연애 시뮬레이션"
+      ],
+      "score": 7.6,
+      "summary": "1999년 홋카이도의 실제 풍경과 8명의 히로인을 엮은 여행형 연애 ADV. 실사 배경·섬세한 인물화·여름과 겨울의 여행 분위기가 독보적이지만, 대화 타이밍을 요구하는 C.B.S.와 까다로운 이벤트 조건·불편한 저장 방식 때문에 7.6점. 지역의 정취와 캐릭터 교류를 천천히 즐길 사람에게 추천한다. 공개 자료 기반 편집 평가이며 직접 플레이한 평점은 아니다.",
+      "pros": [
+        "삿포로·오타루 등 실제 홋카이도 관광지와 상점의 사진 배경, 여행 안내 요소가 1999년 지역의 분위기를 생생하게 남긴다.",
+        "8명의 서로 다른 히로인과 여름·겨울로 나뉜 전개, NOCCHI의 섬세한 캐릭터 디자인이 여행과 관계 형성을 자연스럽게 연결한다.",
+        "음성 연기와 경쾌한 주제가, 노래방·UFO 캐처 등 다양한 미니게임이 시각·청각적 매력과 소소한 변주를 더한다."
+      ],
+      "cons": [
+        "C.B.S.는 대화 도중 표시가 없는 타이밍에 버튼을 눌러야 해, 놓치면 의도치 않게 답을 무시하거나 관계가 틀어질 수 있다.",
+        "히로인별 이벤트 발생 조건이 까다롭고 분기 실수가 누적되기 쉬워 공략 없이 원하는 결말에 도달하기 어렵다.",
+        "세이브 슬롯이 3개에 불과하고 대화·이동 중심의 낮은 조작 밀도 때문에 여러 루트 반복 시 불편함이 크다."
+      ],
+      "sources": [
+        {
+          "label": "패미통 - 드림캐스트판 기본 정보",
+          "url": "https://www.famitsu.com/game/title/2562/page/1"
+        },
+        {
+          "label": "GameSpot - Kita He: White Illumination (Import) Review",
+          "url": "https://www.gamespot.com/reviews/kita-he-white-illumination-import-review/1900-2540353/"
+        },
+        {
+          "label": "えすえふ - 드림캐스트판 8인 공략 후 감상 (2026)",
+          "url": "https://note.com/sfsfsf/n/nbeb9687e3e2f"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/3958",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 드림캐스트 일본판 기준 번역 범위·적용 방법·실기 동작은 확인하지 않음."
+      },
+      "reviewedAt": "2026-11-06",
+      "reviewer": "ChatGPT (공개 자료 기반 편집 평가)",
+      "cover": {
+        "url": "https://images.launchbox-app.com//ffe3354c-c6ac-468b-993d-817e0216d3b7.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/details/107846-kita-he-white-illumination",
+        "platform": "dreamcast",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
