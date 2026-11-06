@@ -39833,6 +39833,70 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "prismaticallization-dreamcast",
+      "title": "프리즈마티컬리제이션",
+      "original": "プリズマティカリゼーション (Prismaticallization)",
+      "platforms": [
+        "dreamcast"
+      ],
+      "genres": [
+        "ADV",
+        "타임루프",
+        "비주얼 노벨",
+        "퍼즐"
+      ],
+      "score": 7.2,
+      "summary": "2000년 8월 24일 일본 드림캐스트로 발매된 아크 시스템 웍스의 타임루프 어드벤처(T-22002M). 같은 하루를 반복하면서 사건을 최대 5개까지 '기록'하고, 다음 순환에서 자동 '해방'되어 생기는 변화를 연결하는 독창적인 플래그 퍼즐이 핵심이다. 관찰과 행동으로 전개를 바꾼다는 주제를 플레이 자체로 체험하게 하는 구성이 돋보이고 특유의 문체·캐릭터·음악도 인상적이다. 반면 플래그 조합이 지나치게 어렵고 반복·무작위 날씨·불충분한 힌트가 진행을 답답하게 만든다. DC판은 PS판에서 일부 텍스트가 추가됐으나 캐릭터 음성은 없다. 서사형 퍼즐의 시행착오와 실험적인 작품을 좋아한다면 추천하는 7.2/10. 공개 발매 정보와 리뷰를 바탕으로 한 편집 평가이며 직접 플레이한 결과가 아니다. 한글패치 여부는 평점에 반영하지 않았다.",
+      "pros": [
+        "한 번의 하루에서 사건을 최대 5개 '기록'한 뒤 다음 순환에서 '해방'하여 변화를 이끄는 설계가 독창적이고, 플레이어의 추론을 이야기 진행과 밀접하게 묶는다.",
+        "같은 시간을 다시 겪어도 새로운 사건과 인물의 내면이 조금씩 드러나며, 수동적인 관찰자가 직접 변화를 만들어야 한다는 주제를 게임 규칙으로 구현했다.",
+        "주인공의 관찰과 철학적 독백, 개성적인 다섯 히로인, 수수께끼를 풀듯 배치된 복선이 독특한 서사적 매력을 만든다.",
+        "경쾌한 오프닝 음악과 독특한 캐릭터 일러스트가 기억에 남으며, 반복을 고려한 스킵과 빠른 로딩·한 손 조작도 갖췄다."
+      ],
+      "cons": [
+        "보유 가능한 기록이 5개뿐이고 해방은 자동으로 일어나 플래그 조합을 의도대로 제어하기가 어렵다. 명확한 정답 힌트가 부족해 공략 난도가 높다.",
+        "여러 차례 같은 하루를 순환해야 하므로 진행 속도가 늘어지고, 무작위 날씨 같은 조건이 시행착오를 더 늘린다.",
+        "철학 용어와 비유가 많은 주인공의 독백은 취향에 따라 장벽이 크고, 루프 설정에 대한 설명과 결말의 마무리도 불친절하게 느껴질 수 있다.",
+        "캐릭터 음성 없이 정지 일러스트와 대화 중심으로 전개되며, 일반적인 연애 ADV를 기대하면 실제로는 퍼즐 중심이라 당황할 수 있다."
+      ],
+      "sources": [
+        {
+          "label": "패미통 - 일본 드림캐스트판 발매일·발매사·장르",
+          "url": "https://www.famitsu.com/game/title/12688/reviews"
+        },
+        {
+          "label": "GameSpot - 드림캐스트 이식 발표와 사건 기록·루프 시스템 소개",
+          "url": "https://www.gamespot.com/articles/arc-announces-dc-prismaticallization/1100-2541483/"
+        },
+        {
+          "label": "게임카탈로그@Wiki - 기록·해방 규칙, 장단점, DC판 텍스트 추가",
+          "url": "https://w.atwiki.jp/gcmatome/pages/1279.html"
+        },
+        {
+          "label": "쓰부로그 - 2026년 드림캐스트판 게임성·독창성·조작 평가",
+          "url": "https://uniquerui.com/tblog/dreamcast-all-software-tier/"
+        },
+        {
+          "label": "LaunchBox - 일본 드림캐스트판 Box - Front 표지",
+          "url": "https://gamesdb.launchbox-app.com/games/images/107366-prismaticallization"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/5278",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 일본 드림캐스트판(2000-08-24, T-22002M). 제공 링크의 지원 판본·지역, 번역 범위·미번역 요소, 적용 방법 및 실기·에뮬레이터 호환성을 확인하지 않았고 설치·구동 검증도 하지 않았다."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com/308bd35f-b438-4287-bfbf-19a7dfd59910.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/107366-prismaticallization",
+        "platform": "dreamcast",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-11-06",
+      "reviewer": "ChatGPT (공개 자료 기반 편집 평가)"
     }
   ]
 }
