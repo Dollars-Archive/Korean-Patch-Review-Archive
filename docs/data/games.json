@@ -39715,6 +39715,68 @@
       },
       "reviewedAt": "2026-11-06",
       "reviewer": "ChatGPT (공개 자료 기반 편집 평가)"
+    },
+    {
+      "id": "web-mystery-yochimu-wo-miru-neko-dreamcast",
+      "title": "웹 미스터리: 예지몽을 꾸는 고양이",
+      "original": "WEB MYSTERY 予知夢ヲ見ル猫 (Web Mystery: Yochimu wo Miru Neko)",
+      "platforms": [
+        "dreamcast"
+      ],
+      "genres": [
+        "ADV",
+        "미스터리",
+        "실사 어드벤처"
+      ],
+      "score": 5.8,
+      "summary": "1999년 4월 22일 일본 드림캐스트로 발매된 실사형 미스터리 ADV(T-39501M). 정체불명의 살인 예고 영상을 본 컴퓨터 엔지니어가 사건에 휘말리는 이야기를 따라가며, 가상 OS의 메일·웹 메뉴와 18개 카테고리·150개 이상의 가상 웹페이지가 당시 인터넷 문화의 독특한 분위기를 살린다. 실사 영상과 이국적인 촬영 배경은 개성적이지만, 플레이어가 추리나 선택으로 이야기에 개입할 여지가 거의 없고 단선적인 시나리오와 불편한 세로 텍스트 표시가 몰입을 방해한다. 흥미로운 형식 실험에 비해 게임성과 서사의 완성도는 부족하다고 보아 5.8/10. 본격적인 수사 퍼즐보다는 1990년대 인터넷 분위기와 실사 서스펜스를 감상하고 싶은 드림캐스트 수집가에게 제한적으로 추천한다. 발매 정보와 관련 공개 리뷰를 종합한 자료 기반 편집 평가이며 직접 플레이하지 않았고 한글패치 여부는 점수에 반영하지 않았다.",
+      "pros": [
+        "메일과 웹 브라우저를 본뜬 가상 OS에서 18개 장르·150개 이상의 웹페이지를 탐색하는 방식이 1990년대 인터넷 문화와 초기 DC의 실험성을 잘 보여준다.",
+        "예고 영상과 실제 사건이 연결되는 도입부가 호기심을 자극하며, 가상 웹페이지와 저장된 영상·메일 열람 기능이 사건을 따라가는 감상형 구조에 개성을 더한다.",
+        "실사 인물 영상과 한국·홍콩 등 아시아 지역을 활용한 이국적인 촬영 배경이 일반적인 텍스트 ADV와 다른 분위기를 제공한다."
+      ],
+      "cons": [
+        "실질적인 선택지·분기·멀티엔딩이 없어 플레이어의 판단이 사건 전개에 거의 영향을 미치지 않으며, 추리 게임으로서의 개입도가 낮다.",
+        "많은 가상 웹페이지가 이야기 진행과 직접 연결되지 않아 탐색 규모에 비해 게임적인 활용과 동기가 부족하다.",
+        "화면 가장자리에 소량의 세로 텍스트를 표시하는 방식은 읽기 흐름을 끊으며, 일부 사건 전개와 캐릭터 행동의 설득력도 떨어진다는 비판이 있다.",
+        "간단한 영상 확인형 미니게임 외에 해결할 과제가 많지 않고 일직선 구성이라 재플레이 가치가 낮다."
+      ],
+      "sources": [
+        {
+          "label": "패미통 - 일본 드림캐스트판 출시일·장르·발매사",
+          "url": "https://www.famitsu.com/game/title/2230/reviews"
+        },
+        {
+          "label": "LaunchBox - 게임 기본 정보·가상 OS 구조·일본 DC 박스 앞표지",
+          "url": "https://gamesdb.launchbox-app.com/games/details/107876-web-mystery-yochimu-wo-miru-neko"
+        },
+        {
+          "label": "Scrap-Cliff - 일본 드림캐스트판 상세 리뷰(서사·가상 웹·UI)",
+          "url": "https://scrap-cliff.sakuraweb.com/game/game_034.html"
+        },
+        {
+          "label": "드림캐스트 ADV 목록 - 이용자 리뷰 인용 및 작품 분위기·선택지 평가",
+          "url": "https://retoro.g-player.com/dricas/adv/index.html"
+        },
+        {
+          "label": "피코피코 대백과 - 드림캐스트판 작품 소개·일본 발매 정보",
+          "url": "https://www.gavas.jp/products/detail.php?product_id=503"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/6276",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가는 1999-04-22 발매 일본 드림캐스트판 『WEB MYSTERY 予知夢ヲ見ル猫』(T-39501M) 기준. 제공 주소의 지원 디스크 지역·리비전, 번역 범위·미번역 요소, 패치 버전·배포 상태·적용 방법 및 DC 실기·에뮬레이터 호환성은 확인하지 않았음. 설치·구동 검증도 하지 않았음."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com//a56140a2-a467-4aca-a346-79459276528e.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/details/107876-web-mystery-yochimu-wo-miru-neko",
+        "platform": "dreamcast",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-11-06",
+      "reviewer": "ChatGPT (공개 자료 기반 편집 평가)"
     }
   ]
 }
