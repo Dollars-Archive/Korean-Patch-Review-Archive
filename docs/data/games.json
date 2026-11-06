@@ -39522,6 +39522,73 @@
       },
       "reviewedAt": "2026-11-06",
       "reviewer": "ChatGPT (공개 자료 기반 편집 평가)"
+    },
+    {
+      "id": "eldorado-gate-volume-5-dreamcast",
+      "title": "엘도라도 게이트 제5권",
+      "original": "エルドラドゲート 第5巻 (Eldorado Gate Volume 5)",
+      "platforms": [
+        "dreamcast"
+      ],
+      "genres": [
+        "RPG",
+        "턴제 RPG",
+        "판타지"
+      ],
+      "score": 7.1,
+      "summary": "2001년 6월 6일 일본에 출시된 캡콤의 드림캐스트 전용 연작 턴제 RPG 제5권(T-1227M). 제12~14화에 소피·버드·라도 등이 등장하며 인물들의 과거와 인연이 이어져 후반부 서사의 흡인력이 높아진다. 아마노 요시타카의 일러스트를 감상하는 아트 갤러리, 몬스터 대전 시설, 마정석 일괄 처리와 전투 표시 개선이 반갑다. 그러나 반복적인 전투와 근본적인 메뉴 불편이 남고, 등장 인물이 많아 활용이 분산되며 이전 권을 모르면 감흥이 줄어든다. 전권에서 이어지는 이야기와 아마노의 미술을 즐기는 고전 JRPG 팬에게 추천하는 7.1/10. 게임 자체만을 평가했으며 한글패치 여부는 점수에 반영하지 않았다. 공식 상품 정보와 해당 권 리뷰·플레이 기록을 종합한 자료 기반 편집 평가로 직접 플레이하지 않았다.",
+      "pros": [
+        "제12~14화의 서로 다른 인물 중심 에피소드가 이전 권의 사건과 이어지며, 특히 버드 등 재등장 인물의 사연이 후반부 연작 서사의 몰입도를 높인다.",
+        "아마노 요시타카의 독특한 캐릭터·몬스터 디자인과 채색감 있는 판타지 미술을 감상할 수 있고, 새로 추가된 아트 갤러리가 시각적 매력을 강화한다.",
+        "마정석의 일괄 추출, 전투 중 VMU 표시 조정 등 기존 권의 조작 번거로움을 일부 줄여 연속 플레이의 편의성이 개선됐다.",
+        "몬스터끼리 대결시키는 투기장 형태의 신규 요소와 몬스터 갤러리·음악 감상 기능이 메인 스토리 외의 수집·감상 재미를 보탠다."
+      ],
+      "cons": [
+        "마정석 처리 등은 나아졌지만 메뉴 구성과 기본 인터페이스의 근본적인 불편이 남아 탐색·장비 관리 시 손이 많이 간다.",
+        "속성 무기·마법을 이용한 턴제 전투는 전권의 기본 구조를 그대로 반복하며 새로운 시스템이 핵심 플레이 방식을 크게 바꾸지는 못한다.",
+        "등장 인물이 12명으로 확대되지만 필수 인물과 선호 캐릭터를 제외하면 활용도가 낮아져 파티 운용과 서사가 다소 산만해질 수 있다.",
+        "제5권의 첫 시나리오는 물가가 급등한 마을의 설정이 기존 플레이 흐름과 어긋날 수 있고, 전권의 사건을 모르면 재등장 인물과 감정선의 의미가 약해진다."
+      ],
+      "sources": [
+        {
+          "label": "패미통 - 드림캐스트 제5권 일본 발매일·기종·장르·발매사",
+          "url": "https://www.famitsu.com/game/title/12476/reviews"
+        },
+        {
+          "label": "Media World - 일본 DC 제5권 T-1227M 상품 설명 및 제12~14화·갤러리·편의성",
+          "url": "https://mediaworld.co.jp/products/10360351003"
+        },
+        {
+          "label": "鳶嶋工房 - 제5권 직접 플레이 리뷰(마정석 일괄 처리·투기장·인물·UI 평가)",
+          "url": "https://tonbi.jp/Game/Review/E/ELDRADO5.html"
+        },
+        {
+          "label": "GameFAQs - Lord_ADK의 드림캐스트 제5권 상세 플레이 후기·시스템 공략",
+          "url": "https://gamefaqs.gamespot.com/dreamcast/581335-el-dorado-gate-volume-5/faqs/14544"
+        },
+        {
+          "label": "드림캐스트 일본판 전수 평가 - 제5권 구성·조작·완성도 비교",
+          "url": "https://uniquerui.com/tblog/dreamcast-all-software-tier/"
+        },
+        {
+          "label": "LaunchBox - 제5권 드림캐스트 일본판 실제 Box - Front 확인",
+          "url": "https://gamesdb.launchbox-app.com/games/images/107274-eldorado-gate-volume-5"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/6299",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2001-06-06 일본 드림캐스트 제5권(T-1227M). 제공 주소의 지원 지역·리비전·번역 범위·미번역 요소·적용 방법 및 현재 배포 여부를 확인하지 않았다. 실기·에뮬레이터 설치 및 구동 검증도 수행하지 않았다."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com/e503ec7e-1407-47d2-89e6-883607db44cd.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/107274-eldorado-gate-volume-5",
+        "platform": "dreamcast",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-11-06",
+      "reviewer": "ChatGPT (공개 자료 기반 편집 평가)"
     }
   ]
 }
