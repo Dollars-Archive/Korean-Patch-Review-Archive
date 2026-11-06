@@ -40124,6 +40124,67 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "konohana-true-report-dreamcast",
+      "title": "코노하나: 트루 리포트",
+      "original": "此花 KONOHANA:TrueReport",
+      "platforms": [
+        "dreamcast"
+      ],
+      "genres": [
+        "미스터리 어드벤처",
+        "비주얼 노벨",
+        "학원 추리"
+      ],
+      "score": 6.5,
+      "summary": "2001년 4월 26일 일본 발매 드림캐스트판 『此花 KONOHANA:TrueReport』(T-9905M) 기준의 자료 기반 편집 평가. 학원에 얽힌 사신 전설과 살인 사건을 따라가는 미스터리 도입, 개성 있는 캐릭터, 주역을 포함한 풀보이스 연기, 멀티엔딩 및 텍스트 편의 기능은 매력적이다. 반면 대화와 선택지 중심의 전개에서 선택 결과의 단서가 불충분한 구간이 있고, 사건의 긴장감과 결말의 완성도가 강한 추리물에 비해 아쉽다. 학원 괴담과 2000년대 초 일본식 노벨 ADV를 좋아한다면 6.5점으로 추천한다. 직접 플레이가 아닌 공개 자료 기반 편집 평가이며 한글패치 유무는 점수에 반영하지 않았다.",
+      "pros": [
+        "학원의 '사신 전설'을 연쇄살인 사건에 엮어 수수께끼를 던지는 도입과 주인공·신문부 부장 콤비의 관계가 이야기에 흡인력을 준다.",
+        "이시다 아키라·카와스미 아야코 등 성우진의 풀보이스 연기와 moo의 캐릭터 원안이 인물 중심의 학원물 분위기를 살린다.",
+        "여러 결말과 대화·사건 조사 선택지를 마련해 재독의 동기를 제공하며, 텍스트 이력·자동 진행·기독 부분 빨리 넘기기 기능으로 반복 감상 부담을 덜어준다."
+      ],
+      "cons": [
+        "사건 해결과 분기를 좌우하는 일부 선택지가 단서에 비해 직관성이 떨어져, 추리보다 시행착오로 올바른 답을 찾는 느낌을 줄 수 있다.",
+        "텍스트와 대화 중심으로 진행되어 플레이어가 직접 단서를 조합하는 기계적인 추리의 깊이는 제한적이고, 다회차에서 같은 내용을 반복 읽게 된다.",
+        "부드러운 캐릭터물 분위기와 살인 미스터리의 긴장감이 충분히 조화되지 않는 구간이 있으며, 리뷰에서도 이야기의 평이함과 결말의 약함이 지적된다."
+      ],
+      "sources": [
+        {
+          "label": "Vridge - KONOHANA:TrueReport 공식 소개 및 기종·제작 정보",
+          "url": "https://www.vridge.co.jp/homepage/contents/products/kh_1/konohana.htm"
+        },
+        {
+          "label": "GAME Watch - 출시 당시 제작 발표, 시나리오·시스템·음성 정보",
+          "url": "https://game.watch.impress.co.jp/docs/20010131/success.htm"
+        },
+        {
+          "label": "GameFAQs - 일본 드림캐스트판 플레이 리뷰(2001)",
+          "url": "https://gamefaqs.gamespot.com/dreamcast/581056-konohana-true-report/reviews/23945"
+        },
+        {
+          "label": "だんぼーるはうすinブログ - 드림캐스트판 플레이 감상(2015)",
+          "url": "https://lunchbox360.livedoor.biz/archives/8139355.html"
+        },
+        {
+          "label": "LaunchBox - 드림캐스트 일본판 Box - Front",
+          "url": "https://gamesdb.launchbox-app.com/games/images/107848-konohana-true-report"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/2038",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 대상은 일본 발매 드림캐스트판 『此花 KONOHANA:TrueReport』(T-9905M, 2001-04-26)이며 플레이스테이션판과 구분한다. 번역 범위·미번역 구간·지원 디스크 리비전·적용 방법 및 실기·에뮬레이터 구동 여부를 확인하지 않았다. 사용자 제공 링크에 접속하지 않았고 설치·작동 검증도 하지 않았다."
+      },
+      "reviewedAt": "2026-11-06",
+      "reviewer": "ChatGPT (공개 자료 기반 편집 평가)",
+      "cover": {
+        "url": "https://images.launchbox-app.com/9e13c790-fcd1-4c13-bd7f-b809ffe6b13b.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/107848-konohana-true-report",
+        "platform": "dreamcast",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
