@@ -39897,6 +39897,63 @@
       },
       "reviewedAt": "2026-11-06",
       "reviewer": "ChatGPT (공개 자료 기반 편집 평가)"
+    },
+    {
+      "id": "puyo-puyo-da-dreamcast",
+      "title": "뿌요뿌요 DA!",
+      "original": "ぷよぷよDA! -featuring ELLENA System- (Puyo Puyo Da!)",
+      "platforms": [
+        "dreamcast"
+      ],
+      "genres": [
+        "리듬 게임",
+        "댄스 대전"
+      ],
+      "score": 4.5,
+      "summary": "1999년 12월 16일 일본에서 발매된 드림캐스트용 뿌요뿌요 외전 리듬 게임. 알르 등 익숙한 캐릭터가 3D 댄스 대결을 펼치는 설정과 간단한 버튼 입력·2인 대전은 팬에게 독특한 구경거리다. 그러나 음악·화면 지시·춤 동작의 연계가 어색하고, 수록곡과 모드가 적어 혼자서 즐길 분량·반복 플레이 동기가 부족해 4.5/10. 뿌요뿌요 캐릭터에 애착이 있다면 짧게 체험할 만하나 본격 리듬 게임을 원하면 추천하기 어렵다. 공개 자료와 리뷰에 기반한 편집 평가이며 직접 플레이하지 않았고 한글패치 존재 여부는 점수에 반영하지 않았다.",
+      "pros": [
+        "알르 등 시리즈의 친숙한 캐릭터가 색다른 의상과 3D 춤을 선보이는 유쾌한 외전 콘셉트가 팬서비스로서 매력적이다.",
+        "상대가 제시하는 방향·버튼 입력 패턴을 음악에 맞춰 따라 하는 규칙이 단순해 기본 조작을 빠르게 익힐 수 있다.",
+        "싱글플레이 대결 외에도 두 사람이 같은 화면에서 겨루는 대전 모드를 갖춰 가볍게 경쟁할 수 있다."
+      ],
+      "cons": [
+        "화면 하단의 입력 지시와 캐릭터 춤 동작이 음악 박자에 자연스럽게 연결되지 않아 리듬을 타는 손맛이 약하다는 리뷰 지적이 반복된다.",
+        "수록곡이 적고 단독 진행이 짧으며 모드가 빈약해 장기적인 도전·재플레이 동기가 부족하다.",
+        "3D 캐릭터 애니메이션이 단조롭고 성공·실패에 따른 피드백의 변화가 적어 대전 연출이 밋밋하다.",
+        "원래 시리즈의 연쇄 퍼즐 전략이나 상대를 방해하는 역동적 상호작용을 기대하면 별개의 단순한 리듬 게임이라는 점에서 실망할 수 있다."
+      ],
+      "sources": [
+        {
+          "label": "패미통 - 일본 DC판 1999-12-16 발매 및 제품 기본 정보",
+          "url": "https://www.famitsu.com/game/title/12814/reviews"
+        },
+        {
+          "label": "GameSpot - Puyo Puyo Da! (Import) 리뷰 (2000)",
+          "url": "https://www.gamespot.com/reviews/puyo-puyo-da-import-review/1900-2540488/"
+        },
+        {
+          "label": "3pmoot - Dreamcast Puyo Puyo Da! 이용자 리뷰 (2021)",
+          "url": "https://3pmoot.com/egp/platforms/dc/dcp.html"
+        },
+        {
+          "label": "HonestGamers - Dreamcast Puyo Puyo DA! 리뷰 (2006)",
+          "url": "https://www.honestgamers.com/5169/dreamcast/puyo-puyo-da/review.html"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/4744",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 1999-12-16 일본 드림캐스트판(ぷよぷよDA! -featuring ELLENA System-)이며 NAOMI 아케이드판과 구별한다. 실제 지원 디스크 리비전과 메뉴·대사·곡 정보의 번역 범위, 미번역 부분, 적용 방법, 실기·에뮬레이터 구동 여부는 확인하지 않았다."
+      },
+      "cover": {
+        "url": "https://storage.googleapis.com/images.pricecharting.com/bsh3x3dbmhxipax2/1600.jpg",
+        "source": "https://www.pricecharting.com/game/jp-sega-dreamcast/puyo-puyo-da",
+        "platform": "dreamcast",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-11-06",
+      "reviewer": "ChatGPT (공개 자료 기반 편집 평가)"
     }
   ]
 }
