@@ -39396,6 +39396,73 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "tantei-shinshi-dash-dreamcast",
+      "title": "탐정신사 DASH!",
+      "original": "探偵紳士DASH! (Tantei Shinshi Dash!)",
+      "platforms": [
+        "dreamcast"
+      ],
+      "genres": [
+        "추리 ADV",
+        "하드보일드",
+        "미스터리"
+      ],
+      "score": 8.1,
+      "summary": "2000년 12월 21일 일본 드림캐스트 일반판 『探偵紳士DASH!』(T-44401M) 기준. 스가노 히로유키가 집필한 하드보일드 탐정 ADV로, 악행 소마가 여러 의뢰와 수수께끼를 쫓는 과정에서 치밀한 복선과 인물들의 감정선이 쌓인다. 조사 이동과 시각에 따라 기회가 바뀌고 의뢰 해결까지 걸린 기간에 따라 보수가 달라져 수사 계획의 재미가 크다. DC판에는 PC 원작 대비 성우 음성과 캐릭터 디자인 변경·이벤트 추가가 있으며, VMU 미니게임도 수록됐다. 다만 구식 명령식 탐색, 이동에 따른 시간 소모와 불편한 저장 지점, 일부 불명확한 진행 플래그가 부담이고 오프닝 영상의 완성도도 아쉽다. 강렬한 이야기와 직접 발로 뛰는 수사에 높은 가치를 두어 8.1점. 『EVE』·『DESIRE』 계열 서사형 탐정 게임을 선호하면 추천하되 자유 저장·빠른 진행을 중시한다면 주의. 일본 DC판 발매 정보와 사용자 리뷰를 바탕으로 한 자료 기반 편집 평가이며 직접 플레이하지 않았고 한글패치 여부는 점수에 반영하지 않았다.",
+      "pros": [
+        "여러 의뢰의 단서가 연결되고 뒤늦게 의미가 드러나는 복선과 인물의 심리를 활용해 하드보일드 탐정극의 흡인력을 유지한다.",
+        "이동 시간과 사건별 해결 기한에 따라 의뢰 보수가 달라지고 정보 구매에도 돈이 필요해 목적지를 계획하며 효율적으로 수사할 동기가 생긴다.",
+        "전문 탐정 악행 소마를 비롯한 조연들의 개성이 선명하고, 엄중한 사건과 쓸쓸한 감정 장면을 교차시켜 이야기의 여운이 길다.",
+        "DC 이식에서는 원작과 달리 캐릭터 디자인을 새로 다듬고 음성 및 이벤트를 보강했으며, VMU용 '민트와 함께' 미니게임과 보너스 콘텐츠를 제공한다."
+      ],
+      "cons": [
+        "장소를 옮길 때마다 게임 내 시간이 흘러 효율적인 동선에 신경 써야 하고, 이동 방식 자체도 번거로워 이야기보다 시간 최적화가 부담되는 구간이 있다.",
+        "세이브할 수 있는 지점이 제한적이어서 짧게 끊어 즐기기 어렵고, 실수한 조사 행동을 되돌리는 과정도 불편하다.",
+        "일부 사건은 힌트가 불분명한 진행 조건을 찾아 여러 장소를 방문하거나 명령을 반복해야 하며, 수사보다 플래그 확인에 가까워질 수 있다.",
+        "오프닝 영상의 화질·연출은 약하다는 평가가 있고, 보너스 해금용 자금·수사 최적화를 다시 맞춰야 하는 반복 플레이는 호불호가 갈린다."
+      ],
+      "sources": [
+        {
+          "label": "패미통 - DC판 발매일·장르·정가",
+          "url": "https://www.famitsu.com/game/title/12560/reviews"
+        },
+        {
+          "label": "스루가야 - 일본 Dreamcast 일반판 T-44401M, 발매사·시나리오·성우",
+          "url": "https://www.suruga-ya.jp/product/detail/142000308"
+        },
+        {
+          "label": "게임이로이로 - DC판 56명 이용자 평가·수사 기한·저장·조작 장단점",
+          "url": "https://www.ge-iroreview.com/dc/3ta/tanteisinsidassyu.htm"
+        },
+        {
+          "label": "GameFAQs - Dreamcast판 2001년 이용자 리뷰: 사건·이벤트·보너스·영상",
+          "url": "https://gamefaqs.gamespot.com/dreamcast/578988-tantei-shinshi-dash/reviews/23645"
+        },
+        {
+          "label": "피코피코 대백과 - DC판 PC 원작 대비 변경 사항 및 VMU 미니게임",
+          "url": "https://www.gavas.jp/products/detail.php?product_id=530"
+        },
+        {
+          "label": "LaunchBox - 일본 DC 표준판 Box - Front 확인 (한정판 스티커 없는 이미지)",
+          "url": "https://gamesdb.launchbox-app.com/games/images/133123-tantei-shinshi-dash"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/7252",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가는 2000-12-21 발매 일본 드림캐스트 일반판 『探偵紳士DASH!』(T-44401M) 기준이며, 한정판(T-44403M) 및 PC 원작·후속작과 구분함. 제공 링크의 실제 대상 디스크 지역·리비전, 번역 범위·미번역 요소, 패치 버전·배포 여부·적용 방법 및 DC 실기·에뮬레이터 호환성은 확인하지 않았음. 제공 URL에 GET·HEAD·미리보기·리다이렉트·다운로드 요청을 하지 않았으며 설치·실행 검증도 하지 않음."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com/32d28892-6517-4809-a231-4c6bca993204.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/133123-tantei-shinshi-dash",
+        "platform": "dreamcast",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-11-06",
+      "reviewer": "WebGPT"
     }
   ]
 }
