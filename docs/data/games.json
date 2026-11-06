@@ -39463,6 +39463,65 @@
       },
       "reviewedAt": "2026-11-06",
       "reviewer": "WebGPT"
+    },
+    {
+      "id": "dancing-blade-katteni-momotenshi-kanzenban-dreamcast",
+      "title": "댄싱 블레이드: 천방지축 도천사!",
+      "original": "dancing blade かってに桃天使! 完全版 (Dancing Blade: Katte ni Momotenshi! Kanzenban)",
+      "platforms": [
+        "dreamcast"
+      ],
+      "genres": [
+        "인터랙티브 애니메이션",
+        "ADV",
+        "비주얼 노벨"
+      ],
+      "score": 7.2,
+      "summary": "1999년 9월 2일 발매된 일본 드림캐스트용 완전판(T-9504M). 교토 애니메이션이 제작한 생동감 있는 풀 애니메이션과 개성 있는 캐릭터, 선택에 따라 달라지는 네 갈래 결말이 매력인 감상형 ADV다. PS판 대비 약 5분의 신규 장면과 부가 영상, 더 나은 영상 품질을 제공하지만 선택지가 적고 실질적인 조작은 거의 없으며 반복 감상도 번거롭다. 액션 게임보다는 일본식 애니메이션과 가벼운 판타지 이야기를 즐기는 사람에게 추천하는 7.2/10. 공개 리뷰 및 상품 정보를 바탕으로 작성한 편집 평가로 직접 플레이하지 않았으며, 한글패치 여부는 점수에 반영하지 않았다.",
+      "pros": [
+        "교토 애니메이션의 표정 풍부한 풀 애니메이션과 다채로운 캐릭터 디자인, 성우 연기가 작품의 보는 재미를 이끈다.",
+        "복숭아에서 태어난 모모히메의 모험을 코미디·판타지 성격의 여러 갈래로 감상할 수 있어 가볍게 다시 보기 좋다.",
+        "드림캐스트 완전판은 약 5분의 신규 애니메이션과 '桃天質問箱' 등 추가 영상을 담고, 초당 24프레임·재렌더링 영상으로 원작보다 매끄러운 감상을 지향한다.",
+        "이미 본 장면을 다시 보거나 분기 엔딩 후 시나리오를 감상하는 기능과 부가 갤러리·영상 콘텐츠가 팬서비스로 작동한다."
+      ],
+      "cons": [
+        "선택지를 고르는 것 외에는 직접 할 일이 거의 없어 퍼즐·탐색·전투 같은 게임성을 기대하면 실망할 수 있다.",
+        "전체적인 분기와 결말의 종류가 제한적이고 선택의 폭도 얕아 반복 플레이의 발견이 빠르게 줄어든다.",
+        "루트 재감상 시 장면을 건너뛰는 기능이 충분히 편리하지 않아 같은 영상을 다시 보는 부담이 있다.",
+        "동화풍의 단순한 이야기와 반복적인 배경음악은 성인 취향의 복잡한 서사나 풍부한 음악 변주를 기대하는 사람에게 아쉬울 수 있다."
+      ],
+      "sources": [
+        {
+          "label": "Media World - 일본 드림캐스트 완전판 발매 정보 및 추가 장면·영상 사양",
+          "url": "https://mediaworld.co.jp/products/10360062003"
+        },
+        {
+          "label": "GameFAQs - 드림캐스트판 이용자 리뷰(WGrube, 2000)",
+          "url": "https://gamefaqs.gamespot.com/dreamcast/575635-dancing-blade-katteni-momotenshi/reviews/13296"
+        },
+        {
+          "label": "ピコピコ大百科 - 드림캐스트판 소개 및 이용자 리뷰 2건",
+          "url": "https://www.gavas.jp/products/detail.php?product_id=506"
+        },
+        {
+          "label": "LaunchBox - 드림캐스트 일본 완전판 실제 앞표지",
+          "url": "https://gamesdb.launchbox-app.com/games/details/107816-dancing-blade-katte-ni-momotenshi-kanzenban"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/6864",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 1999년 일본 드림캐스트판 완전판(T-9504M)이다. 링크가 해당 완전판을 지원하는지, 번역 범위·미번역 요소·적용 방법·호환성은 확인하지 않았다. 설치·실기 및 에뮬레이터 구동 검증도 수행하지 않았다."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com//cf8f8046-02ea-4bb5-b156-e50eaffcf6b2.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/details/107816-dancing-blade-katte-ni-momotenshi-kanzenban",
+        "platform": "dreamcast",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-11-06",
+      "reviewer": "ChatGPT (공개 자료 기반 편집 평가)"
     }
   ]
 }
