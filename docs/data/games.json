@@ -39652,6 +39652,69 @@
       },
       "reviewedAt": "2026-11-06",
       "reviewer": "ChatGPT (공개 자료 기반 편집 평가)"
+    },
+    {
+      "id": "record-of-lodoss-war-advent-of-cardice-dreamcast",
+      "title": "로도스도 전기: 사신강림",
+      "original": "ロードス島戦記 邪神降臨 (Record of Lodoss War: The Advent of Cardice)",
+      "platforms": [
+        "dreamcast"
+      ],
+      "genres": [
+        "액션 RPG",
+        "핵 앤 슬래시",
+        "판타지"
+      ],
+      "score": 7.7,
+      "summary": "2000년 6월 29일 일본에 출시된 네버랜드 개발 드림캐스트 액션 RPG(T-27903M). 로도스도 전기의 세계를 디아블로식 실시간 전투·전리품 수집으로 풀어냈으며, 미스릴 재련과 고대 룬 각인을 통한 장비 육성이 특히 매력적이다. 원작 인물들의 동행과 탐험의 손맛이 좋지만 기본 공격의 반복, 적 물량 중심의 불균형한 난도, 약한 캐릭터 서사와 낡은 CG·그래픽이 한계다. 파밍과 꾸준한 성장의 재미를 즐기는 핵 앤 슬래시 팬에게 추천하는 7.7/10. 공식 상품 설명과 당시 드림캐스트판 리뷰를 종합한 자료 기반 편집 평가이며 직접 플레이한 점수는 아니다. 한글패치 여부는 평점에 반영하지 않았다.",
+      "pros": [
+        "무기·방어구를 미스릴로 재련하고 고대 룬을 새겨 치명타 확률·방어력 등 장비 속성을 조절하는 육성 시스템이 전리품 수집에 목적을 부여한다.",
+        "필드와 던전에서 적을 쓰러뜨리고 보물상자를 찾아 더 좋은 장비로 갈아타는 디아블로식 성장·탐험의 순환이 중독성 있다.",
+        "전투·아이템 사용 조작이 단순해 진입이 쉽고, 판·디드리트 등 원작 인물이 AI 동료로 참전해 로도스의 세계를 모험하는 느낌을 더한다.",
+        "원작을 그대로 재현하지 않는 오리지널 이야기로 익숙한 인물과 배경을 새로운 관점에서 만난다."
+      ],
+      "cons": [
+        "검 공격 패턴이 사실상 단일 동작 위주라 전투가 장시간 반복되고, 적을 많이 배치하는 방식에 의존해 액션의 변화가 적다.",
+        "회복약 보충·저장으로 쉽게 버티다가도 다수의 적에게 순식간에 압도당하는 등 체감 난도가 들쭉날쭉하다.",
+        "원작 인물의 등장에 비해 인물 묘사와 대사·서사가 깊지 않아 애니메이션 원작의 감동이나 장면 재현을 기대하면 아쉽다.",
+        "당대 드림캐스트의 수준을 충분히 살리지 못한 단순한 3D 그래픽과 조악한 CG 영상, 소리의 반복이 몰입을 깎는다."
+      ],
+      "sources": [
+        {
+          "label": "Media World - 일본 드림캐스트판 발매일·품번·장비 강화·오리지널 스토리",
+          "url": "https://mediaworld.co.jp/products/10360195001"
+        },
+        {
+          "label": "GameSpot - 드림캐스트판 리뷰(전투·룬 장비 제작·반복성·CG)",
+          "url": "https://www.gamespot.com/reviews/record-of-lodoss-war-review/1900-2700555/"
+        },
+        {
+          "label": "Metacritic - 드림캐스트판 당시 평론 비교(IGN 포함)",
+          "url": "https://www.metacritic.com/game/record-of-lodoss-war/critic-reviews/"
+        },
+        {
+          "label": "GameFAQs - NeoGeo 드림캐스트판 이용자 상세 리뷰(그래픽·사운드·성장)",
+          "url": "https://gamefaqs.gamespot.com/dreamcast/250617-record-of-lodoss-war/reviews/44565"
+        },
+        {
+          "label": "LaunchBox - 일본 드림캐스트판 Box - Front 실제 표지",
+          "url": "https://gamesdb.launchbox-app.com/games/images/5304-record-of-lodoss-war-the-advent-of-cardice"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/7983",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2000-06-29 일본 드림캐스트판(T-27903M). 제공 주소의 지원 판본·지역·번역 범위·미번역 요소·설치 방법 및 호환성을 확인하지 않았다. 실기·에뮬레이터 구동 검증도 수행하지 않았다."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com/d0eef529-a659-460b-af7a-849bac11f68c.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/5304-record-of-lodoss-war-the-advent-of-cardice",
+        "platform": "dreamcast",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-11-06",
+      "reviewer": "ChatGPT (공개 자료 기반 편집 평가)"
     }
   ]
 }
