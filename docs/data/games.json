@@ -39589,6 +39589,69 @@
       },
       "reviewedAt": "2026-11-06",
       "reviewer": "ChatGPT (공개 자료 기반 편집 평가)"
+    },
+    {
+      "id": "kaen-seibo-dreamcast",
+      "title": "화염성모",
+      "original": "火焔聖母 〜The Virgin on Megiddo〜 (Kaen Seibo: The Virgin on Megiddo)",
+      "platforms": [
+        "dreamcast"
+      ],
+      "genres": [
+        "ADV",
+        "미스터리",
+        "서스펜스"
+      ],
+      "score": 6.3,
+      "summary": "2001년 8월 2일 출시된 일본 드림캐스트 전용 추리·서스펜스 ADV(T-42802M). 첨단 실험도시와 고대 신앙·초자연적 사건을 엮은 세계관, 요코타 마모루의 캐릭터 디자인과 성우 연출이 인상적이다. 여러 사건이 큰 수수께끼로 합쳐지는 전개도 장점이다. 그러나 단순한 명령 선택식 추리와 장황한 학교 내 3D 탐색, 세이브 제약 및 시간제한 선택지, 히로인별 전개 차이 부족으로 플레이 흐름과 반복 플레이 만족도가 떨어진다. 독특한 전기 미스터리 분위기와 캐릭터 일러스트를 즐기는 고전 ADV 팬에게 권하는 6.3/10. 실제 플레이가 아닌 공개 게임 정보·일본어 플레이 리뷰를 바탕으로 한 편집 평가이며 한글패치 여부는 점수에 반영하지 않았다.",
+      "pros": [
+        "첨단 네트워크 실험도시의 과학 설정과 고대 신화·토착 신앙을 결합한 서스펜스가 개성 있는 미스터리 분위기를 만든다.",
+        "각 장에서 다뤄지는 사건과 인물의 비밀이 점차 연결되어 큰 사건에 접근하는 구성은 이야기 중심 플레이에 동기를 준다.",
+        "요코타 마모루의 개성적인 히로인 일러스트와 표정 연출, 호화 성우진 및 음악이 인물과 장면에 색채를 더한다.",
+        "대화·조사·추리 명령과 3D 현장 탐색을 조합해 단순 텍스트 감상 이상의 장소 조사 감각을 주려는 시도가 있다."
+      ],
+      "cons": [
+        "학교 등에서 이어지는 3D 이동 구간은 동선이 넓고 반복적이며 사건 해결보다 이동 자체가 부담스러워 템포를 해친다.",
+        "명령어를 차례로 눌러 진행하는 구조가 많아 추리의 자율성이나 퍼즐의 깊이가 기대보다 얕다.",
+        "특정 구간에 제한된 세이브와 갑작스러운 시간제한 선택지는 미리 대응하기 어렵고 실패 시 재진행 부담을 준다.",
+        "히로인에 따라 달라지는 장면과 결말의 차이가 크지 않고 본편 비중도 제한적이어서 여러 차례 재플레이할 동기가 약하다."
+      ],
+      "sources": [
+        {
+          "label": "패미통 - 드림캐스트판 발매일·장르·기종",
+          "url": "https://www.famitsu.com/game/title/12458/page/1"
+        },
+        {
+          "label": "ADVGAMER - 세계관·서사·추리·3D 탐색을 평가한 플레이 리뷰",
+          "url": "https://advgamer.com/kaen-seibo-the-virgin-megiddo/"
+        },
+        {
+          "label": "YSK-BLOG - 실제 플레이 진행·명령 선택·8장 구성·시간제한 후기",
+          "url": "https://yskfrontiersgate.blog.fc2.com/blog-entry-407.html"
+        },
+        {
+          "label": "懐ゲー 思い出語り - 서사와 히로인 분기·반복 플레이 후기",
+          "url": "https://gameflame.seesaa.net/article/201708article_16.html"
+        },
+        {
+          "label": "LaunchBox - 일본 드림캐스트판 실제 Box - Front 확인",
+          "url": "https://gamesdb.launchbox-app.com/games/images/107844-kaen-seibo-the-virgin-on-megiddo"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/6771",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2001년 8월 2일 출시된 일본 드림캐스트판(T-42802M, GD-ROM 2장). 제공 링크의 지원 판본·번역 범위·미번역 내용·적용 방법·현재 배포 여부를 확인하지 않았다. 실기 및 에뮬레이터 설치·구동 검증도 하지 않았다."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com/0dc113e3-3260-4873-a767-82b911b2b751.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/107844-kaen-seibo-the-virgin-on-megiddo",
+        "platform": "dreamcast",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-11-06",
+      "reviewer": "ChatGPT (공개 자료 기반 편집 평가)"
     }
   ]
 }
