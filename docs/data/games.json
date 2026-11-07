@@ -41133,6 +41133,62 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "heroes-phantasia-psp",
+      "title": "히어로즈 판타지아",
+      "original": "ヒーローズファンタジア",
+      "platforms": [
+        "psp"
+      ],
+      "genres": [
+        "RPG",
+        "크로스오버"
+      ],
+      "score": 7.4,
+      "summary": "2012년 PSP 일본판 기준. 여러 애니메이션의 인물이 한 세계에서 교류하는 크로스오버 RPG로, 원작을 아는 팬에게 대화와 필살기 연출이 반갑다. 전후열 교체와 연속 공격을 활용하는 전투는 개성 있지만 체계를 익히는 데 시간이 필요하고 대사가 길어지는 장면도 있다. 참가 작품을 여럿 좋아하고 파티 편성을 즐기는 사람에게 추천하는 자료 기반 편집 평가다.",
+      "pros": [
+        "서로 다른 애니메이션 10작품의 인물들이 원작의 개성을 살려 대화하고 함께 싸우는 장면이 팬서비스를 제공한다.",
+        "전후열과 배치를 바꾸고 캐릭터의 공격을 연결하는 전투가 편성과 콤보의 재미를 준다.",
+        "각 인물의 필살기 연출과 익숙한 대사가 크로스오버 전투의 분위기를 살린다."
+      ],
+      "cons": [
+        "전열·후열의 공격 조건, 교체와 자원 운용이 겹쳐 전투 구조를 이해하기까지 시간이 걸린다.",
+        "등장인물이 많아 일부 대화와 이야기 전개가 길게 느껴질 수 있고 본편은 모든 대사가 음성으로 제공되지 않는다.",
+        "초반에는 같은 작품 인물 중심의 유닛 편성 제약이 있어 등장인원이 적은 작품은 불리할 수 있다."
+      ],
+      "sources": [
+        {
+          "label": "패미통 · PSP판 정보와 리뷰",
+          "url": "https://www.famitsu.com/game/title/23663/reviews"
+        },
+        {
+          "label": "GAME Watch · PSP판 전투와 편성 리뷰",
+          "url": "https://game.watch.impress.co.jp/docs/review/507970.html"
+        },
+        {
+          "label": "Kotaku · 전투 편성과 자원 운용",
+          "url": "https://kotaku.com/this-anime-crossover-is-complicated-chaotic-and-blesse-5900486"
+        },
+        {
+          "label": "LaunchBox · PSP 일본판 앞표지",
+          "url": "https://gamesdb.launchbox-app.com/games/images/73279-heroes-phantasia"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/8085",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 PSP 일본판이며 패치 지원 판본·리비전, 번역 범위·미번역 내용과 적용 방법은 확인하지 않았다."
+      },
+      "cover": {
+        "url": "covers/heroes-phantasia-psp-880ceadeebe7.webp",
+        "source": "https://gamesdb.launchbox-app.com/games/images/73279-heroes-phantasia",
+        "platform": "psp",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-11-08",
+      "reviewer": "Codex (자료 기반 편집 평가)"
     }
   ]
 }
