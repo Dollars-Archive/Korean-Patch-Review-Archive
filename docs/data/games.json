@@ -40783,6 +40783,69 @@
       },
       "reviewedAt": "2026-11-08",
       "reviewer": "Codex (자료 기반 편집 평가)"
+    },
+    {
+      "id": "atelier-iris-eternal-mana-2-ps2",
+      "title": "이리스의 아틀리에: 이터널 마나 2",
+      "original": "イリスのアトリエ エターナルマナ2 (Atelier Iris 2: The Azoth of Destiny)",
+      "platforms": [
+        "ps2"
+      ],
+      "genres": [
+        "JRPG",
+        "연금술 RPG",
+        "턴제 RPG"
+      ],
+      "score": 7.5,
+      "summary": "2005년 일본 PS2판의 자료 기반 편집 평가. 펠트와 비제의 두 세계를 넘나드는 모험·연금술, 행동 순서와 브레이크 공격을 활용하는 경쾌한 ACTB 전투, 아름다운 2D 배경과 풍부한 음악이 매력적이다. 재료 수집과 심부름형 퀘스트의 반복, 쉬운 전투, 전형적인 메인 서사 및 전작 대비 일부 간소화된 조합 요소를 고려해 7.5/10. 고전 JRPG, 가벼운 판타지, 연금술을 통한 아이템 제작을 좋아한다면 추천한다. 공개된 공식 소개 및 PS2판 리뷰에 근거한 평가로 직접 플레이한 점수는 아니며 한글패치 유무를 평점에 반영하지 않았다.",
+      "pros": [
+        "두 세계를 맡은 펠트의 탐험·전투와 비제의 조합을 오가면서 아이템·원소를 공유하는 듀얼 시나리오가 두 주인공에게 분명한 역할을 부여한다.",
+        "ACTB 전투에서 행동 순서에 따라 움직이고 브레이크 공격으로 적 행동을 늦춰 연속 공격을 만드는 전술이 빠르고 이해하기 쉽다.",
+        "지역별 인카운터 게이지로 무작위 전투 횟수가 제한되어 적을 모두 소진하면 던전을 더 편하게 탐색할 수 있다.",
+        "채색감 있는 2D 배경·캐릭터 연출과 개성 있는 인물의 유머, 상황에 맞춰 변하는 다채로운 음악이 고전 JRPG의 정취를 살린다."
+      ],
+      "cons": [
+        "재료 채집·제작·배달을 반복하는 심부름형 퀘스트가 많아 중반의 이야기 진행이 늘어질 수 있다.",
+        "강력한 합성 아이템과 브레이크 시스템을 활용하면 대부분의 전투·보스가 쉬워져 높은 전략적 난도를 기대한 사람에게 심심하다.",
+        "전작의 기발한 조합 품목이 다소 줄었다는 평이 있으며 판타지 메인 서사의 큰 줄기는 정형적이다.",
+        "일부 적 이미지의 재활용과 소박한 3D 시대 PS2 그래픽, 오래된 메뉴 편의성은 시대적 한계를 드러낸다."
+      ],
+      "sources": [
+        {
+          "label": "패미통 - 일본 PS2판 기본 정보·듀얼 시나리오·연금술·ACTB 시스템 소개",
+          "url": "https://www.famitsu.com/sp/eternalkingdom/g_game-i2.html"
+        },
+        {
+          "label": "GameSpot - Atelier Iris 2 PS2 리뷰 (Greg Mueller, 2006-04-24)",
+          "url": "https://www.gamespot.com/reviews/atelier-iris-2-the-azoth-of-destiny-review/1900-6148225/"
+        },
+        {
+          "label": "RPGamer - PS2 리뷰 (Derek Cavin, 2006-04-09)",
+          "url": "https://rpgamer.com/review/atelier-iris-2-the-azoth-of-destiny-review/"
+        },
+        {
+          "label": "RPGamer - PS2 리뷰 (Edwin Lee, 2006-04-25)",
+          "url": "https://rpgamer.com/review/atelier-iris-2-the-azoth-of-destiny-review-2/"
+        },
+        {
+          "label": "LaunchBox - PS2 일본판 Box - Front",
+          "url": "https://gamesdb.launchbox-app.com/games/images/9258-atelier-iris-2-the-azoth-of-destiny"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/7970",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 및 표지 기준은 2005-05-26 발매 PS2 일본판 『イリスのアトリエ エターナルマナ2』이며 북미판 명칭은 『Atelier Iris 2: The Azoth of Destiny』이다. 제공 주소에서 지원하는 디스크 지역·리비전, 대사·메뉴·영상 번역 범위, 미번역 부분과 적용 방법, 실기·에뮬레이터 작동 여부는 확인하지 않았다. 설치·실행 시험도 하지 않았다."
+      },
+      "reviewedAt": "2026-11-08",
+      "reviewer": "ChatGPT (자료 기반 편집 평가)",
+      "cover": {
+        "url": "https://images.launchbox-app.com/0c9d91a5-3b88-4a74-ae31-066a7f678b62.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/9258-atelier-iris-2-the-azoth-of-destiny",
+        "platform": "ps2",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
