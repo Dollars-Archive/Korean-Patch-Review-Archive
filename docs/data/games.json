@@ -40965,6 +40965,63 @@
       },
       "reviewedAt": "2026-11-08",
       "reviewer": "ChatGPT (자료 기반 편집 평가)"
+    },
+    {
+      "id": "kya-dark-lineage-ps2",
+      "title": "카야: 어둠의 혈통",
+      "original": "Kya: Dark Lineage",
+      "platforms": [
+        "ps2"
+      ],
+      "genres": [
+        "ACT",
+        "ADV",
+        "3D 플랫폼"
+      ],
+      "score": 7.5,
+      "summary": "바람길 활강과 고속 보드 이동, 입체적인 스테이지 탐험 및 적을 구출해 마을을 성장시키는 구조가 돋보이는 PS2 3D 액션 어드벤처. 다채로운 이동 액션과 환상적인 미술은 매력적이지만 카메라·공중 조작의 불편함, 반복적인 근접 전투와 재방문이 완성도를 깎아 7.5점. 레이맨 2 계열의 3D 플랫폼 모험을 좋아하는 사람에게 추천. 공개 리뷰 자료 기반 편집 평가이며 직접 플레이한 점수는 아님.",
+      "pros": [
+        "강풍을 타고 부유섬 사이를 활강하거나 보드로 고속 질주하는 이동 구간이 일반적인 점프·퍼즐 탐험에 선명한 변화를 준다.",
+        "울펜을 정화해 나티브를 돌려보낼수록 마을의 상점과 능력 해금이 늘어나는 구조가 전투·탐험에 목적을 부여한다.",
+        "넓은 시야의 환상적인 부유 세계와 강렬한 색채, 부드러운 캐릭터 애니메이션이 PS2 시기의 독특한 모험 감각을 살린다."
+      ],
+      "cons": [
+        "장애물이나 좁은 지형에서 카메라가 방해받고 바람길의 정밀한 조작이 어려워 낙하·충돌로 인한 시행착오가 생긴다.",
+        "전투 기술을 늘려도 기본적인 근접전 흐름이 반복되며 후반까지 충분한 변화를 주지 못한다.",
+        "능력 해금에 따른 옛 지역 재방문과 목표·통로의 불명확함이 진행을 끊고, 일부 음성 연기는 호불호가 갈린다."
+      ],
+      "sources": [
+        {
+          "label": "ESRB - KYA: Dark Lineage (PS2 공식 등급·기종)",
+          "url": "https://www.esrb.org/ratings/9511/kya-dark-lineage/"
+        },
+        {
+          "label": "GameSpot - Kya: Dark Lineage Review (2003)",
+          "url": "https://www.gamespot.com/reviews/kya-dark-lineage-review/1900-6085218/"
+        },
+        {
+          "label": "WorthPlaying - PS2 Review: Kya: Dark Lineage (2004)",
+          "url": "https://www.worthplaying.com/article/2004/2/2/reviews/14998-ps2-review-kya-dark-lineage/"
+        },
+        {
+          "label": "LaunchBox Games Database - PS2판 표지·기종 확인",
+          "url": "https://gamesdb.launchbox-app.com/games/details/7036-kya-dark-lineage"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/8095",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 패치 대상 지역·언어 적용 범위·미번역 요소·적용 방법과 PS2 실기/에뮬레이터 동작은 직접 확인하지 않음."
+      },
+      "reviewedAt": "2026-11-08",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/e2937a01-ab97-42e3-b71f-a2bae8b1cc29.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/details/7036-kya-dark-lineage",
+        "platform": "ps2",
+        "type": "Box - Front",
+        "region": "North America"
+      }
     }
   ]
 }
