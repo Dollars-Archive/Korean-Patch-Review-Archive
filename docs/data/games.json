@@ -40655,6 +40655,76 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "danganronpa-1-2-reload-psvita",
+      "title": "단간론파 1·2 리로드",
+      "original": "ダンガンロンパ1・2 Reload (Danganronpa 1-2 Reload)",
+      "platforms": [
+        "psvita"
+      ],
+      "genres": [
+        "추리 어드벤처",
+        "비주얼 노벨",
+        "미스터리",
+        "학급재판 액션"
+      ],
+      "score": 9.2,
+      "summary": "2013년 10월 10일 일본 발매 PS Vita 합본 『ダンガンロンパ1・2 Reload』(일반 패키지 VLJS-05027) 기준 자료 기반 편집 평가. 폐쇄된 학원과 섬에서 벌어지는 사건을 조사하고, 학급재판에서 증언의 모순을 논파하는 1·2편을 한 번에 즐길 수 있다. 개성이 강한 등장인물, 블랙유머와 연속되는 반전, 논스톱 논의를 중심으로 한 역동적인 추리, 인상적인 음악이 뛰어나다. PSP 원작 대비 선명해진 화면과 1편 추가 스쿨 모드가 Vita판의 가치를 높이고, 2편은 더 복잡한 사건과 개선된 이동 동선을 제공한다. 다만 텍스트 비중과 초반 준비 구간이 길고, 일부 글자 조합·리듬·반론 미니게임은 추리 흐름을 끊으며, 두 번째 작품의 Vita판 신규 콘텐츠는 적다. 두 작품의 완성도와 휴대기 이식 품질을 종합해 9.2/10. 역전재판·극한탈출 계열의 캐릭터 중심 미스터리를 좋아하는 이용자에게 강력 추천한다. 공개 자료를 종합한 편집 평가로 직접 플레이한 점수가 아니며 한글패치 존재 여부는 점수에 반영하지 않았다. 일본 PS Vita 합본을 평가했고 PSP 개별판 및 2017년 PS4판과 구분한다.",
+      "pros": [
+        "1편의 학원, 2편의 섬이라는 대조적인 폐쇄공간에서 개성적인 인물들 사이의 불신과 관계 변화가 이어지며, 사건마다 층층이 쌓이는 미스터리가 강력한 흡인력을 만든다.",
+        "조사에서 얻은 증거인 언탄으로 증언의 모순을 격파하는 논스톱 논의와 2편의 반론 쇼다운이 독해·추리에 속도감 있는 상호작용을 더한다.",
+        "두 본편이 한 패키지에 들어 있어 시리즈 순서대로 이어 즐기기 좋고, 1편에는 캐릭터 교류를 확장하는 스쿨 모드가 새로 들어갔다.",
+        "PSP판보다 선명해진 캐릭터·배경 표현, 개성적인 팝아트 구성, 강렬한 학급재판 음악과 호연이 어우러지며, 휴대형 PS Vita 화면과 조작에 잘 맞는다.",
+        "2편에서는 사건 구조와 추리 장치가 복잡해지고 이동 동선 및 일부 편의성이 개선돼 1편 뒤에도 새로운 시스템적 재미를 느낄 수 있다."
+      ],
+      "cons": [
+        "도입부와 사건 사이의 일상 파트는 대화와 설명 분량이 많고, 빠른 게임 전개를 선호하면 초반 템포가 느리게 느껴질 수 있다.",
+        "글자 조합·리듬 액션·재판 속 반론 조작 등 일부 미니게임은 정답을 추리해도 타이밍이나 입력 방식 때문에 답답해질 수 있다.",
+        "조사 진행이 정해진 증거·장소·사건 순서에 묶여 자유롭게 추리하거나 대체 해결책을 찾는 폭은 좁다.",
+        "개성이 과장된 인물 표현과 블랙코미디, 살인·처형 묘사 및 일부 팬서비스는 현실적이고 절제된 추리물을 선호하는 취향과 맞지 않을 수 있다.",
+        "2편의 PS Vita판은 고해상도화 외에 본편을 크게 확장한 신규 요소가 적고, 큰 반전 중심의 서사는 진실을 알고 재플레이하면 첫 회차의 놀라움이 감소한다."
+      ],
+      "sources": [
+        {
+          "label": "스파이크 춘소프트 공식 - PS Vita판 제품 정보·발매일·제작진",
+          "url": "https://www.danganronpa.com/pages/reload/spec/spec02.html"
+        },
+        {
+          "label": "전격 온라인 - 일본 PS Vita 패키지 공개 및 스쿨 모드·고해상도 이식 설명 (2013-07-25)",
+          "url": "https://dengekionline.com/elem/000/000/678/678931/"
+        },
+        {
+          "label": "Kotaku - Super Danganronpa 2 Reload PS Vita 플레이 리뷰 (2013-10-25), 추리·시스템·이식",
+          "url": "https://kotaku.com/super-danganronpa-2-reload-improves-on-the-original-in-1451973564"
+        },
+        {
+          "label": "Destructoid - Danganronpa 1.2 Reload PS4 합본 리뷰 (2017-04-24), 두 게임의 미스터리·재판 및 Vita판 조작과의 비교",
+          "url": "https://www.destructoid.com/reviews/review-danganronpa-1-2-reload/"
+        },
+        {
+          "label": "駿河屋 - 일본 PS Vita 2013년 일반 패키지 VLJS-05027 제품 정보",
+          "url": "https://www.suruga-ya.jp/product/detail/105000247"
+        },
+        {
+          "label": "Japanzon - 일본 PS Vita 일반 패키지 실물 앞표지 사진",
+          "url": "https://www.japanzon.com/en/game/1470-spike-chunsoft-danganrompa-1-and-2-reload-ps-vita-software--4940261510916.html"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/7969",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 기준은 일본 발매 PS Vita 『ダンガンロンパ1・2 Reload』 2013년 일반 패키지(VLJS-05027)이며, 2017년 PS Vita the Best판 및 PS4판과 구분한다. 해당 주소가 지원하는 PS Vita 게임 ID·일본판 리비전·업데이트, 1·2편의 대사·학급재판·메뉴·UI·이미지·영상 번역 범위, 미번역 요소 및 패치 적용 방법은 확인하지 않았다. 실기와 Vita3K에서의 직접 설치·적용·구동 시험은 수행하지 않았다."
+      },
+      "reviewedAt": "2026-11-08",
+      "reviewer": "ChatGPT (자료 기반 편집 평가)",
+      "cover": {
+        "url": "https://www.japanzon.com/4454-product_large/spike-chunsoft-danganrompa-1-and-2-reload-ps-vita-software-.jpg",
+        "source": "https://www.japanzon.com/en/game/1470-spike-chunsoft-danganrompa-1-and-2-reload-ps-vita-software--4940261510916.html",
+        "platform": "psvita",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
