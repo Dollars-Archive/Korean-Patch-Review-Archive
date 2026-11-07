@@ -41303,6 +41303,61 @@
       },
       "reviewedAt": "2026-11-08",
       "reviewer": "WebGPT (자료 기반 편집 평가)"
+    },
+    {
+      "id": "princess-maker-yumemiru-yousei-ps1",
+      "title": "프린세스 메이커: 꿈꾸는 요정",
+      "original": "プリンセスメーカー ゆめみる妖精",
+      "platforms": [
+        "ps1"
+      ],
+      "genres": [
+        "육성 시뮬레이션"
+      ],
+      "score": 7.8,
+      "summary": "1997년 일본 PS1판 육성 시뮬레이션. 딸의 수업과 일정을 정하고 교류하며 성장과 다양한 미래를 지켜보는 재미가 크다. 부드러운 그림과 음성도 매력적이지만 반복 육성과 목표 달성 조건은 호불호가 갈린다. 느긋하게 성장 과정을 지켜보고 여러 육성 방향을 시도하는 사람에게 추천하는 자료 기반 편집 평가다.",
+      "pros": [
+        "수업과 일을 선택하는 육성 방침에 따라 딸의 성격과 미래가 달라져 여러 방향을 시도할 수 있다.",
+        "나이에 따라 변하는 모습과 일상 대화, 성우 연기가 딸의 성장과 교류에 몰입감을 준다.",
+        "부드러운 캐릭터 그림과 마을 분위기가 동화 같은 육성 경험을 살린다."
+      ],
+      "cons": [
+        "원하는 결과를 위해 일정을 반복하고 능력치를 관리하는 과정이 단조롭게 느껴질 수 있다.",
+        "일부 목표의 조건은 까다롭고 파악하기 어렵다.",
+        "PS1판은 스틸 회상 기능이 없고 딸 한 명의 저장에 메모리 카드 3블록이 필요하다."
+      ],
+      "sources": [
+        {
+          "label": "패미통 · PS판 발매 정보",
+          "url": "https://www.famitsu.com/game/title/21505/reviews"
+        },
+        {
+          "label": "피코피코 대백과 · PS판 사용자 리뷰",
+          "url": "https://www.gavas.jp/products/detail.php?product_id=7064"
+        },
+        {
+          "label": "GameFAQs · PlayStation판 리뷰",
+          "url": "https://gamefaqs.gamespot.com/ps/573383-princess-maker-yumemiru-yousei/reviews/10953"
+        },
+        {
+          "label": "LaunchBox · 일본 PS판 앞표지",
+          "url": "https://gamesdb.launchbox-app.com/games/images/111983-princess-maker-yumemiru-yousei"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/8061",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 1997년 PS1 일본판이며 패치 지원 판본·리비전과 번역 범위 및 적용 방법은 미확인."
+      },
+      "cover": {
+        "url": "covers/princess-maker-yumemiru-yousei-ps1-ad3818d17948.webp",
+        "source": "https://gamesdb.launchbox-app.com/games/images/111983-princess-maker-yumemiru-yousei",
+        "platform": "ps1",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-11-08",
+      "reviewer": "Codex (자료 기반 편집 평가)"
     }
   ]
 }
