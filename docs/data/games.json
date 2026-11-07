@@ -40356,6 +40356,64 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "bakuretsu-hunter-saturn",
+      "title": "폭렬헌터",
+      "original": "爆れつハンター (Bakuretsu Hunter)",
+      "platforms": [
+        "saturn"
+      ],
+      "genres": [
+        "ADV",
+        "무비 어드벤처",
+        "캐릭터 게임"
+      ],
+      "score": 4.8,
+      "summary": "1996년 세가 새턴 일본판(T-22402G). TV 애니메이션의 주요 에피소드를 풀보이스와 영상으로 재구성해 원작 팬서비스는 충실하지만, 의미 있는 분기가 거의 없는 짧은 진행과 반복적인 슬롯 전투·고난도 미니게임이 게임 자체의 재미를 제한해 4.8점. 1990년대 성우진과 폭렬헌터 캐릭터 연출에 애정이 큰 팬에게 한정 추천한다. 공개 자료 기반 편집 평가이며 직접 플레이한 점수는 아님.",
+      "pros": [
+        "TV 애니메이션의 주요 성우진이 참여한 풀보이스 대화로 캐릭터의 개성과 1990년대 애니메이션 분위기를 살린다.",
+        "애니메이션 컷과 원작 팬이 관심 가질 변신 장면·일부 오리지널 연출을 감상할 수 있다.",
+        "동봉 특전 디스크에 성우 인터뷰·좌담회와 설정화 등을 수록해 팬 소장 가치를 더한다."
+      ],
+      "cons": [
+        "TV 애니메이션 에피소드 재구성에 크게 의존해 독창적인 시나리오나 의미 있는 선택·분기가 부족하다.",
+        "전투가 슬롯의 눈맞추기에 치우치고 운과 반복에 좌우되어 전투의 전략성·리듬이 약하다.",
+        "반응 시간이 짧은 깃발 미니게임과 패배 후 재시도 부담이 흐름을 끊으며 전체 분량도 짧은 편이다.",
+        "보이스를 켜면 대화 스킵이 막히는 등 지금 기준으로 불편한 사용자 경험이 있다."
+      ],
+      "sources": [
+        {
+          "label": "GameFAQs - 세가 새턴 일본판 출시·기본 정보",
+          "url": "https://gamefaqs.gamespot.com/saturn/577647-bakuretsu-hunter/data"
+        },
+        {
+          "label": "SSSG攻略日記 - 세가 새턴판 진행·시스템·음성 리뷰",
+          "url": "https://sesesega.hatenablog.jp/entry/bakuretsuhunter"
+        },
+        {
+          "label": "ゲームレビュー：爆れつハンター - 서사·연출·전투·특전 비평",
+          "url": "https://scrap-cliff.sakuraweb.com/game/game_189.html"
+        },
+        {
+          "label": "LaunchBox Games Database - 일본 세가 새턴 박스 앞표지",
+          "url": "https://gamesdb.launchbox-app.com/games/images/31298-bakuretsu-hunter"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/8121",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 1996-04-26 발매된 일본 세가 새턴판 『爆れつハンター』(T-22402G)이며 1997년 『爆れつハンターR』과 별개다. 제공 링크의 지원 디스크 리비전·번역 범위·미번역 구간·적용 방식·실기 및 에뮬레이터 호환 여부는 확인하지 않았으며 패치를 설치하거나 실행하지 않았다."
+      },
+      "reviewedAt": "2026-11-08",
+      "reviewer": "ChatGPT (자료 기반 편집 평가)",
+      "cover": {
+        "url": "https://images.launchbox-app.com/cea92889-c11e-4359-b9ab-909d98ebd24a.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/31298-bakuretsu-hunter",
+        "platform": "saturn",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
