@@ -40725,6 +40725,64 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "ojousama-express-ps1",
+      "title": "아가씨 특급",
+      "original": "お嬢様特急",
+      "platforms": [
+        "ps1"
+      ],
+      "genres": [
+        "연애 ADV"
+      ],
+      "score": 7.4,
+      "summary": "일본을 종단하는 15일간의 열차 여행에서 승객마다 타고 내리는 역이 달라, 누구와 언제 시간을 보내느냐가 만남의 여운을 만든다. 움직이는 차창 풍경과 기착지 관광이 여행 분위기를 살리지만, 원하는 인물을 만나기까지의 시행착오와 회차마다 반복되는 초반 일정은 흐름을 늦춘다. 느긋한 여행과 인물별 이야기를 즐기는 사람에게 추천하는 자료 기반 편집 평가다.",
+      "pros": [
+        "열차 안을 돌아다니거나 정차한 도시를 관광하면서 사람을 만난다. 인물마다 하차 시점이 달라 남은 여행 일정이 관계의 전개에 영향을 준다.",
+        "차창 너머로 움직이는 풍경과 기착지마다 바뀌는 배경이 열차로 일본을 여행하는 기분을 살린다.",
+        "성우가 연기하는 개성 있는 인물과 각자의 여행 사연 덕분에 누구와 동행하느냐에 따라 같은 여정도 다르게 느껴진다."
+      ],
+      "cons": [
+        "이벤트 발생에 우연이 개입해 원하는 인물을 만나지 못한 채 그 인물이 하차할 수 있다.",
+        "다른 인물의 이야기를 보려면 초반 일정과 일부 만남을 다시 거쳐야 한다. 목표 인물이 일찍 하차하는 회차는 남은 일정이 길게 느껴질 수 있다."
+      ],
+      "sources": [
+        {
+          "label": "패미통 · PS판 출시일·제작사·장르",
+          "url": "https://www.famitsu.com/game/title/18175/page/1"
+        },
+        {
+          "label": "스루가야 · PS 일본판 제품 정보",
+          "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/140001421"
+        },
+        {
+          "label": "피코피코 대백과 · PS1판 플레이 후기",
+          "url": "https://www.gavas.jp/products/detail.php?product_id=9550"
+        },
+        {
+          "label": "ADVGAMER · 만남 시스템과 차창 연출 평가",
+          "url": "https://advgamer.com/ojousama-ewpress/"
+        },
+        {
+          "label": "つーこのギャルゲー講座 · 기착지 관광과 여행 분위기 후기",
+          "url": "https://ameblo.jp/tututututuuco/entry-11218778903.html"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/8037",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 게임 평가 대상은 1998년 7월 30일 발매된 일본 PS1판(SLPS-01495~01496)."
+      },
+      "cover": {
+        "url": "covers/ojousama-express-ps1-7791759d8661.webp",
+        "source": "https://gamesdb.launchbox-app.com/games/images/136087-ojousama-express",
+        "platform": "ps1",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-11-08",
+      "reviewer": "Codex (자료 기반 편집 평가)"
     }
   ]
 }
