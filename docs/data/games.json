@@ -41358,6 +41358,62 @@
       },
       "reviewedAt": "2026-11-08",
       "reviewer": "Codex (자료 기반 편집 평가)"
+    },
+    {
+      "id": "doki-doki-vacation-pc98",
+      "title": "두근두근 베케이션",
+      "original": "DOKIDOKIバケーション ～きらめく季節の中で～",
+      "platforms": [
+        "pc98"
+      ],
+      "genres": [
+        "ADV",
+        "연애 어드벤처"
+      ],
+      "score": 8,
+      "summary": "여름방학과 아르바이트에서 출발하는 밝은 로맨틱 코미디 ADV. 개성 있는 등장인물, 선명한 PC-98 캐릭터 CG, 경쾌한 BGM과 여름 특유의 감성은 매력적이지만, '보기·대화·생각하기' 명령을 반복해야 하는 낡은 진행 방식과 큰 분기가 적은 구성은 아쉽다. 캐릭터 중심의 복고 연애 ADV를 즐기는 사람에게 추천하는 8.0점 작품. 공개 자료 기반 편집 평가이며 직접 플레이한 점수는 아님.",
+      "pros": [
+        "책방 아르바이트와 여름 여행을 중심으로 다양한 인물의 성격과 관계를 가볍고 유쾌하게 보여주는 로맨틱 코미디",
+        "화사하고 섬세한 PC-98 시대 캐릭터 CG와 여름 분위기를 살리는 경쾌한 BGM",
+        "큰 갈래를 복잡하게 나누기보다 인물별 만남과 에피소드를 빠르게 이어가며 읽는 재미를 유지"
+      ],
+      "cons": [
+        "화면마다 '보기·대화·생각하기' 등 명령을 여러 번 선택해야 진행되어 반복 조작이 번거로움",
+        "거의 일직선인 전개와 제한적인 선택의 영향으로 능동적인 공략·분기 재미는 적음",
+        "일부 이벤트 CG는 특정 선택을 놓치면 지나칠 수 있어 세이브·로드가 필요"
+      ],
+      "sources": [
+        {
+          "label": "F&C 공식 제품 정보 (PC-98 판본·출시일·장르)",
+          "url": "https://fandc.co.jp/catalog/pc/451"
+        },
+        {
+          "label": "PC-98 플레이 감상 (2001년 재플레이 평가)",
+          "url": "https://lightnovel.jp/blog/archives/2001/0512.html"
+        },
+        {
+          "label": "PC-98 공략 및 감상 (2019년)",
+          "url": "https://lastcharles.com/pc-18/walkthrough/pc-18/doki-doki-vacation-kirameku-kisetsu-no-naka-de-dokidoki"
+        },
+        {
+          "label": "LaunchBox NEC PC-9801 일본판 박스 앞표지",
+          "url": "https://gamesdb.launchbox-app.com/games/details/137125-doki-doki-vacation"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/8070",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증."
+      },
+      "reviewedAt": "2026-11-08",
+      "reviewer": "WebGPT (자료 기반 편집 평가)",
+      "cover": {
+        "url": "https://images.launchbox-app.com//672f88ae-9f72-4579-906a-152f84af81f0.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/details/137125-doki-doki-vacation",
+        "platform": "pc98",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
