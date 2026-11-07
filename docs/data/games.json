@@ -41189,6 +41189,62 @@
       },
       "reviewedAt": "2026-11-08",
       "reviewer": "Codex (자료 기반 편집 평가)"
+    },
+    {
+      "id": "pu-li-ru-la-ps1",
+      "title": "프리루라",
+      "original": "プリルラ (Pu-Li-Ru-La: Arcade Gears)",
+      "platforms": [
+        "ps1"
+      ],
+      "genres": [
+        "액션",
+        "벨트스크롤 액션"
+      ],
+      "score": 7.5,
+      "summary": "타이토의 1991년 아케이드 작품을 일본 PS1의 아케이드 기어즈 시리즈로 이식한 초현실적 벨트스크롤 액션. 환상적이고 기괴한 미술과 독특한 마법 연출, 2인 협동이 인상적이지만 공격 수단과 전개가 단순하고 분량이 매우 짧아 7.5점. 전투의 깊이보다 별난 시각적 체험을 즐기는 레트로 액션 팬에게 추천. 공개 자료 기반 편집 평가이며 직접 플레이한 점수는 아님.",
+      "pros": [
+        "동화적인 배경과 기괴한 적·보스 디자인이 끊임없이 바뀌어 다른 벨트스크롤 게임과 확연히 구별되는 시각적 개성을 보여준다.",
+        "큼직하고 익살스러운 2D 캐릭터 애니메이션과 예측하기 어려운 마법 공격 연출이 짧은 여정의 구경하는 재미를 높인다.",
+        "공격·점프·마법으로 단순하게 조작하며 2인 동시 협동을 지원해 복잡한 학습 없이 즐길 수 있다."
+      ],
+      "cons": [
+        "잡기·무기 습득·연계기 등 전투의 확장 요소가 적고 일반 적도 쉽게 쓰러져 액션 자체의 깊이가 얕다.",
+        "전체 진행이 매우 짧고 분기나 성장·해금 같은 반복 플레이 동기가 부족해 일회성 체험에 가까워지기 쉽다.",
+        "일부 실사 합성 표현은 거칠고, 음악과 타격음의 존재감도 독특한 미술에 비해 상대적으로 약하다."
+      ],
+      "sources": [
+        {
+          "label": "PSX Data Center - PS1 일본판 Arcade Gears 기본 정보 및 조작",
+          "url": "https://psxdatacenter.com/games/SLPS-00928.html"
+        },
+        {
+          "label": "GameFAQs - Pu-Li-Ru-La 이용자 리뷰 (xenodolf, 2010)",
+          "url": "https://gamefaqs.gamespot.com/saturn/580918-pu-li-ru-la/reviews/140968"
+        },
+        {
+          "label": "GameFAQs - Pu-Li-Ru-La 이용자 리뷰 (Dove_cut, 2009)",
+          "url": "https://gamefaqs.gamespot.com/saturn/580918-pu-li-ru-la/reviews/136238"
+        },
+        {
+          "label": "LaunchBox - PS1 일본판 표지 및 발매 정보",
+          "url": "https://gamesdb.launchbox-app.com/games/images/111991-pu-li-ru-la-arcade-gears"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/8088",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. PS1 일본판 아케이드 기어즈(SLPS-00928) 적용 대상 여부, 번역 범위, 미번역 및 적용 주의사항 미확인. 설치·실기·에뮬레이터 적용 검증하지 않음."
+      },
+      "reviewedAt": "2026-11-08",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com/14d8e1de-354f-4541-ab7f-7e79bbdb25d6.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/111991-pu-li-ru-la-arcade-gears",
+        "platform": "ps1",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
