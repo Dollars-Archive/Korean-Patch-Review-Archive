@@ -41077,6 +41077,62 @@
       },
       "reviewedAt": "2026-11-08",
       "reviewer": "Codex (자료 기반 편집 평가)"
+    },
+    {
+      "id": "kindan-no-ketsuzoku-pc98",
+      "title": "금단의 혈족",
+      "original": "禁断の血族",
+      "platforms": [
+        "pc98"
+      ],
+      "genres": [
+        "ADV",
+        "비주얼 노벨"
+      ],
+      "score": 6.4,
+      "summary": "1993년 C's Ware가 PC-98용으로 발표한 성인용 저택 어드벤처. 음울한 저택과 비밀스러운 가족관계, 야사마타시야미의 캐릭터 원화는 고유한 매력이지만 선택지의 실질적 분기, 인물 동기 및 결말의 설득력이 부족해 6.4점. 1990년대 성인용 PC ADV의 역사와 독특한 저택물에 관심 있는 사람에게 추천. 공개 자료에 근거한 편집 평가이며 직접 플레이한 점수는 아님.",
+      "pros": [
+        "다섯 자매와 저택 사람들의 비밀스러운 관계를 음울한 공간 분위기와 묶어 당시 저택물로서 독특한 긴장감을 만든다.",
+        "야사마타시야미가 그린 캐릭터와 일러스트가 작품의 개성을 살리고 1990년대 PC-98 미소녀 게임 특유의 미감을 보여준다.",
+        "장소 이동과 상황별 대화·조사 명령으로 진행하는 구조가 복잡한 조작 없이 인물들의 관계를 따라가도록 돕는다."
+      ],
+      "cons": [
+        "선택지와 장소 방문이 있어도 전개를 실질적으로 바꾸는 분기는 적어 어드벤처 게임으로서의 선택 재미가 제한적이다.",
+        "인물들이 주인공에게 보이는 행동의 동기와 핵심 설정의 개연성이 약하고, 후반 마무리가 서두르는 인상을 준다.",
+        "정적인 장면과 제한된 상호작용 위주의 1993년식 진행은 오늘날 서사 중심 ADV를 기대하면 단조롭게 느껴질 수 있다."
+      ],
+      "sources": [
+        {
+          "label": "PC-98x1 게임 도서관 - 금단의 혈족 작품 리뷰(2007)",
+          "url": "https://pc98library.tistory.com/187"
+        },
+        {
+          "label": "MobyGames - Fatal Relations (PC-98판 개요 및 시스템)",
+          "url": "https://www.mobygames.com/game/6576/fatal-relations/"
+        },
+        {
+          "label": "ADVGAMER - GLO・RI・A 평가에서 회고한 원작의 특성",
+          "url": "https://advgamer.com/gloria-kindan-no-ketsuzoku/"
+        },
+        {
+          "label": "Game Preservation Society - 1993년 PC-9801VX FD판 기본 정보",
+          "url": "https://www.gamepres.org/en/catalog/?cat=1&id=8811007668009&nav=brand"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/8098",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. PC-98 FD판과 PC-9821 CD판 중 적용 대상, 번역 범위, 미번역 및 설치 주의사항 미확인. 설치·실기·에뮬레이터 적용 검증하지 않음."
+      },
+      "reviewedAt": "2026-11-08",
+      "reviewer": "WebGPT",
+      "cover": {
+        "url": "https://images.launchbox-app.com//57c0c2dc-b9ab-4233-8f16-d9c8ce206e04.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/details/392277-fatal-relations",
+        "platform": "pc98",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
