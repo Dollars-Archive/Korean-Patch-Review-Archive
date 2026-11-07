@@ -40594,6 +40594,67 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "hexamoon-guardians-ps1",
+      "title": "헥사문 가디언즈",
+      "original": "ヘキサムーン・ガーディアンズ",
+      "platforms": [
+        "ps1"
+      ],
+      "genres": [
+        "ADV",
+        "턴제 전략 SLG",
+        "로봇 애니메이션"
+      ],
+      "score": 5.5,
+      "summary": "2000년 PS1 일본판의 학원 코미디·열혈 로봇물 ADV와 턴제 SLG 결합작. 풀보이스·풍부한 캐릭터 애니메이션·거대 로봇 연출은 매력적이지만, 선택지 없는 일직선 서사와 반복적이고 얕은 전투, 드문 세이브 시점이 아쉬워 5.5점. 90년대 슈퍼로봇 애니메이션 감성 및 성우·연출 감상을 즐기는 사람에게 제한적으로 추천한다. 공개 자료 기반 편집 평가이며 직접 플레이한 점수는 아니다.",
+      "pros": [
+        "전편 풀보이스, 표정별로 움직이는 캐릭터와 다량의 이벤트·전투 애니메이션 등 PS1 어드벤처로서는 시청각 연출에 공들였다.",
+        "스즈키 노리타카의 캐릭터 디자인과 개성 있는 인물들, 스즈무라 켄이치·이노우에 키쿠코 등 성우진이 1990년대 학원 로봇 애니메이션 분위기를 살린다.",
+        "거대 로봇의 기술과 합체를 중심으로 한 정통 열혈물 전개가 해당 장르 팬에게 분명한 볼거리를 제공한다."
+      ],
+      "cons": [
+        "이야기에 실질적인 선택지와 분기가 없어 학원 일상 파트가 길게 이어질 때 상호작용과 재플레이 가치가 부족하다.",
+        "로봇 전투는 유닛 성장·개조 등 전략적 선택이 거의 없고 아군이 강해지는 후반에는 반복 작업에 가까워진다.",
+        "긴 대화 중 자유 세이브가 어렵고 정해진 구간에서만 저장할 수 있어 PS1판 진행 편의성이 떨어진다."
+      ],
+      "sources": [
+        {
+          "label": "패미통 - PS1판 발매·기본 정보",
+          "url": "https://www.famitsu.com/game/title/4493/reviews"
+        },
+        {
+          "label": "게임 카탈로그@Wiki - PS1판 시스템·장단점 분석",
+          "url": "https://w.atwiki.jp/gcmatome/pages/7394.html"
+        },
+        {
+          "label": "피코피코 대백과 - PS1판 이용자 리뷰",
+          "url": "https://www.gavas.jp/products/detail.php?product_id=8503"
+        },
+        {
+          "label": "로봇 게임 리뷰 - 플레이 소감",
+          "url": "https://ookami101.exblog.jp/23486589/"
+        },
+        {
+          "label": "LaunchBox Games Database - PS1 일본판 앞표지",
+          "url": "https://gamesdb.launchbox-app.com/games/images/109346-hexamoon-guardians"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/8013",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 2000-03-30 일본 출시 PS1판 『ヘキサムーン・ガーディアンズ』(SLPS-02641~2, 2디스크)다. 번역 범위·미번역 구간, 적용 대상 리비전, 실기·에뮬레이터 호환 여부는 별도로 확인하지 않았다. 패치 설치 및 실행 검증도 하지 않았다."
+      },
+      "reviewedAt": "2026-11-08",
+      "reviewer": "ChatGPT (자료 기반 편집 평가)",
+      "cover": {
+        "url": "https://images.launchbox-app.com/d59ddc85-8daa-4c01-a6bc-fcf81fc2fe0b.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/images/109346-hexamoon-guardians",
+        "platform": "ps1",
+        "type": "Box - Front",
+        "region": "Japan"
+      }
     }
   ]
 }
