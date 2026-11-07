@@ -40846,6 +40846,57 @@
         "type": "Box - Front",
         "region": "Japan"
       }
+    },
+    {
+      "id": "ballade-for-maria-pc98",
+      "title": "마리아를 위한 발라드",
+      "original": "マリアに捧げるバラード",
+      "platforms": [
+        "pc98"
+      ],
+      "genres": [
+        "서스펜스 ADV",
+        "호러",
+        "성인"
+      ],
+      "score": null,
+      "summary": "1995년 PC-98용 성인 서스펜스 어드벤처. 탐정의 시점에서 연쇄 살인 사건을 따라가며 명령 선택과 대화를 통해 이야기를 진행한다. 중반의 긴장감을 호평한 후기가 있지만, 초반 대화를 반복하며 진행 조건을 찾는 불편함도 지적됐다. 독립적인 평가 자료가 충분하지 않아 점수는 미평가로 둔다. 공개 자료 기반 정리다.",
+      "pros": [
+        "연쇄 살인 사건을 따라가는 서스펜스 전개와 중반의 긴장감이 장점으로 언급된다.",
+        "인물과의 대화와 명령 선택을 통해 사건의 실마리를 따라가는 구성이다."
+      ],
+      "cons": [
+        "초반에 여러 인물과 반복해서 대화하며 진행 조건을 찾아야 해 흐름이 더디게 느껴질 수 있다.",
+        "이야기가 대체로 일직선으로 진행되고 본격적인 수수께끼 풀이가 적어 추리의 개입을 기대하면 아쉬울 수 있다."
+      ],
+      "sources": [
+        {
+          "label": "F&C 공식 제품 소개 · PC-98 대응·발매일·연령 등급",
+          "url": "https://fandc.co.jp/catalog/pc/435"
+        },
+        {
+          "label": "うしとら · 작품 소개와 플레이 감상",
+          "url": "https://usitora.sakura.ne.jp/etc/b_f_m.htm"
+        },
+        {
+          "label": "LaunchBox · PC-98 일본판 앞표지",
+          "url": "https://gamesdb.launchbox-app.com/games/images/137062-ballade-for-maria"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/8101",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. 평가 대상은 일본 PC-98판이며 패치 지원 디스크 형식·리비전과 번역 범위 및 적용 방법은 미확인."
+      },
+      "cover": {
+        "url": "covers/ballade-for-maria-pc98-f000f0ef89e0.webp",
+        "source": "https://gamesdb.launchbox-app.com/games/images/137062-ballade-for-maria",
+        "platform": "pc98",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-11-08",
+      "reviewer": "Codex (자료 기반 편집 평가)"
     }
   ]
 }
