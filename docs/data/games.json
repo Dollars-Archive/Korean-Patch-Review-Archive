@@ -41537,6 +41537,58 @@
       },
       "reviewedAt": "2026-11-08",
       "reviewer": "ChatGPT (공개 자료 기반 편집 평가)"
+    },
+    {
+      "id": "sega-ages-2500-vol-18-dragon-force-ps2",
+      "title": "드래곤 포스",
+      "original": "SEGA AGES 2500 シリーズ Vol.18 ドラゴンフォース",
+      "platforms": [
+        "ps2"
+      ],
+      "genres": [
+        "SRPG",
+        "SLG"
+      ],
+      "score": 8.7,
+      "summary": "8개 군주 시나리오와 대규모 부대전, 영토 확장의 중독성이 뛰어난 전략 RPG. PS2판은 음성·시나리오·이벤트 그림을 보강했지만 반복되는 전투와 구식 편의성은 아쉽다. 고전 전략 RPG와 세력 운영을 좋아한다면 추천한다. 공개 자료 기반 편집 평가이며 직접 플레이 평가는 아니다.",
+      "pros": [
+        "최대 100명 규모 부대끼리 맞붙는 전투와 병종 상성·진형의 조합이 독특하다.",
+        "서로 다른 8개 군주의 시나리오와 170명 이상의 등장인물로 재플레이 가치가 높다.",
+        "PS2판은 음성 연기와 이벤트 일러스트를 보강하고 시나리오 텍스트 분량을 확장했다."
+      ],
+      "cons": [
+        "영토 정복과 전투가 반복되는 후반부에는 전개가 늘어지기 쉽다.",
+        "전술 명령 및 편의 기능이 오늘날 전략 게임에 비해 제한적이다.",
+        "원작의 기본 구조를 유지한 리메이크라 새 시스템을 기대하면 변화가 적다."
+      ],
+      "sources": [
+        {
+          "label": "SEGA AGES 2500 드래곤 포스 공식 홈페이지",
+          "url": "https://ages.sega.jp/df/vol18/home.html"
+        },
+        {
+          "label": "LaunchBox PS2 판본 소개 및 일본판 박스 표지",
+          "url": "https://gamesdb.launchbox-app.com/games/details/75754-sega-ages-2500-series-vol-18-dragon-force"
+        },
+        {
+          "label": "Joko PS2판 사용자 리뷰",
+          "url": "https://www.joko.jp/ps2/review/ti1624.html"
+        }
+      ],
+      "patch": {
+        "status": "unconfirmed",
+        "url": "https://redb.me/kr/8204",
+        "notes": "사용자 제공 한글패치 주소 · AI 미접속 · 해당 링크의 배포 상태/버전 미검증. PS2판 적용 범위·설치·실기 동작 미검증."
+      },
+      "cover": {
+        "url": "https://images.launchbox-app.com//43b231eb-c376-4a41-8f1a-6ed1dd2a9a2a.jpg",
+        "source": "https://gamesdb.launchbox-app.com/games/details/75754-sega-ages-2500-series-vol-18-dragon-force",
+        "platform": "ps2",
+        "type": "Box - Front",
+        "region": "Japan"
+      },
+      "reviewedAt": "2026-11-08",
+      "reviewer": "ChatGPT (공개 자료 기반 편집 평가)"
     }
   ]
 }
